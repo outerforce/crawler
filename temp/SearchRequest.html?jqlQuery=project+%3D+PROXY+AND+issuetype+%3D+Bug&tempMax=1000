@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+PROXY+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+PROXY+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/PROXY" title="Browse Commons Proxy project">Commons Proxy</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>5</b> of <b>5</b>
+            as at: <b>05/Mar/17 16:56</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12634226" rel="12634226" data-issuekey="PROXY-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PROXY-19" href="https://issues.apache.org/jira/browse/PROXY-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PROXY-19" href="https://issues.apache.org/jira/browse/PROXY-19">PROXY-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PROXY-19" href="https://issues.apache.org/jira/browse/PROXY-19">Website: missing &quot;Download&quot; link</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Feb/13 19:32"><time datetime="2013-02-26T19:32:42+0000">26/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 16:13"><time datetime="2014-04-07T16:13:01+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12526946" rel="12526946" data-issuekey="PROXY-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PROXY-16" href="https://issues.apache.org/jira/browse/PROXY-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PROXY-16" href="https://issues.apache.org/jira/browse/PROXY-16">PROXY-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PROXY-16" href="https://issues.apache.org/jira/browse/PROXY-16">(PROXY-15) mod_proxy in Apache HTTP 2.2 FIN_WAIT2 in server side, it leaves as CLOSE_WAIT for a long time in mod_proxy side.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="whatcher" id="reporter_whatcher" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=whatcher">Wendell L. Hatcher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="12/Oct/11 22:41"><time datetime="2011-10-12T22:41:13+0000">12/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 16:13"><time datetime="2014-04-07T16:13:23+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12523102" rel="12523102" data-issuekey="PROXY-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PROXY-15" href="https://issues.apache.org/jira/browse/PROXY-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PROXY-15" href="https://issues.apache.org/jira/browse/PROXY-15">PROXY-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PROXY-15" href="https://issues.apache.org/jira/browse/PROXY-15">mod_proxy in Apache HTTP 2.2  FIN_WAIT2 in server side, it leaves as CLOSE_WAIT for a long time in mod_proxy side.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="whatcher" id="reporter_whatcher" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=whatcher">Wendell L. Hatcher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="14/Sep/11 20:46"><time datetime="2011-09-14T20:46:36+0000">14/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 16:14"><time datetime="2014-04-07T16:14:40+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12379810" rel="12379810" data-issuekey="PROXY-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PROXY-3" href="https://issues.apache.org/jira/browse/PROXY-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PROXY-3" href="https://issues.apache.org/jira/browse/PROXY-3">PROXY-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PROXY-3" href="https://issues.apache.org/jira/browse/PROXY-3">RMI Test Case Failures on Linux</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jwcarman" id="assignee_jwcarman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jwcarman">James Carman</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jwcarman" id="reporter_jwcarman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jwcarman">James Carman</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Oct/07 17:11"><time datetime="2007-10-06T17:11:40+0000">06/Oct/07</time></span> </td>
+                                            <td class="updated"> <span title="15/Oct/07 19:03"><time datetime="2007-10-15T19:03:22+0000">15/Oct/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12345629" rel="12345629" data-issuekey="PROXY-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PROXY-1" href="https://issues.apache.org/jira/browse/PROXY-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PROXY-1" href="https://issues.apache.org/jira/browse/PROXY-1">PROXY-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PROXY-1" href="https://issues.apache.org/jira/browse/PROXY-1">Trunk fails to build under JDK 1.6</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bayard" id="assignee_bayard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bayard">Henri Yandell</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bayard" id="reporter_bayard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bayard">Henri Yandell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="09/Jul/06 00:38"><time datetime="2006-07-09T00:38:23+0000">09/Jul/06</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/07 12:12"><time datetime="2007-10-13T12:12:05+0000">13/Oct/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,1537 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MANT+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MANT+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MANT" title="Browse Maven Ant Plugin project">Maven Ant Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>40</b> of <b>40</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12977100" rel="12977100" data-issuekey="MANT-87" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-87" href="https://issues.apache.org/jira/browse/MANT-87"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-87" href="https://issues.apache.org/jira/browse/MANT-87">MANT-87</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-87" href="https://issues.apache.org/jira/browse/MANT-87">Getting Forked Java VM exited abnormally</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ishantanu" id="reporter_ishantanu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ishantanu">Shantanu Inamdar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="09/Jun/16 05:35"><time datetime="2016-06-09T05:35:51+0000">09/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="09/Jun/16 06:18"><time datetime="2016-06-09T06:18:08+0000">09/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797785" rel="12797785" data-issuekey="MANT-74" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-74" href="https://issues.apache.org/jira/browse/MANT-74"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-74" href="https://issues.apache.org/jira/browse/MANT-74">MANT-74</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-74" href="https://issues.apache.org/jira/browse/MANT-74">ClassCastException running ant:ant on activemq project</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="trejkaz" id="reporter_trejkaz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=trejkaz">Trejkaz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="09/Jun/14 20:17"><time datetime="2014-06-09T20:17:45+0000">09/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Sep/14 22:17"><time datetime="2014-09-15T22:17:41+0000">15/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797796" rel="12797796" data-issuekey="MANT-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-73" href="https://issues.apache.org/jira/browse/MANT-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-73" href="https://issues.apache.org/jira/browse/MANT-73">MANT-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-73" href="https://issues.apache.org/jira/browse/MANT-73">Wrong repositories in generated get-deps task and speed improvement</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="escalope" id="reporter_escalope" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=escalope">Jorge Gomez</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Aug/12 12:03"><time datetime="2012-08-27T12:03:05+0000">27/Aug/12</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:43"><time datetime="2015-04-05T14:43:54+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797781" rel="12797781" data-issuekey="MANT-72" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-72" href="https://issues.apache.org/jira/browse/MANT-72"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-72" href="https://issues.apache.org/jira/browse/MANT-72">MANT-72</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-72" href="https://issues.apache.org/jira/browse/MANT-72">EAR not application.xml generation not integrated with maven.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="luca.preziati" id="reporter_luca.preziati" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=luca.preziati">luca preziati</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="17/Jul/12 05:18"><time datetime="2012-07-17T05:18:44+0000">17/Jul/12</time></span> </td>
+                                            <td class="updated"> <span title="02/Aug/14 08:53"><time datetime="2014-08-02T08:53:36+0000">02/Aug/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797775" rel="12797775" data-issuekey="MANT-71" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-71" href="https://issues.apache.org/jira/browse/MANT-71"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-71" href="https://issues.apache.org/jira/browse/MANT-71">MANT-71</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-71" href="https://issues.apache.org/jira/browse/MANT-71">Plugin not work with offline repository</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="luca.preziati" id="reporter_luca.preziati" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=luca.preziati">luca preziati</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Auto Closed
+</td>
+                                            <td class="created"> <span title="17/Jul/12 05:11"><time datetime="2012-07-17T05:11:48+0000">17/Jul/12</time></span> </td>
+                                            <td class="updated"> <span title="06/Sep/15 20:44"><time datetime="2015-09-06T20:44:53+0000">06/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797778" rel="12797778" data-issuekey="MANT-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-68" href="https://issues.apache.org/jira/browse/MANT-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-68" href="https://issues.apache.org/jira/browse/MANT-68">MANT-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-68" href="https://issues.apache.org/jira/browse/MANT-68">Can not interleave ant tasks and non ant tasks</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="daveb" id="reporter_daveb" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=daveb">daveb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Auto Closed
+</td>
+                                            <td class="created"> <span title="04/May/12 03:56"><time datetime="2012-05-04T03:56:04+0000">04/May/12</time></span> </td>
+                                            <td class="updated"> <span title="06/Sep/15 20:43"><time datetime="2015-09-06T20:43:57+0000">06/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797779" rel="12797779" data-issuekey="MANT-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-67" href="https://issues.apache.org/jira/browse/MANT-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-67" href="https://issues.apache.org/jira/browse/MANT-67">MANT-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-67" href="https://issues.apache.org/jira/browse/MANT-67">The build script fails to generate plexus/components.xml file.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kasun" id="reporter_kasun" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kasun">Kasun Herath</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="17/Jul/11 04:10"><time datetime="2011-07-17T04:10:01+0000">17/Jul/11</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:48"><time datetime="2014-11-25T14:48:45+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797787" rel="12797787" data-issuekey="MANT-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-66" href="https://issues.apache.org/jira/browse/MANT-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-66" href="https://issues.apache.org/jira/browse/MANT-66">MANT-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-66" href="https://issues.apache.org/jira/browse/MANT-66">Ambiguous date in generated header comment</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/May/11 03:03"><time datetime="2011-05-27T03:03:02+0000">27/May/11</time></span> </td>
+                                            <td class="updated"> <span title="30/Apr/15 00:05"><time datetime="2015-04-30T00:05:55+0000">30/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797770" rel="12797770" data-issuekey="MANT-65" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-65" href="https://issues.apache.org/jira/browse/MANT-65"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-65" href="https://issues.apache.org/jira/browse/MANT-65">MANT-65</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-65" href="https://issues.apache.org/jira/browse/MANT-65">Invalid check for junit</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/May/11 09:30"><time datetime="2011-05-26T09:30:24+0000">26/May/11</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:54"><time datetime="2015-04-07T18:54:13+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797761" rel="12797761" data-issuekey="MANT-64" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-64" href="https://issues.apache.org/jira/browse/MANT-64"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-64" href="https://issues.apache.org/jira/browse/MANT-64">MANT-64</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-64" href="https://issues.apache.org/jira/browse/MANT-64">generate build file fails to define includeantruntime</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="26/May/11 09:21"><time datetime="2011-05-26T09:21:01+0000">26/May/11</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:54"><time datetime="2015-04-07T18:54:12+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797790" rel="12797790" data-issuekey="MANT-63" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-63" href="https://issues.apache.org/jira/browse/MANT-63"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-63" href="https://issues.apache.org/jira/browse/MANT-63">MANT-63</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-63" href="https://issues.apache.org/jira/browse/MANT-63">get phase uses snapshot repo for non-snapshot dependencies</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="26/May/11 09:17"><time datetime="2011-05-26T09:17:46+0000">26/May/11</time></span> </td>
+                                            <td class="updated"> <span title="19/Jun/15 22:53"><time datetime="2015-06-19T22:53:48+0000">19/Jun/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797786" rel="12797786" data-issuekey="MANT-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-60" href="https://issues.apache.org/jira/browse/MANT-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-60" href="https://issues.apache.org/jira/browse/MANT-60">MANT-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-60" href="https://issues.apache.org/jira/browse/MANT-60">Generated &quot;package&quot; task for EAR/WAR is missing transitive dependencies</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Sep/09 10:59"><time datetime="2009-09-06T10:59:32+0000">06/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="06/Sep/09 11:02"><time datetime="2009-09-06T11:02:59+0000">06/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797749" rel="12797749" data-issuekey="MANT-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-52" href="https://issues.apache.org/jira/browse/MANT-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-52" href="https://issues.apache.org/jira/browse/MANT-52">MANT-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-52" href="https://issues.apache.org/jira/browse/MANT-52">NullPointerException when maven-javadoc-plugin configuration defines multiple group elements within a groups list element.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="alibush" id="reporter_alibush" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=alibush">Alistair Bush</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jun/09 07:17"><time datetime="2009-06-15T07:17:06+0000">15/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:03+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797766" rel="12797766" data-issuekey="MANT-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-51" href="https://issues.apache.org/jira/browse/MANT-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-51" href="https://issues.apache.org/jira/browse/MANT-51">MANT-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-51" href="https://issues.apache.org/jira/browse/MANT-51">Configuration from plugin management is not considered</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/May/09 13:05"><time datetime="2009-05-02T13:05:26+0000">02/May/09</time></span> </td>
+                                            <td class="updated"> <span title="02/May/09 13:13"><time datetime="2009-05-02T13:13:38+0000">02/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797797" rel="12797797" data-issuekey="MANT-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-50" href="https://issues.apache.org/jira/browse/MANT-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-50" href="https://issues.apache.org/jira/browse/MANT-50">MANT-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-50" href="https://issues.apache.org/jira/browse/MANT-50">Wrong build.classpath with reactor mode</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="reporter_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/May/09 06:03"><time datetime="2009-05-02T06:03:34+0000">02/May/09</time></span> </td>
+                                            <td class="updated"> <span title="07/Jun/09 14:46"><time datetime="2009-06-07T14:46:21+0000">07/Jun/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797760" rel="12797760" data-issuekey="MANT-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-47" href="https://issues.apache.org/jira/browse/MANT-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-47" href="https://issues.apache.org/jira/browse/MANT-47">MANT-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-47" href="https://issues.apache.org/jira/browse/MANT-47">ant:clean should not delete build.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="reporter_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Apr/09 05:22"><time datetime="2009-04-13T05:22:38+0000">13/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="13/Apr/09 08:40"><time datetime="2009-04-13T08:40:37+0000">13/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797762" rel="12797762" data-issuekey="MANT-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-46" href="https://issues.apache.org/jira/browse/MANT-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-46" href="https://issues.apache.org/jira/browse/MANT-46">MANT-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-46" href="https://issues.apache.org/jira/browse/MANT-46">mvn ant:ant throws a StringIndexOutOfBoundsException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ebourg" id="reporter_ebourg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ebourg">Emmanuel Bourg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jul/08 11:14"><time datetime="2008-07-28T11:14:23+0000">28/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="29/Jul/08 08:14"><time datetime="2008-07-29T08:14:29+0000">29/Jul/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797755" rel="12797755" data-issuekey="MANT-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-45" href="https://issues.apache.org/jira/browse/MANT-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-45" href="https://issues.apache.org/jira/browse/MANT-45">MANT-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-45" href="https://issues.apache.org/jira/browse/MANT-45">basedir attribute of &lt;war&gt; task of package target in generated Ant build causes files to be archived twice</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="figjam68" id="reporter_figjam68" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=figjam68">Travis Martensen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Jul/08 18:53"><time datetime="2008-07-14T18:53:15+0000">14/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="03/Sep/08 08:55"><time datetime="2008-09-03T08:55:37+0000">03/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797765" rel="12797765" data-issuekey="MANT-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-44" href="https://issues.apache.org/jira/browse/MANT-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-44" href="https://issues.apache.org/jira/browse/MANT-44">MANT-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-44" href="https://issues.apache.org/jira/browse/MANT-44">Generated ant copy commands in package target point to hard-coded local repository instead of ${maven.repo.local}</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="figjam68" id="reporter_figjam68" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=figjam68">Travis Martensen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Jul/08 18:07"><time datetime="2008-07-14T18:07:08+0000">14/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="03/Sep/08 09:49"><time datetime="2008-09-03T09:49:27+0000">03/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797763" rel="12797763" data-issuekey="MANT-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-41" href="https://issues.apache.org/jira/browse/MANT-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-41" href="https://issues.apache.org/jira/browse/MANT-41">MANT-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-41" href="https://issues.apache.org/jira/browse/MANT-41">mvn ant:ant fails with NPE when maven-javadoc-plugin custom tag is specified in pom.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="esm" id="reporter_esm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=esm">Earl Marwil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Jun/08 14:21"><time datetime="2008-06-05T14:21:47+0000">05/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="05/Jun/08 17:39"><time datetime="2008-06-05T17:39:24+0000">05/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797767" rel="12797767" data-issuekey="MANT-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-39" href="https://issues.apache.org/jira/browse/MANT-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-39" href="https://issues.apache.org/jira/browse/MANT-39">MANT-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-39" href="https://issues.apache.org/jira/browse/MANT-39">Always specify source/target options for javac</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Mar/08 07:42"><time datetime="2008-03-22T07:42:55+0000">22/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="16/Apr/09 10:53"><time datetime="2009-04-16T10:53:39+0000">16/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797768" rel="12797768" data-issuekey="MANT-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-37" href="https://issues.apache.org/jira/browse/MANT-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-37" href="https://issues.apache.org/jira/browse/MANT-37">MANT-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-37" href="https://issues.apache.org/jira/browse/MANT-37">Wrong path to test resources in maven-build.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Mar/08 10:43"><time datetime="2008-03-21T10:43:15+0000">21/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/08 10:48"><time datetime="2008-03-21T10:48:51+0000">21/Mar/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797769" rel="12797769" data-issuekey="MANT-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-36" href="https://issues.apache.org/jira/browse/MANT-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-36" href="https://issues.apache.org/jira/browse/MANT-36">MANT-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-36" href="https://issues.apache.org/jira/browse/MANT-36">Use correct file encoding when writing build files</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Mar/08 08:00"><time datetime="2008-03-21T08:00:10+0000">21/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/08 11:21"><time datetime="2008-03-21T11:21:02+0000">21/Mar/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797744" rel="12797744" data-issuekey="MANT-35" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-35" href="https://issues.apache.org/jira/browse/MANT-35"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-35" href="https://issues.apache.org/jira/browse/MANT-35">MANT-35</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-35" href="https://issues.apache.org/jira/browse/MANT-35">The generated maven-build.xml has paths that contain \ characters on Windows</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="reporter_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jan/08 11:15"><time datetime="2008-01-06T11:15:12+0000">06/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/15 08:03"><time datetime="2015-04-08T08:03:41+0000">08/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797801" rel="12797801" data-issuekey="MANT-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-34" href="https://issues.apache.org/jira/browse/MANT-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-34" href="https://issues.apache.org/jira/browse/MANT-34">MANT-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-34" href="https://issues.apache.org/jira/browse/MANT-34">The generated maven-build.xml and maven-build.properties contains absolute path to local repository</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="reporter_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jan/08 11:11"><time datetime="2008-01-06T11:11:27+0000">06/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/15 08:02"><time datetime="2015-04-08T08:02:44+0000">08/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797795" rel="12797795" data-issuekey="MANT-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-33" href="https://issues.apache.org/jira/browse/MANT-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-33" href="https://issues.apache.org/jira/browse/MANT-33">MANT-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-33" href="https://issues.apache.org/jira/browse/MANT-33">ClassCastException when calling mvn ant:ant</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="alibush" id="reporter_alibush" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=alibush">Alistair Bush</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="22/Dec/07 15:58"><time datetime="2007-12-22T15:58:24+0000">22/Dec/07</time></span> </td>
+                                            <td class="updated"> <span title="06/Jan/08 09:25"><time datetime="2008-01-06T09:25:48+0000">06/Jan/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797782" rel="12797782" data-issuekey="MANT-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-32" href="https://issues.apache.org/jira/browse/MANT-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-32" href="https://issues.apache.org/jira/browse/MANT-32">MANT-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-32" href="https://issues.apache.org/jira/browse/MANT-32">java.lang.ClassCastException when packaging jeuclid-3.0.1</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pwainwright" id="reporter_pwainwright" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pwainwright">Peter Wainwright</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Sep/07 02:27"><time datetime="2007-09-30T02:27:42+0000">30/Sep/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/08 16:37"><time datetime="2008-03-21T16:37:58+0000">21/Mar/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797748" rel="12797748" data-issuekey="MANT-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-31" href="https://issues.apache.org/jira/browse/MANT-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-31" href="https://issues.apache.org/jira/browse/MANT-31">MANT-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-31" href="https://issues.apache.org/jira/browse/MANT-31">test dependencies are not included</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robertegglestone" id="reporter_robertegglestone" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertegglestone">Robert Egglestone</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="28/Aug/07 17:00"><time datetime="2007-08-28T17:00:13+0000">28/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="31/Jan/15 14:10"><time datetime="2015-01-31T14:10:10+0000">31/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797804" rel="12797804" data-issuekey="MANT-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-30" href="https://issues.apache.org/jira/browse/MANT-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-30" href="https://issues.apache.org/jira/browse/MANT-30">MANT-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-30" href="https://issues.apache.org/jira/browse/MANT-30">classcast exception when running ant:ant on tagtraum.com&#39;s gcviewer project</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phuber" id="reporter_phuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phuber">Patrick Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jun/07 13:43"><time datetime="2007-06-09T13:43:38+0000">09/Jun/07</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/15 08:03"><time datetime="2015-04-08T08:03:28+0000">08/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797798" rel="12797798" data-issuekey="MANT-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-27" href="https://issues.apache.org/jira/browse/MANT-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-27" href="https://issues.apache.org/jira/browse/MANT-27">MANT-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-27" href="https://issues.apache.org/jira/browse/MANT-27">dependency:analyze shows errors</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brianf" id="assignee_brianf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brianf">Brian Fox</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brianf" id="reporter_brianf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brianf">Brian Fox</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Mar/07 08:16"><time datetime="2007-03-24T08:16:04+0000">24/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="10/Mar/16 13:54"><time datetime="2016-03-10T13:54:13+0000">10/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797794" rel="12797794" data-issuekey="MANT-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-25" href="https://issues.apache.org/jira/browse/MANT-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-25" href="https://issues.apache.org/jira/browse/MANT-25">MANT-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-25" href="https://issues.apache.org/jira/browse/MANT-25">The plugin generates bad test targets when the project.xml has include and exclude rules</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="betelgeuse@gentoo.org" id="reporter_betelgeuse@gentoo.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=betelgeuse%40gentoo.org">Petteri Räty</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="27/Jan/07 05:39"><time datetime="2007-01-27T05:39:17+0000">27/Jan/07</time></span> </td>
+                                            <td class="updated"> <span title="06/Jan/08 12:40"><time datetime="2008-01-06T12:40:40+0000">06/Jan/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797733" rel="12797733" data-issuekey="MANT-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-18" href="https://issues.apache.org/jira/browse/MANT-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-18" href="https://issues.apache.org/jira/browse/MANT-18">MANT-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-18" href="https://issues.apache.org/jira/browse/MANT-18">added Maven Project properties in the maven-build.properties</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="reporter_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Sep/06 06:39"><time datetime="2006-09-25T06:39:23+0000">25/Sep/06</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/06 06:42"><time datetime="2006-09-25T06:42:33+0000">25/Sep/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797746" rel="12797746" data-issuekey="MANT-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-17" href="https://issues.apache.org/jira/browse/MANT-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-17" href="https://issues.apache.org/jira/browse/MANT-17">MANT-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-17" href="https://issues.apache.org/jira/browse/MANT-17">Using Maven Compiler Plugin settings to define javac task</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="reporter_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Sep/06 06:30"><time datetime="2006-09-25T06:30:58+0000">25/Sep/06</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/06 06:38"><time datetime="2006-09-25T06:38:36+0000">25/Sep/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797735" rel="12797735" data-issuekey="MANT-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-13" href="https://issues.apache.org/jira/browse/MANT-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-13" href="https://issues.apache.org/jira/browse/MANT-13">MANT-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-13" href="https://issues.apache.org/jira/browse/MANT-13">Generated build.xml for pom packaged super projects doesn&#39;t invoke subprojects</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shinsato" id="reporter_shinsato" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shinsato">Harold Shinsato</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Sep/06 17:59"><time datetime="2006-09-18T17:59:03+0000">18/Sep/06</time></span> </td>
+                                            <td class="updated"> <span title="24/Sep/06 12:07"><time datetime="2006-09-24T12:07:49+0000">24/Sep/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797777" rel="12797777" data-issuekey="MANT-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-12" href="https://issues.apache.org/jira/browse/MANT-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-12" href="https://issues.apache.org/jira/browse/MANT-12">MANT-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-12" href="https://issues.apache.org/jira/browse/MANT-12">Generated Ant script does not work unless mvn has previously been run to create the repo directory structure</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jdt@roe.ac.uk" id="reporter_jdt@roe.ac.uk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdt%40roe.ac.uk">John Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="12/Jul/06 09:37"><time datetime="2006-07-12T09:37:49+0000">12/Jul/06</time></span> </td>
+                                            <td class="updated"> <span title="31/Jan/15 14:10"><time datetime="2015-01-31T14:10:10+0000">31/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797776" rel="12797776" data-issuekey="MANT-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-11" href="https://issues.apache.org/jira/browse/MANT-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-11" href="https://issues.apache.org/jira/browse/MANT-11">MANT-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-11" href="https://issues.apache.org/jira/browse/MANT-11">java.lang.NullPointerException: version was null for xalan:xalan</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="michielgkalkman" id="reporter_michielgkalkman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=michielgkalkman">Michiel Kalkman</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="24/May/06 05:51"><time datetime="2006-05-24T05:51:37+0000">24/May/06</time></span> </td>
+                                            <td class="updated"> <span title="31/Jan/15 14:10"><time datetime="2015-01-31T14:10:10+0000">31/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797773" rel="12797773" data-issuekey="MANT-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-10" href="https://issues.apache.org/jira/browse/MANT-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-10" href="https://issues.apache.org/jira/browse/MANT-10">MANT-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-10" href="https://issues.apache.org/jira/browse/MANT-10">error with build.classpath in build.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="serega" id="reporter_serega" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=serega">Sergejs Melderis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Apr/06 11:17"><time datetime="2006-04-18T11:17:56+0000">18/Apr/06</time></span> </td>
+                                            <td class="updated"> <span title="23/Sep/06 13:04"><time datetime="2006-09-23T13:04:17+0000">23/Sep/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797732" rel="12797732" data-issuekey="MANT-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-9" href="https://issues.apache.org/jira/browse/MANT-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-9" href="https://issues.apache.org/jira/browse/MANT-9">MANT-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-9" href="https://issues.apache.org/jira/browse/MANT-9">Ant task documentation dependency link is broken</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rmann@latencyzero.com" id="reporter_rmann@latencyzero.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rmann%40latencyzero.com">Rick Mann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="27/Mar/06 17:11"><time datetime="2006-03-27T17:11:16+0000">27/Mar/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Sep/06 18:22"><time datetime="2006-09-15T18:22:03+0000">15/Sep/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797740" rel="12797740" data-issuekey="MANT-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-4" href="https://issues.apache.org/jira/browse/MANT-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-4" href="https://issues.apache.org/jira/browse/MANT-4">MANT-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-4" href="https://issues.apache.org/jira/browse/MANT-4">Generated ANT contains hardcoded &quot;get&quot; tasks that look at the &quot;C:\&quot; drive etc... when using a local repository</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="michael.neale@gmail.com" id="reporter_michael.neale@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=michael.neale%40gmail.com">Michael Neale</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Jan/06 21:10"><time datetime="2006-01-20T21:10:51+0000">20/Jan/06</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/08 20:21"><time datetime="2008-03-21T20:21:38+0000">21/Mar/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12797736" rel="12797736" data-issuekey="MANT-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MANT-1" href="https://issues.apache.org/jira/browse/MANT-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MANT-1" href="https://issues.apache.org/jira/browse/MANT-1">MANT-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MANT-1" href="https://issues.apache.org/jira/browse/MANT-1">ant script doesn&#39;t create subdirectories for artifacts in get-deps</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elpunzalan" id="assignee_elpunzalan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elpunzalan">Edwin Punzalan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="reporter_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Aug/05 23:10"><time datetime="2005-08-18T23:10:00+0000">18/Aug/05</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/06 22:44"><time datetime="2006-03-08T22:44:04+0000">08/Mar/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

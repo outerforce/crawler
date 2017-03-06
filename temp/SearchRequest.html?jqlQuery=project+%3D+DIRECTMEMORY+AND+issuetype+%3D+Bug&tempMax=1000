@@ -1,0 +1,1569 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DIRECTMEMORY+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DIRECTMEMORY+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/DIRECTMEMORY" title="Browse Apache DirectMemory project">Apache DirectMemory</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>41</b> of <b>41</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12708869" rel="12708869" data-issuekey="DIRECTMEMORY-139" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-139" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-139"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-139" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-139">DIRECTMEMORY-139</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-139" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-139">IllegalArgumentException Error when Loading a Map using JDK 8</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sselvia" id="reporter_sselvia" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sselvia">Scott Selvia</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Apr/14 18:42"><time datetime="2014-04-16T18:42:48+0000">16/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="16/Apr/14 18:42"><time datetime="2014-04-16T18:42:48+0000">16/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12688937" rel="12688937" data-issuekey="DIRECTMEMORY-137" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-137" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-137"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-137" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-137">DIRECTMEMORY-137</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-137" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-137">Concurrent access to MemoryBuffer leads to BufferUnderflowException</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chetanm" id="reporter_chetanm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chetanm">Chetan Mehrotra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="15/Jan/14 04:47"><time datetime="2014-01-15T04:47:50+0000">15/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/14 05:55"><time datetime="2014-01-15T05:55:35+0000">15/Jan/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681305" rel="12681305" data-issuekey="DIRECTMEMORY-136" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-136" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-136"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-136" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-136">DIRECTMEMORY-136</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-136" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-136">Please delete old releases from mirroring system</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Nov/13 18:01"><time datetime="2013-11-26T18:01:48+0000">26/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Nov/13 22:03"><time datetime="2013-11-26T22:03:59+0000">26/Nov/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12660571" rel="12660571" data-issuekey="DIRECTMEMORY-133" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-133" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-133"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-133" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-133">DIRECTMEMORY-133</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-133" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-133">&quot;DirectMemory Simple Usage&quot; doc improvement</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="xieliang007" id="reporter_xieliang007" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=xieliang007">Liang Xie</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Jul/13 06:31"><time datetime="2013-07-30T06:31:41+0000">30/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="12/Aug/13 10:01"><time datetime="2013-08-12T10:01:41+0000">12/Aug/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12659738" rel="12659738" data-issuekey="DIRECTMEMORY-132" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-132" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-132"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-132" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-132">DIRECTMEMORY-132</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-132" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-132">incorrect case name in bench.sh</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="teofili" id="assignee_teofili" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=teofili">Tommaso Teofili</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="xieliang007" id="reporter_xieliang007" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=xieliang007">Liang Xie</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Jul/13 08:19"><time datetime="2013-07-25T08:19:57+0000">25/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="25/Jul/13 09:51"><time datetime="2013-07-25T09:51:54+0000">25/Jul/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12656834" rel="12656834" data-issuekey="DIRECTMEMORY-130" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-130" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-130"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-130" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-130">DIRECTMEMORY-130</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-130" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-130">MemoryManagerService does not reset the used memory count to zero in clear</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="teofili" id="assignee_teofili" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=teofili">Tommaso Teofili</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chetanm" id="reporter_chetanm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chetanm">Chetan Mehrotra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jul/13 10:05"><time datetime="2013-07-09T10:05:06+0000">09/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="09/Jul/13 10:17"><time datetime="2013-07-09T10:17:41+0000">09/Jul/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12656824" rel="12656824" data-issuekey="DIRECTMEMORY-129" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-129" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-129"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-129" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-129">DIRECTMEMORY-129</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-129" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-129">Kryo serializer usage is not thread safe</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="teofili" id="assignee_teofili" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=teofili">Tommaso Teofili</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chetanm" id="reporter_chetanm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chetanm">Chetan Mehrotra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jul/13 09:19"><time datetime="2013-07-09T09:19:51+0000">09/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="09/Jul/13 10:27"><time datetime="2013-07-09T10:27:46+0000">09/Jul/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12656823" rel="12656823" data-issuekey="DIRECTMEMORY-128" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-128" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-128"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-128" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-128">DIRECTMEMORY-128</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-128" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-128">Mark aspectj package import as optional and other Import-Package fixes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="teofili" id="assignee_teofili" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=teofili">Tommaso Teofili</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chetanm" id="reporter_chetanm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chetanm">Chetan Mehrotra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jul/13 09:10"><time datetime="2013-07-09T09:10:04+0000">09/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="09/Jul/13 10:27"><time datetime="2013-07-09T10:27:46+0000">09/Jul/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12654725" rel="12654725" data-issuekey="DIRECTMEMORY-127" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-127" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-127"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-127" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-127">DIRECTMEMORY-127</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-127" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-127">ehcache integration OSGI tests no longer work</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Jun/13 13:26"><time datetime="2013-06-25T13:26:50+0000">25/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="27/Jun/13 10:26"><time datetime="2013-06-27T10:26:23+0000">27/Jun/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12654328" rel="12654328" data-issuekey="DIRECTMEMORY-126" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-126" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-126"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-126" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-126">DIRECTMEMORY-126</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-126" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-126">upgrade to ehcache 2.6.6</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="reporter_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Jun/13 12:14"><time datetime="2013-06-22T12:14:17+0000">22/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="22/Jun/13 13:51"><time datetime="2013-06-22T13:51:26+0000">22/Jun/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12624192" rel="12624192" data-issuekey="DIRECTMEMORY-120" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-120" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-120"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-120" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-120">DIRECTMEMORY-120</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-120" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-120">Fix ByteOrderUtils::buildLong which uses int values for calculation of the resulting long</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="assignee_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="reporter_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Dec/12 15:36"><time datetime="2012-12-16T15:36:04+0000">16/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="16/Dec/12 15:51"><time datetime="2012-12-16T15:51:11+0000">16/Dec/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12623978" rel="12623978" data-issuekey="DIRECTMEMORY-118" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-118" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-118"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-118" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-118">DIRECTMEMORY-118</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-118" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-118">MemoryManager crashes on allocation of more than 300Mb or memory</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="assignee_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="prashant_" id="reporter_prashant_" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=prashant_">Prashant Sharma</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Dec/12 14:26"><time datetime="2012-12-14T14:26:35+0000">14/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="14/Dec/12 17:42"><time datetime="2012-12-14T17:42:25+0000">14/Dec/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12614272" rel="12614272" data-issuekey="DIRECTMEMORY-105" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-105" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-105"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-105" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-105">DIRECTMEMORY-105</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-105" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-105">Kryo Serializer adapter isn&#39;t threadsafe</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="assignee_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="reporter_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Oct/12 20:52"><time datetime="2012-10-31T20:52:16+0000">31/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="05/Nov/12 22:04"><time datetime="2012-11-05T22:04:11+0000">05/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12609686" rel="12609686" data-issuekey="DIRECTMEMORY-103" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-103" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-103"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-103" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-103">DIRECTMEMORY-103</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-103" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-103">Add Kryo serializer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="simone.tripodi" id="assignee_simone.tripodi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simone.tripodi">Simone Tripodi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="coderplay" id="reporter_coderplay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coderplay">Min Zhou</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Sep/12 13:30"><time datetime="2012-09-30T13:30:23+0000">30/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="01/Oct/12 13:59"><time datetime="2012-10-01T13:59:50+0000">01/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12609637" rel="12609637" data-issuekey="DIRECTMEMORY-101" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-101" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-101"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-101" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-101">DIRECTMEMORY-101</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-101" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-101">JVM never exit even the main thread finished</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="raffaeleguidi" id="assignee_raffaeleguidi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=raffaeleguidi">Raffaele P. Guidi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="coderplay" id="reporter_coderplay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coderplay">Min Zhou</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Sep/12 06:54"><time datetime="2012-09-29T06:54:58+0000">29/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/12 21:08"><time datetime="2012-10-02T21:08:16+0000">02/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12608034" rel="12608034" data-issuekey="DIRECTMEMORY-100" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-100" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-100"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-100" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-100">DIRECTMEMORY-100</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-100" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-100">E:\qpidfiles\qpid-0.18\qpid-0.18\cpp\src\qpid\sys\unordered_map.h</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ravindra.rapaka" id="reporter_ravindra.rapaka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ravindra.rapaka">ravindra rapaka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Sep/12 09:37"><time datetime="2012-09-18T09:37:25+0000">18/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="18/Sep/12 09:37"><time datetime="2012-09-18T09:37:25+0000">18/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12601628" rel="12601628" data-issuekey="DIRECTMEMORY-99" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-99" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-99"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-99" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-99">DIRECTMEMORY-99</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-99" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-99">CacheServiceImpl.store does not add back the pointer to the map in case it already existed </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="raffaeleguidi" id="assignee_raffaeleguidi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=raffaeleguidi">Raffaele P. Guidi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="raffaeleguidi" id="reporter_raffaeleguidi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=raffaeleguidi">Raffaele P. Guidi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Aug/12 21:56"><time datetime="2012-08-06T21:56:17+0000">06/Aug/12</time></span> </td>
+                                            <td class="updated"> <span title="06/Aug/12 22:14"><time datetime="2012-08-06T22:14:50+0000">06/Aug/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12595603" rel="12595603" data-issuekey="DIRECTMEMORY-94" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-94" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-94"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-94" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-94">DIRECTMEMORY-94</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-94" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-94">directmemory-solr fails to resolve in some cases</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="iocanel" id="assignee_iocanel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iocanel">Ioannis Canellos</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="iocanel" id="reporter_iocanel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iocanel">Ioannis Canellos</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Jun/12 15:51"><time datetime="2012-06-22T15:51:17+0000">22/Jun/12</time></span> </td>
+                                            <td class="updated"> <span title="23/Jun/12 13:13"><time datetime="2012-06-23T13:13:58+0000">23/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12595602" rel="12595602" data-issuekey="DIRECTMEMORY-93" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-93" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-93"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-93" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-93">DIRECTMEMORY-93</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-93" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-93">There is a typo in the ehcache feature of directmemory</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="iocanel" id="assignee_iocanel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iocanel">Ioannis Canellos</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="iocanel" id="reporter_iocanel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iocanel">Ioannis Canellos</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Jun/12 15:50"><time datetime="2012-06-22T15:50:36+0000">22/Jun/12</time></span> </td>
+                                            <td class="updated"> <span title="23/Jun/12 13:13"><time datetime="2012-06-23T13:13:58+0000">23/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12558492" rel="12558492" data-issuekey="DIRECTMEMORY-88" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-88" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-88"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-88" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-88">DIRECTMEMORY-88</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-88" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-88">Unable to retrieve JDK types (Integer, byte, ..) with the StandardSerializer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/May/12 20:45"><time datetime="2012-05-29T20:45:37+0000">29/May/12</time></span> </td>
+                                            <td class="updated"> <span title="12/Jun/12 16:53"><time datetime="2012-06-12T16:53:08+0000">12/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12558370" rel="12558370" data-issuekey="DIRECTMEMORY-87" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-87" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-87"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-87" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-87">DIRECTMEMORY-87</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-87" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-87">collectExpired frees not expired items instead of expired ones</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/May/12 22:28"><time datetime="2012-05-28T22:28:42+0000">28/May/12</time></span> </td>
+                                            <td class="updated"> <span title="12/Jun/12 15:21"><time datetime="2012-06-12T15:21:36+0000">12/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12558210" rel="12558210" data-issuekey="DIRECTMEMORY-86" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-86" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-86"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-86" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-86">DIRECTMEMORY-86</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-86" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-86">Tomcat is never stopped during the server tests</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/May/12 22:24"><time datetime="2012-05-25T22:24:16+0000">25/May/12</time></span> </td>
+                                            <td class="updated"> <span title="25/May/12 23:19"><time datetime="2012-05-25T23:19:08+0000">25/May/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12558184" rel="12558184" data-issuekey="DIRECTMEMORY-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-85" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-85" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-85">DIRECTMEMORY-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-85" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-85">Method to format in Gb has a typo</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/May/12 20:10"><time datetime="2012-05-25T20:10:19+0000">25/May/12</time></span> </td>
+                                            <td class="updated"> <span title="25/May/12 23:19"><time datetime="2012-05-25T23:19:08+0000">25/May/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12558087" rel="12558087" data-issuekey="DIRECTMEMORY-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-84" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-84" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-84">DIRECTMEMORY-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-84" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-84">Cache should not be a private DirectMemoryServlet field and initialized in init methods</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="25/May/12 12:34"><time datetime="2012-05-25T12:34:41+0000">25/May/12</time></span> </td>
+                                            <td class="updated"> <span title="26/May/12 21:14"><time datetime="2012-05-26T21:14:26+0000">26/May/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12556748" rel="12556748" data-issuekey="DIRECTMEMORY-83" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-83" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-83"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-83" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-83">DIRECTMEMORY-83</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-83" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-83">Review ByteBufferAllocator state management</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="21/May/12 20:33"><time datetime="2012-05-21T20:33:53+0000">21/May/12</time></span> </td>
+                                            <td class="updated"> <span title="21/May/12 20:33"><time datetime="2012-05-21T20:33:53+0000">21/May/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12556744" rel="12556744" data-issuekey="DIRECTMEMORY-82" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-82" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-82"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-82" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-82">DIRECTMEMORY-82</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-82" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-82">CacheService should implement Closable / Review the livecycle of the CacheService/MemoryService/ByteBufferAllocator objects</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="assignee_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/May/12 20:19"><time datetime="2012-05-21T20:19:26+0000">21/May/12</time></span> </td>
+                                            <td class="updated"> <span title="05/Nov/12 21:59"><time datetime="2012-11-05T21:59:58+0000">05/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12556737" rel="12556737" data-issuekey="DIRECTMEMORY-81" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-81" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-81"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-81" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-81">DIRECTMEMORY-81</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-81" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-81">Disposal process run only once</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeffmaury" id="reporter_jeffmaury" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeffmaury">Jeff MAURY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/May/12 19:52"><time datetime="2012-05-21T19:52:32+0000">21/May/12</time></span> </td>
+                                            <td class="updated"> <span title="22/May/12 23:07"><time datetime="2012-05-22T23:07:06+0000">22/May/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12544144" rel="12544144" data-issuekey="DIRECTMEMORY-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-73" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-73" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-73">DIRECTMEMORY-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-73" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-73">NPE on put method in CacheServiceImpl when cache is full.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="teaandcoffee" id="reporter_teaandcoffee" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=teaandcoffee">Michael André Pearce</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Feb/12 00:24"><time datetime="2012-02-26T00:24:52+0000">26/Feb/12</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/12 15:07"><time datetime="2012-02-26T15:07:46+0000">26/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12543758" rel="12543758" data-issuekey="DIRECTMEMORY-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-68" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-68" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-68">DIRECTMEMORY-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-68" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-68">Standard Serializer is broken under OSGi</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="iocanel" id="assignee_iocanel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iocanel">Ioannis Canellos</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="iocanel" id="reporter_iocanel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iocanel">Ioannis Canellos</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Feb/12 22:42"><time datetime="2012-02-22T22:42:33+0000">22/Feb/12</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:24+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12537653" rel="12537653" data-issuekey="DIRECTMEMORY-59" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-59" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-59"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-59" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-59">DIRECTMEMORY-59</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-59" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-59">Fix statistics code for SolrOffHeapCache in examples module</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="teofili" id="assignee_teofili" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=teofili">Tommaso Teofili</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="teofili" id="reporter_teofili" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=teofili">Tommaso Teofili</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jan/12 22:53"><time datetime="2012-01-07T22:53:21+0000">07/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:26+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12537500" rel="12537500" data-issuekey="DIRECTMEMORY-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-57" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-57" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-57">DIRECTMEMORY-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-57" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-57">Pointer.free should be atomic / thread safe</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="assignee_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="reporter_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jan/12 12:49"><time datetime="2012-01-06T12:49:16+0000">06/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/12 13:54"><time datetime="2012-11-01T13:54:54+0000">01/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12537420" rel="12537420" data-issuekey="DIRECTMEMORY-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-55" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-55" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-55">DIRECTMEMORY-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-55" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-55">OffHeapMemoryBuffer leaks 1 byte at every allocation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="assignee_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="reporter_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Jan/12 21:43"><time datetime="2012-01-05T21:43:56+0000">05/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:25+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12536816" rel="12536816" data-issuekey="DIRECTMEMORY-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-54" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-54" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-54">DIRECTMEMORY-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-54" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-54">OffHeapMemoryBuffer.clear should set to free all pointers to avoid misusage</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="assignee_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="reporter_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Jan/12 15:25"><time datetime="2012-01-02T15:25:29+0000">02/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:25+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12536704" rel="12536704" data-issuekey="DIRECTMEMORY-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-50" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-50" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-50">DIRECTMEMORY-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-50" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-50">Reactivate @Ignored tests</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="maurizio.cucchiara" id="reporter_maurizio.cucchiara" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=maurizio.cucchiara">Maurizio Cucchiara</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Dec/11 23:00"><time datetime="2011-12-30T23:00:54+0000">30/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="30/Dec/11 23:00"><time datetime="2011-12-30T23:00:54+0000">30/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12536657" rel="12536657" data-issuekey="DIRECTMEMORY-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-49" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-49" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-49">DIRECTMEMORY-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-49" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-49">MemoryManagerService.update does not reuse the same pointer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="noctarius" id="assignee_noctarius" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=noctarius">Christoph Engelbert</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="reporter_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Dec/11 12:45"><time datetime="2011-12-30T12:45:14+0000">30/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Nov/12 22:00"><time datetime="2012-11-05T22:00:17+0000">05/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12536585" rel="12536585" data-issuekey="DIRECTMEMORY-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-47" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-47" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-47">DIRECTMEMORY-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-47" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-47">OffHeapMemoryBuffer.allocate need to be synchronized</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="assignee_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="reporter_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Dec/11 15:54"><time datetime="2011-12-29T15:54:41+0000">29/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:23+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12536577" rel="12536577" data-issuekey="DIRECTMEMORY-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-46" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-46" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-46">DIRECTMEMORY-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-46" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-46">OffHeapMemoryBuffer.free do an unnecessary pointers.add</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="assignee_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bperroud" id="reporter_bperroud" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bperroud">Benoit Perroud</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Dec/11 12:53"><time datetime="2011-12-29T12:53:59+0000">29/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:23+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12530370" rel="12530370" data-issuekey="DIRECTMEMORY-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-32" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-32" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-32">DIRECTMEMORY-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-32" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-32">Fix condition for a free space in OffHeapMemoryBuffer.firstMatch()  </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ibabalich" id="reporter_ibabalich" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ibabalich">Igor Babalich</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="04/Nov/11 19:50"><time datetime="2011-11-04T19:50:54+0000">04/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/12 10:54"><time datetime="2012-11-01T10:54:19+0000">01/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12530062" rel="12530062" data-issuekey="DIRECTMEMORY-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-30" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-30" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-30">DIRECTMEMORY-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-30" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-30">Fix Pointer.expired() - have to verify &#39;expires&#39;</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ibabalich" id="reporter_ibabalich" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ibabalich">Igor Babalich</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Nov/11 14:52"><time datetime="2011-11-03T14:52:57+0000">03/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="28/Dec/11 09:19"><time datetime="2011-12-28T09:19:49+0000">28/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12527641" rel="12527641" data-issuekey="DIRECTMEMORY-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-18" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-18" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-18">DIRECTMEMORY-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-18" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-18">The expiry value is not passed to the underlying store to check the expiry of the element.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="raffaeleguidi" id="assignee_raffaeleguidi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=raffaeleguidi">Raffaele P. Guidi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="raffaeleguidi" id="reporter_raffaeleguidi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=raffaeleguidi">Raffaele P. Guidi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Oct/11 19:17"><time datetime="2011-10-18T19:17:43+0000">18/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:24+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12527397" rel="12527397" data-issuekey="DIRECTMEMORY-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIRECTMEMORY-17" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIRECTMEMORY-17" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-17">DIRECTMEMORY-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIRECTMEMORY-17" href="https://issues.apache.org/jira/browse/DIRECTMEMORY-17">Element Eviction/Expiry issue</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="raffaeleguidi" id="assignee_raffaeleguidi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=raffaeleguidi">Raffaele P. Guidi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="paliwalashish" id="reporter_paliwalashish" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=paliwalashish">Ashish Paliwal</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Oct/11 06:50"><time datetime="2011-10-17T06:50:40+0000">17/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/12 09:06"><time datetime="2012-02-24T09:06:26+0000">24/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

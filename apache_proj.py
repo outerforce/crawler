@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import json
 import csv
 import collections
@@ -16,7 +17,6 @@ import time
 import datetime
 import sys
 import chardet
-
 ##def parse(self, response):
 file = open("/home/irene/crawler/project_list.txt","r")
 L = []
@@ -24,55 +24,28 @@ for line in file:
     L.append(line.strip().upper())
 #print(L)
 for i in L:
-    #https://issues.apache.org/jira/sr/jira.issueviews:searchrequest-fullcontent/temp/SearchRequest.html?jqlQuery=project+%3D+ABDERA&tempMax=2000
-    url = "https://issues.apache.org/jira/sr/jira.issueviews:searchrequest-fullcontent/temp/SearchRequest.html?jqlQuery=project+%3D+"+str(i)+"&tempMax=1000"
-    print(url)
+    url = "https://issues.apache.org/jira/sr/jira.issueviews:searchrequest-fullcontent/temp/SearchRequest.html?" \
+          "jqlQuery=project+%3D+"+str(i)+"&tempMax=1000"
+    #print(url)
     page = request.urlopen(url)
     soup = BeautifulSoup(page,"lxml")
-    #bugID_list = soup.find_all("h3","formtitle")
     tabletitle = soup.find_all("table","tableBorder")
-    tbinfo = soup.find_all("table","grid")
+    #tbinfo = soup.find_all("table","grid")
     num = len(tabletitle)
     print(num)
     for i in range(num):
         bugid = tabletitle[i].find("h3","formtitle").contents[0]
         description = tabletitle[i].find("h3","formtitle").find('a').contents[0]
         date = re.sub(r'\n\s*\n', r'\n\n',tabletitle[i].find("h3","formtitle").find("span","subText").contents[0].strip(),flags = re.M)
-
         status = re.sub(r'\n\s*\n', r'\n\n', tabletitle[i].find_all("td")[2].contents[0].strip(), flags=re.M)
         proj = re.sub(r'\n\s*\n', r'\n\n', tabletitle[i].find_all("td")[4].find('a').contents[0].strip(), flags=re.M)
-        #component = re.sub(r'\n\s*\n', r'\n\n', tabletitle[j].find_all("td")[6].contents[0].strip(), flags=re.M)
         try:
             affected_v = re.sub(r'\n\s*\n', r'\n\n', tabletitle[i].find_all("td")[8].find('a').contents[0].strip(),flags = re.M)
             fix_v =  re.sub(r'\n\s*\n', r'\n\n',tabletitle[i].find_all("td")[10].find('a').contents[0].strip(),flags = re.M)
         except Exception:
             affected_v = "None"
             fix_v = "None"
-        #print(bugid, description, date, status,proj,affected_v,fix_v)
-
-        # with open("text", "w") as outfile:
-        # json.dump({'bugID': bugid, 'desc': description, 'date': date, 'status': status, 'proj': proj, 'affected_v': affected_v, 'fix_v': fix_v}, outfile, indent=4)
-    for k in range(len(tbinfo)):
-        if(k%2==1):
-            bugtype = tbinfo[k].find_all("td")[1].contents[0]
-            priority = tbinfo[k].find_all("td")[3].contents[0]
-            reporter = tbinfo[k].find_all("td")[5].find('a').contents[0]
-        
-            assign = tbinfo[k].find_all("td")[7].contents[0]
-            resolu = tbinfo[k].find_all("td")[9].contents[0]
-            votes = tbinfo[k].find_all("td")[11].contents[0]
-            labels= tbinfo[k].find_all("td")[13].contents[0]
-            print(bugtype,priority,reporter,assign,resolu,votes,labels)
-
-
-
-
-        #print(bugid)
-        #print(description)
-        #print(date)
-
-
-    #print(soup)
+        print(bugid, description, date, status, proj, affected_v, fix_v)
 
     # with open('names.csv', 'w') as csvfile:
     #     fieldnames = ['first_name', 'last_name']
@@ -82,10 +55,7 @@ for i in L:
     #     writer.writerow({'first_name': 'Baked', 'last_name': 'Beans'})
     #     writer.writerow({'first_name': 'Lovely', 'last_name': 'Spam'})
     #     writer.writerow({'first_name': 'Wonderful', 'last_name': 'Spam'})
-    time.sleep(10)
-
-        # page = request.urlopen()
-        # print(page)
+        time.sleep(10)
 
 
 # page = request.urlopen("https://projects.apache.org/projects.html?name").read()

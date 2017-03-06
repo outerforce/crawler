@@ -1,0 +1,2593 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+TEPHRA+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+TEPHRA+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/TEPHRA" title="Browse Tephra project">Tephra</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>73</b> of <b>73</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13047480" rel="13047480" data-issuekey="TEPHRA-226" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-226" href="https://issues.apache.org/jira/browse/TEPHRA-226"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-226" href="https://issues.apache.org/jira/browse/TEPHRA-226">TEPHRA-226</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-226" href="https://issues.apache.org/jira/browse/TEPHRA-226">Prune upper bound writer thread dies in some HBase 0.98 versions</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="assignee_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="reporter_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="01/Mar/17 22:04"><time datetime="2017-03-01T22:04:28+0000">01/Mar/17</time></span> </td>
+                                            <td class="updated"> <span title="02/Mar/17 21:09"><time datetime="2017-03-02T21:09:20+0000">02/Mar/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13044662" rel="13044662" data-issuekey="TEPHRA-223" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-223" href="https://issues.apache.org/jira/browse/TEPHRA-223"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-223" href="https://issues.apache.org/jira/browse/TEPHRA-223">TEPHRA-223</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-223" href="https://issues.apache.org/jira/browse/TEPHRA-223">Transactions started after a snapshot restore can have incorrect invalid transaction list</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Feb/17 22:27"><time datetime="2017-02-20T22:27:25+0000">20/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="22/Feb/17 01:58"><time datetime="2017-02-22T01:58:09+0000">22/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13043822" rel="13043822" data-issuekey="TEPHRA-221" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-221" href="https://issues.apache.org/jira/browse/TEPHRA-221"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-221" href="https://issues.apache.org/jira/browse/TEPHRA-221">TEPHRA-221</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-221" href="https://issues.apache.org/jira/browse/TEPHRA-221">If the invalid list is empty, we hit an ArrayIndexOutOfBoundsException when printing an info message</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="reporter_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="17/Feb/17 01:19"><time datetime="2017-02-17T01:19:51+0000">17/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="17/Feb/17 01:19"><time datetime="2017-02-17T01:19:51+0000">17/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13040437" rel="13040437" data-issuekey="TEPHRA-218" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-218" href="https://issues.apache.org/jira/browse/TEPHRA-218"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-218" href="https://issues.apache.org/jira/browse/TEPHRA-218">TEPHRA-218</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-218" href="https://issues.apache.org/jira/browse/TEPHRA-218">TransactionStateCache service fails to startup if data.tx.snapshot.dir does not exist</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="assignee_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="reporter_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Feb/17 06:35"><time datetime="2017-02-05T06:35:24+0000">05/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/17 05:16"><time datetime="2017-02-09T05:16:00+0000">09/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13036673" rel="13036673" data-issuekey="TEPHRA-212" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-212" href="https://issues.apache.org/jira/browse/TEPHRA-212"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-212" href="https://issues.apache.org/jira/browse/TEPHRA-212">TEPHRA-212</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-212" href="https://issues.apache.org/jira/browse/TEPHRA-212">CompactionState #savePruneUpperBoundForRegion put call might because problems if regions are not available</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="assignee_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="reporter_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Jan/17 20:09"><time datetime="2017-01-20T20:09:18+0000">20/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="01/Feb/17 19:37"><time datetime="2017-02-01T19:37:25+0000">01/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13033208" rel="13033208" data-issuekey="TEPHRA-208" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-208" href="https://issues.apache.org/jira/browse/TEPHRA-208"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-208" href="https://issues.apache.org/jira/browse/TEPHRA-208">TEPHRA-208</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-208" href="https://issues.apache.org/jira/browse/TEPHRA-208">Compaction removes rows incorrectly for family deletes with column level conflict detection </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="tdsilva" id="assignee_tdsilva" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tdsilva">Thomas D&#39;Silva</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tdsilva" id="reporter_tdsilva" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tdsilva">Thomas D&#39;Silva</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jan/17 22:18"><time datetime="2017-01-09T22:18:48+0000">09/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="14/Feb/17 09:22"><time datetime="2017-02-14T09:22:38+0000">14/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13032120" rel="13032120" data-issuekey="TEPHRA-207" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-207" href="https://issues.apache.org/jira/browse/TEPHRA-207"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-207" href="https://issues.apache.org/jira/browse/TEPHRA-207">TEPHRA-207</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-207" href="https://issues.apache.org/jira/browse/TEPHRA-207">TephraZKClientService.stop() doesn&#39;t close Zookeeper connection</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamestaylor" id="reporter_jamestaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamestaylor">James Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="05/Jan/17 00:07"><time datetime="2017-01-05T00:07:32+0000">05/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="05/Jan/17 00:28"><time datetime="2017-01-05T00:28:02+0000">05/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025467" rel="13025467" data-issuekey="TEPHRA-202" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-202" href="https://issues.apache.org/jira/browse/TEPHRA-202"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-202" href="https://issues.apache.org/jira/browse/TEPHRA-202">TEPHRA-202</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-202" href="https://issues.apache.org/jira/browse/TEPHRA-202">Bump twill.version to 0.8.0</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="assignee_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="reporter_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Dec/16 02:00"><time datetime="2016-12-05T02:00:16+0000">05/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Dec/16 22:21"><time datetime="2016-12-05T22:21:21+0000">05/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025367" rel="13025367" data-issuekey="TEPHRA-201" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-201" href="https://issues.apache.org/jira/browse/TEPHRA-201"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-201" href="https://issues.apache.org/jira/browse/TEPHRA-201">TEPHRA-201</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-201" href="https://issues.apache.org/jira/browse/TEPHRA-201">In-progress transactions may become visible when transactions are checkpointed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Dec/16 01:15"><time datetime="2016-12-04T01:15:47+0000">04/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Dec/16 21:07"><time datetime="2016-12-08T21:07:44+0000">08/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13020749" rel="13020749" data-issuekey="TEPHRA-200" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-200" href="https://issues.apache.org/jira/browse/TEPHRA-200"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-200" href="https://issues.apache.org/jira/browse/TEPHRA-200">TEPHRA-200</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-200" href="https://issues.apache.org/jira/browse/TEPHRA-200">Unable to discover tx service</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Arcflash" id="reporter_Arcflash" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Arcflash">Arcflash</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Nov/16 09:48"><time datetime="2016-11-15T09:48:53+0000">15/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/16 04:00"><time datetime="2016-11-16T04:00:19+0000">16/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13018746" rel="13018746" data-issuekey="TEPHRA-197" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-197" href="https://issues.apache.org/jira/browse/TEPHRA-197"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-197" href="https://issues.apache.org/jira/browse/TEPHRA-197">TEPHRA-197</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-197" href="https://issues.apache.org/jira/browse/TEPHRA-197">Unable to start HRegionServer </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Arcflash" id="reporter_Arcflash" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Arcflash">Arcflash</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Nov/16 06:29"><time datetime="2016-11-07T06:29:39+0000">07/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Nov/16 09:10"><time datetime="2016-11-08T09:10:55+0000">08/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13013020" rel="13013020" data-issuekey="TEPHRA-194" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-194" href="https://issues.apache.org/jira/browse/TEPHRA-194"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-194" href="https://issues.apache.org/jira/browse/TEPHRA-194">TEPHRA-194</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-194" href="https://issues.apache.org/jira/browse/TEPHRA-194">Transaction client should not retry startShort() if an invalid timeout is given </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anew" id="assignee_anew" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anew">Andreas Neumann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anew" id="reporter_anew" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anew">Andreas Neumann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Oct/16 22:46"><time datetime="2016-10-17T22:46:36+0000">17/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Dec/16 21:14"><time datetime="2016-12-08T21:14:12+0000">08/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002475" rel="13002475" data-issuekey="TEPHRA-180" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-180" href="https://issues.apache.org/jira/browse/TEPHRA-180"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-180" href="https://issues.apache.org/jira/browse/TEPHRA-180">TEPHRA-180</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-180" href="https://issues.apache.org/jira/browse/TEPHRA-180">Transaction Manager doesn&#39;t shut down properly in some cases</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anwar1" id="reporter_anwar1" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anwar1">Ali Anwar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="02/Sep/16 20:35"><time datetime="2016-09-02T20:35:12+0000">02/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="02/Sep/16 20:36"><time datetime="2016-09-02T20:36:28+0000">02/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002213" rel="13002213" data-issuekey="TEPHRA-179" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-179" href="https://issues.apache.org/jira/browse/TEPHRA-179"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-179" href="https://issues.apache.org/jira/browse/TEPHRA-179">TEPHRA-179</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-179" href="https://issues.apache.org/jira/browse/TEPHRA-179">Tephra transaction manager breaks on zookeeper restart</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anwar1" id="assignee_anwar1" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anwar1">Ali Anwar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="francischuang" id="reporter_francischuang" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=francischuang">Francis Chuang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Sep/16 00:35"><time datetime="2016-09-02T00:35:04+0000">02/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/16 05:10"><time datetime="2016-09-27T05:10:34+0000">27/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997447" rel="12997447" data-issuekey="TEPHRA-178" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-178" href="https://issues.apache.org/jira/browse/TEPHRA-178"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-178" href="https://issues.apache.org/jira/browse/TEPHRA-178">TEPHRA-178</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-178" href="https://issues.apache.org/jira/browse/TEPHRA-178">Create HBase 1.2 compatibility module</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamestaylor" id="reporter_jamestaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamestaylor">James Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="16/Aug/16 01:19"><time datetime="2016-08-16T01:19:52+0000">16/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="07/Sep/16 22:37"><time datetime="2016-09-07T22:37:51+0000">07/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12984458" rel="12984458" data-issuekey="TEPHRA-177" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-177" href="https://issues.apache.org/jira/browse/TEPHRA-177"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-177" href="https://issues.apache.org/jira/browse/TEPHRA-177">TEPHRA-177</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-177" href="https://issues.apache.org/jira/browse/TEPHRA-177">compatibility module doesn&#39;t work properly with CDH5.7</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sagark" id="assignee_sagark" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sagark">Sagar Kapare</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="busbey" id="reporter_busbey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=busbey">Sean Busbey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jun/16 18:45"><time datetime="2016-06-28T18:45:05+0000">28/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/16 02:03"><time datetime="2016-09-13T02:03:41+0000">13/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982840" rel="12982840" data-issuekey="TEPHRA-169" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-169" href="https://issues.apache.org/jira/browse/TEPHRA-169"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-169" href="https://issues.apache.org/jira/browse/TEPHRA-169">TEPHRA-169</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-169" href="https://issues.apache.org/jira/browse/TEPHRA-169">Transactionally deleted cells become visible after few hours on HBase 1.1</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sagark" id="assignee_sagark" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sagark">Sagar Kapare</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Feb/16 19:31"><time datetime="2016-02-05T19:31:02+0000">05/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Jun/16 19:15"><time datetime="2016-06-28T19:15:21+0000">28/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982845" rel="12982845" data-issuekey="TEPHRA-164" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-164" href="https://issues.apache.org/jira/browse/TEPHRA-164"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-164" href="https://issues.apache.org/jira/browse/TEPHRA-164">TEPHRA-164</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-164" href="https://issues.apache.org/jira/browse/TEPHRA-164">Multiple instances of tx-state-refresh thread can run concurrently in HBase region server</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="08/Jan/16 08:48"><time datetime="2016-01-08T08:48:39+0000">08/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Jan/16 00:48"><time datetime="2016-01-12T00:48:49+0000">12/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982847" rel="12982847" data-issuekey="TEPHRA-162" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-162" href="https://issues.apache.org/jira/browse/TEPHRA-162"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-162" href="https://issues.apache.org/jira/browse/TEPHRA-162">TEPHRA-162</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-162" href="https://issues.apache.org/jira/browse/TEPHRA-162">Ensure TransactionVisibilityFilter cooperates with other filters</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamestaylor" id="reporter_jamestaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamestaylor">James Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Dec/15 05:03"><time datetime="2015-12-27T05:03:40+0000">27/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="28/Jun/16 19:19"><time datetime="2016-06-28T19:19:51+0000">28/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982853" rel="12982853" data-issuekey="TEPHRA-156" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-156" href="https://issues.apache.org/jira/browse/TEPHRA-156"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-156" href="https://issues.apache.org/jira/browse/TEPHRA-156">TEPHRA-156</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-156" href="https://issues.apache.org/jira/browse/TEPHRA-156">Writes through TransactionAwareHTable do not write to WAL</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamestaylor" id="reporter_jamestaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamestaylor">James Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Dec/15 02:12"><time datetime="2015-12-16T02:12:08+0000">16/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="25/Dec/15 01:39"><time datetime="2015-12-25T01:39:17+0000">25/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982856" rel="12982856" data-issuekey="TEPHRA-153" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-153" href="https://issues.apache.org/jira/browse/TEPHRA-153"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-153" href="https://issues.apache.org/jira/browse/TEPHRA-153">TEPHRA-153</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-153" href="https://issues.apache.org/jira/browse/TEPHRA-153">Status for transaction manager reports as running through CLI when down</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamestaylor" id="reporter_jamestaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamestaylor">James Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Dec/15 01:35"><time datetime="2015-12-11T01:35:37+0000">11/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="03/Sep/16 01:07"><time datetime="2016-09-03T01:07:09+0000">03/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982857" rel="12982857" data-issuekey="TEPHRA-152" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-152" href="https://issues.apache.org/jira/browse/TEPHRA-152"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-152" href="https://issues.apache.org/jira/browse/TEPHRA-152">TEPHRA-152</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-152" href="https://issues.apache.org/jira/browse/TEPHRA-152">TransactionStateCache refresh thread does not get stopped</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Nov/15 02:38"><time datetime="2015-11-30T02:38:14+0000">30/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Mar/17 01:24"><time datetime="2017-03-02T01:24:41+0000">02/Mar/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982860" rel="12982860" data-issuekey="TEPHRA-149" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-149" href="https://issues.apache.org/jira/browse/TEPHRA-149"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-149" href="https://issues.apache.org/jira/browse/TEPHRA-149">TEPHRA-149</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-149" href="https://issues.apache.org/jira/browse/TEPHRA-149">Do not preserve attributes for Tephra delete markers in TransactionProcessor</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamestaylor" id="reporter_jamestaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamestaylor">James Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/Nov/15 01:54"><time datetime="2015-11-05T01:54:50+0000">05/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="05/Nov/15 22:49"><time datetime="2015-11-05T22:49:49+0000">05/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982869" rel="12982869" data-issuekey="TEPHRA-140" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-140" href="https://issues.apache.org/jira/browse/TEPHRA-140"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-140" href="https://issues.apache.org/jira/browse/TEPHRA-140">TEPHRA-140</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-140" href="https://issues.apache.org/jira/browse/TEPHRA-140">TransactionManager commit should include checkpoint write pointers while advancing read pointer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tdsilva" id="reporter_tdsilva" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tdsilva">Thomas D&#39;Silva</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Oct/15 03:47"><time datetime="2015-10-21T03:47:03+0000">21/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="28/Jun/16 19:47"><time datetime="2016-06-28T19:47:22+0000">28/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982872" rel="12982872" data-issuekey="TEPHRA-137" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-137" href="https://issues.apache.org/jira/browse/TEPHRA-137"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-137" href="https://issues.apache.org/jira/browse/TEPHRA-137">TEPHRA-137</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-137" href="https://issues.apache.org/jira/browse/TEPHRA-137">TransactionExecutor should allow to specify a Supplier&lt;TransactionContext&gt;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anew" id="reporter_anew" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anew">Andreas Neumann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Oct/15 01:08"><time datetime="2015-10-13T01:08:40+0000">13/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/16 21:42"><time datetime="2016-02-19T21:42:18+0000">19/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982876" rel="12982876" data-issuekey="TEPHRA-133" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-133" href="https://issues.apache.org/jira/browse/TEPHRA-133"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-133" href="https://issues.apache.org/jira/browse/TEPHRA-133">TEPHRA-133</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-133" href="https://issues.apache.org/jira/browse/TEPHRA-133">When the final transaction edit log is not cleanly closed, Tephra should be able to recover</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="assignee_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gsps1" id="reporter_gsps1" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gsps1">Shankar Selvam</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/15 02:45"><time datetime="2015-10-03T02:45:56+0000">03/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/16 00:07"><time datetime="2016-07-13T00:07:46+0000">13/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982877" rel="12982877" data-issuekey="TEPHRA-132" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-132" href="https://issues.apache.org/jira/browse/TEPHRA-132"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-132" href="https://issues.apache.org/jira/browse/TEPHRA-132">TEPHRA-132</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-132" href="https://issues.apache.org/jira/browse/TEPHRA-132">ThriftRPCServer can hang when primary transaction service loses leadership</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Sep/15 23:32"><time datetime="2015-09-28T23:32:37+0000">28/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="04/Nov/15 05:28"><time datetime="2015-11-04T05:28:51+0000">04/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982878" rel="12982878" data-issuekey="TEPHRA-131" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-131" href="https://issues.apache.org/jira/browse/TEPHRA-131"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-131" href="https://issues.apache.org/jira/browse/TEPHRA-131">TEPHRA-131</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-131" href="https://issues.apache.org/jira/browse/TEPHRA-131">NPE on rollback of a family delete with ConflictDetection.ROW</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="gokulavasan" id="assignee_gokulavasan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gokulavasan">Gokul Gunasekaran</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamestaylor" id="reporter_jamestaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamestaylor">James Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Sep/15 23:47"><time datetime="2015-09-25T23:47:30+0000">25/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Nov/15 19:55"><time datetime="2015-11-02T19:55:28+0000">02/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982883" rel="12982883" data-issuekey="TEPHRA-125" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-125" href="https://issues.apache.org/jira/browse/TEPHRA-125"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-125" href="https://issues.apache.org/jira/browse/TEPHRA-125">TEPHRA-125</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-125" href="https://issues.apache.org/jira/browse/TEPHRA-125">Some testcases fails when whole test package is ran through IDE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="talktorohit54@gmail.com" id="assignee_talktorohit54@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=talktorohit54%40gmail.com">Rohit Sinha</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="talktorohit54@gmail.com" id="reporter_talktorohit54@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=talktorohit54%40gmail.com">Rohit Sinha</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="29/Aug/15 01:21"><time datetime="2015-08-29T01:21:53+0000">29/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="31/Aug/15 20:13"><time datetime="2015-08-31T20:13:34+0000">31/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982886" rel="12982886" data-issuekey="TEPHRA-122" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-122" href="https://issues.apache.org/jira/browse/TEPHRA-122"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-122" href="https://issues.apache.org/jira/browse/TEPHRA-122">TEPHRA-122</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-122" href="https://issues.apache.org/jira/browse/TEPHRA-122">SnapshotCodecV4 is not serializing checkpoint write pointers.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="assignee_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="reporter_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Aug/15 20:21"><time datetime="2015-08-25T20:21:23+0000">25/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="25/Aug/15 22:28"><time datetime="2015-08-25T22:28:50+0000">25/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982887" rel="12982887" data-issuekey="TEPHRA-121" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-121" href="https://issues.apache.org/jira/browse/TEPHRA-121"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-121" href="https://issues.apache.org/jira/browse/TEPHRA-121">TEPHRA-121</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-121" href="https://issues.apache.org/jira/browse/TEPHRA-121">&quot;SNAPHOT&quot; mis-spelling in two constants</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="reporter_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Aug/15 15:49"><time datetime="2015-08-20T15:49:01+0000">20/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="26/Aug/15 23:30"><time datetime="2015-08-26T23:30:24+0000">26/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982889" rel="12982889" data-issuekey="TEPHRA-119" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-119" href="https://issues.apache.org/jira/browse/TEPHRA-119"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-119" href="https://issues.apache.org/jira/browse/TEPHRA-119">TEPHRA-119</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-119" href="https://issues.apache.org/jira/browse/TEPHRA-119">TransactionEditCodecV4 not getting used in deserialization</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Aug/15 00:47"><time datetime="2015-08-12T00:47:52+0000">12/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="12/Aug/15 18:35"><time datetime="2015-08-12T18:35:08+0000">12/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982892" rel="12982892" data-issuekey="TEPHRA-116" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-116" href="https://issues.apache.org/jira/browse/TEPHRA-116"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-116" href="https://issues.apache.org/jira/browse/TEPHRA-116">TEPHRA-116</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-116" href="https://issues.apache.org/jira/browse/TEPHRA-116">Defensively check for null fields in transactions serialized with older thrift classes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Aug/15 04:03"><time datetime="2015-08-01T04:03:51+0000">01/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/16 00:15"><time datetime="2016-07-13T00:15:27+0000">13/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982893" rel="12982893" data-issuekey="TEPHRA-115" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-115" href="https://issues.apache.org/jira/browse/TEPHRA-115"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-115" href="https://issues.apache.org/jira/browse/TEPHRA-115">TEPHRA-115</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-115" href="https://issues.apache.org/jira/browse/TEPHRA-115">Deadlock in PooledClientProvider</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rbeckers" id="reporter_rbeckers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rbeckers">Remco Beckers</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Jul/15 06:02"><time datetime="2015-07-30T06:02:12+0000">30/Jul/15</time></span> </td>
+                                            <td class="updated"> <span title="11/Aug/15 09:31"><time datetime="2015-08-11T09:31:38+0000">11/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982897" rel="12982897" data-issuekey="TEPHRA-111" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-111" href="https://issues.apache.org/jira/browse/TEPHRA-111"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-111" href="https://issues.apache.org/jira/browse/TEPHRA-111">TEPHRA-111</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-111" href="https://issues.apache.org/jira/browse/TEPHRA-111">HBaseVersion class fails to recognize HBase 1.0.1.1</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="assignee_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="reporter_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Jul/15 05:59"><time datetime="2015-07-13T05:59:07+0000">13/Jul/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/15 06:16"><time datetime="2015-07-13T06:16:03+0000">13/Jul/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982898" rel="12982898" data-issuekey="TEPHRA-110" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-110" href="https://issues.apache.org/jira/browse/TEPHRA-110"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-110" href="https://issues.apache.org/jira/browse/TEPHRA-110">TEPHRA-110</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-110" href="https://issues.apache.org/jira/browse/TEPHRA-110">SnapshotCodecProvider does not properly clean configured class names</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Jul/15 02:05"><time datetime="2015-07-01T02:05:58+0000">01/Jul/15</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/15 17:09"><time datetime="2015-07-01T17:09:35+0000">01/Jul/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982900" rel="12982900" data-issuekey="TEPHRA-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-108" href="https://issues.apache.org/jira/browse/TEPHRA-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-108" href="https://issues.apache.org/jira/browse/TEPHRA-108">TEPHRA-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-108" href="https://issues.apache.org/jira/browse/TEPHRA-108">SnapshotCodecProvider can&#39;t load codec classes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Jun/15 01:45"><time datetime="2015-06-25T01:45:05+0000">25/Jun/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/16 05:06"><time datetime="2016-07-14T05:06:49+0000">14/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982905" rel="12982905" data-issuekey="TEPHRA-103" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-103" href="https://issues.apache.org/jira/browse/TEPHRA-103"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-103" href="https://issues.apache.org/jira/browse/TEPHRA-103">TEPHRA-103</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-103" href="https://issues.apache.org/jira/browse/TEPHRA-103">TransactionAwareTable may recognize non-conflicting changes as conflicting</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="alexb" id="reporter_alexb" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=alexb">Alex Baranau</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="26/May/15 21:00"><time datetime="2015-05-26T21:00:43+0000">26/May/15</time></span> </td>
+                                            <td class="updated"> <span title="28/Jun/16 19:49"><time datetime="2016-06-28T19:49:14+0000">28/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982911" rel="12982911" data-issuekey="TEPHRA-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-97" href="https://issues.apache.org/jira/browse/TEPHRA-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-97" href="https://issues.apache.org/jira/browse/TEPHRA-97">TEPHRA-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-97" href="https://issues.apache.org/jira/browse/TEPHRA-97">Row deletes should cover writes at the same timestamp</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/May/15 02:22"><time datetime="2015-05-05T02:22:44+0000">05/May/15</time></span> </td>
+                                            <td class="updated"> <span title="05/May/15 02:33"><time datetime="2015-05-05T02:33:47+0000">05/May/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982924" rel="12982924" data-issuekey="TEPHRA-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-84" href="https://issues.apache.org/jira/browse/TEPHRA-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-84" href="https://issues.apache.org/jira/browse/TEPHRA-84">TEPHRA-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-84" href="https://issues.apache.org/jira/browse/TEPHRA-84">Need to use a Guice provider for TransactionManager in TransactionService</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Mar/15 01:09"><time datetime="2015-03-27T01:09:48+0000">27/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/16 05:10"><time datetime="2016-09-27T05:10:33+0000">27/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982930" rel="12982930" data-issuekey="TEPHRA-78" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-78" href="https://issues.apache.org/jira/browse/TEPHRA-78"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-78" href="https://issues.apache.org/jira/browse/TEPHRA-78">TEPHRA-78</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-78" href="https://issues.apache.org/jira/browse/TEPHRA-78">tephra shell script should not limit use to RHEL and Ubuntu</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Mar/15 21:11"><time datetime="2015-03-12T21:11:58+0000">12/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="31/Mar/15 02:23"><time datetime="2015-03-31T02:23:47+0000">31/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982932" rel="12982932" data-issuekey="TEPHRA-76" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-76" href="https://issues.apache.org/jira/browse/TEPHRA-76"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-76" href="https://issues.apache.org/jira/browse/TEPHRA-76">TEPHRA-76</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-76" href="https://issues.apache.org/jira/browse/TEPHRA-76">TxUtils.getMaxVisibleTimestamp() can overflow</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Mar/15 23:44"><time datetime="2015-03-11T23:44:04+0000">11/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:20"><time datetime="2015-03-24T23:20:46+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982941" rel="12982941" data-issuekey="TEPHRA-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-67" href="https://issues.apache.org/jira/browse/TEPHRA-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-67" href="https://issues.apache.org/jira/browse/TEPHRA-67">TEPHRA-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-67" href="https://issues.apache.org/jira/browse/TEPHRA-67">TransactionAwareHTable should not collect change sets for long running transaction</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="02/Mar/15 23:17"><time datetime="2015-03-02T23:17:19+0000">02/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="05/Aug/15 21:45"><time datetime="2015-08-05T21:45:53+0000">05/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982942" rel="12982942" data-issuekey="TEPHRA-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-66" href="https://issues.apache.org/jira/browse/TEPHRA-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-66" href="https://issues.apache.org/jira/browse/TEPHRA-66">TEPHRA-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-66" href="https://issues.apache.org/jira/browse/TEPHRA-66">TransactionServiceClient hangs on canCommit() when change set is huge</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="reporter_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="26/Feb/15 08:04"><time datetime="2015-02-26T08:04:44+0000">26/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="11/Aug/15 17:53"><time datetime="2015-08-11T17:53:04+0000">11/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982943" rel="12982943" data-issuekey="TEPHRA-65" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-65" href="https://issues.apache.org/jira/browse/TEPHRA-65"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-65" href="https://issues.apache.org/jira/browse/TEPHRA-65">TEPHRA-65</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-65" href="https://issues.apache.org/jira/browse/TEPHRA-65">TransactionAwareHTable does not provide read-your-own-writes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Feb/15 03:29"><time datetime="2015-02-18T03:29:05+0000">18/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:20"><time datetime="2015-03-24T23:20:46+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982959" rel="12982959" data-issuekey="TEPHRA-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-49" href="https://issues.apache.org/jira/browse/TEPHRA-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-49" href="https://issues.apache.org/jira/browse/TEPHRA-49">TEPHRA-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-49" href="https://issues.apache.org/jira/browse/TEPHRA-49">TransactionProcessor should not limit versions on flush and compaction scans</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Dec/14 23:37"><time datetime="2014-12-17T23:37:19+0000">17/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/16 05:52"><time datetime="2016-07-14T05:52:01+0000">14/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982960" rel="12982960" data-issuekey="TEPHRA-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-48" href="https://issues.apache.org/jira/browse/TEPHRA-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-48" href="https://issues.apache.org/jira/browse/TEPHRA-48">TEPHRA-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-48" href="https://issues.apache.org/jira/browse/TEPHRA-48">DefaultTransactionExecutor should retry only if it gets a TransactionConflictException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdmogal" id="reporter_bdmogal" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdmogal">Bhooshan Mogal</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="04/Dec/14 19:37"><time datetime="2014-12-04T19:37:08+0000">04/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="04/Dec/14 23:52"><time datetime="2014-12-04T23:52:49+0000">04/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982961" rel="12982961" data-issuekey="TEPHRA-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-47" href="https://issues.apache.org/jira/browse/TEPHRA-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-47" href="https://issues.apache.org/jira/browse/TEPHRA-47">TEPHRA-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-47" href="https://issues.apache.org/jira/browse/TEPHRA-47">TransactionService should propagate exception causing abort of TransactionManager</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Dec/14 01:16"><time datetime="2014-12-04T01:16:22+0000">04/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:20"><time datetime="2015-03-24T23:20:47+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982965" rel="12982965" data-issuekey="TEPHRA-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-43" href="https://issues.apache.org/jira/browse/TEPHRA-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-43" href="https://issues.apache.org/jira/browse/TEPHRA-43">TEPHRA-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-43" href="https://issues.apache.org/jira/browse/TEPHRA-43">TransactionVisibilityFilter can prematurely drop delete markers</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Nov/14 20:45"><time datetime="2014-11-05T20:45:08+0000">05/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/16 05:52"><time datetime="2016-07-14T05:52:51+0000">14/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982966" rel="12982966" data-issuekey="TEPHRA-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-42" href="https://issues.apache.org/jira/browse/TEPHRA-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-42" href="https://issues.apache.org/jira/browse/TEPHRA-42">TEPHRA-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-42" href="https://issues.apache.org/jira/browse/TEPHRA-42">Coprocessor to clear deleted data in tephra</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mrm72" id="reporter_mrm72" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mrm72">Mohammadreza</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="05/Nov/14 18:25"><time datetime="2014-11-05T18:25:33+0000">05/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/16 05:53"><time datetime="2016-07-14T05:53:40+0000">14/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982971" rel="12982971" data-issuekey="TEPHRA-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-37" href="https://issues.apache.org/jira/browse/TEPHRA-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-37" href="https://issues.apache.org/jira/browse/TEPHRA-37">TEPHRA-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-37" href="https://issues.apache.org/jira/browse/TEPHRA-37">tephra.io fixes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="adrien" id="assignee_adrien" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=adrien">Adrien Cahen</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Oct/14 19:46"><time datetime="2014-10-01T19:46:02+0000">01/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Oct/14 17:35"><time datetime="2014-10-24T17:35:29+0000">24/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982972" rel="12982972" data-issuekey="TEPHRA-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-36" href="https://issues.apache.org/jira/browse/TEPHRA-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-36" href="https://issues.apache.org/jira/browse/TEPHRA-36">TEPHRA-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-36" href="https://issues.apache.org/jira/browse/TEPHRA-36">Add a MasterObserver implementation to set table properties on creation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="29/Aug/14 22:04"><time datetime="2014-08-29T22:04:29+0000">29/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 23:35"><time datetime="2014-09-30T23:35:32+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982974" rel="12982974" data-issuekey="TEPHRA-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-33" href="https://issues.apache.org/jira/browse/TEPHRA-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-33" href="https://issues.apache.org/jira/browse/TEPHRA-33">TEPHRA-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-33" href="https://issues.apache.org/jira/browse/TEPHRA-33">Use correct config for transaction state storage</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Aug/14 01:05"><time datetime="2014-08-09T01:05:53+0000">09/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 23:35"><time datetime="2014-09-30T23:35:32+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982975" rel="12982975" data-issuekey="TEPHRA-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-31" href="https://issues.apache.org/jira/browse/TEPHRA-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-31" href="https://issues.apache.org/jira/browse/TEPHRA-31">TEPHRA-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-31" href="https://issues.apache.org/jira/browse/TEPHRA-31">TEPHRA-9 Use transaction filter instead of wrapping scanner on flush and compact</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="08/Aug/14 07:13"><time datetime="2014-08-08T07:13:33+0000">08/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/16 05:57"><time datetime="2016-07-14T05:57:38+0000">14/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982976" rel="12982976" data-issuekey="TEPHRA-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-30" href="https://issues.apache.org/jira/browse/TEPHRA-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-30" href="https://issues.apache.org/jira/browse/TEPHRA-30">TEPHRA-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-30" href="https://issues.apache.org/jira/browse/TEPHRA-30">add a away to add a transaction aware to an in-progress transaction context</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anew" id="assignee_anew" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anew">Andreas Neumann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anew" id="reporter_anew" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anew">Andreas Neumann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Aug/14 18:15"><time datetime="2014-08-07T18:15:08+0000">07/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/15 23:59"><time datetime="2015-01-28T23:59:39+0000">28/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982977" rel="12982977" data-issuekey="TEPHRA-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-29" href="https://issues.apache.org/jira/browse/TEPHRA-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-29" href="https://issues.apache.org/jira/browse/TEPHRA-29">TEPHRA-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-29" href="https://issues.apache.org/jira/browse/TEPHRA-29">TEPHRA-8 Cleanup class and package names</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="04/Aug/14 23:51"><time datetime="2014-08-04T23:51:11+0000">04/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/16 05:58"><time datetime="2016-07-14T05:58:16+0000">14/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982978" rel="12982978" data-issuekey="TEPHRA-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-28" href="https://issues.apache.org/jira/browse/TEPHRA-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-28" href="https://issues.apache.org/jira/browse/TEPHRA-28">TEPHRA-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-28" href="https://issues.apache.org/jira/browse/TEPHRA-28">TEPHRA-4 TransactionVisibilityFilter should support additional filtering on visible cells</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="31/Jul/14 23:18"><time datetime="2014-07-31T23:18:16+0000">31/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/16 05:59"><time datetime="2016-07-14T05:59:05+0000">14/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982979" rel="12982979" data-issuekey="TEPHRA-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-26" href="https://issues.apache.org/jira/browse/TEPHRA-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-26" href="https://issues.apache.org/jira/browse/TEPHRA-26">TEPHRA-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-26" href="https://issues.apache.org/jira/browse/TEPHRA-26">(TEPHRA-2) Make ChangeId not depends on HBase Bytes.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="assignee_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="reporter_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jul/14 18:44"><time datetime="2014-07-29T18:44:04+0000">29/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 22:33"><time datetime="2014-09-30T22:33:52+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982980" rel="12982980" data-issuekey="TEPHRA-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-25" href="https://issues.apache.org/jira/browse/TEPHRA-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-25" href="https://issues.apache.org/jira/browse/TEPHRA-25">TEPHRA-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-25" href="https://issues.apache.org/jira/browse/TEPHRA-25">Fixing Title of CI Build Status Icon</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="assignee_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="reporter_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jul/14 19:52"><time datetime="2014-07-28T19:52:25+0000">28/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Oct/14 20:11"><time datetime="2014-10-01T20:11:42+0000">01/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982981" rel="12982981" data-issuekey="TEPHRA-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-24" href="https://issues.apache.org/jira/browse/TEPHRA-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-24" href="https://issues.apache.org/jira/browse/TEPHRA-24">TEPHRA-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-24" href="https://issues.apache.org/jira/browse/TEPHRA-24">Do lazy initialization of PooledClientProvider to avoid guide injection error.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="assignee_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="reporter_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jul/14 20:04"><time datetime="2014-07-21T20:04:49+0000">21/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 22:33"><time datetime="2014-09-30T22:33:52+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982982" rel="12982982" data-issuekey="TEPHRA-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-23" href="https://issues.apache.org/jira/browse/TEPHRA-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-23" href="https://issues.apache.org/jira/browse/TEPHRA-23">TEPHRA-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-23" href="https://issues.apache.org/jira/browse/TEPHRA-23">Build and coprocessor support for Apache HBase 0.98</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="apurtell" id="assignee_apurtell" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apurtell">Andrew Purtell</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="apurtell" id="reporter_apurtell" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apurtell">Andrew Purtell</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jul/14 16:35"><time datetime="2014-07-21T16:35:07+0000">21/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="18/Dec/14 19:11"><time datetime="2014-12-18T19:11:44+0000">18/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982983" rel="12982983" data-issuekey="TEPHRA-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-22" href="https://issues.apache.org/jira/browse/TEPHRA-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-22" href="https://issues.apache.org/jira/browse/TEPHRA-22">TEPHRA-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-22" href="https://issues.apache.org/jira/browse/TEPHRA-22">Exclude SCM, IDE, and build output files from RAT checks</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="assignee_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="apurtell" id="reporter_apurtell" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apurtell">Andrew Purtell</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jul/14 16:04"><time datetime="2014-07-21T16:04:34+0000">21/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 18:23"><time datetime="2014-09-30T18:23:40+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982984" rel="12982984" data-issuekey="TEPHRA-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-21" href="https://issues.apache.org/jira/browse/TEPHRA-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-21" href="https://issues.apache.org/jira/browse/TEPHRA-21">TEPHRA-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-21" href="https://issues.apache.org/jira/browse/TEPHRA-21">Fix version references in README for 0.1.0 release</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jul/14 23:40"><time datetime="2014-07-18T23:40:16+0000">18/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:04"><time datetime="2015-03-24T23:04:27+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982985" rel="12982985" data-issuekey="TEPHRA-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-20" href="https://issues.apache.org/jira/browse/TEPHRA-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-20" href="https://issues.apache.org/jira/browse/TEPHRA-20">TEPHRA-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-20" href="https://issues.apache.org/jira/browse/TEPHRA-20">Fix overly long lines.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="assignee_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="reporter_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/14 23:52"><time datetime="2014-07-17T23:52:28+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:05"><time datetime="2015-03-24T23:05:09+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982986" rel="12982986" data-issuekey="TEPHRA-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-19" href="https://issues.apache.org/jira/browse/TEPHRA-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-19" href="https://issues.apache.org/jira/browse/TEPHRA-19">TEPHRA-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-19" href="https://issues.apache.org/jira/browse/TEPHRA-19">Fix tephra package name in docs and scripts</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/14 23:29"><time datetime="2014-07-17T23:29:21+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 23:35"><time datetime="2014-09-30T23:35:32+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982987" rel="12982987" data-issuekey="TEPHRA-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-18" href="https://issues.apache.org/jira/browse/TEPHRA-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-18" href="https://issues.apache.org/jira/browse/TEPHRA-18">TEPHRA-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-18" href="https://issues.apache.org/jira/browse/TEPHRA-18">Fix NPE in PooledClientProvider by properly initialize it.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="assignee_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chtyim" id="reporter_chtyim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chtyim">Terence Yim</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/14 23:16"><time datetime="2014-07-17T23:16:19+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:05"><time datetime="2015-03-24T23:05:02+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982988" rel="12982988" data-issuekey="TEPHRA-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-17" href="https://issues.apache.org/jira/browse/TEPHRA-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-17" href="https://issues.apache.org/jira/browse/TEPHRA-17">TEPHRA-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-17" href="https://issues.apache.org/jira/browse/TEPHRA-17">removed call to non existing set_hbase function in tephra script</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shujavit" id="reporter_shujavit" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shujavit">Shuvajit Das</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/14 22:59"><time datetime="2014-07-17T22:59:34+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:04"><time datetime="2015-03-24T23:04:40+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982989" rel="12982989" data-issuekey="TEPHRA-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-16" href="https://issues.apache.org/jira/browse/TEPHRA-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-16" href="https://issues.apache.org/jira/browse/TEPHRA-16">TEPHRA-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-16" href="https://issues.apache.org/jira/browse/TEPHRA-16">Revised logo and readme.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="reporter_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="17/Jul/14 22:52"><time datetime="2014-07-17T22:52:58+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 18:33"><time datetime="2014-09-30T18:33:29+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982990" rel="12982990" data-issuekey="TEPHRA-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-15" href="https://issues.apache.org/jira/browse/TEPHRA-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-15" href="https://issues.apache.org/jira/browse/TEPHRA-15">TEPHRA-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-15" href="https://issues.apache.org/jira/browse/TEPHRA-15">Add in Client API usage documentation to README</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/14 22:07"><time datetime="2014-07-17T22:07:41+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 23:35"><time datetime="2014-09-30T23:35:32+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982991" rel="12982991" data-issuekey="TEPHRA-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-14" href="https://issues.apache.org/jira/browse/TEPHRA-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-14" href="https://issues.apache.org/jira/browse/TEPHRA-14">TEPHRA-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-14" href="https://issues.apache.org/jira/browse/TEPHRA-14">Add support for binary distribution</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/14 20:54"><time datetime="2014-07-17T20:54:04+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 23:35"><time datetime="2014-09-30T23:35:32+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982992" rel="12982992" data-issuekey="TEPHRA-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-13" href="https://issues.apache.org/jira/browse/TEPHRA-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-13" href="https://issues.apache.org/jira/browse/TEPHRA-13">TEPHRA-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-13" href="https://issues.apache.org/jira/browse/TEPHRA-13">[0.1.0] [DOCS] Feature/0.1.0 docs</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="assignee_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="john_jackson" id="reporter_john_jackson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=john_jackson">John Jackson</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/14 17:14"><time datetime="2014-07-17T17:14:10+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 18:36"><time datetime="2014-09-30T18:36:22+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982993" rel="12982993" data-issuekey="TEPHRA-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-12" href="https://issues.apache.org/jira/browse/TEPHRA-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-12" href="https://issues.apache.org/jira/browse/TEPHRA-12">TEPHRA-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-12" href="https://issues.apache.org/jira/browse/TEPHRA-12">Add README file covering project overview, getting started, etc</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="poornachandra" id="assignee_poornachandra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poornachandra">Poorna Chandra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Jul/14 22:11"><time datetime="2014-07-16T22:11:34+0000">16/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/14 23:35"><time datetime="2014-09-30T23:35:32+0000">30/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12982994" rel="12982994" data-issuekey="TEPHRA-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TEPHRA-11" href="https://issues.apache.org/jira/browse/TEPHRA-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TEPHRA-11" href="https://issues.apache.org/jira/browse/TEPHRA-11">TEPHRA-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TEPHRA-11" href="https://issues.apache.org/jira/browse/TEPHRA-11">TransactionProcessor use of FilterList on flush and compaction causes abort</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="assignee_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ghelmling" id="reporter_ghelmling" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ghelmling">Gary Helmling</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Aug/14 18:30"><time datetime="2014-08-19T18:30:56+0000">19/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/15 23:06"><time datetime="2015-03-24T23:06:15+0000">24/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

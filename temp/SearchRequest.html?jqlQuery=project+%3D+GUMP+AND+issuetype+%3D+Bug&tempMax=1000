@@ -1,0 +1,2337 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+GUMP+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+GUMP+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/GUMP" title="Browse Gump project">Gump</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>65</b> of <b>65</b>
+            as at: <b>05/Mar/17 16:56</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12613774" rel="12613774" data-issuekey="GUMP-169" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-169" href="https://issues.apache.org/jira/browse/GUMP-169"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-169" href="https://issues.apache.org/jira/browse/GUMP-169">GUMP-169</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-169" href="https://issues.apache.org/jira/browse/GUMP-169">Build fails due to missing plugin that is not missing.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ralph.goers@dslextreme.com" id="reporter_ralph.goers@dslextreme.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ralph.goers%40dslextreme.com">Ralph Goers</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Oct/12 21:13"><time datetime="2012-10-27T21:13:36+0000">27/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="04/Jul/16 16:17"><time datetime="2016-07-04T16:17:13+0000">04/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12608919" rel="12608919" data-issuekey="GUMP-168" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-168" href="https://issues.apache.org/jira/browse/GUMP-168"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-168" href="https://issues.apache.org/jira/browse/GUMP-168">GUMP-168</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-168" href="https://issues.apache.org/jira/browse/GUMP-168">Project xml-xmlbeans-v1 (in module xml-xmlbeans) failed</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cezar" id="reporter_cezar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cezar">Cezar Andrei</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="24/Sep/12 19:30"><time datetime="2012-09-24T19:30:51+0000">24/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="24/Sep/12 19:30"><time datetime="2012-09-24T19:30:51+0000">24/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12532455" rel="12532455" data-issuekey="GUMP-167" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-167" href="https://issues.apache.org/jira/browse/GUMP-167"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-167" href="https://issues.apache.org/jira/browse/GUMP-167">GUMP-167</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-167" href="https://issues.apache.org/jira/browse/GUMP-167">Add Mockito to Apache FOPs classpath</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="med1985@gmail.com" id="reporter_med1985@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=med1985%40gmail.com">Mehdi Houshmand</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Nov/11 11:45"><time datetime="2011-11-23T11:45:39+0000">23/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="23/Nov/11 13:24"><time datetime="2011-11-23T13:24:24+0000">23/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12532161" rel="12532161" data-issuekey="GUMP-166" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-166" href="https://issues.apache.org/jira/browse/GUMP-166"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-166" href="https://issues.apache.org/jira/browse/GUMP-166">GUMP-166</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-166" href="https://issues.apache.org/jira/browse/GUMP-166">Add fop-hyph.jar to Apache FOP&#39;s classpath</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vhennebert" id="reporter_vhennebert" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vhennebert">Vincent Hennebert</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Nov/11 14:43"><time datetime="2011-11-21T14:43:44+0000">21/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="22/Nov/11 16:17"><time datetime="2011-11-22T16:17:30+0000">22/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12480104" rel="12480104" data-issuekey="GUMP-161" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-161" href="https://issues.apache.org/jira/browse/GUMP-161"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-161" href="https://issues.apache.org/jira/browse/GUMP-161">GUMP-161</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-161" href="https://issues.apache.org/jira/browse/GUMP-161">Apache Gump Metadata does not show actual version used</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Nov/10 12:10"><time datetime="2010-11-16T12:10:33+0000">16/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/12 22:46"><time datetime="2012-02-19T22:46:02+0000">19/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12459750" rel="12459750" data-issuekey="GUMP-160" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-160" href="https://issues.apache.org/jira/browse/GUMP-160"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-160" href="https://issues.apache.org/jira/browse/GUMP-160">GUMP-160</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-160" href="https://issues.apache.org/jira/browse/GUMP-160">Mail message differs significantly from log and does not include the Error !</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Mar/10 14:04"><time datetime="2010-03-20T14:04:31+0000">20/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="20/Mar/10 14:04"><time datetime="2010-03-20T14:04:31+0000">20/Mar/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12325369" rel="12325369" data-issuekey="GUMP-157" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-157" href="https://issues.apache.org/jira/browse/GUMP-157"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-157" href="https://issues.apache.org/jira/browse/GUMP-157">GUMP-157</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-157" href="https://issues.apache.org/jira/browse/GUMP-157">Gump builds fail on Windows when projects include &lt;maven /&gt; tags</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="billbarker" id="reporter_billbarker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=billbarker">Bill Barker</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Nov/05 15:44"><time datetime="2005-11-05T15:44:59+0000">05/Nov/05</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/05 17:58"><time datetime="2005-11-28T17:58:42+0000">28/Nov/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12317564" rel="12317564" data-issuekey="GUMP-156" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-156" href="https://issues.apache.org/jira/browse/GUMP-156"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-156" href="https://issues.apache.org/jira/browse/GUMP-156">GUMP-156</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-156" href="https://issues.apache.org/jira/browse/GUMP-156">Wrong links on the homepage resulting from CVS--&gt;SVN migration</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jhm" id="reporter_jhm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jhm">Jan Matèrne</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Oct/05 15:53"><time datetime="2005-10-04T15:53:14+0000">04/Oct/05</time></span> </td>
+                                            <td class="updated"> <span title="11/Jan/06 05:42"><time datetime="2006-01-11T05:42:07+0000">11/Jan/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12317418" rel="12317418" data-issuekey="GUMP-155" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-155" href="https://issues.apache.org/jira/browse/GUMP-155"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-155" href="https://issues.apache.org/jira/browse/GUMP-155">GUMP-155</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-155" href="https://issues.apache.org/jira/browse/GUMP-155">Gump complains that the HiveMind build failed, when it does not</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hlship" id="reporter_hlship" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hlship">Howard M. Lewis Ship</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="29/Sep/05 22:07"><time datetime="2005-09-29T22:07:58+0000">29/Sep/05</time></span> </td>
+                                            <td class="updated"> <span title="27/Feb/12 05:09"><time datetime="2012-02-27T05:09:26+0000">27/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12317193" rel="12317193" data-issuekey="GUMP-154" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-154" href="https://issues.apache.org/jira/browse/GUMP-154"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-154" href="https://issues.apache.org/jira/browse/GUMP-154">GUMP-154</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-154" href="https://issues.apache.org/jira/browse/GUMP-154">A lot of major links of gump.apache.org are broken</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="joehni" id="reporter_joehni" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=joehni">Joerg Schaible</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Sep/05 14:58"><time datetime="2005-09-22T14:58:58+0000">22/Sep/05</time></span> </td>
+                                            <td class="updated"> <span title="11/Jan/06 05:43"><time datetime="2006-01-11T05:43:07+0000">11/Jan/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12314582" rel="12314582" data-issuekey="GUMP-153" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-153" href="https://issues.apache.org/jira/browse/GUMP-153"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-153" href="https://issues.apache.org/jira/browse/GUMP-153">GUMP-153</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-153" href="https://issues.apache.org/jira/browse/GUMP-153">Gump Metadata: links no longer work</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Sep/05 20:45"><time datetime="2005-09-03T20:45:38+0000">03/Sep/05</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/12 21:52"><time datetime="2012-02-19T21:52:06+0000">19/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12314028" rel="12314028" data-issuekey="GUMP-151" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-151" href="https://issues.apache.org/jira/browse/GUMP-151"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-151" href="https://issues.apache.org/jira/browse/GUMP-151">GUMP-151</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-151" href="https://issues.apache.org/jira/browse/GUMP-151">path separator and depend = maven bugs</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="justinmerz" id="reporter_justinmerz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=justinmerz">Justin Merz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="31/Aug/05 05:52"><time datetime="2005-08-31T05:52:52+0000">31/Aug/05</time></span> </td>
+                                            <td class="updated"> <span title="31/Aug/05 05:55"><time datetime="2005-08-31T05:55:43+0000">31/Aug/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12311669" rel="12311669" data-issuekey="GUMP-140" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-140" href="https://issues.apache.org/jira/browse/GUMP-140"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-140" href="https://issues.apache.org/jira/browse/GUMP-140">GUMP-140</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-140" href="https://issues.apache.org/jira/browse/GUMP-140">Gump crashes when listing</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Jun/05 02:34"><time datetime="2005-06-25T02:34:39+0000">25/Jun/05</time></span> </td>
+                                            <td class="updated"> <span title="25/Jun/05 02:34"><time datetime="2005-06-25T02:34:39+0000">25/Jun/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12311083" rel="12311083" data-issuekey="GUMP-139" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-139" href="https://issues.apache.org/jira/browse/GUMP-139"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-139" href="https://issues.apache.org/jira/browse/GUMP-139">GUMP-139</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-139" href="https://issues.apache.org/jira/browse/GUMP-139">&lt;module &lt;project fails, it needs to be &lt;module &lt;project &lt;module</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lsimons" id="assignee_lsimons" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsimons">Leo Simons</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jun/05 08:14"><time datetime="2005-06-06T08:14:27+0000">06/Jun/05</time></span> </td>
+                                            <td class="updated"> <span title="07/Jul/05 23:37"><time datetime="2005-07-07T23:37:46+0000">07/Jul/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12311082" rel="12311082" data-issuekey="GUMP-138" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-138" href="https://issues.apache.org/jira/browse/GUMP-138"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-138" href="https://issues.apache.org/jira/browse/GUMP-138">GUMP-138</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-138" href="https://issues.apache.org/jira/browse/GUMP-138">Modules dropped (due to missing Repository) causes a crash.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lsimons" id="assignee_lsimons" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsimons">Leo Simons</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jun/05 08:12"><time datetime="2005-06-06T08:12:06+0000">06/Jun/05</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/05 02:52"><time datetime="2005-07-08T02:52:57+0000">08/Jul/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12311081" rel="12311081" data-issuekey="GUMP-137" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-137" href="https://issues.apache.org/jira/browse/GUMP-137"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-137" href="https://issues.apache.org/jira/browse/GUMP-137">GUMP-137</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-137" href="https://issues.apache.org/jira/browse/GUMP-137">A missing href (e.g. typo of file/URL not found) causes Gump to crash</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lsimons" id="assignee_lsimons" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsimons">Leo Simons</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jun/05 08:10"><time datetime="2005-06-06T08:10:31+0000">06/Jun/05</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/05 00:00"><time datetime="2005-07-08T00:00:38+0000">08/Jul/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12311080" rel="12311080" data-issuekey="GUMP-136" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-136" href="https://issues.apache.org/jira/browse/GUMP-136"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-136" href="https://issues.apache.org/jira/browse/GUMP-136">GUMP-136</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-136" href="https://issues.apache.org/jira/browse/GUMP-136">Bad XML causes Gump3 to crash</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lsimons" id="assignee_lsimons" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsimons">Leo Simons</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jun/05 08:09"><time datetime="2005-06-06T08:09:22+0000">06/Jun/05</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/05 03:52"><time datetime="2005-06-17T03:52:54+0000">17/Jun/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow32626" rel="32626" data-issuekey="GUMP-131" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-131" href="https://issues.apache.org/jira/browse/GUMP-131"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-131" href="https://issues.apache.org/jira/browse/GUMP-131">GUMP-131</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-131" href="https://issues.apache.org/jira/browse/GUMP-131">Build fails with &quot;build timed out&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="minfrin" id="reporter_minfrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=minfrin">Graham Leggett</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/May/05 05:33"><time datetime="2005-05-16T05:33:29+0000">16/May/05</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/16 21:48"><time datetime="2016-11-09T21:48:00+0000">09/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow31802" rel="31802" data-issuekey="GUMP-122" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-122" href="https://issues.apache.org/jira/browse/GUMP-122"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-122" href="https://issues.apache.org/jira/browse/GUMP-122">GUMP-122</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-122" href="https://issues.apache.org/jira/browse/GUMP-122">Unit test FAIL: test_do_script (testPluginBuilder.BuilderTestCase)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lsimons" id="assignee_lsimons" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsimons">Leo Simons</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lsimons" id="reporter_lsimons" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsimons">Leo Simons</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Apr/05 06:17"><time datetime="2005-04-19T06:17:42+0000">19/Apr/05</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/05 04:55"><time datetime="2005-07-06T04:55:34+0000">06/Jul/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow30244" rel="30244" data-issuekey="GUMP-88" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-88" href="https://issues.apache.org/jira/browse/GUMP-88"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-88" href="https://issues.apache.org/jira/browse/GUMP-88">GUMP-88</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-88" href="https://issues.apache.org/jira/browse/GUMP-88">./gump fails with SyntaxError on Solaris8</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="minfrin" id="reporter_minfrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=minfrin">Graham Leggett</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Feb/05 22:53"><time datetime="2005-02-18T22:53:02+0000">18/Feb/05</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:06"><time datetime="2005-04-19T06:06:14+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow27773" rel="27773" data-issuekey="GUMP-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-85" href="https://issues.apache.org/jira/browse/GUMP-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-85" href="https://issues.apache.org/jira/browse/GUMP-85">GUMP-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-85" href="https://issues.apache.org/jira/browse/GUMP-85">A package typo or mis-naming or mis-match crashes Gump</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Oct/04 14:48"><time datetime="2004-10-13T14:48:13+0000">13/Oct/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 05:42"><time datetime="2005-04-19T05:42:49+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow27767" rel="27767" data-issuekey="GUMP-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-84" href="https://issues.apache.org/jira/browse/GUMP-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-84" href="https://issues.apache.org/jira/browse/GUMP-84">GUMP-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-84" href="https://issues.apache.org/jira/browse/GUMP-84">Packages defined in built modules are shown as &quot;green&quot; but they should be &quot;blue&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lsimons" id="assignee_lsimons" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsimons">Leo Simons</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stefano" id="reporter_stefano" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stefano">Stefano Mazzocchi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Oct/04 04:08"><time datetime="2004-10-13T04:08:46+0000">13/Oct/04</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/05 03:48"><time datetime="2005-07-13T03:48:29+0000">13/Jul/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow27679" rel="27679" data-issuekey="GUMP-81" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-81" href="https://issues.apache.org/jira/browse/GUMP-81"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-81" href="https://issues.apache.org/jira/browse/GUMP-81">GUMP-81</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-81" href="https://issues.apache.org/jira/browse/GUMP-81">Gump (or it&#39;s tools, CVS, etc.) does not cope with Unicode filenames</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Oct/04 13:05"><time datetime="2004-10-07T13:05:08+0000">07/Oct/04</time></span> </td>
+                                            <td class="updated"> <span title="02/May/05 02:56"><time datetime="2005-05-02T02:56:25+0000">02/May/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow27589" rel="27589" data-issuekey="GUMP-80" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-80" href="https://issues.apache.org/jira/browse/GUMP-80"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-80" href="https://issues.apache.org/jira/browse/GUMP-80">GUMP-80</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-80" href="https://issues.apache.org/jira/browse/GUMP-80">Documentation needs updating (validating)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="01/Oct/04 21:40"><time datetime="2004-10-01T21:40:36+0000">01/Oct/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 05:40"><time datetime="2005-04-19T05:40:24+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow27489" rel="27489" data-issuekey="GUMP-79" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-79" href="https://issues.apache.org/jira/browse/GUMP-79"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-79" href="https://issues.apache.org/jira/browse/GUMP-79">GUMP-79</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-79" href="https://issues.apache.org/jira/browse/GUMP-79">SVN repository metadata is not documented</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Sep/04 01:47"><time datetime="2004-09-28T01:47:13+0000">28/Sep/04</time></span> </td>
+                                            <td class="updated"> <span title="28/Sep/04 15:08"><time datetime="2004-09-28T15:08:41+0000">28/Sep/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow22132" rel="22132" data-issuekey="GUMP-74" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-74" href="https://issues.apache.org/jira/browse/GUMP-74"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-74" href="https://issues.apache.org/jira/browse/GUMP-74">GUMP-74</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-74" href="https://issues.apache.org/jira/browse/GUMP-74">Broken link in  http://gump.apache.org/gettingstarted.html</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Jul/04 00:11"><time datetime="2004-07-19T00:11:08+0000">19/Jul/04</time></span> </td>
+                                            <td class="updated"> <span title="21/Jul/04 21:56"><time datetime="2004-07-21T21:56:36+0000">21/Jul/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow21546" rel="21546" data-issuekey="GUMP-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-60" href="https://issues.apache.org/jira/browse/GUMP-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-60" href="https://issues.apache.org/jira/browse/GUMP-60">GUMP-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-60" href="https://issues.apache.org/jira/browse/GUMP-60">gumpy.sh needs to remove *.pyc prior to cvs update</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/May/04 02:27"><time datetime="2004-05-22T02:27:11+0000">22/May/04</time></span> </td>
+                                            <td class="updated"> <span title="28/Jul/04 17:55"><time datetime="2004-07-28T17:55:18+0000">28/Jul/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow21460" rel="21460" data-issuekey="GUMP-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-54" href="https://issues.apache.org/jira/browse/GUMP-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-54" href="https://issues.apache.org/jira/browse/GUMP-54">GUMP-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-54" href="https://issues.apache.org/jira/browse/GUMP-54">wrap corrupts the data</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/May/04 13:27"><time datetime="2004-05-14T13:27:36+0000">14/May/04</time></span> </td>
+                                            <td class="updated"> <span title="02/May/05 02:56"><time datetime="2005-05-02T02:56:57+0000">02/May/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow21433" rel="21433" data-issuekey="GUMP-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-53" href="https://issues.apache.org/jira/browse/GUMP-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-53" href="https://issues.apache.org/jira/browse/GUMP-53">GUMP-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-53" href="https://issues.apache.org/jira/browse/GUMP-53">Re-including repositories causes corruption</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/May/04 20:00"><time datetime="2004-05-12T20:00:02+0000">12/May/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 05:19"><time datetime="2005-04-19T05:19:24+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow21428" rel="21428" data-issuekey="GUMP-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-52" href="https://issues.apache.org/jira/browse/GUMP-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-52" href="https://issues.apache.org/jira/browse/GUMP-52">GUMP-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-52" href="https://issues.apache.org/jira/browse/GUMP-52">Fails to propogate &#39;config&#39; (no such depends) properly</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="12/May/04 13:47"><time datetime="2004-05-12T13:47:44+0000">12/May/04</time></span> </td>
+                                            <td class="updated"> <span title="02/May/05 02:57"><time datetime="2005-05-02T02:57:44+0000">02/May/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow21391" rel="21391" data-issuekey="GUMP-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-51" href="https://issues.apache.org/jira/browse/GUMP-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-51" href="https://issues.apache.org/jira/browse/GUMP-51">GUMP-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-51" href="https://issues.apache.org/jira/browse/GUMP-51">gumpy should blank the CLASSPATH before starting</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chalko" id="reporter_chalko" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chalko">Nick Chalko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/May/04 18:20"><time datetime="2004-05-06T18:20:12+0000">06/May/04</time></span> </td>
+                                            <td class="updated"> <span title="28/Jul/04 17:52"><time datetime="2004-07-28T17:52:47+0000">28/Jul/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow21014" rel="21014" data-issuekey="GUMP-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-50" href="https://issues.apache.org/jira/browse/GUMP-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-50" href="https://issues.apache.org/jira/browse/GUMP-50">GUMP-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-50" href="https://issues.apache.org/jira/browse/GUMP-50">A portable/robust lock is needed (that the OS cleans up)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Apr/04 14:43"><time datetime="2004-04-14T14:43:06+0000">14/Apr/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 05:18"><time datetime="2005-04-19T05:18:28+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17856" rel="17856" data-issuekey="GUMP-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-48" href="https://issues.apache.org/jira/browse/GUMP-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-48" href="https://issues.apache.org/jira/browse/GUMP-48">GUMP-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-48" href="https://issues.apache.org/jira/browse/GUMP-48">properties and bootclasspath options should not be passed to scripts</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bodewig" id="assignee_bodewig" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bodewig">Stefan Bodewig</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bodewig" id="reporter_bodewig" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bodewig">Stefan Bodewig</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/04 12:54"><time datetime="2004-04-08T12:54:21+0000">08/Apr/04</time></span> </td>
+                                            <td class="updated"> <span title="13/Apr/04 10:35"><time datetime="2004-04-13T10:35:09+0000">13/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17843" rel="17843" data-issuekey="GUMP-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-47" href="https://issues.apache.org/jira/browse/GUMP-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-47" href="https://issues.apache.org/jira/browse/GUMP-47">GUMP-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-47" href="https://issues.apache.org/jira/browse/GUMP-47">Gump doesn&#39;t respect &lt;redistributable</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Apr/04 13:23"><time datetime="2004-04-06T13:23:26+0000">06/Apr/04</time></span> </td>
+                                            <td class="updated"> <span title="14/May/04 13:23"><time datetime="2004-05-14T13:23:29+0000">14/May/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17813" rel="17813" data-issuekey="GUMP-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-46" href="https://issues.apache.org/jira/browse/GUMP-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-46" href="https://issues.apache.org/jira/browse/GUMP-46">GUMP-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-46" href="https://issues.apache.org/jira/browse/GUMP-46">Gumpy not creating valid &lt;ant&gt; classpath</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vmassol" id="reporter_vmassol" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vmassol">Vincent Massol</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Apr/04 09:23"><time datetime="2004-04-02T09:23:28+0000">02/Apr/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:06"><time datetime="2005-04-19T06:06:12+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17773" rel="17773" data-issuekey="GUMP-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-45" href="https://issues.apache.org/jira/browse/GUMP-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-45" href="https://issues.apache.org/jira/browse/GUMP-45">GUMP-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-45" href="https://issues.apache.org/jira/browse/GUMP-45">Brutus unsatisified link error</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys@us.ibm.com" id="assignee_rubys@us.ibm.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys%40us.ibm.com">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Mar/04 10:15"><time datetime="2004-03-30T10:15:07+0000">30/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="18/Apr/04 11:55"><time datetime="2004-04-18T11:55:11+0000">18/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17772" rel="17772" data-issuekey="GUMP-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-44" href="https://issues.apache.org/jira/browse/GUMP-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-44" href="https://issues.apache.org/jira/browse/GUMP-44">GUMP-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-44" href="https://issues.apache.org/jira/browse/GUMP-44">java.awt.headless needs to be set if appropriate</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Mar/04 10:06"><time datetime="2004-03-30T10:06:46+0000">30/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/04 14:00"><time datetime="2004-04-06T14:00:44+0000">06/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17766" rel="17766" data-issuekey="GUMP-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-43" href="https://issues.apache.org/jira/browse/GUMP-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-43" href="https://issues.apache.org/jira/browse/GUMP-43">GUMP-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-43" href="https://issues.apache.org/jira/browse/GUMP-43">&lt;sysproperty is not documented</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Mar/04 14:38"><time datetime="2004-03-29T14:38:06+0000">29/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:13"><time datetime="2005-04-19T06:13:29+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17762" rel="17762" data-issuekey="GUMP-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-42" href="https://issues.apache.org/jira/browse/GUMP-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-42" href="https://issues.apache.org/jira/browse/GUMP-42">GUMP-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-42" href="https://issues.apache.org/jira/browse/GUMP-42">Ant  should set the ant.home property.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chalko" id="reporter_chalko" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chalko">Nick Chalko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="29/Mar/04 05:49"><time datetime="2004-03-29T05:49:11+0000">29/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="28/Mar/05 06:25"><time datetime="2005-03-28T06:25:11+0000">28/Mar/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17259" rel="17259" data-issuekey="GUMP-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-38" href="https://issues.apache.org/jira/browse/GUMP-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-38" href="https://issues.apache.org/jira/browse/GUMP-38">GUMP-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-38" href="https://issues.apache.org/jira/browse/GUMP-38">Does NOT cope with circular dependencies</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Mar/04 14:33"><time datetime="2004-03-23T14:33:45+0000">23/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 05:05"><time datetime="2005-04-19T05:05:46+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17257" rel="17257" data-issuekey="GUMP-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-37" href="https://issues.apache.org/jira/browse/GUMP-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-37" href="https://issues.apache.org/jira/browse/GUMP-37">GUMP-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-37" href="https://issues.apache.org/jira/browse/GUMP-37">user.dir not set correctly in forked JVM</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Mar/04 12:52"><time datetime="2004-03-23T12:52:45+0000">23/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/04 14:24"><time datetime="2004-04-06T14:24:11+0000">06/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow15314" rel="15314" data-issuekey="GUMP-35" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-35" href="https://issues.apache.org/jira/browse/GUMP-35"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-35" href="https://issues.apache.org/jira/browse/GUMP-35">GUMP-35</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-35" href="https://issues.apache.org/jira/browse/GUMP-35">Failed to kill errant children</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Mar/04 15:10"><time datetime="2004-03-17T15:10:31+0000">17/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 05:04"><time datetime="2005-04-19T05:04:15+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow15293" rel="15293" data-issuekey="GUMP-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-33" href="https://issues.apache.org/jira/browse/GUMP-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-33" href="https://issues.apache.org/jira/browse/GUMP-33">GUMP-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-33" href="https://issues.apache.org/jira/browse/GUMP-33">Does not honour &lt;noclasspath/&gt;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bodewig" id="assignee_bodewig" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bodewig">Stefan Bodewig</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Mar/04 14:56"><time datetime="2004-03-15T14:56:00+0000">15/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/04 08:28"><time datetime="2004-04-08T08:28:56+0000">08/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow15266" rel="15266" data-issuekey="GUMP-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-23" href="https://issues.apache.org/jira/browse/GUMP-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-23" href="https://issues.apache.org/jira/browse/GUMP-23">GUMP-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-23" href="https://issues.apache.org/jira/browse/GUMP-23">Sync fails with perms on .svn/entries</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Mar/04 15:06"><time datetime="2004-03-11T15:06:45+0000">11/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/04 13:21"><time datetime="2004-04-06T13:21:37+0000">06/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow15241" rel="15241" data-issuekey="GUMP-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-22" href="https://issues.apache.org/jira/browse/GUMP-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-22" href="https://issues.apache.org/jira/browse/GUMP-22">GUMP-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-22" href="https://issues.apache.org/jira/browse/GUMP-22">XML objects return &#39;existence&#39; for attributes, that don&#39;t exist</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Mar/04 15:55"><time datetime="2004-03-05T15:55:13+0000">05/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="28/Jul/04 17:53"><time datetime="2004-07-28T17:53:59+0000">28/Jul/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow15230" rel="15230" data-issuekey="GUMP-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-20" href="https://issues.apache.org/jira/browse/GUMP-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-20" href="https://issues.apache.org/jira/browse/GUMP-20">GUMP-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-20" href="https://issues.apache.org/jira/browse/GUMP-20">Dependecies/Dependees are over counted</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Mar/04 00:42"><time datetime="2004-03-04T00:42:31+0000">04/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 04:58"><time datetime="2005-04-19T04:58:32+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow15224" rel="15224" data-issuekey="GUMP-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-19" href="https://issues.apache.org/jira/browse/GUMP-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-19" href="https://issues.apache.org/jira/browse/GUMP-19">GUMP-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-19" href="https://issues.apache.org/jira/browse/GUMP-19">Support encoding of international characters in nag mail headers</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bodewig" id="reporter_bodewig" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bodewig">Stefan Bodewig</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Mar/04 08:32"><time datetime="2004-03-03T08:32:21+0000">03/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:06"><time datetime="2005-04-19T06:06:13+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13603" rel="13603" data-issuekey="GUMP-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-18" href="https://issues.apache.org/jira/browse/GUMP-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-18" href="https://issues.apache.org/jira/browse/GUMP-18">GUMP-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-18" href="https://issues.apache.org/jira/browse/GUMP-18">bench.png moved/removed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bodewig" id="assignee_bodewig" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bodewig">Stefan Bodewig</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Feb/04 15:48"><time datetime="2004-02-22T15:48:31+0000">22/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/04 14:02"><time datetime="2004-10-13T14:02:58+0000">13/Oct/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13602" rel="13602" data-issuekey="GUMP-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-17" href="https://issues.apache.org/jira/browse/GUMP-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-17" href="https://issues.apache.org/jira/browse/GUMP-17">GUMP-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-17" href="https://issues.apache.org/jira/browse/GUMP-17">Failed to &#39;list .HTML files as work&#39;</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Feb/04 15:17"><time datetime="2004-02-22T15:17:18+0000">22/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:06"><time datetime="2005-04-19T06:06:13+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13594" rel="13594" data-issuekey="GUMP-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-16" href="https://issues.apache.org/jira/browse/GUMP-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-16" href="https://issues.apache.org/jira/browse/GUMP-16">GUMP-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-16" href="https://issues.apache.org/jira/browse/GUMP-16">Support for &lt;regexp in &lt;nag</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="20/Feb/04 17:00"><time datetime="2004-02-20T17:00:19+0000">20/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 04:52"><time datetime="2005-04-19T04:52:26+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13551" rel="13551" data-issuekey="GUMP-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-15" href="https://issues.apache.org/jira/browse/GUMP-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-15" href="https://issues.apache.org/jira/browse/GUMP-15">GUMP-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-15" href="https://issues.apache.org/jira/browse/GUMP-15">GumPY does not seem to honour &lt;license&gt; tag</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Feb/04 15:29"><time datetime="2004-02-13T15:29:19+0000">13/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="09/Apr/04 13:41"><time datetime="2004-04-09T13:41:36+0000">09/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13543" rel="13543" data-issuekey="GUMP-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-14" href="https://issues.apache.org/jira/browse/GUMP-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-14" href="https://issues.apache.org/jira/browse/GUMP-14">GUMP-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-14" href="https://issues.apache.org/jira/browse/GUMP-14">&lt;sysproperty not supported by Python Gump</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bodewig" id="assignee_bodewig" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bodewig">Stefan Bodewig</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Feb/04 20:41"><time datetime="2004-02-12T20:41:15+0000">12/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/04 12:02"><time datetime="2004-03-30T12:02:40+0000">30/Mar/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13542" rel="13542" data-issuekey="GUMP-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-13" href="https://issues.apache.org/jira/browse/GUMP-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-13" href="https://issues.apache.org/jira/browse/GUMP-13">GUMP-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-13" href="https://issues.apache.org/jira/browse/GUMP-13">Work output on projects can over-write each other</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="reporter_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Feb/04 20:03"><time datetime="2004-02-12T20:03:04+0000">12/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="09/Apr/04 13:43"><time datetime="2004-04-09T13:43:06+0000">09/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13534" rel="13534" data-issuekey="GUMP-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-12" href="https://issues.apache.org/jira/browse/GUMP-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-12" href="https://issues.apache.org/jira/browse/GUMP-12">GUMP-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-12" href="https://issues.apache.org/jira/browse/GUMP-12">Nagoya build does not set java.awt.headless</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="17/Dec/03 19:43"><time datetime="2003-12-17T19:43:20+0000">17/Dec/03</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/04 08:31"><time datetime="2004-04-08T08:31:38+0000">08/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13533" rel="13533" data-issuekey="GUMP-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-11" href="https://issues.apache.org/jira/browse/GUMP-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-11" href="https://issues.apache.org/jira/browse/GUMP-11">GUMP-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-11" href="https://issues.apache.org/jira/browse/GUMP-11">Spaces in properties not handled</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Dec/03 19:34"><time datetime="2003-12-11T19:34:17+0000">11/Dec/03</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/04 19:40"><time datetime="2004-02-12T19:40:38+0000">12/Feb/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13532" rel="13532" data-issuekey="GUMP-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-10" href="https://issues.apache.org/jira/browse/GUMP-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-10" href="https://issues.apache.org/jira/browse/GUMP-10">GUMP-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-10" href="https://issues.apache.org/jira/browse/GUMP-10">http://jakarta.apache.org/gump/images/bench.png missing</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Dec/03 00:57"><time datetime="2003-12-11T00:57:14+0000">11/Dec/03</time></span> </td>
+                                            <td class="updated"> <span title="29/Jun/16 13:38"><time datetime="2016-06-29T13:38:55+0000">29/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13531" rel="13531" data-issuekey="GUMP-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-9" href="https://issues.apache.org/jira/browse/GUMP-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-9" href="https://issues.apache.org/jira/browse/GUMP-9">GUMP-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-9" href="https://issues.apache.org/jira/browse/GUMP-9">LSD (Utwente) feedback</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Dec/03 21:16"><time datetime="2003-12-10T21:16:39+0000">10/Dec/03</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:12"><time datetime="2005-04-19T06:12:40+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13530" rel="13530" data-issuekey="GUMP-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-8" href="https://issues.apache.org/jira/browse/GUMP-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-8" href="https://issues.apache.org/jira/browse/GUMP-8">GUMP-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-8" href="https://issues.apache.org/jira/browse/GUMP-8">Some python modules seem to be flagged as binary</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Dec/03 18:57"><time datetime="2003-12-10T18:57:25+0000">10/Dec/03</time></span> </td>
+                                            <td class="updated"> <span title="09/Apr/04 13:41"><time datetime="2004-04-09T13:41:22+0000">09/Apr/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13529" rel="13529" data-issuekey="GUMP-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-7" href="https://issues.apache.org/jira/browse/GUMP-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-7" href="https://issues.apache.org/jira/browse/GUMP-7">GUMP-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-7" href="https://issues.apache.org/jira/browse/GUMP-7">Coccondev does not seem to be pickup up headless definition</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="10/Dec/03 18:26"><time datetime="2003-12-10T18:26:12+0000">10/Dec/03</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/04 13:55"><time datetime="2004-10-13T13:55:30+0000">13/Oct/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13528" rel="13528" data-issuekey="GUMP-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-6" href="https://issues.apache.org/jira/browse/GUMP-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-6" href="https://issues.apache.org/jira/browse/GUMP-6">GUMP-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-6" href="https://issues.apache.org/jira/browse/GUMP-6">Gump does not detect cvs update failure due to renamed projects</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="michael.davey@coderage.org" id="reporter_michael.davey@coderage.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=michael.davey%40coderage.org">Michael Davey</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="16/Jul/03 19:54"><time datetime="2003-07-16T19:54:25+0000">16/Jul/03</time></span> </td>
+                                            <td class="updated"> <span title="28/Mar/05 06:28"><time datetime="2005-03-28T06:28:02+0000">28/Mar/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13527" rel="13527" data-issuekey="GUMP-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-5" href="https://issues.apache.org/jira/browse/GUMP-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-5" href="https://issues.apache.org/jira/browse/GUMP-5">GUMP-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-5" href="https://issues.apache.org/jira/browse/GUMP-5">Gump ignoring new version of gump.xml for Tapestry</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hlship" id="reporter_hlship" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hlship">Howard M. Lewis Ship</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="27/Jun/03 20:30"><time datetime="2003-06-27T20:30:37+0000">27/Jun/03</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:12"><time datetime="2005-04-19T06:12:27+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13526" rel="13526" data-issuekey="GUMP-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-4" href="https://issues.apache.org/jira/browse/GUMP-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-4" href="https://issues.apache.org/jira/browse/GUMP-4">GUMP-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-4" href="https://issues.apache.org/jira/browse/GUMP-4">usage.html does not mention &quot;ant check&quot; (or gump check)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack@trysybase.com" id="reporter_ajack@trysybase.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack%40trysybase.com">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="26/Jun/03 21:19"><time datetime="2003-06-26T21:19:28+0000">26/Jun/03</time></span> </td>
+                                            <td class="updated"> <span title="28/Mar/05 06:28"><time datetime="2005-03-28T06:28:44+0000">28/Mar/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13525" rel="13525" data-issuekey="GUMP-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-3" href="https://issues.apache.org/jira/browse/GUMP-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-3" href="https://issues.apache.org/jira/browse/GUMP-3">GUMP-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-3" href="https://issues.apache.org/jira/browse/GUMP-3">&lt;project package ought override &lt;module &lt;cvs / &lt;ant</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ajack" id="assignee_ajack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack">Adam Jack</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack@trysybase.com" id="reporter_ajack@trysybase.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack%40trysybase.com">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jun/03 20:46"><time datetime="2003-06-26T20:46:23+0000">26/Jun/03</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/05 06:06"><time datetime="2005-04-19T06:06:13+0000">19/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13524" rel="13524" data-issuekey="GUMP-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-2" href="https://issues.apache.org/jira/browse/GUMP-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-2" href="https://issues.apache.org/jira/browse/GUMP-2">GUMP-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-2" href="https://issues.apache.org/jira/browse/GUMP-2">Gump does not fail a build if the &lt;jar name=&quot;*output file*&quot; is not found</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack@trysybase.com" id="reporter_ajack@trysybase.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack%40trysybase.com">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="26/Jun/03 20:25"><time datetime="2003-06-26T20:25:50+0000">26/Jun/03</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/04 14:00"><time datetime="2004-10-13T14:00:13+0000">13/Oct/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13523" rel="13523" data-issuekey="GUMP-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="GUMP-1" href="https://issues.apache.org/jira/browse/GUMP-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="GUMP-1" href="https://issues.apache.org/jira/browse/GUMP-1">GUMP-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="GUMP-1" href="https://issues.apache.org/jira/browse/GUMP-1">Gump performs builds on stale code</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajack@trysybase.com" id="reporter_ajack@trysybase.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajack%40trysybase.com">Adam Jack</a></span>
+    </td>
+                                            <td class="priority">    &nbsp;
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="26/Jun/03 20:21"><time datetime="2003-06-26T20:21:47+0000">26/Jun/03</time></span> </td>
+                                            <td class="updated"> <span title="28/Mar/05 06:28"><time datetime="2005-03-28T06:28:28+0000">28/Mar/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

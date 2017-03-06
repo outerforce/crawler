@@ -1,0 +1,1473 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+WHIMSY+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+WHIMSY+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/WHIMSY" title="Browse Whimsy project">Whimsy</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>38</b> of <b>38</b>
+            as at: <b>05/Mar/17 17:01</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13037136" rel="13037136" data-issuekey="WHIMSY-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-73" href="https://issues.apache.org/jira/browse/WHIMSY-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-73" href="https://issues.apache.org/jira/browse/WHIMSY-73">WHIMSY-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-73" href="https://issues.apache.org/jira/browse/WHIMSY-73">TypeError: Cannot read property &#39;id&#39; of undefined - when viewing PMC roster</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shazron" id="reporter_shazron" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shazron">Shazron Abdullah</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="23/Jan/17 18:44"><time datetime="2017-01-23T18:44:05+0000">23/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="23/Jan/17 18:45"><time datetime="2017-01-23T18:45:06+0000">23/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13021041" rel="13021041" data-issuekey="WHIMSY-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-70" href="https://issues.apache.org/jira/browse/WHIMSY-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-70" href="https://issues.apache.org/jira/browse/WHIMSY-70">WHIMSY-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-70" href="https://issues.apache.org/jira/browse/WHIMSY-70">Board agenda tool shouldn&#39;t show approve button for President report</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chrismattmann" id="reporter_chrismattmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chrismattmann">Chris A. Mattmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Nov/16 05:50"><time datetime="2016-11-16T05:50:40+0000">16/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/16 05:50"><time datetime="2016-11-16T05:50:40+0000">16/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13020238" rel="13020238" data-issuekey="WHIMSY-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-69" href="https://issues.apache.org/jira/browse/WHIMSY-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-69" href="https://issues.apache.org/jira/browse/WHIMSY-69">WHIMSY-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-69" href="https://issues.apache.org/jira/browse/WHIMSY-69">Report contents can get duplicated when playing around with reflow</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="johndament" id="reporter_johndament" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=johndament">John D. Ament</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Nov/16 02:18"><time datetime="2016-11-12T02:18:34+0000">12/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Nov/16 02:18"><time datetime="2016-11-12T02:18:34+0000">12/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13020232" rel="13020232" data-issuekey="WHIMSY-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-68" href="https://issues.apache.org/jira/browse/WHIMSY-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-68" href="https://issues.apache.org/jira/browse/WHIMSY-68">WHIMSY-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-68" href="https://issues.apache.org/jira/browse/WHIMSY-68">Reflowing a report renders different output than the auto-reflow feature</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="johndament" id="reporter_johndament" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=johndament">John D. Ament</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Nov/16 01:17"><time datetime="2016-11-12T01:17:36+0000">12/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Nov/16 01:17"><time datetime="2016-11-12T01:17:36+0000">12/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13013592" rel="13013592" data-issuekey="WHIMSY-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-67" href="https://issues.apache.org/jira/browse/WHIMSY-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-67" href="https://issues.apache.org/jira/browse/WHIMSY-67">WHIMSY-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-67" href="https://issues.apache.org/jira/browse/WHIMSY-67">Sending backchannel msg in separate window gives browser error</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="curcuru" id="reporter_curcuru" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=curcuru">Shane Curcuru</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Oct/16 17:43"><time datetime="2016-10-19T17:43:46+0000">19/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="19/Oct/16 17:43"><time datetime="2016-10-19T17:43:46+0000">19/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12995447" rel="12995447" data-issuekey="WHIMSY-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-66" href="https://issues.apache.org/jira/browse/WHIMSY-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-66" href="https://issues.apache.org/jira/browse/WHIMSY-66">WHIMSY-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-66" href="https://issues.apache.org/jira/browse/WHIMSY-66">Deletion failed in the Whimsy Roster Group for openoffice-security</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="orcmid" id="reporter_orcmid" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=orcmid">Dennis E. Hamilton</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Aug/16 20:39"><time datetime="2016-08-06T20:39:44+0000">06/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="07/Aug/16 01:39"><time datetime="2016-08-07T01:39:37+0000">07/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12985088" rel="12985088" data-issuekey="WHIMSY-64" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-64" href="https://issues.apache.org/jira/browse/WHIMSY-64"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-64" href="https://issues.apache.org/jira/browse/WHIMSY-64">WHIMSY-64</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-64" href="https://issues.apache.org/jira/browse/WHIMSY-64">Moderator list - 500 Server Error</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shazron" id="reporter_shazron" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shazron">Shazron Abdullah</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jun/16 18:06"><time datetime="2016-06-29T18:06:38+0000">29/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 22:39"><time datetime="2016-07-06T22:39:21+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12979349" rel="12979349" data-issuekey="WHIMSY-62" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-62" href="https://issues.apache.org/jira/browse/WHIMSY-62"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-62" href="https://issues.apache.org/jira/browse/WHIMSY-62">WHIMSY-62</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-62" href="https://issues.apache.org/jira/browse/WHIMSY-62">Update PMC list does not support creation of initial PMC membership</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jun/16 12:18"><time datetime="2016-06-15T12:18:05+0000">15/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="18/Jun/16 10:01"><time datetime="2016-06-18T10:01:26+0000">18/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12975388" rel="12975388" data-issuekey="WHIMSY-61" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-61" href="https://issues.apache.org/jira/browse/WHIMSY-61"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-61" href="https://issues.apache.org/jira/browse/WHIMSY-61">WHIMSY-61</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-61" href="https://issues.apache.org/jira/browse/WHIMSY-61">500 Internal Server Error when trying to add committer to PMC</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shazron" id="reporter_shazron" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shazron">Shazron Abdullah</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Jun/16 06:17"><time datetime="2016-06-03T06:17:20+0000">03/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Jun/16 06:41"><time datetime="2016-06-28T06:41:58+0000">28/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12969949" rel="12969949" data-issuekey="WHIMSY-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-60" href="https://issues.apache.org/jira/browse/WHIMSY-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-60" href="https://issues.apache.org/jira/browse/WHIMSY-60">WHIMSY-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-60" href="https://issues.apache.org/jira/browse/WHIMSY-60">Broken link when processing board report queue</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="markt" id="reporter_markt" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=markt">Mark Thomas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/May/16 09:10"><time datetime="2016-05-16T09:10:06+0000">16/May/16</time></span> </td>
+                                            <td class="updated"> <span title="16/May/16 12:58"><time datetime="2016-05-16T12:58:06+0000">16/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12965621" rel="12965621" data-issuekey="WHIMSY-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-58" href="https://issues.apache.org/jira/browse/WHIMSY-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-58" href="https://issues.apache.org/jira/browse/WHIMSY-58">WHIMSY-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-58" href="https://issues.apache.org/jira/browse/WHIMSY-58">Roster tool action &quot;Remove as Committer&quot; doesn&#39;t do anything</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/May/16 15:07"><time datetime="2016-05-06T15:07:58+0000">06/May/16</time></span> </td>
+                                            <td class="updated"> <span title="06/May/16 15:07"><time datetime="2016-05-06T15:07:58+0000">06/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12958023" rel="12958023" data-issuekey="WHIMSY-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-57" href="https://issues.apache.org/jira/browse/WHIMSY-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-57" href="https://issues.apache.org/jira/browse/WHIMSY-57">WHIMSY-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-57" href="https://issues.apache.org/jira/browse/WHIMSY-57">Add committer to roster is unusable</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="markt" id="reporter_markt" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=markt">Mark Thomas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Apr/16 08:19"><time datetime="2016-04-12T08:19:16+0000">12/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Apr/16 08:43"><time datetime="2016-04-12T08:43:53+0000">12/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12952133" rel="12952133" data-issuekey="WHIMSY-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-55" href="https://issues.apache.org/jira/browse/WHIMSY-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-55" href="https://issues.apache.org/jira/browse/WHIMSY-55">WHIMSY-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-55" href="https://issues.apache.org/jira/browse/WHIMSY-55">secretary/board agenda improvements</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="reporter_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="21/Mar/16 18:37"><time datetime="2016-03-21T18:37:14+0000">21/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="21/Apr/16 18:57"><time datetime="2016-04-21T18:57:24+0000">21/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12950088" rel="12950088" data-issuekey="WHIMSY-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-53" href="https://issues.apache.org/jira/browse/WHIMSY-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-53" href="https://issues.apache.org/jira/browse/WHIMSY-53">WHIMSY-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-53" href="https://issues.apache.org/jira/browse/WHIMSY-53">Web application could not be started</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shazron" id="reporter_shazron" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shazron">Shazron Abdullah</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Mar/16 22:12"><time datetime="2016-03-14T22:12:14+0000">14/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="14/Mar/16 23:01"><time datetime="2016-03-14T23:01:53+0000">14/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12946686" rel="12946686" data-issuekey="WHIMSY-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-50" href="https://issues.apache.org/jira/browse/WHIMSY-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-50" href="https://issues.apache.org/jira/browse/WHIMSY-50">WHIMSY-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-50" href="https://issues.apache.org/jira/browse/WHIMSY-50">View &quot;Active in Multiple PMCs&quot; fails to fully render, prints stack trace</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brainlounge" id="reporter_brainlounge" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brainlounge">Bernd Fondermann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Mar/16 21:24"><time datetime="2016-03-03T21:24:30+0000">03/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="04/Mar/16 13:39"><time datetime="2016-03-04T13:39:00+0000">04/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12939262" rel="12939262" data-issuekey="WHIMSY-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-46" href="https://issues.apache.org/jira/browse/WHIMSY-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-46" href="https://issues.apache.org/jira/browse/WHIMSY-46">WHIMSY-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-46" href="https://issues.apache.org/jira/browse/WHIMSY-46">Code conflates PMC and LDAP committee membership</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="15/Feb/16 12:41"><time datetime="2016-02-15T12:41:39+0000">15/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Feb/16 09:16"><time datetime="2016-02-23T09:16:00+0000">23/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12920680" rel="12920680" data-issuekey="WHIMSY-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-45" href="https://issues.apache.org/jira/browse/WHIMSY-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-45" href="https://issues.apache.org/jira/browse/WHIMSY-45">WHIMSY-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-45" href="https://issues.apache.org/jira/browse/WHIMSY-45">Cannot login to post board report using my credentials using online agenda tool</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shazron" id="reporter_shazron" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shazron">Shazron Abdullah</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Dec/15 06:38"><time datetime="2015-12-10T06:38:39+0000">10/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Feb/16 10:51"><time datetime="2016-02-13T10:51:46+0000">13/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12934796" rel="12934796" data-issuekey="WHIMSY-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-43" href="https://issues.apache.org/jira/browse/WHIMSY-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-43" href="https://issues.apache.org/jira/browse/WHIMSY-43">WHIMSY-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-43" href="https://issues.apache.org/jira/browse/WHIMSY-43">Change Audit is misleading</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jan/16 12:39"><time datetime="2016-01-28T12:39:14+0000">28/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/16 20:04"><time datetime="2016-01-28T20:04:44+0000">28/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12934790" rel="12934790" data-issuekey="WHIMSY-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-42" href="https://issues.apache.org/jira/browse/WHIMSY-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-42" href="https://issues.apache.org/jira/browse/WHIMSY-42">WHIMSY-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-42" href="https://issues.apache.org/jira/browse/WHIMSY-42">Intermittent failure on the main agenda</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="reporter_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jan/16 12:27"><time datetime="2016-01-28T12:27:34+0000">28/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/16 13:24"><time datetime="2016-01-28T13:24:01+0000">28/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12922918" rel="12922918" data-issuekey="WHIMSY-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-36" href="https://issues.apache.org/jira/browse/WHIMSY-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-36" href="https://issues.apache.org/jira/browse/WHIMSY-36">WHIMSY-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-36" href="https://issues.apache.org/jira/browse/WHIMSY-36">icla.rb / public_icla_info.rb should handle entries with no ICLA</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Dec/15 02:56"><time datetime="2015-12-18T02:56:06+0000">18/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jun/16 12:23"><time datetime="2016-06-15T12:23:15+0000">15/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12919155" rel="12919155" data-issuekey="WHIMSY-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-34" href="https://issues.apache.org/jira/browse/WHIMSY-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-34" href="https://issues.apache.org/jira/browse/WHIMSY-34">WHIMSY-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-34" href="https://issues.apache.org/jira/browse/WHIMSY-34">Spurious data in commitee-info.json</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Dec/15 02:24"><time datetime="2015-12-05T02:24:11+0000">05/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/16 12:14"><time datetime="2016-01-28T12:14:05+0000">28/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12915777" rel="12915777" data-issuekey="WHIMSY-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-33" href="https://issues.apache.org/jira/browse/WHIMSY-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-33" href="https://issues.apache.org/jira/browse/WHIMSY-33">WHIMSY-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-33" href="https://issues.apache.org/jira/browse/WHIMSY-33">public_icla_info needs to take account of Signed ICLA</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="24/Nov/15 12:23"><time datetime="2015-11-24T12:23:28+0000">24/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/16 12:16"><time datetime="2016-01-28T12:16:18+0000">28/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12908246" rel="12908246" data-issuekey="WHIMSY-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-30" href="https://issues.apache.org/jira/browse/WHIMSY-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-30" href="https://issues.apache.org/jira/browse/WHIMSY-30">WHIMSY-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-30" href="https://issues.apache.org/jira/browse/WHIMSY-30">Redo secmail</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="reporter_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Oct/15 14:40"><time datetime="2015-10-27T14:40:43+0000">27/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="18/Dec/15 21:40"><time datetime="2015-12-18T21:40:02+0000">18/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12907804" rel="12907804" data-issuekey="WHIMSY-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-29" href="https://issues.apache.org/jira/browse/WHIMSY-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-29" href="https://issues.apache.org/jira/browse/WHIMSY-29">WHIMSY-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-29" href="https://issues.apache.org/jira/browse/WHIMSY-29">public_committee_info.rb cannot handle missing LA chair</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Oct/15 02:13"><time datetime="2015-10-26T02:13:07+0000">26/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="28/Oct/15 01:02"><time datetime="2015-10-28T01:02:49+0000">28/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12907105" rel="12907105" data-issuekey="WHIMSY-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-27" href="https://issues.apache.org/jira/browse/WHIMSY-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-27" href="https://issues.apache.org/jira/browse/WHIMSY-27">WHIMSY-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-27" href="https://issues.apache.org/jira/browse/WHIMSY-27">Updating a resolution during a board meeting fails silently</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="reporter_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Oct/15 14:52"><time datetime="2015-10-22T14:52:11+0000">22/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="10/Apr/16 22:47"><time datetime="2016-04-10T22:47:17+0000">10/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12905997" rel="12905997" data-issuekey="WHIMSY-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-24" href="https://issues.apache.org/jira/browse/WHIMSY-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-24" href="https://issues.apache.org/jira/browse/WHIMSY-24">WHIMSY-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-24" href="https://issues.apache.org/jira/browse/WHIMSY-24">Secretary Assistant generates incorrect email addresses</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Oct/15 17:43"><time datetime="2015-10-19T17:43:28+0000">19/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="19/Oct/15 17:45"><time datetime="2015-10-19T17:45:41+0000">19/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12905757" rel="12905757" data-issuekey="WHIMSY-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-23" href="https://issues.apache.org/jira/browse/WHIMSY-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-23" href="https://issues.apache.org/jira/browse/WHIMSY-23">WHIMSY-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-23" href="https://issues.apache.org/jira/browse/WHIMSY-23">Board meeting minutes - does not handle tabling of Maven motion</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="17/Oct/15 23:15"><time datetime="2015-10-17T23:15:27+0000">17/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="17/Oct/15 23:15"><time datetime="2015-10-17T23:15:27+0000">17/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12905206" rel="12905206" data-issuekey="WHIMSY-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-22" href="https://issues.apache.org/jira/browse/WHIMSY-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-22" href="https://issues.apache.org/jira/browse/WHIMSY-22">WHIMSY-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-22" href="https://issues.apache.org/jira/browse/WHIMSY-22">committee-info.json has spaces in some mail_list entries</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Oct/15 14:26"><time datetime="2015-10-15T14:26:00+0000">15/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jun/16 12:27"><time datetime="2016-06-15T12:27:12+0000">15/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12902861" rel="12902861" data-issuekey="WHIMSY-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-17" href="https://issues.apache.org/jira/browse/WHIMSY-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-17" href="https://issues.apache.org/jira/browse/WHIMSY-17">WHIMSY-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-17" href="https://issues.apache.org/jira/browse/WHIMSY-17">Stack trace in https://whimsy.apache.org/members/subscriptions/#unsub</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="06/Oct/15 23:55"><time datetime="2015-10-06T23:55:12+0000">06/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="19/Aug/16 18:41"><time datetime="2016-08-19T18:41:20+0000">19/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12875556" rel="12875556" data-issuekey="WHIMSY-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-16" href="https://issues.apache.org/jira/browse/WHIMSY-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-16" href="https://issues.apache.org/jira/browse/WHIMSY-16">WHIMSY-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-16" href="https://issues.apache.org/jira/browse/WHIMSY-16">the committer search doesn&#39;t return results if the email address being searched for contains mixed case</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ulrich.staerk" id="reporter_ulrich.staerk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ulrich.staerk">Ulrich Stärk</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Mar/15 17:22"><time datetime="2015-03-08T17:22:35+0000">08/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="01/Oct/15 15:19"><time datetime="2015-10-01T15:19:21+0000">01/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12895235" rel="12895235" data-issuekey="WHIMSY-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-15" href="https://issues.apache.org/jira/browse/WHIMSY-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-15" href="https://issues.apache.org/jira/browse/WHIMSY-15">WHIMSY-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-15" href="https://issues.apache.org/jira/browse/WHIMSY-15">Board meeting minutes - names of pages no longer agree with PMC name</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Sep/15 19:47"><time datetime="2015-09-21T19:47:56+0000">21/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/15 16:56"><time datetime="2015-09-22T16:56:52+0000">22/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12862128" rel="12862128" data-issuekey="WHIMSY-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-12" href="https://issues.apache.org/jira/browse/WHIMSY-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-12" href="https://issues.apache.org/jira/browse/WHIMSY-12">WHIMSY-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-12" href="https://issues.apache.org/jira/browse/WHIMSY-12">SA workbench icla form if file name is left blank (file) should report error</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="07/Sep/15 00:40"><time datetime="2015-09-07T00:40:02+0000">07/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="07/Sep/15 00:40"><time datetime="2015-09-07T00:40:02+0000">07/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12858080" rel="12858080" data-issuekey="WHIMSY-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-7" href="https://issues.apache.org/jira/browse/WHIMSY-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-7" href="https://issues.apache.org/jira/browse/WHIMSY-7">WHIMSY-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-7" href="https://issues.apache.org/jira/browse/WHIMSY-7">apsecmail receives .vcf files and other irrelevant files</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Aug/15 17:58"><time datetime="2015-08-22T17:58:31+0000">22/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/15 14:43"><time datetime="2015-10-27T14:43:27+0000">27/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12858078" rel="12858078" data-issuekey="WHIMSY-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-6" href="https://issues.apache.org/jira/browse/WHIMSY-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-6" href="https://issues.apache.org/jira/browse/WHIMSY-6">WHIMSY-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-6" href="https://issues.apache.org/jira/browse/WHIMSY-6">Attachments xxx.txt and xxx.txt.asc are not received</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Aug/15 17:51"><time datetime="2015-08-22T17:51:13+0000">22/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/15 14:41"><time datetime="2015-10-27T14:41:50+0000">27/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12856641" rel="12856641" data-issuekey="WHIMSY-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-5" href="https://issues.apache.org/jira/browse/WHIMSY-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-5" href="https://issues.apache.org/jira/browse/WHIMSY-5">WHIMSY-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-5" href="https://issues.apache.org/jira/browse/WHIMSY-5">Blanks in document names cannot be processed</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="17/Aug/15 15:36"><time datetime="2015-08-17T15:36:18+0000">17/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="17/Aug/15 15:36"><time datetime="2015-08-17T15:36:18+0000">17/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12856490" rel="12856490" data-issuekey="WHIMSY-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-3" href="https://issues.apache.org/jira/browse/WHIMSY-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-3" href="https://issues.apache.org/jira/browse/WHIMSY-3">WHIMSY-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-3" href="https://issues.apache.org/jira/browse/WHIMSY-3">Send email button for ComDev uses incorrect private@ address</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rubys" id="assignee_rubys" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rubys">Sam Ruby</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="curcuru" id="reporter_curcuru" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=curcuru">Shane Curcuru</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Aug/15 01:18"><time datetime="2015-08-17T01:18:45+0000">17/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="17/Aug/15 01:34"><time datetime="2015-08-17T01:34:04+0000">17/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12856295" rel="12856295" data-issuekey="WHIMSY-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-2" href="https://issues.apache.org/jira/browse/WHIMSY-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-2" href="https://issues.apache.org/jira/browse/WHIMSY-2">WHIMSY-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-2" href="https://issues.apache.org/jira/browse/WHIMSY-2">Secretary Assistant staple the last document should delete the directory</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="14/Aug/15 21:41"><time datetime="2015-08-14T21:41:12+0000">14/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/15 14:42"><time datetime="2015-10-27T14:42:47+0000">27/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12853726" rel="12853726" data-issuekey="WHIMSY-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHIMSY-1" href="https://issues.apache.org/jira/browse/WHIMSY-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHIMSY-1" href="https://issues.apache.org/jira/browse/WHIMSY-1">WHIMSY-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHIMSY-1" href="https://issues.apache.org/jira/browse/WHIMSY-1">APMAIL tool ignored icla.pdf.asc but received icla.pdf</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clr" id="reporter_clr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clr">Craig L Russell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Aug/15 00:40"><time datetime="2015-08-10T00:40:54+0000">10/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/15 14:41"><time datetime="2015-10-27T14:41:28+0000">27/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

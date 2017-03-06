@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+HERMES+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+HERMES+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/HERMES" title="Browse Pubscribe project">Pubscribe</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>7</b> of <b>7</b>
+            as at: <b>05/Mar/17 17:00</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12317529" rel="12317529" data-issuekey="HERMES-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HERMES-17" href="https://issues.apache.org/jira/browse/HERMES-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HERMES-17" href="https://issues.apache.org/jira/browse/HERMES-17">HERMES-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HERMES-17" href="https://issues.apache.org/jira/browse/HERMES-17">Internal error occurs when container reponses Notify request message.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkuro" id="reporter_mkuro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkuro">Masahiro Kurosawa</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Oct/05 19:07"><time datetime="2005-10-03T19:07:46+0000">03/Oct/05</time></span> </td>
+                                            <td class="updated"> <span title="03/Oct/05 19:07"><time datetime="2005-10-03T19:07:46+0000">03/Oct/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12313478" rel="12313478" data-issuekey="HERMES-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HERMES-16" href="https://issues.apache.org/jira/browse/HERMES-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HERMES-16" href="https://issues.apache.org/jira/browse/HERMES-16">HERMES-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HERMES-16" href="https://issues.apache.org/jira/browse/HERMES-16">setResourceProperties/getMultipleResourceProperties method of SubscriptionService</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkuro" id="reporter_mkuro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkuro">Masahiro Kurosawa</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="17/Aug/05 18:05"><time datetime="2005-08-17T18:05:17+0000">17/Aug/05</time></span> </td>
+                                            <td class="updated"> <span title="17/Aug/05 18:32"><time datetime="2005-08-17T18:32:13+0000">17/Aug/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12312969" rel="12312969" data-issuekey="HERMES-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HERMES-15" href="https://issues.apache.org/jira/browse/HERMES-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HERMES-15" href="https://issues.apache.org/jira/browse/HERMES-15">HERMES-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HERMES-15" href="https://issues.apache.org/jira/browse/HERMES-15">Pubscribe webapp deployment fails</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ips" id="assignee_ips" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ips">Ian P. Springer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="infoeng" id="reporter_infoeng" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=infoeng">J. Patrick Bedell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Aug/05 07:31"><time datetime="2005-08-03T07:31:41+0000">03/Aug/05</time></span> </td>
+                                            <td class="updated"> <span title="04/Aug/05 05:18"><time datetime="2005-08-04T05:18:03+0000">04/Aug/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12312586" rel="12312586" data-issuekey="HERMES-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HERMES-14" href="https://issues.apache.org/jira/browse/HERMES-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HERMES-14" href="https://issues.apache.org/jira/browse/HERMES-14">HERMES-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HERMES-14" href="https://issues.apache.org/jira/browse/HERMES-14">Pubscribe SVN does not compile</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="scamp" id="assignee_scamp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scamp">Sal Campana</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="infoeng" id="reporter_infoeng" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=infoeng">J. Patrick Bedell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Jul/05 16:42"><time datetime="2005-07-25T16:42:36+0000">25/Jul/05</time></span> </td>
+                                            <td class="updated"> <span title="27/Jul/05 04:04"><time datetime="2005-07-27T04:04:34+0000">27/Jul/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12311549" rel="12311549" data-issuekey="HERMES-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HERMES-13" href="https://issues.apache.org/jira/browse/HERMES-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HERMES-13" href="https://issues.apache.org/jira/browse/HERMES-13">HERMES-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HERMES-13" href="https://issues.apache.org/jira/browse/HERMES-13">TopicImpl.topicChanged shoud call topicChanged method of listeners with &#39;topic&#39;, not &#39;this&#39;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="scamp" id="assignee_scamp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scamp">Sal Campana</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkuro" id="reporter_mkuro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkuro">Masahiro Kurosawa</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jun/05 21:48"><time datetime="2005-06-21T21:48:27+0000">21/Jun/05</time></span> </td>
+                                            <td class="updated"> <span title="21/Jul/05 06:26"><time datetime="2005-07-21T06:26:55+0000">21/Jul/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow31049" rel="31049" data-issuekey="HERMES-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HERMES-10" href="https://issues.apache.org/jira/browse/HERMES-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HERMES-10" href="https://issues.apache.org/jira/browse/HERMES-10">HERMES-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HERMES-10" href="https://issues.apache.org/jira/browse/HERMES-10">wsn subscription does not implement PropertiesResource</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lischke" id="reporter_lischke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lischke">Stefan Lischke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Mar/05 09:20"><time datetime="2005-03-21T09:20:32+0000">21/Mar/05</time></span> </td>
+                                            <td class="updated"> <span title="12/Apr/05 04:12"><time datetime="2005-04-12T04:12:44+0000">12/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow30863" rel="30863" data-issuekey="HERMES-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HERMES-8" href="https://issues.apache.org/jira/browse/HERMES-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HERMES-8" href="https://issues.apache.org/jira/browse/HERMES-8">HERMES-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HERMES-8" href="https://issues.apache.org/jira/browse/HERMES-8">unwrapped notif should literally be the raw message, not a wsnt:NotificationMessage</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ips" id="reporter_ips" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ips">Ian P. Springer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Mar/05 01:26"><time datetime="2005-03-15T01:26:38+0000">15/Mar/05</time></span> </td>
+                                            <td class="updated"> <span title="04/Apr/05 23:55"><time datetime="2005-04-04T23:55:03+0000">04/Apr/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

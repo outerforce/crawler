@@ -1,0 +1,2145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINSTALL+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINSTALL+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MINSTALL" title="Browse Maven Install Plugin project">Maven Install Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>59</b> of <b>59</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13025426" rel="13025426" data-issuekey="MINSTALL-133" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-133" href="https://issues.apache.org/jira/browse/MINSTALL-133"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-133" href="https://issues.apache.org/jira/browse/MINSTALL-133">MINSTALL-133</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-133" href="https://issues.apache.org/jira/browse/MINSTALL-133">Take Security More Seriously - Checksum by default</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nhoj.patrick" id="reporter_nhoj.patrick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nhoj.patrick">John Patrick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="04/Dec/16 17:20"><time datetime="2016-12-04T17:20:05+0000">04/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="04/Dec/16 17:38"><time datetime="2016-12-04T17:38:43+0000">04/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13022126" rel="13022126" data-issuekey="MINSTALL-132" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-132" href="https://issues.apache.org/jira/browse/MINSTALL-132"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-132" href="https://issues.apache.org/jira/browse/MINSTALL-132">MINSTALL-132</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-132" href="https://issues.apache.org/jira/browse/MINSTALL-132">Build Failed: Could not install dependency in Maven</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jegadeesh" id="reporter_jegadeesh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jegadeesh">jegadeesh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="21/Nov/16 08:51"><time datetime="2016-11-21T08:51:05+0000">21/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Nov/16 18:35"><time datetime="2016-11-23T18:35:15+0000">23/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13018286" rel="13018286" data-issuekey="MINSTALL-130" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-130" href="https://issues.apache.org/jira/browse/MINSTALL-130"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-130" href="https://issues.apache.org/jira/browse/MINSTALL-130">MINSTALL-130</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-130" href="https://issues.apache.org/jira/browse/MINSTALL-130">Remove link to non-existing Codehaus wiki</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="assignee_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="reporter_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Nov/16 22:06"><time datetime="2016-11-04T22:06:54+0000">04/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="04/Nov/16 22:39"><time datetime="2016-11-04T22:39:05+0000">04/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12952749" rel="12952749" data-issuekey="MINSTALL-121" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-121" href="https://issues.apache.org/jira/browse/MINSTALL-121"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-121" href="https://issues.apache.org/jira/browse/MINSTALL-121">MINSTALL-121</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-121" href="https://issues.apache.org/jira/browse/MINSTALL-121">The packaging property should not be used for the file extension</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fifalover" id="reporter_fifalover" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fifalover">Chris Seieroe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="23/Mar/16 09:14"><time datetime="2016-03-23T09:14:03+0000">23/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Feb/17 23:21"><time datetime="2017-02-28T23:21:35+0000">28/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12944445" rel="12944445" data-issuekey="MINSTALL-119" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-119" href="https://issues.apache.org/jira/browse/MINSTALL-119"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-119" href="https://issues.apache.org/jira/browse/MINSTALL-119">MINSTALL-119</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-119" href="https://issues.apache.org/jira/browse/MINSTALL-119">installAtEnd not installing when used together with tycho</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Indi" id="reporter_Indi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Indi">Ralf Sieger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Feb/16 10:16"><time datetime="2016-02-25T10:16:52+0000">25/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="25/Feb/16 10:16"><time datetime="2016-02-25T10:16:52+0000">25/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12862758" rel="12862758" data-issuekey="MINSTALL-116" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-116" href="https://issues.apache.org/jira/browse/MINSTALL-116"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-116" href="https://issues.apache.org/jira/browse/MINSTALL-116">MINSTALL-116</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-116" href="https://issues.apache.org/jira/browse/MINSTALL-116">Attached artifacts installed with default name, only one is actually installed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="boazlev" id="reporter_boazlev" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=boazlev">Boaz Lev</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="09/Sep/15 13:30"><time datetime="2015-09-09T13:30:28+0000">09/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Sep/15 21:43"><time datetime="2015-09-09T21:43:13+0000">09/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12853905" rel="12853905" data-issuekey="MINSTALL-115" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-115" href="https://issues.apache.org/jira/browse/MINSTALL-115"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-115" href="https://issues.apache.org/jira/browse/MINSTALL-115">MINSTALL-115</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-115" href="https://issues.apache.org/jira/browse/MINSTALL-115">Setting installAtEnd causes no installs to occur when a multimodule project has multiple class realms</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="prgp" id="reporter_prgp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=prgp">Philip Pearson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Aug/15 17:56"><time datetime="2015-08-10T17:56:02+0000">10/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Aug/15 09:52"><time datetime="2015-08-13T09:52:17+0000">13/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803526" rel="12803526" data-issuekey="MINSTALL-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-108" href="https://issues.apache.org/jira/browse/MINSTALL-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-108" href="https://issues.apache.org/jira/browse/MINSTALL-108">MINSTALL-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-108" href="https://issues.apache.org/jira/browse/MINSTALL-108">installAtEnd cannot be overwritten from command line using -DinstallAtEnd=false</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="25/Aug/14 12:53"><time datetime="2014-08-25T12:53:38+0000">25/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="18/Feb/17 20:59"><time datetime="2017-02-18T20:59:54+0000">18/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803543" rel="12803543" data-issuekey="MINSTALL-104" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-104" href="https://issues.apache.org/jira/browse/MINSTALL-104"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-104" href="https://issues.apache.org/jira/browse/MINSTALL-104">MINSTALL-104</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-104" href="https://issues.apache.org/jira/browse/MINSTALL-104">installAtEnd bypassed in case of pluginRepository definition</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ryancparrish" id="reporter_ryancparrish" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ryancparrish">Ryan Parrish</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="21/Apr/14 18:03"><time datetime="2014-04-21T18:03:12+0000">21/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="10/Jul/14 14:37"><time datetime="2014-07-10T14:37:44+0000">10/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803615" rel="12803615" data-issuekey="MINSTALL-103" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-103" href="https://issues.apache.org/jira/browse/MINSTALL-103"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-103" href="https://issues.apache.org/jira/browse/MINSTALL-103">MINSTALL-103</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-103" href="https://issues.apache.org/jira/browse/MINSTALL-103">Concurrency problem with installAtEnd in parallel builds</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hjhill" id="reporter_hjhill" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hjhill">Hermann Josef Hill</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Nov/13 08:57"><time datetime="2013-11-09T08:57:31+0000">09/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:00+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803514" rel="12803514" data-issuekey="MINSTALL-102" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-102" href="https://issues.apache.org/jira/browse/MINSTALL-102"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-102" href="https://issues.apache.org/jira/browse/MINSTALL-102">MINSTALL-102</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-102" href="https://issues.apache.org/jira/browse/MINSTALL-102">installAtEnd does not install artifacts for multi-module with packaging maven-archetype</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="joerg.sesterhenn" id="reporter_joerg.sesterhenn" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=joerg.sesterhenn">Jörg Sesterhenn</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Oct/13 09:03"><time datetime="2013-10-28T09:03:58+0000">28/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="23/Sep/16 01:41"><time datetime="2016-09-23T01:41:20+0000">23/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803593" rel="12803593" data-issuekey="MINSTALL-101" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-101" href="https://issues.apache.org/jira/browse/MINSTALL-101"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-101" href="https://issues.apache.org/jira/browse/MINSTALL-101">MINSTALL-101</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-101" href="https://issues.apache.org/jira/browse/MINSTALL-101">installAtEnd does not install artifacts of aggregated projects</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="trackitor" id="reporter_trackitor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=trackitor">Andreas Busse</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="21/Oct/13 04:47"><time datetime="2013-10-21T04:47:50+0000">21/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="27/Nov/14 10:50"><time datetime="2014-11-27T10:50:30+0000">27/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803521" rel="12803521" data-issuekey="MINSTALL-100" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-100" href="https://issues.apache.org/jira/browse/MINSTALL-100"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-100" href="https://issues.apache.org/jira/browse/MINSTALL-100">MINSTALL-100</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-100" href="https://issues.apache.org/jira/browse/MINSTALL-100">Update description for installAtEnd param</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="reporter_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Oct/13 01:33"><time datetime="2013-10-21T01:33:59+0000">21/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Oct/13 12:00"><time datetime="2013-10-21T12:00:25+0000">21/Oct/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803584" rel="12803584" data-issuekey="MINSTALL-99" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-99" href="https://issues.apache.org/jira/browse/MINSTALL-99"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-99" href="https://issues.apache.org/jira/browse/MINSTALL-99">MINSTALL-99</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-99" href="https://issues.apache.org/jira/browse/MINSTALL-99">InstallAtEnd should respect plugin-configuration per project</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="reporter_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Oct/13 15:38"><time datetime="2013-10-08T15:38:32+0000">08/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="10/Oct/13 15:04"><time datetime="2013-10-10T15:04:41+0000">10/Oct/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803516" rel="12803516" data-issuekey="MINSTALL-98" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-98" href="https://issues.apache.org/jira/browse/MINSTALL-98"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-98" href="https://issues.apache.org/jira/browse/MINSTALL-98">MINSTALL-98</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-98" href="https://issues.apache.org/jira/browse/MINSTALL-98">installAtEnd broken with parallel builds</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mn014019" id="reporter_mn014019" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mn014019">Matt Nelson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Oct/13 18:29"><time datetime="2013-10-01T18:29:18+0000">01/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="10/Oct/13 15:09"><time datetime="2013-10-10T15:09:14+0000">10/Oct/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803608" rel="12803608" data-issuekey="MINSTALL-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-97" href="https://issues.apache.org/jira/browse/MINSTALL-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-97" href="https://issues.apache.org/jira/browse/MINSTALL-97">MINSTALL-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-97" href="https://issues.apache.org/jira/browse/MINSTALL-97">Plugin installs wrong artifact</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="carlspring" id="reporter_carlspring" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=carlspring">Martin Todorov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="22/Sep/13 08:20"><time datetime="2013-09-22T08:20:38+0000">22/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/13 09:54"><time datetime="2013-09-22T09:54:36+0000">22/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803537" rel="12803537" data-issuekey="MINSTALL-92" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-92" href="https://issues.apache.org/jira/browse/MINSTALL-92"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-92" href="https://issues.apache.org/jira/browse/MINSTALL-92">MINSTALL-92</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-92" href="https://issues.apache.org/jira/browse/MINSTALL-92">Docs says the skip param is required, which it isn&#39;t</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="assignee_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="reporter_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Sep/12 02:05"><time datetime="2012-09-19T02:05:45+0000">19/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="19/Sep/12 02:18"><time datetime="2012-09-19T02:18:18+0000">19/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803525" rel="12803525" data-issuekey="MINSTALL-89" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-89" href="https://issues.apache.org/jira/browse/MINSTALL-89"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-89" href="https://issues.apache.org/jira/browse/MINSTALL-89">MINSTALL-89</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-89" href="https://issues.apache.org/jira/browse/MINSTALL-89">when I execute the command mvn clean ok but get error when execute mvn install</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="alextan" id="reporter_alextan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=alextan">tan xiuqiang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="10/Jul/12 22:47"><time datetime="2012-07-10T22:47:54+0000">10/Jul/12</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:02+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803509" rel="12803509" data-issuekey="MINSTALL-86" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-86" href="https://issues.apache.org/jira/browse/MINSTALL-86"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-86" href="https://issues.apache.org/jira/browse/MINSTALL-86">MINSTALL-86</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-86" href="https://issues.apache.org/jira/browse/MINSTALL-86">Goal summary for install:install only mentions main artifact</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="assignee_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="reporter_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/11 16:22"><time datetime="2011-10-03T16:22:57+0000">03/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Oct/11 16:23"><time datetime="2011-10-03T16:23:54+0000">03/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803523" rel="12803523" data-issuekey="MINSTALL-81" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-81" href="https://issues.apache.org/jira/browse/MINSTALL-81"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-81" href="https://issues.apache.org/jira/browse/MINSTALL-81">MINSTALL-81</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-81" href="https://issues.apache.org/jira/browse/MINSTALL-81">Checksums of metadata files are not always correct in case of attached artifacts</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jan/11 16:56"><time datetime="2011-01-04T16:56:28+0000">04/Jan/11</time></span> </td>
+                                            <td class="updated"> <span title="04/Jan/11 16:59"><time datetime="2011-01-04T16:59:49+0000">04/Jan/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803601" rel="12803601" data-issuekey="MINSTALL-80" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-80" href="https://issues.apache.org/jira/browse/MINSTALL-80"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-80" href="https://issues.apache.org/jira/browse/MINSTALL-80">MINSTALL-80</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-80" href="https://issues.apache.org/jira/browse/MINSTALL-80">Errors installing very minimal war</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mcalmus" id="reporter_mcalmus" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mcalmus">Mike Calmus</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="09/Dec/10 11:10"><time datetime="2010-12-09T11:10:22+0000">09/Dec/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Jan/11 15:16"><time datetime="2011-01-07T15:16:53+0000">07/Jan/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803531" rel="12803531" data-issuekey="MINSTALL-79" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-79" href="https://issues.apache.org/jira/browse/MINSTALL-79"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-79" href="https://issues.apache.org/jira/browse/MINSTALL-79">MINSTALL-79</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-79" href="https://issues.apache.org/jira/browse/MINSTALL-79">install:install should remove leftovers from local repository</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pkozelka" id="reporter_pkozelka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pkozelka">Petr Kozelka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="23/Sep/10 17:54"><time datetime="2010-09-23T17:54:27+0000">23/Sep/10</time></span> </td>
+                                            <td class="updated"> <span title="01/Oct/10 14:06"><time datetime="2010-10-01T14:06:20+0000">01/Oct/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803613" rel="12803613" data-issuekey="MINSTALL-78" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-78" href="https://issues.apache.org/jira/browse/MINSTALL-78"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-78" href="https://issues.apache.org/jira/browse/MINSTALL-78">MINSTALL-78</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-78" href="https://issues.apache.org/jira/browse/MINSTALL-78">install:install should remove leftovers from local repository</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pkozelka" id="reporter_pkozelka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pkozelka">Petr Kozelka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="23/Sep/10 18:09"><time datetime="2010-09-23T18:09:11+0000">23/Sep/10</time></span> </td>
+                                            <td class="updated"> <span title="01/Feb/13 09:02"><time datetime="2013-02-01T09:02:15+0000">01/Feb/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803594" rel="12803594" data-issuekey="MINSTALL-76" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-76" href="https://issues.apache.org/jira/browse/MINSTALL-76"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-76" href="https://issues.apache.org/jira/browse/MINSTALL-76">MINSTALL-76</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-76" href="https://issues.apache.org/jira/browse/MINSTALL-76">Maven-Install-Plugin installs an attached artifact twice if no primary artifact exists</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="daw13" id="reporter_daw13" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=daw13">David Williams</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="19/May/10 14:27"><time datetime="2010-05-19T14:27:55+0000">19/May/10</time></span> </td>
+                                            <td class="updated"> <span title="20/May/10 07:58"><time datetime="2010-05-20T07:58:49+0000">20/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803511" rel="12803511" data-issuekey="MINSTALL-71" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-71" href="https://issues.apache.org/jira/browse/MINSTALL-71"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-71" href="https://issues.apache.org/jira/browse/MINSTALL-71">MINSTALL-71</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-71" href="https://issues.apache.org/jira/browse/MINSTALL-71">localRepositoryPath ignored</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jetto" id="reporter_jetto" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jetto">Rémi Perrot</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Nov/09 05:24"><time datetime="2009-11-26T05:24:59+0000">26/Nov/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Nov/09 05:45"><time datetime="2009-11-26T05:45:10+0000">26/Nov/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803616" rel="12803616" data-issuekey="MINSTALL-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-70" href="https://issues.apache.org/jira/browse/MINSTALL-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-70" href="https://issues.apache.org/jira/browse/MINSTALL-70">MINSTALL-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-70" href="https://issues.apache.org/jira/browse/MINSTALL-70">install-file should take the version from the parent if the version for the artifact is missing in the POM</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ericlewis" id="reporter_ericlewis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ericlewis">Eric Lewis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="16/Sep/09 09:58"><time datetime="2009-09-16T09:58:45+0000">16/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="16/Sep/09 10:17"><time datetime="2009-09-16T10:17:37+0000">16/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803602" rel="12803602" data-issuekey="MINSTALL-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-67" href="https://issues.apache.org/jira/browse/MINSTALL-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-67" href="https://issues.apache.org/jira/browse/MINSTALL-67">MINSTALL-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-67" href="https://issues.apache.org/jira/browse/MINSTALL-67">Maven does not recognize the version number provided for install-file in Windows CMD or PowerShell</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="safroe" id="reporter_safroe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=safroe">Sascha Fröhlich</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="17/Jul/09 05:43"><time datetime="2009-07-17T05:43:56+0000">17/Jul/09</time></span> </td>
+                                            <td class="updated"> <span title="20/Dec/09 12:53"><time datetime="2009-12-20T12:53:00+0000">20/Dec/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803590" rel="12803590" data-issuekey="MINSTALL-65" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-65" href="https://issues.apache.org/jira/browse/MINSTALL-65"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-65" href="https://issues.apache.org/jira/browse/MINSTALL-65">MINSTALL-65</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-65" href="https://issues.apache.org/jira/browse/MINSTALL-65">Update Error</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brace08" id="reporter_brace08" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brace08">brace</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="24/Jun/09 19:32"><time datetime="2009-06-24T19:32:23+0000">24/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="24/Jun/09 19:41"><time datetime="2009-06-24T19:41:47+0000">24/Jun/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803600" rel="12803600" data-issuekey="MINSTALL-63" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-63" href="https://issues.apache.org/jira/browse/MINSTALL-63"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-63" href="https://issues.apache.org/jira/browse/MINSTALL-63">MINSTALL-63</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-63" href="https://issues.apache.org/jira/browse/MINSTALL-63">&#39;LATEST&#39; flag not getting updated</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="s.kanagarajan" id="reporter_s.kanagarajan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=s.kanagarajan">Sudhakar Kanagarajan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="20/Apr/09 08:09"><time datetime="2009-04-20T08:09:32+0000">20/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="30/Oct/10 12:02"><time datetime="2010-10-30T12:02:12+0000">30/Oct/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803599" rel="12803599" data-issuekey="MINSTALL-62" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-62" href="https://issues.apache.org/jira/browse/MINSTALL-62"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-62" href="https://issues.apache.org/jira/browse/MINSTALL-62">MINSTALL-62</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-62" href="https://issues.apache.org/jira/browse/MINSTALL-62">version error</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dishanka" id="reporter_dishanka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dishanka">karunanayake</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="03/Apr/09 06:08"><time datetime="2009-04-03T06:08:40+0000">03/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="14/Jun/09 07:29"><time datetime="2009-06-14T07:29:11+0000">14/Jun/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803603" rel="12803603" data-issuekey="MINSTALL-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-58" href="https://issues.apache.org/jira/browse/MINSTALL-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-58" href="https://issues.apache.org/jira/browse/MINSTALL-58">MINSTALL-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-58" href="https://issues.apache.org/jira/browse/MINSTALL-58">Build failure</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poonamvg2002" id="reporter_poonamvg2002" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poonamvg2002">Poonam Gyanchandani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="03/Feb/09 14:33"><time datetime="2009-02-03T14:33:51+0000">03/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="03/Feb/09 14:45"><time datetime="2009-02-03T14:45:50+0000">03/Feb/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803580" rel="12803580" data-issuekey="MINSTALL-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-56" href="https://issues.apache.org/jira/browse/MINSTALL-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-56" href="https://issues.apache.org/jira/browse/MINSTALL-56">MINSTALL-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-56" href="https://issues.apache.org/jira/browse/MINSTALL-56">No checksums installed for project with packaging POM</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Jan/09 05:39"><time datetime="2009-01-01T05:39:27+0000">01/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="01/Jan/09 05:40"><time datetime="2009-01-01T05:40:43+0000">01/Jan/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803586" rel="12803586" data-issuekey="MINSTALL-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-55" href="https://issues.apache.org/jira/browse/MINSTALL-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-55" href="https://issues.apache.org/jira/browse/MINSTALL-55">MINSTALL-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-55" href="https://issues.apache.org/jira/browse/MINSTALL-55">install-file fails to grab version inhertied from parent</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Dec/08 15:36"><time datetime="2008-12-31T15:36:15+0000">31/Dec/08</time></span> </td>
+                                            <td class="updated"> <span title="16/Sep/09 10:17"><time datetime="2009-09-16T10:17:37+0000">16/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803612" rel="12803612" data-issuekey="MINSTALL-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-54" href="https://issues.apache.org/jira/browse/MINSTALL-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-54" href="https://issues.apache.org/jira/browse/MINSTALL-54">MINSTALL-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-54" href="https://issues.apache.org/jira/browse/MINSTALL-54">[INFO] Error installing artifact&#39;s metadata</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gsimpson" id="reporter_gsimpson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gsimpson">Geoff Simpson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Nov/08 09:57"><time datetime="2008-11-13T09:57:07+0000">13/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/15 15:16"><time datetime="2015-11-16T15:16:54+0000">16/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803596" rel="12803596" data-issuekey="MINSTALL-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-53" href="https://issues.apache.org/jira/browse/MINSTALL-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-53" href="https://issues.apache.org/jira/browse/MINSTALL-53">MINSTALL-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-53" href="https://issues.apache.org/jira/browse/MINSTALL-53">Install does not install the final war in repository</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="perjarle" id="reporter_perjarle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=perjarle">Per-Jarle Sæther</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="18/Sep/08 01:49"><time datetime="2008-09-18T01:49:29+0000">18/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="19/Sep/08 05:34"><time datetime="2008-09-19T05:34:20+0000">19/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803572" rel="12803572" data-issuekey="MINSTALL-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-42" href="https://issues.apache.org/jira/browse/MINSTALL-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-42" href="https://issues.apache.org/jira/browse/MINSTALL-42">MINSTALL-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-42" href="https://issues.apache.org/jira/browse/MINSTALL-42">classifier seems to be ignored</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brill" id="reporter_brill" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brill">Brill Pappin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Oct/07 11:00"><time datetime="2007-10-01T11:00:02+0000">01/Oct/07</time></span> </td>
+                                            <td class="updated"> <span title="01/Apr/08 13:18"><time datetime="2008-04-01T13:18:36+0000">01/Apr/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803573" rel="12803573" data-issuekey="MINSTALL-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-41" href="https://issues.apache.org/jira/browse/MINSTALL-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-41" href="https://issues.apache.org/jira/browse/MINSTALL-41">MINSTALL-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-41" href="https://issues.apache.org/jira/browse/MINSTALL-41">Install with classifier does not install pom</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mork" id="reporter_mork" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mork">mork</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Sep/07 09:03"><time datetime="2007-09-10T09:03:29+0000">10/Sep/07</time></span> </td>
+                                            <td class="updated"> <span title="12/Jan/16 21:34"><time datetime="2016-01-12T21:34:20+0000">12/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803604" rel="12803604" data-issuekey="MINSTALL-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-40" href="https://issues.apache.org/jira/browse/MINSTALL-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-40" href="https://issues.apache.org/jira/browse/MINSTALL-40">MINSTALL-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-40" href="https://issues.apache.org/jira/browse/MINSTALL-40">install with classifier with no target/classes fails</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mork" id="reporter_mork" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mork">mork</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="02/Aug/07 01:55"><time datetime="2007-08-02T01:55:27+0000">02/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="12/Jan/16 21:29"><time datetime="2016-01-12T21:29:14+0000">12/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803588" rel="12803588" data-issuekey="MINSTALL-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-38" href="https://issues.apache.org/jira/browse/MINSTALL-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-38" href="https://issues.apache.org/jira/browse/MINSTALL-38">MINSTALL-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-38" href="https://issues.apache.org/jira/browse/MINSTALL-38">Install plugin behaves incorrectly in grandchildren projects that has packaging != jar</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="snicoll" id="assignee_snicoll" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=snicoll">Stephane Nicoll</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="niclas" id="reporter_niclas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=niclas">Niclas Hedhman</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="05/Apr/07 01:29"><time datetime="2007-04-05T01:29:57+0000">05/Apr/07</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:37"><time datetime="2015-04-07T18:37:44+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803560" rel="12803560" data-issuekey="MINSTALL-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-36" href="https://issues.apache.org/jira/browse/MINSTALL-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-36" href="https://issues.apache.org/jira/browse/MINSTALL-36">MINSTALL-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-36" href="https://issues.apache.org/jira/browse/MINSTALL-36">install:install-file ignores -DrepositoryLayout</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jova" id="reporter_jova" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jova">Joerg Vater</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Nov/06 09:11"><time datetime="2006-11-23T09:11:09+0000">23/Nov/06</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:29"><time datetime="2015-04-05T14:29:35+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803564" rel="12803564" data-issuekey="MINSTALL-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-34" href="https://issues.apache.org/jira/browse/MINSTALL-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-34" href="https://issues.apache.org/jira/browse/MINSTALL-34">MINSTALL-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-34" href="https://issues.apache.org/jira/browse/MINSTALL-34">Make the install plugin work due the repository-manager has been moved to archiva.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="swisswheel" id="reporter_swisswheel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=swisswheel">Martin Zeltner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Sep/06 10:08"><time datetime="2006-09-22T10:08:16+0000">22/Sep/06</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:29"><time datetime="2015-04-05T14:29:35+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803557" rel="12803557" data-issuekey="MINSTALL-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-33" href="https://issues.apache.org/jira/browse/MINSTALL-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-33" href="https://issues.apache.org/jira/browse/MINSTALL-33">MINSTALL-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-33" href="https://issues.apache.org/jira/browse/MINSTALL-33">mvn install:install-file should create appropriate entries so that dependencies with version ranges will use installed file.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="patmoore@ieee.org" id="reporter_patmoore@ieee.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=patmoore%40ieee.org">Patrick Moore</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="05/Sep/06 02:00"><time datetime="2006-09-05T02:00:38+0000">05/Sep/06</time></span> </td>
+                                            <td class="updated"> <span title="10/Jul/13 15:37"><time datetime="2013-07-10T15:37:43+0000">10/Jul/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803561" rel="12803561" data-issuekey="MINSTALL-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-32" href="https://issues.apache.org/jira/browse/MINSTALL-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-32" href="https://issues.apache.org/jira/browse/MINSTALL-32">MINSTALL-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-32" href="https://issues.apache.org/jira/browse/MINSTALL-32">classifier does not work on install:install-file, default artifact overwritten</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="simon.g" id="reporter_simon.g" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simon.g">simon.g</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Aug/06 03:26"><time datetime="2006-08-24T03:26:19+0000">24/Aug/06</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/07 17:12"><time datetime="2007-01-03T17:12:12+0000">03/Jan/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803551" rel="12803551" data-issuekey="MINSTALL-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-31" href="https://issues.apache.org/jira/browse/MINSTALL-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-31" href="https://issues.apache.org/jira/browse/MINSTALL-31">MINSTALL-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-31" href="https://issues.apache.org/jira/browse/MINSTALL-31">Maven keeps changing repository locations</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tomhstg" id="reporter_tomhstg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tomhstg">Tom Harris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Aug/06 19:19"><time datetime="2006-08-09T19:19:49+0000">09/Aug/06</time></span> </td>
+                                            <td class="updated"> <span title="09/Aug/06 20:08"><time datetime="2006-08-09T20:08:24+0000">09/Aug/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803585" rel="12803585" data-issuekey="MINSTALL-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-29" href="https://issues.apache.org/jira/browse/MINSTALL-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-29" href="https://issues.apache.org/jira/browse/MINSTALL-29">MINSTALL-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-29" href="https://issues.apache.org/jira/browse/MINSTALL-29">Can&#39;t use maven-install-plugin with &lt;goal&gt;install-file&lt;/goal&gt; in POM</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bsharper" id="reporter_bsharper" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bsharper">Brad Harper</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Jul/06 10:06"><time datetime="2006-07-14T10:06:48+0000">14/Jul/06</time></span> </td>
+                                            <td class="updated"> <span title="02/May/07 20:24"><time datetime="2007-05-02T20:24:53+0000">02/May/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803595" rel="12803595" data-issuekey="MINSTALL-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-28" href="https://issues.apache.org/jira/browse/MINSTALL-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-28" href="https://issues.apache.org/jira/browse/MINSTALL-28">MINSTALL-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-28" href="https://issues.apache.org/jira/browse/MINSTALL-28">Error in Project Attempting to Use maven-install-plugin with &#39;lib&#39; Packaging</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bsharper" id="reporter_bsharper" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bsharper">Brad Harper</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="13/Jul/06 12:15"><time datetime="2006-07-13T12:15:17+0000">13/Jul/06</time></span> </td>
+                                            <td class="updated"> <span title="06/Jan/09 02:57"><time datetime="2009-01-06T02:57:33+0000">06/Jan/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803559" rel="12803559" data-issuekey="MINSTALL-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-24" href="https://issues.apache.org/jira/browse/MINSTALL-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-24" href="https://issues.apache.org/jira/browse/MINSTALL-24">MINSTALL-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-24" href="https://issues.apache.org/jira/browse/MINSTALL-24">Unable to install source or javadoc artifacts in local repository</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="mperham" id="assignee_mperham" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mperham">Mike Perham</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chagmann@mhave.com" id="reporter_chagmann@mhave.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chagmann%40mhave.com">Chris Hagmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Jun/06 15:08"><time datetime="2006-06-13T15:08:33+0000">13/Jun/06</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/07 17:11"><time datetime="2007-01-03T17:11:19+0000">03/Jan/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803535" rel="12803535" data-issuekey="MINSTALL-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-23" href="https://issues.apache.org/jira/browse/MINSTALL-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-23" href="https://issues.apache.org/jira/browse/MINSTALL-23">MINSTALL-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-23" href="https://issues.apache.org/jira/browse/MINSTALL-23">Issue tracking URL points to maven 2 jira.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="mperham" id="assignee_mperham" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mperham">Mike Perham</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shinobu" id="reporter_shinobu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shinobu">Shinobu Kawai</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/May/06 18:16"><time datetime="2006-05-31T18:16:54+0000">31/May/06</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/06 15:07"><time datetime="2006-07-08T15:07:02+0000">08/Jul/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803540" rel="12803540" data-issuekey="MINSTALL-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-19" href="https://issues.apache.org/jira/browse/MINSTALL-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-19" href="https://issues.apache.org/jira/browse/MINSTALL-19">MINSTALL-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-19" href="https://issues.apache.org/jira/browse/MINSTALL-19">install-file sets distributionManagement status to deployed</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="carlos" id="reporter_carlos" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=carlos">Carlos Sanchez</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Apr/06 15:57"><time datetime="2006-04-10T15:57:29+0000">10/Apr/06</time></span> </td>
+                                            <td class="updated"> <span title="02/May/07 19:56"><time datetime="2007-05-02T19:56:40+0000">02/May/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803614" rel="12803614" data-issuekey="MINSTALL-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-18" href="https://issues.apache.org/jira/browse/MINSTALL-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-18" href="https://issues.apache.org/jira/browse/MINSTALL-18">MINSTALL-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-18" href="https://issues.apache.org/jira/browse/MINSTALL-18">Bad algorithm to decide if the main artifact is to be installed or not</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vmassol" id="reporter_vmassol" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vmassol">Vincent Massol</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/06 07:26"><time datetime="2006-04-08T07:26:20+0000">08/Apr/06</time></span> </td>
+                                            <td class="updated"> <span title="12/Jan/16 21:29"><time datetime="2016-01-12T21:29:14+0000">12/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803542" rel="12803542" data-issuekey="MINSTALL-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-17" href="https://issues.apache.org/jira/browse/MINSTALL-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-17" href="https://issues.apache.org/jira/browse/MINSTALL-17">MINSTALL-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-17" href="https://issues.apache.org/jira/browse/MINSTALL-17">Tests fail when running from parent</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aramirez" id="assignee_aramirez" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aramirez">Allan Ramirez</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="arikkfir" id="reporter_arikkfir" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=arikkfir">Arik Kfir</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Apr/06 05:26"><time datetime="2006-04-06T05:26:53+0000">06/Apr/06</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/06 01:18"><time datetime="2006-04-07T01:18:03+0000">07/Apr/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803558" rel="12803558" data-issuekey="MINSTALL-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-15" href="https://issues.apache.org/jira/browse/MINSTALL-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-15" href="https://issues.apache.org/jira/browse/MINSTALL-15">MINSTALL-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-15" href="https://issues.apache.org/jira/browse/MINSTALL-15">Use ${variables} in dependencies doesn&#39;t work when pom is installed in the local repository</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jmt" id="reporter_jmt" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jmt">Jean-Michel Tournié</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="01/Mar/06 09:50"><time datetime="2006-03-01T09:50:58+0000">01/Mar/06</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/06 23:03"><time datetime="2006-03-08T23:03:20+0000">08/Mar/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803536" rel="12803536" data-issuekey="MINSTALL-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-14" href="https://issues.apache.org/jira/browse/MINSTALL-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-14" href="https://issues.apache.org/jira/browse/MINSTALL-14">MINSTALL-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-14" href="https://issues.apache.org/jira/browse/MINSTALL-14">Unable to invoke install-file goal from inside a pom</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pkashyap" id="reporter_pkashyap" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pkashyap">Prasad Kashyap</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="21/Feb/06 20:20"><time datetime="2006-02-21T20:20:42+0000">21/Feb/06</time></span> </td>
+                                            <td class="updated"> <span title="09/Mar/06 08:36"><time datetime="2006-03-09T08:36:41+0000">09/Mar/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803532" rel="12803532" data-issuekey="MINSTALL-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-10" href="https://issues.apache.org/jira/browse/MINSTALL-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-10" href="https://issues.apache.org/jira/browse/MINSTALL-10">MINSTALL-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-10" href="https://issues.apache.org/jira/browse/MINSTALL-10">Build ERROR and build FAILURE occurs</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="harihag" id="reporter_harihag" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=harihag">Hariharan Jagadeesan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="19/Jan/06 07:54"><time datetime="2006-01-19T07:54:21+0000">19/Jan/06</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/06 23:03"><time datetime="2006-03-08T23:03:20+0000">08/Mar/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803544" rel="12803544" data-issuekey="MINSTALL-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-5" href="https://issues.apache.org/jira/browse/MINSTALL-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-5" href="https://issues.apache.org/jira/browse/MINSTALL-5">MINSTALL-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-5" href="https://issues.apache.org/jira/browse/MINSTALL-5">non originality pom.xml on install or deploy</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pinghe" id="reporter_pinghe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pinghe">pinghe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="30/Nov/05 03:43"><time datetime="2005-11-30T03:43:29+0000">30/Nov/05</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/06 23:03"><time datetime="2006-03-08T23:03:22+0000">08/Mar/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803607" rel="12803607" data-issuekey="MINSTALL-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-4" href="https://issues.apache.org/jira/browse/MINSTALL-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-4" href="https://issues.apache.org/jira/browse/MINSTALL-4">MINSTALL-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-4" href="https://issues.apache.org/jira/browse/MINSTALL-4">install:install-file makes reactor parse subprojects</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="le.du.yann@gmail.com" id="reporter_le.du.yann@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=le.du.yann%40gmail.com">Yann Le Du</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Oct/05 09:37"><time datetime="2005-10-06T09:37:49+0000">06/Oct/05</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/06 23:03"><time datetime="2006-03-08T23:03:21+0000">08/Mar/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803545" rel="12803545" data-issuekey="MINSTALL-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-3" href="https://issues.apache.org/jira/browse/MINSTALL-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-3" href="https://issues.apache.org/jira/browse/MINSTALL-3">MINSTALL-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-3" href="https://issues.apache.org/jira/browse/MINSTALL-3">The install plugin fails if there are only &quot;attached&quot; artifacts.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jps" id="reporter_jps" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jps">jps</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Nov/05 05:14"><time datetime="2005-11-18T05:14:24+0000">18/Nov/05</time></span> </td>
+                                            <td class="updated"> <span title="01/Jan/09 06:58"><time datetime="2009-01-01T06:58:23+0000">01/Jan/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803539" rel="12803539" data-issuekey="MINSTALL-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-2" href="https://issues.apache.org/jira/browse/MINSTALL-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-2" href="https://issues.apache.org/jira/browse/MINSTALL-2">MINSTALL-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-2" href="https://issues.apache.org/jira/browse/MINSTALL-2">Install-file zeros file if the source file is the target file.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="llucifer" id="reporter_llucifer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=llucifer">Philipp Meier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Oct/05 12:04"><time datetime="2005-10-25T12:04:53+0000">25/Oct/05</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/06 23:03"><time datetime="2006-03-08T23:03:20+0000">08/Mar/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803555" rel="12803555" data-issuekey="MINSTALL-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINSTALL-1" href="https://issues.apache.org/jira/browse/MINSTALL-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINSTALL-1" href="https://issues.apache.org/jira/browse/MINSTALL-1">MINSTALL-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINSTALL-1" href="https://issues.apache.org/jira/browse/MINSTALL-1">Install plugin installs a jar to repository with default name, even if name is overridden</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="assignee_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ruelloehr" id="reporter_ruelloehr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ruelloehr">ruel loehr</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="22/Nov/05 11:25"><time datetime="2005-11-22T11:25:19+0000">22/Nov/05</time></span> </td>
+                                            <td class="updated"> <span title="22/Jul/08 03:54"><time datetime="2008-07-22T03:54:13+0000">22/Jul/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

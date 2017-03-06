@@ -1,0 +1,1633 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+UNOMI+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+UNOMI+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/UNOMI" title="Browse Apache Unomi project">Apache Unomi</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>43</b> of <b>43</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13044789" rel="13044789" data-issuekey="UNOMI-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-85" href="https://issues.apache.org/jira/browse/UNOMI-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-85" href="https://issues.apache.org/jira/browse/UNOMI-85">UNOMI-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-85" href="https://issues.apache.org/jira/browse/UNOMI-85">REST API &amp; JavaDoc documentation page return 404</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="assignee_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romain.blineau" id="reporter_romain.blineau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.blineau">Romain Blineau</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Feb/17 10:24"><time datetime="2017-02-21T10:24:36+0000">21/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="21/Feb/17 22:40"><time datetime="2017-02-21T22:40:11+0000">21/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13044542" rel="13044542" data-issuekey="UNOMI-83" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-83" href="https://issues.apache.org/jira/browse/UNOMI-83"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-83" href="https://issues.apache.org/jira/browse/UNOMI-83">UNOMI-83</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-83" href="https://issues.apache.org/jira/browse/UNOMI-83">org.apache.unomi.cluster.cfg sample contains wrong props names</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="assignee_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="reporter_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Feb/17 12:59"><time datetime="2017-02-20T12:59:57+0000">20/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/17 15:43"><time datetime="2017-02-20T15:43:46+0000">20/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13044209" rel="13044209" data-issuekey="UNOMI-82" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-82" href="https://issues.apache.org/jira/browse/UNOMI-82"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-82" href="https://issues.apache.org/jira/browse/UNOMI-82">UNOMI-82</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-82" href="https://issues.apache.org/jira/browse/UNOMI-82">Same profileId associated with different sessions (different users)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romanumero" id="reporter_romanumero" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romanumero">Damon Henry</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Feb/17 13:29"><time datetime="2017-02-18T13:29:16+0000">18/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="27/Feb/17 11:10"><time datetime="2017-02-27T11:10:54+0000">27/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13039880" rel="13039880" data-issuekey="UNOMI-77" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-77" href="https://issues.apache.org/jira/browse/UNOMI-77"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-77" href="https://issues.apache.org/jira/browse/UNOMI-77">UNOMI-77</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-77" href="https://issues.apache.org/jira/browse/UNOMI-77">Add inContains Comparison Operator</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="assignee_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="reporter_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Feb/17 16:11"><time datetime="2017-02-02T16:11:59+0000">02/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="13/Feb/17 12:47"><time datetime="2017-02-13T12:47:43+0000">13/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13039440" rel="13039440" data-issuekey="UNOMI-75" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-75" href="https://issues.apache.org/jira/browse/UNOMI-75"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-75" href="https://issues.apache.org/jira/browse/UNOMI-75">UNOMI-75</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-75" href="https://issues.apache.org/jira/browse/UNOMI-75">Error when starting Apache Unomi when offline</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Feb/17 11:57"><time datetime="2017-02-01T11:57:43+0000">01/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="01/Feb/17 12:27"><time datetime="2017-02-01T12:27:06+0000">01/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13036607" rel="13036607" data-issuekey="UNOMI-74" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-74" href="https://issues.apache.org/jira/browse/UNOMI-74"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-74" href="https://issues.apache.org/jira/browse/UNOMI-74">UNOMI-74</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-74" href="https://issues.apache.org/jira/browse/UNOMI-74">Improve user agent reporting to handle browser like Edge</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="assignee_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="reporter_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Jan/17 16:38"><time datetime="2017-01-20T16:38:08+0000">20/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="24/Jan/17 13:04"><time datetime="2017-01-24T13:04:16+0000">24/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13036138" rel="13036138" data-issuekey="UNOMI-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-73" href="https://issues.apache.org/jira/browse/UNOMI-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-73" href="https://issues.apache.org/jira/browse/UNOMI-73">UNOMI-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-73" href="https://issues.apache.org/jira/browse/UNOMI-73">Add a log when Unomi is properly initialized.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="assignee_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Jan/17 09:01"><time datetime="2017-01-19T09:01:24+0000">19/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/17 17:14"><time datetime="2017-01-19T17:14:00+0000">19/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13033496" rel="13033496" data-issuekey="UNOMI-72" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-72" href="https://issues.apache.org/jira/browse/UNOMI-72"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-72" href="https://issues.apache.org/jira/browse/UNOMI-72">UNOMI-72</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-72" href="https://issues.apache.org/jira/browse/UNOMI-72">Fix integration and performance tests</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Jan/17 19:59"><time datetime="2017-01-10T19:59:40+0000">10/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="10/Jan/17 20:01"><time datetime="2017-01-10T20:01:16+0000">10/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025382" rel="13025382" data-issuekey="UNOMI-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-70" href="https://issues.apache.org/jira/browse/UNOMI-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-70" href="https://issues.apache.org/jira/browse/UNOMI-70">UNOMI-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-70" href="https://issues.apache.org/jira/browse/UNOMI-70">Upgrade to ElasticSearch 5.x</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="assignee_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Dec/16 07:00"><time datetime="2016-12-04T07:00:15+0000">04/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="24/Jan/17 10:04"><time datetime="2017-01-24T10:04:59+0000">24/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13023208" rel="13023208" data-issuekey="UNOMI-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-68" href="https://issues.apache.org/jira/browse/UNOMI-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-68" href="https://issues.apache.org/jira/browse/UNOMI-68">UNOMI-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-68" href="https://issues.apache.org/jira/browse/UNOMI-68">Fix site branding</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="24/Nov/16 15:00"><time datetime="2016-11-24T15:00:28+0000">24/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/16 16:14"><time datetime="2016-11-28T16:14:50+0000">28/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13022466" rel="13022466" data-issuekey="UNOMI-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-67" href="https://issues.apache.org/jira/browse/UNOMI-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-67" href="https://issues.apache.org/jira/browse/UNOMI-67">UNOMI-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-67" href="https://issues.apache.org/jira/browse/UNOMI-67">Add support for Do Not Track</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Nov/16 10:32"><time datetime="2016-11-22T10:32:41+0000">22/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Nov/16 10:32"><time datetime="2016-11-22T10:32:41+0000">22/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13022464" rel="13022464" data-issuekey="UNOMI-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-66" href="https://issues.apache.org/jira/browse/UNOMI-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-66" href="https://issues.apache.org/jira/browse/UNOMI-66">UNOMI-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-66" href="https://issues.apache.org/jira/browse/UNOMI-66">Integrate Apache Kafka</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Nov/16 10:30"><time datetime="2016-11-22T10:30:01+0000">22/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Nov/16 14:39"><time datetime="2016-11-22T14:39:48+0000">22/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13017166" rel="13017166" data-issuekey="UNOMI-61" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-61" href="https://issues.apache.org/jira/browse/UNOMI-61"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-61" href="https://issues.apache.org/jira/browse/UNOMI-61">UNOMI-61</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-61" href="https://issues.apache.org/jira/browse/UNOMI-61">Update mvel version</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="assignee_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="reporter_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Nov/16 10:50"><time datetime="2016-11-02T10:50:24+0000">02/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="02/Nov/16 10:58"><time datetime="2016-11-02T10:58:58+0000">02/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13013923" rel="13013923" data-issuekey="UNOMI-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-60" href="https://issues.apache.org/jira/browse/UNOMI-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-60" href="https://issues.apache.org/jira/browse/UNOMI-60">UNOMI-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-60" href="https://issues.apache.org/jira/browse/UNOMI-60">Function getServerInfo return hardcoded version</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="assignee_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="reporter_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Oct/16 15:12"><time datetime="2016-10-20T15:12:09+0000">20/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="02/Nov/16 10:57"><time datetime="2016-11-02T10:57:01+0000">02/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13008527" rel="13008527" data-issuekey="UNOMI-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-58" href="https://issues.apache.org/jira/browse/UNOMI-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-58" href="https://issues.apache.org/jira/browse/UNOMI-58">UNOMI-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-58" href="https://issues.apache.org/jira/browse/UNOMI-58">issue when deploying binary package</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Sep/16 13:23"><time datetime="2016-09-29T13:23:24+0000">29/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="29/Sep/16 15:36"><time datetime="2016-09-29T15:36:28+0000">29/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13008522" rel="13008522" data-issuekey="UNOMI-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-57" href="https://issues.apache.org/jira/browse/UNOMI-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-57" href="https://issues.apache.org/jira/browse/UNOMI-57">UNOMI-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-57" href="https://issues.apache.org/jira/browse/UNOMI-57">Fix LGPL license issues within binary build</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Sep/16 13:03"><time datetime="2016-09-29T13:03:13+0000">29/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="29/Sep/16 15:36"><time datetime="2016-09-29T15:36:51+0000">29/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13006558" rel="13006558" data-issuekey="UNOMI-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-56" href="https://issues.apache.org/jira/browse/UNOMI-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-56" href="https://issues.apache.org/jira/browse/UNOMI-56">UNOMI-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-56" href="https://issues.apache.org/jira/browse/UNOMI-56">Add setPropertyValueMultiple in setPropertyAction.json</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="assignee_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="reporter_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Sep/16 16:21"><time datetime="2016-09-21T16:21:38+0000">21/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/16 09:49"><time datetime="2016-11-16T09:49:10+0000">16/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002373" rel="13002373" data-issuekey="UNOMI-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-55" href="https://issues.apache.org/jira/browse/UNOMI-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-55" href="https://issues.apache.org/jira/browse/UNOMI-55">UNOMI-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-55" href="https://issues.apache.org/jira/browse/UNOMI-55">typing issue in defaultDeniedProperties (org.apache.unomi.privacy.cfg)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="assignee_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dgaillard" id="reporter_dgaillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dgaillard">Damien GAILLARD</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Sep/16 14:59"><time datetime="2016-09-02T14:59:59+0000">02/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="02/Nov/16 10:59"><time datetime="2016-11-02T10:59:24+0000">02/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12996959" rel="12996959" data-issuekey="UNOMI-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-53" href="https://issues.apache.org/jira/browse/UNOMI-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-53" href="https://issues.apache.org/jira/browse/UNOMI-53">UNOMI-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-53" href="https://issues.apache.org/jira/browse/UNOMI-53">goalMatchCondition : comparisonOperator as a parameter</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="assignee_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="reporter_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Aug/16 14:28"><time datetime="2016-08-12T14:28:18+0000">12/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/16 09:43"><time datetime="2016-11-16T09:43:33+0000">16/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12996557" rel="12996557" data-issuekey="UNOMI-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-52" href="https://issues.apache.org/jira/browse/UNOMI-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-52" href="https://issues.apache.org/jira/browse/UNOMI-52">UNOMI-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-52" href="https://issues.apache.org/jira/browse/UNOMI-52">Review conditions tags</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="assignee_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="reporter_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Aug/16 08:01"><time datetime="2016-08-11T08:01:56+0000">11/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/16 09:44"><time datetime="2016-11-16T09:44:04+0000">16/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12996286" rel="12996286" data-issuekey="UNOMI-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-51" href="https://issues.apache.org/jira/browse/UNOMI-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-51" href="https://issues.apache.org/jira/browse/UNOMI-51">UNOMI-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-51" href="https://issues.apache.org/jira/browse/UNOMI-51">Scoring modifiers are ignored when the score value is updated</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="assignee_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="reporter_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Aug/16 14:16"><time datetime="2016-08-10T14:16:14+0000">10/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/16 09:43"><time datetime="2016-11-16T09:43:06+0000">16/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12995658" rel="12995658" data-issuekey="UNOMI-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-49" href="https://issues.apache.org/jira/browse/UNOMI-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-49" href="https://issues.apache.org/jira/browse/UNOMI-49">UNOMI-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-49" href="https://issues.apache.org/jira/browse/UNOMI-49">Add &quot;aggregated&quot; tag</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amidani" id="reporter_amidani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amidani">Abdelkader Midani</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Aug/16 13:49"><time datetime="2016-08-08T13:49:00+0000">08/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Aug/16 15:02"><time datetime="2016-08-12T15:02:13+0000">12/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12995230" rel="12995230" data-issuekey="UNOMI-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-48" href="https://issues.apache.org/jira/browse/UNOMI-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-48" href="https://issues.apache.org/jira/browse/UNOMI-48">UNOMI-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-48" href="https://issues.apache.org/jira/browse/UNOMI-48">Add validation to scoring plan deletion</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="qlamerand" id="assignee_qlamerand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=qlamerand">Quentin Lamerand</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="qlamerand" id="reporter_qlamerand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=qlamerand">Quentin Lamerand</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Aug/16 14:51"><time datetime="2016-08-05T14:51:17+0000">05/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:40"><time datetime="2016-09-20T09:40:04+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12994966" rel="12994966" data-issuekey="UNOMI-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-47" href="https://issues.apache.org/jira/browse/UNOMI-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-47" href="https://issues.apache.org/jira/browse/UNOMI-47">UNOMI-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-47" href="https://issues.apache.org/jira/browse/UNOMI-47">Add possibility to limit to one notification mail</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="qlamerand" id="reporter_qlamerand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=qlamerand">Quentin Lamerand</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Aug/16 16:55"><time datetime="2016-08-04T16:55:37+0000">04/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:39"><time datetime="2016-09-20T09:39:56+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12992632" rel="12992632" data-issuekey="UNOMI-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-46" href="https://issues.apache.org/jira/browse/UNOMI-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-46" href="https://issues.apache.org/jira/browse/UNOMI-46">UNOMI-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-46" href="https://issues.apache.org/jira/browse/UNOMI-46">Avoid NPE when asking for the definition of a missing tag + Return 404</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="qlamerand" id="assignee_qlamerand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=qlamerand">Quentin Lamerand</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="qlamerand" id="reporter_qlamerand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=qlamerand">Quentin Lamerand</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jul/16 16:22"><time datetime="2016-07-26T16:22:24+0000">26/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:39"><time datetime="2016-09-20T09:39:48+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12990279" rel="12990279" data-issuekey="UNOMI-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-44" href="https://issues.apache.org/jira/browse/UNOMI-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-44" href="https://issues.apache.org/jira/browse/UNOMI-44">UNOMI-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-44" href="https://issues.apache.org/jira/browse/UNOMI-44">Script to upload site changes doesn&#39;t work</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="assignee_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jul/16 07:12"><time datetime="2016-07-18T07:12:02+0000">18/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:10"><time datetime="2016-09-20T09:10:02+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    18/Jul/16
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12988252" rel="12988252" data-issuekey="UNOMI-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-40" href="https://issues.apache.org/jira/browse/UNOMI-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-40" href="https://issues.apache.org/jira/browse/UNOMI-40">UNOMI-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-40" href="https://issues.apache.org/jira/browse/UNOMI-40">scoring plans update leads to NPE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Jul/16 11:55"><time datetime="2016-07-11T11:55:37+0000">11/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:12"><time datetime="2016-09-20T08:12:00+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983838" rel="12983838" data-issuekey="UNOMI-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-33" href="https://issues.apache.org/jira/browse/UNOMI-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-33" href="https://issues.apache.org/jira/browse/UNOMI-33">UNOMI-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-33" href="https://issues.apache.org/jira/browse/UNOMI-33">Profile CSV export should contain custom properties as well (e.g. set by form mapping)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="qlamerand" id="assignee_qlamerand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=qlamerand">Quentin Lamerand</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="qlamerand" id="reporter_qlamerand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=qlamerand">Quentin Lamerand</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Jun/16 16:07"><time datetime="2016-06-27T16:07:31+0000">27/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:38"><time datetime="2016-09-20T09:38:36+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12980836" rel="12980836" data-issuekey="UNOMI-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-32" href="https://issues.apache.org/jira/browse/UNOMI-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-32" href="https://issues.apache.org/jira/browse/UNOMI-32">UNOMI-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-32" href="https://issues.apache.org/jira/browse/UNOMI-32">Profile POST REST call overwrites existing profile in storage</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Jun/16 12:43"><time datetime="2016-06-20T12:43:06+0000">20/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:13"><time datetime="2016-09-20T09:13:06+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12963033" rel="12963033" data-issuekey="UNOMI-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-29" href="https://issues.apache.org/jira/browse/UNOMI-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-29" href="https://issues.apache.org/jira/browse/UNOMI-29">UNOMI-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-29" href="https://issues.apache.org/jira/browse/UNOMI-29">Event chain can be executed on previous profile in case of profile switch</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Apr/16 12:36"><time datetime="2016-04-27T12:36:20+0000">27/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:09"><time datetime="2016-09-20T08:09:13+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12962198" rel="12962198" data-issuekey="UNOMI-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-26" href="https://issues.apache.org/jira/browse/UNOMI-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-26" href="https://issues.apache.org/jira/browse/UNOMI-26">UNOMI-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-26" href="https://issues.apache.org/jira/browse/UNOMI-26">Query default limit is 0 (no results)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Apr/16 09:54"><time datetime="2016-04-25T09:54:58+0000">25/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:08"><time datetime="2016-09-20T08:08:41+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12959209" rel="12959209" data-issuekey="UNOMI-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-24" href="https://issues.apache.org/jira/browse/UNOMI-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-24" href="https://issues.apache.org/jira/browse/UNOMI-24">UNOMI-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-24" href="https://issues.apache.org/jira/browse/UNOMI-24">Contextual parameters not interpolated in PastEventConditions</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Apr/16 15:38"><time datetime="2016-04-15T15:38:31+0000">15/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:08"><time datetime="2016-09-20T08:08:13+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12957154" rel="12957154" data-issuekey="UNOMI-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-22" href="https://issues.apache.org/jira/browse/UNOMI-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-22" href="https://issues.apache.org/jira/browse/UNOMI-22">UNOMI-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-22" href="https://issues.apache.org/jira/browse/UNOMI-22">Filters with &quot;or&quot; condition between session/user conditions do not work</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/16 09:17"><time datetime="2016-04-08T09:17:28+0000">08/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:07"><time datetime="2016-09-20T08:07:11+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12955278" rel="12955278" data-issuekey="UNOMI-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-20" href="https://issues.apache.org/jira/browse/UNOMI-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-20" href="https://issues.apache.org/jira/browse/UNOMI-20">UNOMI-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-20" href="https://issues.apache.org/jira/browse/UNOMI-20">birthDate range definition is inconsistent</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Apr/16 12:01"><time datetime="2016-04-01T12:01:29+0000">01/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:07"><time datetime="2016-09-20T08:07:44+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12947469" rel="12947469" data-issuekey="UNOMI-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-18" href="https://issues.apache.org/jira/browse/UNOMI-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-18" href="https://issues.apache.org/jira/browse/UNOMI-18">UNOMI-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-18" href="https://issues.apache.org/jira/browse/UNOMI-18">Upgrade to commons-collection 3.2.2</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="assignee_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jbonofre" id="reporter_jbonofre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbonofre">Jean-Baptiste Onofré</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Mar/16 19:56"><time datetime="2016-03-05T19:56:01+0000">05/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:06"><time datetime="2016-09-20T08:06:17+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12936764" rel="12936764" data-issuekey="UNOMI-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-17" href="https://issues.apache.org/jira/browse/UNOMI-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-17" href="https://issues.apache.org/jira/browse/UNOMI-17">UNOMI-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-17" href="https://issues.apache.org/jira/browse/UNOMI-17">Final package contains duplicate files</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jbonofre" id="assignee_jbonofre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbonofre">Jean-Baptiste Onofré</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="04/Feb/16 16:00"><time datetime="2016-02-04T16:00:47+0000">04/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Feb/16 15:30"><time datetime="2016-02-05T15:30:04+0000">05/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12936392" rel="12936392" data-issuekey="UNOMI-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-16" href="https://issues.apache.org/jira/browse/UNOMI-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-16" href="https://issues.apache.org/jira/browse/UNOMI-16">UNOMI-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-16" href="https://issues.apache.org/jira/browse/UNOMI-16">Query crashes when no item created</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Feb/16 16:51"><time datetime="2016-02-03T16:51:38+0000">03/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:16"><time datetime="2016-09-20T08:16:00+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12935622" rel="12935622" data-issuekey="UNOMI-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-15" href="https://issues.apache.org/jira/browse/UNOMI-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-15" href="https://issues.apache.org/jira/browse/UNOMI-15">UNOMI-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-15" href="https://issues.apache.org/jira/browse/UNOMI-15">Use token to authenticate third party servers and secure login events</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Feb/16 13:55"><time datetime="2016-02-01T13:55:37+0000">01/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:15"><time datetime="2016-09-20T08:15:53+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12935609" rel="12935609" data-issuekey="UNOMI-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-14" href="https://issues.apache.org/jira/browse/UNOMI-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-14" href="https://issues.apache.org/jira/browse/UNOMI-14">UNOMI-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-14" href="https://issues.apache.org/jira/browse/UNOMI-14">Merge of profile for user using the same browser</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="draier" id="assignee_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draier" id="reporter_draier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draier">Thomas Draier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Feb/16 12:47"><time datetime="2016-02-01T12:47:03+0000">01/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 08:15"><time datetime="2016-09-20T08:15:44+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12934466" rel="12934466" data-issuekey="UNOMI-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-13" href="https://issues.apache.org/jira/browse/UNOMI-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-13" href="https://issues.apache.org/jira/browse/UNOMI-13">UNOMI-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-13" href="https://issues.apache.org/jira/browse/UNOMI-13">Remove binaries from source code</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="assignee_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shuber" id="reporter_shuber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shuber">Serge Huber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Jan/16 14:15"><time datetime="2016-01-27T14:15:55+0000">27/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:10"><time datetime="2016-09-20T09:10:54+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12929416" rel="12929416" data-issuekey="UNOMI-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-12" href="https://issues.apache.org/jira/browse/UNOMI-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-12" href="https://issues.apache.org/jira/browse/UNOMI-12">UNOMI-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-12" href="https://issues.apache.org/jira/browse/UNOMI-12">Unomi sample plugin should specify target and tags for created properties</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="metacosm" id="reporter_metacosm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=metacosm">Christophe Laprun</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jan/16 08:57"><time datetime="2016-01-12T08:57:29+0000">12/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 09:35"><time datetime="2016-09-20T09:35:04+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12924613" rel="12924613" data-issuekey="UNOMI-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-8" href="https://issues.apache.org/jira/browse/UNOMI-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-8" href="https://issues.apache.org/jira/browse/UNOMI-8">UNOMI-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-8" href="https://issues.apache.org/jira/browse/UNOMI-8">Check legal files in preparation for the release</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jbonofre" id="assignee_jbonofre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbonofre">Jean-Baptiste Onofré</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jbonofre" id="reporter_jbonofre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbonofre">Jean-Baptiste Onofré</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Dec/15 05:12"><time datetime="2015-12-29T05:12:39+0000">29/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/16 12:59"><time datetime="2016-03-21T12:59:05+0000">21/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12924612" rel="12924612" data-issuekey="UNOMI-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="UNOMI-7" href="https://issues.apache.org/jira/browse/UNOMI-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="UNOMI-7" href="https://issues.apache.org/jira/browse/UNOMI-7">UNOMI-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="UNOMI-7" href="https://issues.apache.org/jira/browse/UNOMI-7">Add src assembly</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jbonofre" id="assignee_jbonofre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbonofre">Jean-Baptiste Onofré</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jbonofre" id="reporter_jbonofre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbonofre">Jean-Baptiste Onofré</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Dec/15 05:10"><time datetime="2015-12-29T05:10:22+0000">29/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/16 12:50"><time datetime="2016-01-19T12:50:29+0000">19/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+SAVAN+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+SAVAN+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/SAVAN" title="Browse Savan project">Savan</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>10</b> of <b>10</b>
+            as at: <b>05/Mar/17 17:00</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12408900" rel="12408900" data-issuekey="SAVAN-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-12" href="https://issues.apache.org/jira/browse/SAVAN-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-12" href="https://issues.apache.org/jira/browse/SAVAN-12">SAVAN-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-12" href="https://issues.apache.org/jira/browse/SAVAN-12">Expired subscribers are notified</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="prabath" id="reporter_prabath" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=prabath">Prabath Siriwardena</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Nov/08 12:01"><time datetime="2008-11-20T12:01:19+0000">20/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="20/Nov/08 12:01"><time datetime="2008-11-20T12:01:19+0000">20/Nov/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12401968" rel="12401968" data-issuekey="SAVAN-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-9" href="https://issues.apache.org/jira/browse/SAVAN-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-9" href="https://issues.apache.org/jira/browse/SAVAN-9">SAVAN-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-9" href="https://issues.apache.org/jira/browse/SAVAN-9">GetStatus returns null</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="asankaa" id="reporter_asankaa" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=asankaa">Asanka Abeysinghe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Aug/08 07:41"><time datetime="2008-08-08T07:41:24+0000">08/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="08/Aug/08 07:41"><time datetime="2008-08-08T07:41:24+0000">08/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12401965" rel="12401965" data-issuekey="SAVAN-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-8" href="https://issues.apache.org/jira/browse/SAVAN-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-8" href="https://issues.apache.org/jira/browse/SAVAN-8">SAVAN-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-8" href="https://issues.apache.org/jira/browse/SAVAN-8">Savan/java module dose not engage with Axis2 </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="asankaa" id="reporter_asankaa" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=asankaa">Asanka Abeysinghe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Aug/08 07:20"><time datetime="2008-08-08T07:20:01+0000">08/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="08/Aug/08 07:21"><time datetime="2008-08-08T07:21:53+0000">08/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12396796" rel="12396796" data-issuekey="SAVAN-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-7" href="https://issues.apache.org/jira/browse/SAVAN-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-7" href="https://issues.apache.org/jira/browse/SAVAN-7">SAVAN-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-7" href="https://issues.apache.org/jira/browse/SAVAN-7">Publishing_client crashes when trying to publish message when more then 1 subscription to this event source exists at moment.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vsokov" id="reporter_vsokov" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vsokov">Vasiliy Sokov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="26/May/08 08:12"><time datetime="2008-05-26T08:12:45+0000">26/May/08</time></span> </td>
+                                            <td class="updated"> <span title="26/May/08 08:14"><time datetime="2008-05-26T08:14:57+0000">26/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12396598" rel="12396598" data-issuekey="SAVAN-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-6" href="https://issues.apache.org/jira/browse/SAVAN-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-6" href="https://issues.apache.org/jira/browse/SAVAN-6">SAVAN-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-6" href="https://issues.apache.org/jira/browse/SAVAN-6">Publishing_client crashes when trying to publish message when more then 1 subscription to this event source exists at moment.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vsokov" id="reporter_vsokov" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vsokov">Vasiliy Sokov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/May/08 06:35"><time datetime="2008-05-22T06:35:00+0000">22/May/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Jun/08 05:48"><time datetime="2008-06-02T05:48:51+0000">02/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12395602" rel="12395602" data-issuekey="SAVAN-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-5" href="https://issues.apache.org/jira/browse/SAVAN-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-5" href="https://issues.apache.org/jira/browse/SAVAN-5">SAVAN-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-5" href="https://issues.apache.org/jira/browse/SAVAN-5">Unhandled win32 exception...</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ibochkarev" id="reporter_ibochkarev" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ibochkarev">Igor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/May/08 10:23"><time datetime="2008-05-08T10:23:58+0000">08/May/08</time></span> </td>
+                                            <td class="updated"> <span title="08/May/08 10:23"><time datetime="2008-05-08T10:23:58+0000">08/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389139" rel="12389139" data-issuekey="SAVAN-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-4" href="https://issues.apache.org/jira/browse/SAVAN-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-4" href="https://issues.apache.org/jira/browse/SAVAN-4">SAVAN-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-4" href="https://issues.apache.org/jira/browse/SAVAN-4">savan-XXXX.mar unable to find savan-config.xml resource</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lsearl" id="reporter_lsearl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lsearl">Leon S. Searl</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Feb/08 17:05"><time datetime="2008-02-20T17:05:03+0000">20/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/08 17:23"><time datetime="2008-02-20T17:23:53+0000">20/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12379070" rel="12379070" data-issuekey="SAVAN-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-3" href="https://issues.apache.org/jira/browse/SAVAN-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-3" href="https://issues.apache.org/jira/browse/SAVAN-3">SAVAN-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-3" href="https://issues.apache.org/jira/browse/SAVAN-3">Cannot find the savan configuration file. Initialization cannot continue..</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sumedha" id="reporter_sumedha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sumedha">sumedha rubasinghe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Sep/07 03:59"><time datetime="2007-09-26T03:59:12+0000">26/Sep/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/07 04:14"><time datetime="2007-09-26T04:14:19+0000">26/Sep/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12373545" rel="12373545" data-issuekey="SAVAN-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-2" href="https://issues.apache.org/jira/browse/SAVAN-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-2" href="https://issues.apache.org/jira/browse/SAVAN-2">SAVAN-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-2" href="https://issues.apache.org/jira/browse/SAVAN-2">Junit Failures under m2 - 2.0.7 (JDK 1.5)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="chamikara" id="assignee_chamikara" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chamikara">Chamikara Jayalath</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dims" id="reporter_dims" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dims">Davanum Srinivas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Jul/07 19:01"><time datetime="2007-07-11T19:01:52+0000">11/Jul/07</time></span> </td>
+                                            <td class="updated"> <span title="12/Jul/07 02:11"><time datetime="2007-07-12T02:11:27+0000">12/Jul/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12370434" rel="12370434" data-issuekey="SAVAN-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SAVAN-1" href="https://issues.apache.org/jira/browse/SAVAN-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SAVAN-1" href="https://issues.apache.org/jira/browse/SAVAN-1">SAVAN-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SAVAN-1" href="https://issues.apache.org/jira/browse/SAVAN-1">Savan is not getting configured in axis2(1.2) </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="smithaaldrin" id="reporter_smithaaldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=smithaaldrin">smitha aldrin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="29/May/07 09:50"><time datetime="2007-05-29T09:50:34+0000">29/May/07</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/08 17:39"><time datetime="2008-02-12T17:39:38+0000">12/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

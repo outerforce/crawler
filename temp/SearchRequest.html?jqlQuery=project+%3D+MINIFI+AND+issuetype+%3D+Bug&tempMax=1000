@@ -1,0 +1,2657 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINIFI+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINIFI+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MINIFI" title="Browse Apache NiFi MiNiFi project">Apache NiFi MiNiFi</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>75</b> of <b>75</b>
+            as at: <b>05/Mar/17 16:59</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13047682" rel="13047682" data-issuekey="MINIFI-232" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-232" href="https://issues.apache.org/jira/browse/MINIFI-232"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-232" href="https://issues.apache.org/jira/browse/MINIFI-232">MINIFI-232</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-232" href="https://issues.apache.org/jira/browse/MINIFI-232">Look at using Allocators for STL containers</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="02/Mar/17 13:51"><time datetime="2017-03-02T13:51:10+0000">02/Mar/17</time></span> </td>
+                                            <td class="updated"> <span title="02/Mar/17 13:51"><time datetime="2017-03-02T13:51:10+0000">02/Mar/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13047572" rel="13047572" data-issuekey="MINIFI-231" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-231" href="https://issues.apache.org/jira/browse/MINIFI-231"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-231" href="https://issues.apache.org/jira/browse/MINIFI-231">MINIFI-231</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-231" href="https://issues.apache.org/jira/browse/MINIFI-231">FlowFile Persistent </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bqiu" id="assignee_bqiu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bqiu">bqiu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bqiu" id="reporter_bqiu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bqiu">bqiu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="02/Mar/17 04:42"><time datetime="2017-03-02T04:42:58+0000">02/Mar/17</time></span> </td>
+                                            <td class="updated"> <span title="05/Mar/17 01:56"><time datetime="2017-03-05T01:56:04+0000">05/Mar/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13047430" rel="13047430" data-issuekey="MINIFI-228" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-228" href="https://issues.apache.org/jira/browse/MINIFI-228"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-228" href="https://issues.apache.org/jira/browse/MINIFI-228">MINIFI-228</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-228" href="https://issues.apache.org/jira/browse/MINIFI-228">MiNiFi-* should employ binding sockets to specific network interface</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="01/Mar/17 19:56"><time datetime="2017-03-01T19:56:18+0000">01/Mar/17</time></span> </td>
+                                            <td class="updated"> <span title="01/Mar/17 20:07"><time datetime="2017-03-01T20:07:10+0000">01/Mar/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13046303" rel="13046303" data-issuekey="MINIFI-224" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-224" href="https://issues.apache.org/jira/browse/MINIFI-224"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-224" href="https://issues.apache.org/jira/browse/MINIFI-224">MINIFI-224</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-224" href="https://issues.apache.org/jira/browse/MINIFI-224">Build fails - CMake unable to find ZLIB with latest changes. CMAKE Bug</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jeremy.dyer" id="assignee_jeremy.dyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeremy.dyer">Jeremy Dyer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeremy.dyer" id="reporter_jeremy.dyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeremy.dyer">Jeremy Dyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Feb/17 18:32"><time datetime="2017-02-25T18:32:26+0000">25/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="27/Feb/17 14:47"><time datetime="2017-02-27T14:47:29+0000">27/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13043619" rel="13043619" data-issuekey="MINIFI-217" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-217" href="https://issues.apache.org/jira/browse/MINIFI-217"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-217" href="https://issues.apache.org/jira/browse/MINIFI-217">MINIFI-217</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-217" href="https://issues.apache.org/jira/browse/MINIFI-217">Move to org::apache::nifi::minifi namespace in CPP agent</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Feb/17 12:19"><time datetime="2017-02-16T12:19:52+0000">16/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="22/Feb/17 02:35"><time datetime="2017-02-22T02:35:41+0000">22/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13042609" rel="13042609" data-issuekey="MINIFI-212" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-212" href="https://issues.apache.org/jira/browse/MINIFI-212"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-212" href="https://issues.apache.org/jira/browse/MINIFI-212">MINIFI-212</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-212" href="https://issues.apache.org/jira/browse/MINIFI-212">Don&#39;t allow implicit conversions of constructors</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Feb/17 16:48"><time datetime="2017-02-13T16:48:00+0000">13/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="13/Feb/17 17:47"><time datetime="2017-02-13T17:47:07+0000">13/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13042352" rel="13042352" data-issuekey="MINIFI-210" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-210" href="https://issues.apache.org/jira/browse/MINIFI-210"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-210" href="https://issues.apache.org/jira/browse/MINIFI-210">MINIFI-210</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-210" href="https://issues.apache.org/jira/browse/MINIFI-210">ExecuteProcess should be interruptible</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Feb/17 02:54"><time datetime="2017-02-12T02:54:00+0000">12/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:52"><time datetime="2017-02-12T20:52:28+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13042351" rel="13042351" data-issuekey="MINIFI-209" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-209" href="https://issues.apache.org/jira/browse/MINIFI-209"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-209" href="https://issues.apache.org/jira/browse/MINIFI-209">MINIFI-209</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-209" href="https://issues.apache.org/jira/browse/MINIFI-209">Sleep not used judiciously</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Feb/17 02:40"><time datetime="2017-02-12T02:40:16+0000">12/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:53"><time datetime="2017-02-12T20:53:25+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13042349" rel="13042349" data-issuekey="MINIFI-208" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-208" href="https://issues.apache.org/jira/browse/MINIFI-208"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-208" href="https://issues.apache.org/jira/browse/MINIFI-208">MINIFI-208</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-208" href="https://issues.apache.org/jira/browse/MINIFI-208">TailFile::checkRollOver gets confused by symlink</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Feb/17 02:31"><time datetime="2017-02-12T02:31:29+0000">12/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:53"><time datetime="2017-02-12T20:53:39+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13042347" rel="13042347" data-issuekey="MINIFI-207" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-207" href="https://issues.apache.org/jira/browse/MINIFI-207"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-207" href="https://issues.apache.org/jira/browse/MINIFI-207">MINIFI-207</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-207" href="https://issues.apache.org/jira/browse/MINIFI-207">findProcessor in ProcessGroup not thread safe</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Feb/17 02:19"><time datetime="2017-02-12T02:19:20+0000">12/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:53"><time datetime="2017-02-12T20:53:51+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13041921" rel="13041921" data-issuekey="MINIFI-196" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-196" href="https://issues.apache.org/jira/browse/MINIFI-196"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-196" href="https://issues.apache.org/jira/browse/MINIFI-196">MINIFI-196</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-196" href="https://issues.apache.org/jira/browse/MINIFI-196">Cleanup startup errors in face of bad/missing configurations</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Feb/17 02:44"><time datetime="2017-02-10T02:44:44+0000">10/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="10/Feb/17 02:44"><time datetime="2017-02-10T02:44:44+0000">10/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13041902" rel="13041902" data-issuekey="MINIFI-195" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-195" href="https://issues.apache.org/jira/browse/MINIFI-195"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-195" href="https://issues.apache.org/jira/browse/MINIFI-195">MINIFI-195</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-195" href="https://issues.apache.org/jira/browse/MINIFI-195">Site2Site incorrectly upcases Input Port ID</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Feb/17 01:12"><time datetime="2017-02-10T01:12:00+0000">10/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="17/Feb/17 22:01"><time datetime="2017-02-17T22:01:26+0000">17/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13041737" rel="13041737" data-issuekey="MINIFI-194" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-194" href="https://issues.apache.org/jira/browse/MINIFI-194"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-194" href="https://issues.apache.org/jira/browse/MINIFI-194">MINIFI-194</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-194" href="https://issues.apache.org/jira/browse/MINIFI-194">Startup issue when using sig handler</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Feb/17 15:09"><time datetime="2017-02-09T15:09:02+0000">09/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:51"><time datetime="2017-02-12T20:51:14+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13040765" rel="13040765" data-issuekey="MINIFI-193" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-193" href="https://issues.apache.org/jira/browse/MINIFI-193"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-193" href="https://issues.apache.org/jira/browse/MINIFI-193">MINIFI-193</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-193" href="https://issues.apache.org/jira/browse/MINIFI-193">writeUTF doesn&#39;t properly allow UTF-8 encoding</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/Feb/17 20:54"><time datetime="2017-02-06T20:54:44+0000">06/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:51"><time datetime="2017-02-12T20:51:58+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13040161" rel="13040161" data-issuekey="MINIFI-192" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-192" href="https://issues.apache.org/jira/browse/MINIFI-192"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-192" href="https://issues.apache.org/jira/browse/MINIFI-192">MINIFI-192</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-192" href="https://issues.apache.org/jira/browse/MINIFI-192">Deadlock found with Processor usage</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Feb/17 16:37"><time datetime="2017-02-03T16:37:24+0000">03/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:51"><time datetime="2017-02-12T20:51:10+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13040151" rel="13040151" data-issuekey="MINIFI-191" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-191" href="https://issues.apache.org/jira/browse/MINIFI-191"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-191" href="https://issues.apache.org/jira/browse/MINIFI-191">MINIFI-191</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-191" href="https://issues.apache.org/jira/browse/MINIFI-191">Run valgrind on minifi-cpp</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Feb/17 15:55"><time datetime="2017-02-03T15:55:43+0000">03/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:56"><time datetime="2017-02-12T20:56:33+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13039441" rel="13039441" data-issuekey="MINIFI-190" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-190" href="https://issues.apache.org/jira/browse/MINIFI-190"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-190" href="https://issues.apache.org/jira/browse/MINIFI-190">MINIFI-190</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-190" href="https://issues.apache.org/jira/browse/MINIFI-190">Decouple components to make testing easier</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Feb/17 11:58"><time datetime="2017-02-01T11:58:38+0000">01/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:51"><time datetime="2017-02-12T20:51:03+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13039284" rel="13039284" data-issuekey="MINIFI-189" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-189" href="https://issues.apache.org/jira/browse/MINIFI-189"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-189" href="https://issues.apache.org/jira/browse/MINIFI-189">MINIFI-189</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-189" href="https://issues.apache.org/jira/browse/MINIFI-189">Check spdlog level before building buffer </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="reporter_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Jan/17 20:07"><time datetime="2017-01-31T20:07:46+0000">31/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="06/Feb/17 15:51"><time datetime="2017-02-06T15:51:03+0000">06/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13031550" rel="13031550" data-issuekey="MINIFI-180" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-180" href="https://issues.apache.org/jira/browse/MINIFI-180"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-180" href="https://issues.apache.org/jira/browse/MINIFI-180">MINIFI-180</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-180" href="https://issues.apache.org/jira/browse/MINIFI-180">Duplicate Variable causes MINIFI_HOME to be NULL if ENV variable is not present</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jeremy.dyer" id="assignee_jeremy.dyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeremy.dyer">Jeremy Dyer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeremy.dyer" id="reporter_jeremy.dyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeremy.dyer">Jeremy Dyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Jan/17 21:22"><time datetime="2017-01-02T21:22:45+0000">02/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="13/Jan/17 14:37"><time datetime="2017-01-13T14:37:12+0000">13/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13031286" rel="13031286" data-issuekey="MINIFI-179" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-179" href="https://issues.apache.org/jira/browse/MINIFI-179"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-179" href="https://issues.apache.org/jira/browse/MINIFI-179">MINIFI-179</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-179" href="https://issues.apache.org/jira/browse/MINIFI-179">Build fails without libuuid-devel/build dep not specified in readme</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="achristianson" id="reporter_achristianson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=achristianson">Andrew Christianson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="30/Dec/16 15:26"><time datetime="2016-12-30T15:26:53+0000">30/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Dec/16 15:33"><time datetime="2016-12-30T15:33:31+0000">30/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13030197" rel="13030197" data-issuekey="MINIFI-172" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-172" href="https://issues.apache.org/jira/browse/MINIFI-172"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-172" href="https://issues.apache.org/jira/browse/MINIFI-172">MINIFI-172</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-172" href="https://issues.apache.org/jira/browse/MINIFI-172">&quot;NIFI_VERSION&quot; variable in ConfigTransformer is still set to 1.0.0</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Dec/16 18:01"><time datetime="2016-12-22T18:01:54+0000">22/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Dec/16 20:17"><time datetime="2016-12-22T20:17:01+0000">22/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13027848" rel="13027848" data-issuekey="MINIFI-170" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-170" href="https://issues.apache.org/jira/browse/MINIFI-170"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-170" href="https://issues.apache.org/jira/browse/MINIFI-170">MINIFI-170</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-170" href="https://issues.apache.org/jira/browse/MINIFI-170">Change FlowStatusReport to be JSON</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="apsaltis" id="assignee_apsaltis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apsaltis">Andrew Psaltis</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="apsaltis" id="reporter_apsaltis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apsaltis">Andrew Psaltis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Dec/16 17:30"><time datetime="2016-12-13T17:30:16+0000">13/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Dec/16 21:27"><time datetime="2016-12-16T21:27:46+0000">16/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13027842" rel="13027842" data-issuekey="MINIFI-169" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-169" href="https://issues.apache.org/jira/browse/MINIFI-169"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-169" href="https://issues.apache.org/jira/browse/MINIFI-169">MINIFI-169</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-169" href="https://issues.apache.org/jira/browse/MINIFI-169">Example Remote Process Groups Flow Status is incorrect</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="apsaltis" id="assignee_apsaltis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apsaltis">Andrew Psaltis</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="apsaltis" id="reporter_apsaltis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apsaltis">Andrew Psaltis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="13/Dec/16 17:08"><time datetime="2016-12-13T17:08:49+0000">13/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="13/Dec/16 17:21"><time datetime="2016-12-13T17:21:00+0000">13/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13026262" rel="13026262" data-issuekey="MINIFI-159" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-159" href="https://issues.apache.org/jira/browse/MINIFI-159"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-159" href="https://issues.apache.org/jira/browse/MINIFI-159">MINIFI-159</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-159" href="https://issues.apache.org/jira/browse/MINIFI-159">Create AppendHostInfo processor</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="assignee_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Done
+</td>
+                                            <td class="created"> <span title="07/Dec/16 07:23"><time datetime="2016-12-07T07:23:32+0000">07/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/17 20:56"><time datetime="2017-02-12T20:56:09+0000">12/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025975" rel="13025975" data-issuekey="MINIFI-156" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-156" href="https://issues.apache.org/jira/browse/MINIFI-156"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-156" href="https://issues.apache.org/jira/browse/MINIFI-156">MINIFI-156</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-156" href="https://issues.apache.org/jira/browse/MINIFI-156">Implement NiFi Windows Script fixes in MiNiFi Java</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="assignee_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="reporter_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Dec/16 14:07"><time datetime="2016-12-06T14:07:04+0000">06/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Dec/16 17:32"><time datetime="2016-12-15T17:32:25+0000">15/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025726" rel="13025726" data-issuekey="MINIFI-155" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-155" href="https://issues.apache.org/jira/browse/MINIFI-155"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-155" href="https://issues.apache.org/jira/browse/MINIFI-155">MINIFI-155</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-155" href="https://issues.apache.org/jira/browse/MINIFI-155">MQTT nar skipped due to warning: &quot;Unable to resolve required dependency &#39;nifi-standard-services-api-nar&#39;.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="andrewmlim" id="reporter_andrewmlim" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=andrewmlim">Andrew Lim</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Dec/16 20:14"><time datetime="2016-12-05T20:14:41+0000">05/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="13/Dec/16 14:48"><time datetime="2016-12-13T14:48:24+0000">13/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025292" rel="13025292" data-issuekey="MINIFI-152" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-152" href="https://issues.apache.org/jira/browse/MINIFI-152"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-152" href="https://issues.apache.org/jira/browse/MINIFI-152">MINIFI-152</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-152" href="https://issues.apache.org/jira/browse/MINIFI-152">Get File File Filter issues in RHEL 7.2</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="phrocker" id="assignee_phrocker" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phrocker">marco polo</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Dec/16 03:47"><time datetime="2016-12-03T03:47:30+0000">03/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/17 02:48"><time datetime="2017-02-24T02:48:25+0000">24/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025291" rel="13025291" data-issuekey="MINIFI-151" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-151" href="https://issues.apache.org/jira/browse/MINIFI-151"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-151" href="https://issues.apache.org/jira/browse/MINIFI-151">MINIFI-151</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-151" href="https://issues.apache.org/jira/browse/MINIFI-151">CRC not matching for Site to Site on RPi</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Dec/16 03:45"><time datetime="2016-12-03T03:45:05+0000">03/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="02/Mar/17 13:40"><time datetime="2017-03-02T13:40:55+0000">02/Mar/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025290" rel="13025290" data-issuekey="MINIFI-150" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-150" href="https://issues.apache.org/jira/browse/MINIFI-150"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-150" href="https://issues.apache.org/jira/browse/MINIFI-150">MINIFI-150</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-150" href="https://issues.apache.org/jira/browse/MINIFI-150">CMake source package includes .git directory if present</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Dec/16 03:42"><time datetime="2016-12-03T03:42:30+0000">03/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/17 14:59"><time datetime="2017-01-03T14:59:14+0000">03/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025225" rel="13025225" data-issuekey="MINIFI-149" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-149" href="https://issues.apache.org/jira/browse/MINIFI-149"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-149" href="https://issues.apache.org/jira/browse/MINIFI-149">MINIFI-149</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-149" href="https://issues.apache.org/jira/browse/MINIFI-149">Updates to README for build and configuration</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Dec/16 22:20"><time datetime="2016-12-02T22:20:12+0000">02/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/17 14:59"><time datetime="2017-01-03T14:59:29+0000">03/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13024717" rel="13024717" data-issuekey="MINIFI-147" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-147" href="https://issues.apache.org/jira/browse/MINIFI-147"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-147" href="https://issues.apache.org/jira/browse/MINIFI-147">MINIFI-147</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-147" href="https://issues.apache.org/jira/browse/MINIFI-147">MiNiFi C++ startup error due to property name mismatch in config.yml</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ijokarumawak" id="reporter_ijokarumawak" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ijokarumawak">Koji Kawamura</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="01/Dec/16 09:09"><time datetime="2016-12-01T09:09:48+0000">01/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="01/Dec/16 18:25"><time datetime="2016-12-01T18:25:08+0000">01/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13024658" rel="13024658" data-issuekey="MINIFI-146" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-146" href="https://issues.apache.org/jira/browse/MINIFI-146"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-146" href="https://issues.apache.org/jira/browse/MINIFI-146">MINIFI-146</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-146" href="https://issues.apache.org/jira/browse/MINIFI-146">Perform MiNiFi 0.1.0 release (Java)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Done
+</td>
+                                            <td class="created"> <span title="01/Dec/16 03:26"><time datetime="2016-12-01T03:26:37+0000">01/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Dec/16 15:46"><time datetime="2016-12-05T15:46:19+0000">05/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13024113" rel="13024113" data-issuekey="MINIFI-143" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-143" href="https://issues.apache.org/jira/browse/MINIFI-143"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-143" href="https://issues.apache.org/jira/browse/MINIFI-143">MINIFI-143</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-143" href="https://issues.apache.org/jira/browse/MINIFI-143">Class Not Found Exception when running on Windows 8</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Nov/16 15:16"><time datetime="2016-11-29T15:16:24+0000">29/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Nov/16 14:17"><time datetime="2016-11-30T14:17:32+0000">30/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13022620" rel="13022620" data-issuekey="MINIFI-139" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-139" href="https://issues.apache.org/jira/browse/MINIFI-139"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-139" href="https://issues.apache.org/jira/browse/MINIFI-139">MINIFI-139</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-139" href="https://issues.apache.org/jira/browse/MINIFI-139">Build fails on OS X 10.12</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jeremy.dyer" id="assignee_jeremy.dyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeremy.dyer">Jeremy Dyer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeremy.dyer" id="reporter_jeremy.dyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeremy.dyer">Jeremy Dyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Nov/16 20:54"><time datetime="2016-11-22T20:54:41+0000">22/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Dec/16 20:53"><time datetime="2016-12-05T20:53:35+0000">05/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13019717" rel="13019717" data-issuekey="MINIFI-136" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-136" href="https://issues.apache.org/jira/browse/MINIFI-136"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-136" href="https://issues.apache.org/jira/browse/MINIFI-136">MINIFI-136</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-136" href="https://issues.apache.org/jira/browse/MINIFI-136">Error messages in minifi-bootstrap.log</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="assignee_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="reporter_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Nov/16 01:31"><time datetime="2016-11-10T01:31:39+0000">10/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="10/Nov/16 20:10"><time datetime="2016-11-10T20:10:08+0000">10/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13019573" rel="13019573" data-issuekey="MINIFI-134" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-134" href="https://issues.apache.org/jira/browse/MINIFI-134"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-134" href="https://issues.apache.org/jira/browse/MINIFI-134">MINIFI-134</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-134" href="https://issues.apache.org/jira/browse/MINIFI-134">Remove &quot;test&quot; scope from root pom Commons-IO</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Nov/16 16:29"><time datetime="2016-11-09T16:29:21+0000">09/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="11/Nov/16 19:15"><time datetime="2016-11-11T19:15:13+0000">11/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13015908" rel="13015908" data-issuekey="MINIFI-128" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-128" href="https://issues.apache.org/jira/browse/MINIFI-128"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-128" href="https://issues.apache.org/jira/browse/MINIFI-128">MINIFI-128</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-128" href="https://issues.apache.org/jira/browse/MINIFI-128">NPE if nifi.minifi.notifier.file.config.path wasn&#39;t configured</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aperepel" id="reporter_aperepel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aperepel">Andrew Grande</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Oct/16 17:03"><time datetime="2016-10-27T17:03:01+0000">27/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Dec/16 21:44"><time datetime="2016-12-22T21:44:57+0000">22/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13014096" rel="13014096" data-issuekey="MINIFI-124" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-124" href="https://issues.apache.org/jira/browse/MINIFI-124"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-124" href="https://issues.apache.org/jira/browse/MINIFI-124">MINIFI-124</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-124" href="https://issues.apache.org/jira/browse/MINIFI-124">minifi.sh script does not shutdown minifi-cpp at all</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="codingogre" id="assignee_codingogre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=codingogre">Shawn Hooton</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="codingogre" id="reporter_codingogre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=codingogre">Shawn Hooton</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Oct/16 00:14"><time datetime="2016-10-21T00:14:24+0000">21/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="31/Oct/16 18:34"><time datetime="2016-10-31T18:34:41+0000">31/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13014095" rel="13014095" data-issuekey="MINIFI-123" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-123" href="https://issues.apache.org/jira/browse/MINIFI-123"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-123" href="https://issues.apache.org/jira/browse/MINIFI-123">MINIFI-123</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-123" href="https://issues.apache.org/jira/browse/MINIFI-123">CMake does not generate correct linker option when building main executable</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="codingogre" id="assignee_codingogre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=codingogre">Shawn Hooton</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="codingogre" id="reporter_codingogre" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=codingogre">Shawn Hooton</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Oct/16 00:11"><time datetime="2016-10-21T00:11:38+0000">21/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="04/Nov/16 15:20"><time datetime="2016-11-04T15:20:09+0000">04/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13011693" rel="13011693" data-issuekey="MINIFI-120" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-120" href="https://issues.apache.org/jira/browse/MINIFI-120"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-120" href="https://issues.apache.org/jira/browse/MINIFI-120">MINIFI-120</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-120" href="https://issues.apache.org/jira/browse/MINIFI-120">RestChangeNotifier fails to instantiate due to missing dependencies</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Oct/16 14:59"><time datetime="2016-10-12T14:59:07+0000">12/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Oct/16 19:50"><time datetime="2016-10-17T19:50:02+0000">17/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13010784" rel="13010784" data-issuekey="MINIFI-119" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-119" href="https://issues.apache.org/jira/browse/MINIFI-119"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-119" href="https://issues.apache.org/jira/browse/MINIFI-119">MINIFI-119</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-119" href="https://issues.apache.org/jira/browse/MINIFI-119">Append source.hostname attribute to FlowFiles sent via Site2Site</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="09/Oct/16 04:07"><time datetime="2016-10-09T04:07:06+0000">09/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Feb/17 14:01"><time datetime="2017-02-22T14:01:31+0000">22/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13010406" rel="13010406" data-issuekey="MINIFI-118" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-118" href="https://issues.apache.org/jira/browse/MINIFI-118"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-118" href="https://issues.apache.org/jira/browse/MINIFI-118">MINIFI-118</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-118" href="https://issues.apache.org/jira/browse/MINIFI-118">MiNiFi does not compile under Centos 6 standard tooling</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="trixpan" id="reporter_trixpan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=trixpan">Andre F de Miranda</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="07/Oct/16 09:48"><time datetime="2016-10-07T09:48:04+0000">07/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="18/Nov/16 15:36"><time datetime="2016-11-18T15:36:32+0000">18/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13009943" rel="13009943" data-issuekey="MINIFI-117" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-117" href="https://issues.apache.org/jira/browse/MINIFI-117"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-117" href="https://issues.apache.org/jira/browse/MINIFI-117">MINIFI-117</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-117" href="https://issues.apache.org/jira/browse/MINIFI-117">Maintainable Configuration Versioning</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="assignee_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="reporter_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Oct/16 18:30"><time datetime="2016-10-05T18:30:45+0000">05/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="31/Oct/16 17:39"><time datetime="2016-10-31T17:39:37+0000">31/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13009281" rel="13009281" data-issuekey="MINIFI-114" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-114" href="https://issues.apache.org/jira/browse/MINIFI-114"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-114" href="https://issues.apache.org/jira/browse/MINIFI-114">MINIFI-114</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-114" href="https://issues.apache.org/jira/browse/MINIFI-114">nifi-minifi-cpp default &quot;State Location&quot; value &quot;Local&quot; causes error</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bqiu" id="assignee_bqiu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bqiu">bqiu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/16 17:09"><time datetime="2016-10-03T17:09:11+0000">03/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/16 19:59"><time datetime="2016-11-28T19:59:15+0000">28/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13009273" rel="13009273" data-issuekey="MINIFI-113" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-113" href="https://issues.apache.org/jira/browse/MINIFI-113"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-113" href="https://issues.apache.org/jira/browse/MINIFI-113">MINIFI-113</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-113" href="https://issues.apache.org/jira/browse/MINIFI-113">nifi-minifi-cpp throws &quot;Invalid File Filter regex&quot; error for GetFile&#39;s default &quot;File Filter&quot; property</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bqiu" id="assignee_bqiu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bqiu">bqiu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/16 16:31"><time datetime="2016-10-03T16:31:25+0000">03/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/16 13:17"><time datetime="2016-11-15T13:17:20+0000">15/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13008749" rel="13008749" data-issuekey="MINIFI-111" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-111" href="https://issues.apache.org/jira/browse/MINIFI-111"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-111" href="https://issues.apache.org/jira/browse/MINIFI-111">MINIFI-111</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-111" href="https://issues.apache.org/jira/browse/MINIFI-111">Addition of ExecuteProcess processor breaks build on master</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Sep/16 22:32"><time datetime="2016-09-29T22:32:00+0000">29/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="31/Oct/16 18:34"><time datetime="2016-10-31T18:34:55+0000">31/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13004413" rel="13004413" data-issuekey="MINIFI-105" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-105" href="https://issues.apache.org/jira/browse/MINIFI-105"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-105" href="https://issues.apache.org/jira/browse/MINIFI-105">MINIFI-105</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-105" href="https://issues.apache.org/jira/browse/MINIFI-105">BootstrapCodec can throw exceptions with unintended message</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jtstorck" id="reporter_jtstorck" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jtstorck">Jeff Storck</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Sep/16 20:29"><time datetime="2016-09-12T20:29:55+0000">12/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/16 17:16"><time datetime="2016-09-22T17:16:06+0000">22/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13003333" rel="13003333" data-issuekey="MINIFI-104" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-104" href="https://issues.apache.org/jira/browse/MINIFI-104"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-104" href="https://issues.apache.org/jira/browse/MINIFI-104">MINIFI-104</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-104" href="https://issues.apache.org/jira/browse/MINIFI-104">MiNiFi uses connection names for the FlowFileQueue.getIdentifier()</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="assignee_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="reporter_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Sep/16 17:44"><time datetime="2016-09-07T17:44:51+0000">07/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 21:35"><time datetime="2016-09-20T21:35:03+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13003013" rel="13003013" data-issuekey="MINIFI-103" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-103" href="https://issues.apache.org/jira/browse/MINIFI-103"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-103" href="https://issues.apache.org/jira/browse/MINIFI-103">MINIFI-103</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-103" href="https://issues.apache.org/jira/browse/MINIFI-103">File Filter Property Support Missing For GetFile.cpp</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeremy.dyer" id="reporter_jeremy.dyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeremy.dyer">Jeremy Dyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Sep/16 19:06"><time datetime="2016-09-06T19:06:31+0000">06/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Sep/16 18:05"><time datetime="2016-09-15T18:05:09+0000">15/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002422" rel="13002422" data-issuekey="MINIFI-100" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-100" href="https://issues.apache.org/jira/browse/MINIFI-100"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-100" href="https://issues.apache.org/jira/browse/MINIFI-100">MINIFI-100</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-100" href="https://issues.apache.org/jira/browse/MINIFI-100">Cleanup/document warnings as part of build</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="02/Sep/16 17:50"><time datetime="2016-09-02T17:50:20+0000">02/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Nov/16 03:10"><time datetime="2016-11-17T03:10:08+0000">17/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002421" rel="13002421" data-issuekey="MINIFI-99" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-99" href="https://issues.apache.org/jira/browse/MINIFI-99"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-99" href="https://issues.apache.org/jira/browse/MINIFI-99">MINIFI-99</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-99" href="https://issues.apache.org/jira/browse/MINIFI-99">Establish inclusion/generation of default flow.yml </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Sep/16 17:48"><time datetime="2016-09-02T17:48:42+0000">02/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="29/Nov/16 05:56"><time datetime="2016-11-29T05:56:23+0000">29/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002420" rel="13002420" data-issuekey="MINIFI-98" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-98" href="https://issues.apache.org/jira/browse/MINIFI-98"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-98" href="https://issues.apache.org/jira/browse/MINIFI-98">MINIFI-98</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-98" href="https://issues.apache.org/jira/browse/MINIFI-98">Handle missing flow.yml gracefully</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Sep/16 17:46"><time datetime="2016-09-02T17:46:39+0000">02/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="29/Nov/16 05:56"><time datetime="2016-11-29T05:56:07+0000">29/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13001128" rel="13001128" data-issuekey="MINIFI-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-97" href="https://issues.apache.org/jira/browse/MINIFI-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-97" href="https://issues.apache.org/jira/browse/MINIFI-97">MINIFI-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-97" href="https://issues.apache.org/jira/browse/MINIFI-97">Error when trying to stop already stopped MiNiFi</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="pvillard" id="assignee_pvillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pvillard">Pierre Villard</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pvillard" id="reporter_pvillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pvillard">Pierre Villard</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Aug/16 22:05"><time datetime="2016-08-29T22:05:54+0000">29/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Sep/16 16:28"><time datetime="2016-09-15T16:28:18+0000">15/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13000828" rel="13000828" data-issuekey="MINIFI-96" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-96" href="https://issues.apache.org/jira/browse/MINIFI-96"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-96" href="https://issues.apache.org/jira/browse/MINIFI-96">MINIFI-96</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-96" href="https://issues.apache.org/jira/browse/MINIFI-96">MiNiFi-cpp GetFile &quot;recurse subdirectories&quot; only recurses one directory deep</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="29/Aug/16 01:23"><time datetime="2016-08-29T01:23:46+0000">29/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="10/Nov/16 16:06"><time datetime="2016-11-10T16:06:10+0000">10/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13000826" rel="13000826" data-issuekey="MINIFI-95" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-95" href="https://issues.apache.org/jira/browse/MINIFI-95"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-95" href="https://issues.apache.org/jira/browse/MINIFI-95">MINIFI-95</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-95" href="https://issues.apache.org/jira/browse/MINIFI-95">MiNiFi-cpp GetFile processor sends directories as files</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="29/Aug/16 00:37"><time datetime="2016-08-29T00:37:25+0000">29/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="10/Nov/16 16:06"><time datetime="2016-11-10T16:06:33+0000">10/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13000792" rel="13000792" data-issuekey="MINIFI-93" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-93" href="https://issues.apache.org/jira/browse/MINIFI-93"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-93" href="https://issues.apache.org/jira/browse/MINIFI-93">MINIFI-93</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-93" href="https://issues.apache.org/jira/browse/MINIFI-93">MiNiFi-cpp does not honor &quot;yield period&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bqiu" id="assignee_bqiu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bqiu">bqiu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/16 18:06"><time datetime="2016-08-28T18:06:54+0000">28/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Nov/16 15:15"><time datetime="2016-11-22T15:15:56+0000">22/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12998512" rel="12998512" data-issuekey="MINIFI-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-85" href="https://issues.apache.org/jira/browse/MINIFI-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-85" href="https://issues.apache.org/jira/browse/MINIFI-85">MINIFI-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-85" href="https://issues.apache.org/jira/browse/MINIFI-85">add ListenSysLog processor </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bqiu" id="assignee_bqiu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bqiu">bqiu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bqiu" id="reporter_bqiu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bqiu">bqiu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Aug/16 15:37"><time datetime="2016-08-19T15:37:47+0000">19/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="02/Sep/16 17:57"><time datetime="2016-09-02T17:57:31+0000">02/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997392" rel="12997392" data-issuekey="MINIFI-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-84" href="https://issues.apache.org/jira/browse/MINIFI-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-84" href="https://issues.apache.org/jira/browse/MINIFI-84">MINIFI-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-84" href="https://issues.apache.org/jira/browse/MINIFI-84">nifi-minifi-cpp flow.yml startup errors</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="randerzander" id="reporter_randerzander" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=randerzander">Randy Gelhausen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Aug/16 20:38"><time datetime="2016-08-15T20:38:43+0000">15/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Aug/16 17:02"><time datetime="2016-08-28T17:02:25+0000">28/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12994635" rel="12994635" data-issuekey="MINIFI-76" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-76" href="https://issues.apache.org/jira/browse/MINIFI-76"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-76" href="https://issues.apache.org/jira/browse/MINIFI-76">MINIFI-76</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-76" href="https://issues.apache.org/jira/browse/MINIFI-76">Create a bootstrap mechanism that controls the processing configuration</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Aug/16 16:45"><time datetime="2016-08-03T16:45:50+0000">03/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Nov/16 14:10"><time datetime="2016-11-22T14:10:32+0000">22/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12991868" rel="12991868" data-issuekey="MINIFI-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-67" href="https://issues.apache.org/jira/browse/MINIFI-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-67" href="https://issues.apache.org/jira/browse/MINIFI-67">MINIFI-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-67" href="https://issues.apache.org/jira/browse/MINIFI-67">conversion toolkit: destination name of a connection cannot be auto-resolved, when destination is RPG</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="h_liu" id="reporter_h_liu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=h_liu">Haimo Liu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="22/Jul/16 15:59"><time datetime="2016-07-22T15:59:44+0000">22/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Jul/16 18:50"><time datetime="2016-07-22T18:50:07+0000">22/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12988068" rel="12988068" data-issuekey="MINIFI-59" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-59" href="https://issues.apache.org/jira/browse/MINIFI-59"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-59" href="https://issues.apache.org/jira/browse/MINIFI-59">MINIFI-59</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-59" href="https://issues.apache.org/jira/browse/MINIFI-59">CRON support Quartz dependency is missing</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pvillard" id="reporter_pvillard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pvillard">Pierre Villard</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jul/16 20:27"><time datetime="2016-07-09T20:27:03+0000">09/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/16 17:10"><time datetime="2016-09-22T17:10:03+0000">22/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12987873" rel="12987873" data-issuekey="MINIFI-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-58" href="https://issues.apache.org/jira/browse/MINIFI-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-58" href="https://issues.apache.org/jira/browse/MINIFI-58">MINIFI-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-58" href="https://issues.apache.org/jira/browse/MINIFI-58">Toolkit Assembly should use a distinct name</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jul/16 17:48"><time datetime="2016-07-08T17:48:46+0000">08/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/16 14:22"><time datetime="2016-09-22T14:22:54+0000">22/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12987863" rel="12987863" data-issuekey="MINIFI-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-57" href="https://issues.apache.org/jira/browse/MINIFI-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-57" href="https://issues.apache.org/jira/browse/MINIFI-57">MINIFI-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-57" href="https://issues.apache.org/jira/browse/MINIFI-57">WARN in logs from startup</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="joewitt" id="reporter_joewitt" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=joewitt">Joseph Witt</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="08/Jul/16 17:14"><time datetime="2016-07-08T17:14:54+0000">08/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="29/Nov/16 19:18"><time datetime="2016-11-29T19:18:01+0000">29/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12987862" rel="12987862" data-issuekey="MINIFI-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-56" href="https://issues.apache.org/jira/browse/MINIFI-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-56" href="https://issues.apache.org/jira/browse/MINIFI-56">MINIFI-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-56" href="https://issues.apache.org/jira/browse/MINIFI-56">Evaluate the usage of strong encryption and bouncycastle being enabled</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="alopresto" id="reporter_alopresto" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=alopresto">Andy LoPresto</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Jul/16 17:14"><time datetime="2016-07-08T17:14:09+0000">08/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/16 17:14"><time datetime="2016-07-08T17:14:09+0000">08/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12987562" rel="12987562" data-issuekey="MINIFI-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-54" href="https://issues.apache.org/jira/browse/MINIFI-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-54" href="https://issues.apache.org/jira/browse/MINIFI-54">MINIFI-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-54" href="https://issues.apache.org/jira/browse/MINIFI-54">ConfigSchema duplicate validation only works when processors is not null</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="assignee_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="reporter_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jul/16 18:12"><time datetime="2016-07-07T18:12:07+0000">07/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/16 17:56"><time datetime="2016-07-08T17:56:04+0000">08/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12987212" rel="12987212" data-issuekey="MINIFI-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-50" href="https://issues.apache.org/jira/browse/MINIFI-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-50" href="https://issues.apache.org/jira/browse/MINIFI-50">MINIFI-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-50" href="https://issues.apache.org/jira/browse/MINIFI-50">README is insufficient</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jul/16 16:48"><time datetime="2016-07-06T16:48:31+0000">06/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 22:16"><time datetime="2016-07-06T22:16:44+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12986692" rel="12986692" data-issuekey="MINIFI-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-49" href="https://issues.apache.org/jira/browse/MINIFI-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-49" href="https://issues.apache.org/jira/browse/MINIFI-49">MINIFI-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-49" href="https://issues.apache.org/jira/browse/MINIFI-49">RestChangeNotifier test fails on Windows</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jul/16 23:47"><time datetime="2016-07-04T23:47:41+0000">04/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Jul/16 04:32"><time datetime="2016-07-05T04:32:37+0000">05/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12986666" rel="12986666" data-issuekey="MINIFI-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-48" href="https://issues.apache.org/jira/browse/MINIFI-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-48" href="https://issues.apache.org/jira/browse/MINIFI-48">MINIFI-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-48" href="https://issues.apache.org/jira/browse/MINIFI-48">Null or Empty queue prioritizer in config yaml should result in default prioritizer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="assignee_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bryanrosander@gmail.com" id="reporter_bryanrosander@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bryanrosander%40gmail.com">Bryan Rosander</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jul/16 20:18"><time datetime="2016-07-04T20:18:44+0000">04/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 15:15"><time datetime="2016-07-06T15:15:23+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12986274" rel="12986274" data-issuekey="MINIFI-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-44" href="https://issues.apache.org/jira/browse/MINIFI-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-44" href="https://issues.apache.org/jira/browse/MINIFI-44">MINIFI-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-44" href="https://issues.apache.org/jira/browse/MINIFI-44">Perform Release Management Functions for 0.0.1</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Jul/16 18:08"><time datetime="2016-07-01T18:08:16+0000">01/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="10/Jul/16 17:59"><time datetime="2016-07-10T17:59:52+0000">10/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983829" rel="12983829" data-issuekey="MINIFI-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-43" href="https://issues.apache.org/jira/browse/MINIFI-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-43" href="https://issues.apache.org/jira/browse/MINIFI-43">MINIFI-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-43" href="https://issues.apache.org/jira/browse/MINIFI-43">ConfigSchema always instantiates ProvenanceReporter</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="assignee_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Jun/16 15:48"><time datetime="2016-06-27T15:48:52+0000">27/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 15:17"><time datetime="2016-07-06T15:17:20+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983819" rel="12983819" data-issuekey="MINIFI-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-42" href="https://issues.apache.org/jira/browse/MINIFI-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-42" href="https://issues.apache.org/jira/browse/MINIFI-42">MINIFI-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-42" href="https://issues.apache.org/jira/browse/MINIFI-42">ConfigTransformer does not honor Remote Process Group name/id</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Jun/16 15:25"><time datetime="2016-06-27T15:25:04+0000">27/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 15:16"><time datetime="2016-07-06T15:16:17+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12979942" rel="12979942" data-issuekey="MINIFI-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-40" href="https://issues.apache.org/jira/browse/MINIFI-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-40" href="https://issues.apache.org/jira/browse/MINIFI-40">MINIFI-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-40" href="https://issues.apache.org/jira/browse/MINIFI-40">SecurityPropertiesSchema doesn&#39;t properly handle empty security properties</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Jun/16 18:57"><time datetime="2016-06-16T18:57:03+0000">16/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 15:17"><time datetime="2016-07-06T15:17:28+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12960481" rel="12960481" data-issuekey="MINIFI-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-26" href="https://issues.apache.org/jira/browse/MINIFI-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-26" href="https://issues.apache.org/jira/browse/MINIFI-26">MINIFI-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-26" href="https://issues.apache.org/jira/browse/MINIFI-26">RunMiNiFi needs explicit handling of RELOAD</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Apr/16 21:12"><time datetime="2016-04-20T21:12:41+0000">20/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 15:19"><time datetime="2016-07-06T15:19:18+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12959782" rel="12959782" data-issuekey="MINIFI-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-18" href="https://issues.apache.org/jira/browse/MINIFI-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-18" href="https://issues.apache.org/jira/browse/MINIFI-18">MINIFI-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-18" href="https://issues.apache.org/jira/browse/MINIFI-18">RunMiNiFi starts notifiers each time ./minifi.sh gets run</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JPercivall" id="reporter_JPercivall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JPercivall">Joseph Percivall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Apr/16 20:35"><time datetime="2016-04-18T20:35:13+0000">18/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/16 15:18"><time datetime="2016-07-06T15:18:19+0000">06/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12954701" rel="12954701" data-issuekey="MINIFI-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINIFI-8" href="https://issues.apache.org/jira/browse/MINIFI-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINIFI-8" href="https://issues.apache.org/jira/browse/MINIFI-8">MINIFI-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINIFI-8" href="https://issues.apache.org/jira/browse/MINIFI-8">Configure Travis CI</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="assignee_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aldrin" id="reporter_aldrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aldrin">Aldrin Piri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Mar/16 18:17"><time datetime="2016-03-30T18:17:41+0000">30/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/16 19:13"><time datetime="2016-03-30T19:13:06+0000">30/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

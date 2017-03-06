@@ -1,0 +1,2017 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+TAMAYA+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+TAMAYA+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/TAMAYA" title="Browse Tamaya project">Tamaya</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>55</b> of <b>55</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13046802" rel="13046802" data-issuekey="TAMAYA-250" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-250" href="https://issues.apache.org/jira/browse/TAMAYA-250"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-250" href="https://issues.apache.org/jira/browse/TAMAYA-250">TAMAYA-250</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-250" href="https://issues.apache.org/jira/browse/TAMAYA-250">Mark versions of sandbox modules with alpha, beta etc.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Feb/17 23:22"><time datetime="2017-02-27T23:22:54+0000">27/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="28/Feb/17 00:27"><time datetime="2017-02-28T00:27:05+0000">28/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13046205" rel="13046205" data-issuekey="TAMAYA-243" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-243" href="https://issues.apache.org/jira/browse/TAMAYA-243"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-243" href="https://issues.apache.org/jira/browse/TAMAYA-243">TAMAYA-243</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-243" href="https://issues.apache.org/jira/browse/TAMAYA-243">Change event does not contain the new value for a key after changing its value</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="reporter_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="24/Feb/17 23:37"><time datetime="2017-02-24T23:37:51+0000">24/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/17 10:51"><time datetime="2017-02-26T10:51:52+0000">26/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13045442" rel="13045442" data-issuekey="TAMAYA-238" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-238" href="https://issues.apache.org/jira/browse/TAMAYA-238"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-238" href="https://issues.apache.org/jira/browse/TAMAYA-238">TAMAYA-238</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-238" href="https://issues.apache.org/jira/browse/TAMAYA-238">Ensure services are not cached in singletons</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Feb/17 23:45"><time datetime="2017-02-22T23:45:21+0000">22/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="27/Feb/17 23:27"><time datetime="2017-02-27T23:27:02+0000">27/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13039897" rel="13039897" data-issuekey="TAMAYA-235" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-235" href="https://issues.apache.org/jira/browse/TAMAYA-235"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-235" href="https://issues.apache.org/jira/browse/TAMAYA-235">TAMAYA-235</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-235" href="https://issues.apache.org/jira/browse/TAMAYA-235">The get method of the MappedConfiguration class may throw a NullPointerException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fmessiaen" id="reporter_fmessiaen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fmessiaen">Francois MESSIAEN</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Feb/17 17:55"><time datetime="2017-02-02T17:55:14+0000">02/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/17 23:05"><time datetime="2017-02-26T23:05:41+0000">26/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13038800" rel="13038800" data-issuekey="TAMAYA-232" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-232" href="https://issues.apache.org/jira/browse/TAMAYA-232"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-232" href="https://issues.apache.org/jira/browse/TAMAYA-232">TAMAYA-232</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-232" href="https://issues.apache.org/jira/browse/TAMAYA-232">Implementation of ConfigurationChange is not consistent</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="reporter_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="29/Jan/17 21:44"><time datetime="2017-01-29T21:44:25+0000">29/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/17 23:38"><time datetime="2017-02-24T23:38:14+0000">24/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13038792" rel="13038792" data-issuekey="TAMAYA-227" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-227" href="https://issues.apache.org/jira/browse/TAMAYA-227"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-227" href="https://issues.apache.org/jira/browse/TAMAYA-227">TAMAYA-227</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-227" href="https://issues.apache.org/jira/browse/TAMAYA-227">The default config change observer can&#39;t be disabled</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="reporter_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jan/17 20:35"><time datetime="2017-01-29T20:35:44+0000">29/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/17 20:41"><time datetime="2017-01-29T20:41:20+0000">29/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13035337" rel="13035337" data-issuekey="TAMAYA-222" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-222" href="https://issues.apache.org/jira/browse/TAMAYA-222"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-222" href="https://issues.apache.org/jira/browse/TAMAYA-222">TAMAYA-222</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-222" href="https://issues.apache.org/jira/browse/TAMAYA-222">spelling errors in enumeration UpdatePolicy of extension&#39;s injection-api</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Jan/17 21:09"><time datetime="2017-01-16T21:09:33+0000">16/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/17 23:05"><time datetime="2017-02-26T23:05:38+0000">26/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13030228" rel="13030228" data-issuekey="TAMAYA-213" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-213" href="https://issues.apache.org/jira/browse/TAMAYA-213"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-213" href="https://issues.apache.org/jira/browse/TAMAYA-213">TAMAYA-213</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-213" href="https://issues.apache.org/jira/browse/TAMAYA-213">Implement equals/hashCode on converters.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Dec/16 20:53"><time datetime="2016-12-22T20:53:52+0000">22/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Dec/16 21:19"><time datetime="2016-12-22T21:19:57+0000">22/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13028909" rel="13028909" data-issuekey="TAMAYA-207" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-207" href="https://issues.apache.org/jira/browse/TAMAYA-207"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-207" href="https://issues.apache.org/jira/browse/TAMAYA-207">TAMAYA-207</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-207" href="https://issues.apache.org/jira/browse/TAMAYA-207">Infinite recursive loop in ConfigurationFormats#readConfigurationData</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="reporter_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Dec/16 19:58"><time datetime="2016-12-17T19:58:23+0000">17/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="19/Dec/16 23:25"><time datetime="2016-12-19T23:25:05+0000">19/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13023869" rel="13023869" data-issuekey="TAMAYA-205" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-205" href="https://issues.apache.org/jira/browse/TAMAYA-205"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-205" href="https://issues.apache.org/jira/browse/TAMAYA-205">TAMAYA-205</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-205" href="https://issues.apache.org/jira/browse/TAMAYA-205">Build warnings about duplicate versions for mockito</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="assignee_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Nov/16 21:32"><time datetime="2016-11-28T21:32:55+0000">28/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/17 22:02"><time datetime="2017-01-15T22:02:17+0000">15/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13021814" rel="13021814" data-issuekey="TAMAYA-199" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-199" href="https://issues.apache.org/jira/browse/TAMAYA-199"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-199" href="https://issues.apache.org/jira/browse/TAMAYA-199">TAMAYA-199</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-199" href="https://issues.apache.org/jira/browse/TAMAYA-199">DefaultServiceContext.getServices does not return the services as sorted list</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tommie-lie" id="reporter_tommie-lie" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tommie-lie">Thomas Liebetraut</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Nov/16 18:25"><time datetime="2016-11-18T18:25:18+0000">18/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="19/Dec/16 22:58"><time datetime="2016-12-19T22:58:57+0000">19/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13021792" rel="13021792" data-issuekey="TAMAYA-198" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-198" href="https://issues.apache.org/jira/browse/TAMAYA-198"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-198" href="https://issues.apache.org/jira/browse/TAMAYA-198">TAMAYA-198</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-198" href="https://issues.apache.org/jira/browse/TAMAYA-198">tamaya-formats blindly tries (and failes) to parse a config file with multiple formats</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tommie-lie" id="reporter_tommie-lie" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tommie-lie">Thomas Liebetraut</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Nov/16 17:14"><time datetime="2016-11-18T17:14:08+0000">18/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="19/Dec/16 22:39"><time datetime="2016-12-19T22:39:41+0000">19/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13021754" rel="13021754" data-issuekey="TAMAYA-197" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-197" href="https://issues.apache.org/jira/browse/TAMAYA-197"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-197" href="https://issues.apache.org/jira/browse/TAMAYA-197">TAMAYA-197</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-197" href="https://issues.apache.org/jira/browse/TAMAYA-197">DefaultConfigurationInjector does not inject into superclasses&#39; fields</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tommie-lie" id="reporter_tommie-lie" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tommie-lie">Thomas Liebetraut</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Nov/16 13:33"><time datetime="2016-11-18T13:33:25+0000">18/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/17 23:05"><time datetime="2017-02-26T23:05:45+0000">26/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13018712" rel="13018712" data-issuekey="TAMAYA-191" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-191" href="https://issues.apache.org/jira/browse/TAMAYA-191"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-191" href="https://issues.apache.org/jira/browse/TAMAYA-191">TAMAYA-191</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-191" href="https://issues.apache.org/jira/browse/TAMAYA-191">If no services are defined, the Default ServiceContext thrown an error.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Nov/16 00:42"><time datetime="2016-11-07T00:42:45+0000">07/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="11/Nov/16 09:02"><time datetime="2016-11-11T09:02:02+0000">11/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13011630" rel="13011630" data-issuekey="TAMAYA-181" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-181" href="https://issues.apache.org/jira/browse/TAMAYA-181"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-181" href="https://issues.apache.org/jira/browse/TAMAYA-181">TAMAYA-181</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-181" href="https://issues.apache.org/jira/browse/TAMAYA-181">Warning-&quot;Flood&quot; from SimplePropertySource</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="johndament" id="assignee_johndament" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=johndament">John D. Ament</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Jürg" id="reporter_Jürg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=J%C3%BCrg">Jürg Spiess</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Oct/16 10:51"><time datetime="2016-10-12T10:51:03+0000">12/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Oct/16 13:51"><time datetime="2016-10-23T13:51:08+0000">23/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13001782" rel="13001782" data-issuekey="TAMAYA-172" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-172" href="https://issues.apache.org/jira/browse/TAMAYA-172"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-172" href="https://issues.apache.org/jira/browse/TAMAYA-172">TAMAYA-172</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-172" href="https://issues.apache.org/jira/browse/TAMAYA-172">Fix findbugs warning about wrong comparison via equals in PropertySourceChangeBuilder</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Aug/16 18:50"><time datetime="2016-08-31T18:50:07+0000">31/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="11/Sep/16 20:18"><time datetime="2016-09-11T20:18:06+0000">11/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12986117" rel="12986117" data-issuekey="TAMAYA-168" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-168" href="https://issues.apache.org/jira/browse/TAMAYA-168"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-168" href="https://issues.apache.org/jira/browse/TAMAYA-168">TAMAYA-168</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-168" href="https://issues.apache.org/jira/browse/TAMAYA-168">PropertyConverter added to ConfigurationContextBuilder is not included in the result</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chrispoulsen" id="reporter_chrispoulsen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chrispoulsen">Chris Poulsen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Jul/16 09:44"><time datetime="2016-07-01T09:44:27+0000">01/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Oct/16 22:15"><time datetime="2016-10-30T22:15:10+0000">30/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12975421" rel="12975421" data-issuekey="TAMAYA-163" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-163" href="https://issues.apache.org/jira/browse/TAMAYA-163"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-163" href="https://issues.apache.org/jira/browse/TAMAYA-163">TAMAYA-163</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-163" href="https://issues.apache.org/jira/browse/TAMAYA-163">JBoss startup issue with CDI Extension</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Jun/16 09:04"><time datetime="2016-06-03T09:04:21+0000">03/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="11/Nov/16 09:03"><time datetime="2016-11-11T09:03:26+0000">11/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12972513" rel="12972513" data-issuekey="TAMAYA-162" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-162" href="https://issues.apache.org/jira/browse/TAMAYA-162"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-162" href="https://issues.apache.org/jira/browse/TAMAYA-162">TAMAYA-162</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-162" href="https://issues.apache.org/jira/browse/TAMAYA-162">Site build shows problems with ASCIIdoc during javadoc generation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="assignee_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="24/May/16 20:56"><time datetime="2016-05-24T20:56:10+0000">24/May/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Jan/17 19:36"><time datetime="2017-01-30T19:36:08+0000">30/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12971893" rel="12971893" data-issuekey="TAMAYA-161" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-161" href="https://issues.apache.org/jira/browse/TAMAYA-161"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-161" href="https://issues.apache.org/jira/browse/TAMAYA-161">TAMAYA-161</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-161" href="https://issues.apache.org/jira/browse/TAMAYA-161">Error on homepage</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="assignee_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/May/16 17:39"><time datetime="2016-05-22T17:39:03+0000">22/May/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Jan/17 19:25"><time datetime="2017-01-30T19:25:24+0000">30/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12965289" rel="12965289" data-issuekey="TAMAYA-159" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-159" href="https://issues.apache.org/jira/browse/TAMAYA-159"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-159" href="https://issues.apache.org/jira/browse/TAMAYA-159">TAMAYA-159</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-159" href="https://issues.apache.org/jira/browse/TAMAYA-159">URLResolver does not return null on non resolveable URL</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/May/16 14:56"><time datetime="2016-05-05T14:56:41+0000">05/May/16</time></span> </td>
+                                            <td class="updated"> <span title="05/May/16 16:32"><time datetime="2016-05-05T16:32:25+0000">05/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12964159" rel="12964159" data-issuekey="TAMAYA-158" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-158" href="https://issues.apache.org/jira/browse/TAMAYA-158"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-158" href="https://issues.apache.org/jira/browse/TAMAYA-158">TAMAYA-158</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-158" href="https://issues.apache.org/jira/browse/TAMAYA-158">Model extension does not use common meta-data format.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/May/16 18:35"><time datetime="2016-05-01T18:35:24+0000">01/May/16</time></span> </td>
+                                            <td class="updated"> <span title="01/May/16 18:37"><time datetime="2016-05-01T18:37:18+0000">01/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12961434" rel="12961434" data-issuekey="TAMAYA-152" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-152" href="https://issues.apache.org/jira/browse/TAMAYA-152"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-152" href="https://issues.apache.org/jira/browse/TAMAYA-152">TAMAYA-152</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-152" href="https://issues.apache.org/jira/browse/TAMAYA-152">Maven Site Plugin in conjunction with Asciidoctor generates &#39;???&#39; for &#39;--&#39; instead of a dash</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="reporter_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="21/Apr/16 22:38"><time datetime="2016-04-21T22:38:37+0000">21/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Jan/17 19:46"><time datetime="2017-01-30T19:46:19+0000">30/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12957743" rel="12957743" data-issuekey="TAMAYA-144" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-144" href="https://issues.apache.org/jira/browse/TAMAYA-144"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-144" href="https://issues.apache.org/jira/browse/TAMAYA-144">TAMAYA-144</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-144" href="https://issues.apache.org/jira/browse/TAMAYA-144">Ensure correct licensing for binary distribution</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Apr/16 15:58"><time datetime="2016-04-11T15:58:32+0000">11/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="24/Feb/17 10:27"><time datetime="2017-02-24T10:27:59+0000">24/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12938522" rel="12938522" data-issuekey="TAMAYA-138" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-138" href="https://issues.apache.org/jira/browse/TAMAYA-138"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-138" href="https://issues.apache.org/jira/browse/TAMAYA-138">TAMAYA-138</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-138" href="https://issues.apache.org/jira/browse/TAMAYA-138">Parent pom contains invalid Arquillian groupId</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Mobe" id="reporter_Mobe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Mobe">Moritz Becker</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Feb/16 14:23"><time datetime="2016-02-11T14:23:11+0000">11/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="14/Feb/16 21:29"><time datetime="2016-02-14T21:29:33+0000">14/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12935809" rel="12935809" data-issuekey="TAMAYA-136" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-136" href="https://issues.apache.org/jira/browse/TAMAYA-136"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-136" href="https://issues.apache.org/jira/browse/TAMAYA-136">TAMAYA-136</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-136" href="https://issues.apache.org/jira/browse/TAMAYA-136">Return structure when accessing a singletPropertyValue</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Feb/16 01:11"><time datetime="2016-02-02T01:11:54+0000">02/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="14/Feb/16 21:30"><time datetime="2016-02-14T21:30:50+0000">14/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12929612" rel="12929612" data-issuekey="TAMAYA-134" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-134" href="https://issues.apache.org/jira/browse/TAMAYA-134"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-134" href="https://issues.apache.org/jira/browse/TAMAYA-134">TAMAYA-134</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-134" href="https://issues.apache.org/jira/browse/TAMAYA-134">Fix javadoc issues before releasing 0.2</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="johndament" id="assignee_johndament" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=johndament">John D. Ament</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jan/16 22:30"><time datetime="2016-01-12T22:30:32+0000">12/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/16 11:52"><time datetime="2016-03-08T11:52:10+0000">08/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12916443" rel="12916443" data-issuekey="TAMAYA-131" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-131" href="https://issues.apache.org/jira/browse/TAMAYA-131"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-131" href="https://issues.apache.org/jira/browse/TAMAYA-131">TAMAYA-131</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-131" href="https://issues.apache.org/jira/browse/TAMAYA-131">typo in quickstart maven url</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lathspell" id="reporter_lathspell" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lathspell">Christian Brunotte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Later
+</td>
+                                            <td class="created"> <span title="26/Nov/15 13:37"><time datetime="2015-11-26T13:37:34+0000">26/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Nov/15 11:58"><time datetime="2015-11-27T11:58:35+0000">27/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12911785" rel="12911785" data-issuekey="TAMAYA-130" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-130" href="https://issues.apache.org/jira/browse/TAMAYA-130"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-130" href="https://issues.apache.org/jira/browse/TAMAYA-130">TAMAYA-130</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-130" href="https://issues.apache.org/jira/browse/TAMAYA-130">Add Camel integration</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Implemented
+</td>
+                                            <td class="created"> <span title="10/Nov/15 07:32"><time datetime="2015-11-10T07:32:07+0000">10/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="10/Nov/15 14:59"><time datetime="2015-11-10T14:59:31+0000">10/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12909160" rel="12909160" data-issuekey="TAMAYA-129" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-129" href="https://issues.apache.org/jira/browse/TAMAYA-129"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-129" href="https://issues.apache.org/jira/browse/TAMAYA-129">TAMAYA-129</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-129" href="https://issues.apache.org/jira/browse/TAMAYA-129">Add PersistenceManager OSGI Service implementation for Felix/Karaf</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="30/Oct/15 10:08"><time datetime="2015-10-30T10:08:52+0000">30/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="08/Dec/15 16:05"><time datetime="2015-12-08T16:05:52+0000">08/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12906485" rel="12906485" data-issuekey="TAMAYA-127" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-127" href="https://issues.apache.org/jira/browse/TAMAYA-127"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-127" href="https://issues.apache.org/jira/browse/TAMAYA-127">TAMAYA-127</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-127" href="https://issues.apache.org/jira/browse/TAMAYA-127">NoSuchElementException when using resolver and property values containing an incomplete token</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="itsmeden" id="reporter_itsmeden" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=itsmeden">Lars-Fredrik Smedberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Oct/15 10:13"><time datetime="2015-10-21T10:13:07+0000">21/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="08/Dec/15 23:22"><time datetime="2015-12-08T23:22:37+0000">08/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12896447" rel="12896447" data-issuekey="TAMAYA-109" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-109" href="https://issues.apache.org/jira/browse/TAMAYA-109"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-109" href="https://issues.apache.org/jira/browse/TAMAYA-109">TAMAYA-109</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-109" href="https://issues.apache.org/jira/browse/TAMAYA-109">ServiceContextManager fails to correctly select the ServiceContext in case of multiples</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Sep/15 18:00"><time datetime="2015-09-25T18:00:35+0000">25/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/15 18:35"><time datetime="2015-09-25T18:35:12+0000">25/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12896276" rel="12896276" data-issuekey="TAMAYA-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-108" href="https://issues.apache.org/jira/browse/TAMAYA-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-108" href="https://issues.apache.org/jira/browse/TAMAYA-108">TAMAYA-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-108" href="https://issues.apache.org/jira/browse/TAMAYA-108">Injection is also tried on non configured types and fields.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Sep/15 23:51"><time datetime="2015-09-24T23:51:58+0000">24/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/15 18:34"><time datetime="2015-09-25T18:34:56+0000">25/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12864473" rel="12864473" data-issuekey="TAMAYA-107" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-107" href="https://issues.apache.org/jira/browse/TAMAYA-107"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-107" href="https://issues.apache.org/jira/browse/TAMAYA-107">TAMAYA-107</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-107" href="https://issues.apache.org/jira/browse/TAMAYA-107">ServiceContext SPI is not backward compatible</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Sep/15 06:53"><time datetime="2015-09-16T06:53:25+0000">16/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/15 18:43"><time datetime="2015-09-25T18:43:27+0000">25/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12818711" rel="12818711" data-issuekey="TAMAYA-76" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-76" href="https://issues.apache.org/jira/browse/TAMAYA-76"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-76" href="https://issues.apache.org/jira/browse/TAMAYA-76">TAMAYA-76</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-76" href="https://issues.apache.org/jira/browse/TAMAYA-76">Quickstart - wrong pom.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lathspell" id="reporter_lathspell" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lathspell">Christian Brunotte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Apr/15 21:24"><time datetime="2015-04-06T21:24:33+0000">06/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="30/Jan/17 19:47"><time datetime="2017-01-30T19:47:47+0000">30/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12778097" rel="12778097" data-issuekey="TAMAYA-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-69" href="https://issues.apache.org/jira/browse/TAMAYA-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-69" href="https://issues.apache.org/jira/browse/TAMAYA-69">TAMAYA-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-69" href="https://issues.apache.org/jira/browse/TAMAYA-69">Add event module for allowing dynamic configuration updates being applied</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Feb/15 01:22"><time datetime="2015-02-27T01:22:05+0000">27/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Jun/15 11:25"><time datetime="2015-06-09T11:25:56+0000">09/Jun/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12778094" rel="12778094" data-issuekey="TAMAYA-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-68" href="https://issues.apache.org/jira/browse/TAMAYA-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-68" href="https://issues.apache.org/jira/browse/TAMAYA-68">TAMAYA-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-68" href="https://issues.apache.org/jira/browse/TAMAYA-68">Add ConfigurationContextBuilder to being able to apply context changes.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Feb/15 01:16"><time datetime="2015-02-27T01:16:00+0000">27/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Jun/15 11:29"><time datetime="2015-06-09T11:29:05+0000">09/Jun/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12777813" rel="12777813" data-issuekey="TAMAYA-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-67" href="https://issues.apache.org/jira/browse/TAMAYA-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-67" href="https://issues.apache.org/jira/browse/TAMAYA-67">TAMAYA-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-67" href="https://issues.apache.org/jira/browse/TAMAYA-67">PropertyConverter: add info for supported formats </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="26/Feb/15 08:06"><time datetime="2015-02-26T08:06:33+0000">26/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="08/Dec/15 16:09"><time datetime="2015-12-08T16:09:36+0000">08/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12773602" rel="12773602" data-issuekey="TAMAYA-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-66" href="https://issues.apache.org/jira/browse/TAMAYA-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-66" href="https://issues.apache.org/jira/browse/TAMAYA-66">TAMAYA-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-66" href="https://issues.apache.org/jira/browse/TAMAYA-66">Quickstart page 404s</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jghoman" id="reporter_jghoman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jghoman">Jakob Homan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Feb/15 22:56"><time datetime="2015-02-09T22:56:49+0000">09/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Jun/15 11:35"><time datetime="2015-06-09T11:35:57+0000">09/Jun/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12769892" rel="12769892" data-issuekey="TAMAYA-64" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-64" href="https://issues.apache.org/jira/browse/TAMAYA-64"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-64" href="https://issues.apache.org/jira/browse/TAMAYA-64">TAMAYA-64</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-64" href="https://issues.apache.org/jira/browse/TAMAYA-64">JSON format module introduces its own InputResource model</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Jan/15 20:38"><time datetime="2015-01-24T20:38:35+0000">24/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="01/Apr/15 17:41"><time datetime="2015-04-01T17:41:44+0000">01/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12768210" rel="12768210" data-issuekey="TAMAYA-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-57" href="https://issues.apache.org/jira/browse/TAMAYA-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-57" href="https://issues.apache.org/jira/browse/TAMAYA-57">TAMAYA-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-57" href="https://issues.apache.org/jira/browse/TAMAYA-57">Store URLs in a Collection may result in performance issue</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jan/15 11:32"><time datetime="2015-01-17T11:32:10+0000">17/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="10/Feb/15 06:51"><time datetime="2015-02-10T06:51:17+0000">10/Feb/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12765807" rel="12765807" data-issuekey="TAMAYA-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-55" href="https://issues.apache.org/jira/browse/TAMAYA-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-55" href="https://issues.apache.org/jira/browse/TAMAYA-55">TAMAYA-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-55" href="https://issues.apache.org/jira/browse/TAMAYA-55">Parent POM should not assume Java 8</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="assignee_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Implemented
+</td>
+                                            <td class="created"> <span title="08/Jan/15 17:35"><time datetime="2015-01-08T17:35:25+0000">08/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Jan/15 23:20"><time datetime="2015-01-09T23:20:57+0000">09/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12765574" rel="12765574" data-issuekey="TAMAYA-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-54" href="https://issues.apache.org/jira/browse/TAMAYA-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-54" href="https://issues.apache.org/jira/browse/TAMAYA-54">TAMAYA-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-54" href="https://issues.apache.org/jira/browse/TAMAYA-54">DefaultServiceContext ignores @Priority</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jan/15 08:29"><time datetime="2015-01-08T08:29:16+0000">08/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Jun/15 11:49"><time datetime="2015-06-09T11:49:48+0000">09/Jun/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12765567" rel="12765567" data-issuekey="TAMAYA-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-53" href="https://issues.apache.org/jira/browse/TAMAYA-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-53" href="https://issues.apache.org/jira/browse/TAMAYA-53">TAMAYA-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-53" href="https://issues.apache.org/jira/browse/TAMAYA-53">Build fails because of issues found by FindBugs</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="o.b.fischer" id="reporter_o.b.fischer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=o.b.fischer">Oliver B. Fischer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jan/15 07:37"><time datetime="2015-01-08T07:37:28+0000">08/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="05/Aug/15 21:48"><time datetime="2015-08-05T21:48:28+0000">05/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12765151" rel="12765151" data-issuekey="TAMAYA-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-49" href="https://issues.apache.org/jira/browse/TAMAYA-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-49" href="https://issues.apache.org/jira/browse/TAMAYA-49">TAMAYA-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-49" href="https://issues.apache.org/jira/browse/TAMAYA-49">create a Java7 compatible API</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Done
+</td>
+                                            <td class="created"> <span title="06/Jan/15 17:18"><time datetime="2015-01-06T17:18:11+0000">06/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="24/Jan/15 20:35"><time datetime="2015-01-24T20:35:29+0000">24/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12761659" rel="12761659" data-issuekey="TAMAYA-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-27" href="https://issues.apache.org/jira/browse/TAMAYA-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-27" href="https://issues.apache.org/jira/browse/TAMAYA-27">TAMAYA-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-27" href="https://issues.apache.org/jira/browse/TAMAYA-27">Problem when the OptionalBoolean is used</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="otaviojava" id="reporter_otaviojava" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=otaviojava">Otavio Goncalves de Santana</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Dec/14 23:41"><time datetime="2014-12-14T23:41:10+0000">14/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Dec/14 00:02"><time datetime="2014-12-15T00:02:43+0000">15/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12761656" rel="12761656" data-issuekey="TAMAYA-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-26" href="https://issues.apache.org/jira/browse/TAMAYA-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-26" href="https://issues.apache.org/jira/browse/TAMAYA-26">TAMAYA-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-26" href="https://issues.apache.org/jira/browse/TAMAYA-26">PropertySourceBuilder creation methods should be named &#39;of&#39;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Dec/14 23:01"><time datetime="2014-12-14T23:01:41+0000">14/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Dec/14 23:53"><time datetime="2014-12-14T23:53:17+0000">14/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12760709" rel="12760709" data-issuekey="TAMAYA-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-22" href="https://issues.apache.org/jira/browse/TAMAYA-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-22" href="https://issues.apache.org/jira/browse/TAMAYA-22">TAMAYA-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-22" href="https://issues.apache.org/jira/browse/TAMAYA-22">Do we really need ConfigOperator?</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Dec/14 11:39"><time datetime="2014-12-10T11:39:42+0000">10/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/14 13:28"><time datetime="2014-12-12T13:28:35+0000">12/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12760103" rel="12760103" data-issuekey="TAMAYA-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-20" href="https://issues.apache.org/jira/browse/TAMAYA-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-20" href="https://issues.apache.org/jira/browse/TAMAYA-20">TAMAYA-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-20" href="https://issues.apache.org/jira/browse/TAMAYA-20">Unit tests of tamaya-api contain wrong path, won&#39;t compile</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Dec/14 11:05"><time datetime="2014-12-08T11:05:59+0000">08/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/14 13:16"><time datetime="2014-12-12T13:16:39+0000">12/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12758854" rel="12758854" data-issuekey="TAMAYA-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-16" href="https://issues.apache.org/jira/browse/TAMAYA-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-16" href="https://issues.apache.org/jira/browse/TAMAYA-16">TAMAYA-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-16" href="https://issues.apache.org/jira/browse/TAMAYA-16">Change AggregationPolicy to functional interface</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Dec/14 09:59"><time datetime="2014-12-02T09:59:42+0000">02/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/14 13:06"><time datetime="2014-12-12T13:06:39+0000">12/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12758596" rel="12758596" data-issuekey="TAMAYA-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-15" href="https://issues.apache.org/jira/browse/TAMAYA-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-15" href="https://issues.apache.org/jira/browse/TAMAYA-15">TAMAYA-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-15" href="https://issues.apache.org/jira/browse/TAMAYA-15">Move PropertyProviders into API part and add SPI</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Dec/14 09:23"><time datetime="2014-12-01T09:23:58+0000">01/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/14 13:06"><time datetime="2014-12-12T13:06:53+0000">12/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12758594" rel="12758594" data-issuekey="TAMAYA-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-14" href="https://issues.apache.org/jira/browse/TAMAYA-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-14" href="https://issues.apache.org/jira/browse/TAMAYA-14">TAMAYA-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-14" href="https://issues.apache.org/jira/browse/TAMAYA-14">Resource resolution does not support ant path style</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Dec/14 09:20"><time datetime="2014-12-01T09:20:03+0000">01/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/14 13:07"><time datetime="2014-12-12T13:07:08+0000">12/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12758424" rel="12758424" data-issuekey="TAMAYA-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-8" href="https://issues.apache.org/jira/browse/TAMAYA-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-8" href="https://issues.apache.org/jira/browse/TAMAYA-8">TAMAYA-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-8" href="https://issues.apache.org/jira/browse/TAMAYA-8">Add missing JavaDoc.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="reporter_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Nov/14 08:18"><time datetime="2014-11-29T08:18:37+0000">29/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Jan/15 20:15"><time datetime="2015-01-24T20:15:05+0000">24/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12758373" rel="12758373" data-issuekey="TAMAYA-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-4" href="https://issues.apache.org/jira/browse/TAMAYA-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-4" href="https://issues.apache.org/jira/browse/TAMAYA-4">TAMAYA-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-4" href="https://issues.apache.org/jira/browse/TAMAYA-4">No log dependency OOTB</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="reporter_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Nov/14 17:23"><time datetime="2014-11-28T17:23:43+0000">28/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/14 13:19"><time datetime="2014-12-12T13:19:11+0000">12/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12758062" rel="12758062" data-issuekey="TAMAYA-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="TAMAYA-3" href="https://issues.apache.org/jira/browse/TAMAYA-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="TAMAYA-3" href="https://issues.apache.org/jira/browse/TAMAYA-3">TAMAYA-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="TAMAYA-3" href="https://issues.apache.org/jira/browse/TAMAYA-3">Multiple failing tests</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="anatole" id="assignee_anatole" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anatole">Anatole Tresch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="johndament" id="reporter_johndament" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=johndament">John D. Ament</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Nov/14 20:34"><time datetime="2014-11-26T20:34:59+0000">26/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/14 13:19"><time datetime="2014-12-12T13:19:25+0000">12/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

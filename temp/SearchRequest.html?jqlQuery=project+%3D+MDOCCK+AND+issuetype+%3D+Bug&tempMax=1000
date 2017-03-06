@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MDOCCK+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MDOCCK+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MDOCCK" title="Browse Maven Documentation Checker Plugin project">Maven Documentation Checker Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>10</b> of <b>10</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12801263" rel="12801263" data-issuekey="MDOCCK-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-28" href="https://issues.apache.org/jira/browse/MDOCCK-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-28" href="https://issues.apache.org/jira/browse/MDOCCK-28">MDOCCK-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-28" href="https://issues.apache.org/jira/browse/MDOCCK-28">unknown protocol: scm</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fazend" id="reporter_fazend" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fazend">Yegor Bugayenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="14/Dec/12 01:32"><time datetime="2012-12-14T01:32:07+0000">14/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="14/Dec/12 08:33"><time datetime="2012-12-14T08:33:04+0000">14/Dec/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801262" rel="12801262" data-issuekey="MDOCCK-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-27" href="https://issues.apache.org/jira/browse/MDOCCK-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-27" href="https://issues.apache.org/jira/browse/MDOCCK-27">MDOCCK-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-27" href="https://issues.apache.org/jira/browse/MDOCCK-27">The plugin doesn&#39;t understand new Maven 3.x site reporting mechanism</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fazend" id="reporter_fazend" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fazend">Yegor Bugayenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Auto Closed
+</td>
+                                            <td class="created"> <span title="14/Dec/12 01:28"><time datetime="2012-12-14T01:28:48+0000">14/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="12/Jan/16 20:12"><time datetime="2016-01-12T20:12:18+0000">12/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801260" rel="12801260" data-issuekey="MDOCCK-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-26" href="https://issues.apache.org/jira/browse/MDOCCK-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-26" href="https://issues.apache.org/jira/browse/MDOCCK-26">MDOCCK-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-26" href="https://issues.apache.org/jira/browse/MDOCCK-26">When using Java 5 Annotations, docck incorrectly warns of no mojo descriptors found</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="awhitford" id="reporter_awhitford" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=awhitford">Anthony Whitford</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Sep/12 12:56"><time datetime="2012-09-16T12:56:59+0000">16/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="11/Apr/15 16:55"><time datetime="2015-04-11T16:55:45+0000">11/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801265" rel="12801265" data-issuekey="MDOCCK-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-24" href="https://issues.apache.org/jira/browse/MDOCCK-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-24" href="https://issues.apache.org/jira/browse/MDOCCK-24">MDOCCK-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-24" href="https://issues.apache.org/jira/browse/MDOCCK-24">Does not consider confluence</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="huntc@internode.on.net" id="reporter_huntc@internode.on.net" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=huntc%40internode.on.net">Christopher Hunt</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="19/Aug/11 16:13"><time datetime="2011-08-19T16:13:44+0000">19/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:48"><time datetime="2014-11-25T14:48:14+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801259" rel="12801259" data-issuekey="MDOCCK-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-23" href="https://issues.apache.org/jira/browse/MDOCCK-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-23" href="https://issues.apache.org/jira/browse/MDOCCK-23">MDOCCK-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-23" href="https://issues.apache.org/jira/browse/MDOCCK-23">Invocation fails with &quot;com.thoughtworks.qdox.parser.ParseException: syntax error&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wdsgoe" id="reporter_wdsgoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wdsgoe">wdsgoe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="02/Aug/11 16:03"><time datetime="2011-08-02T16:03:47+0000">02/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:49"><time datetime="2014-11-25T14:49:04+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801252" rel="12801252" data-issuekey="MDOCCK-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-14" href="https://issues.apache.org/jira/browse/MDOCCK-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-14" href="https://issues.apache.org/jira/browse/MDOCCK-14">MDOCCK-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-14" href="https://issues.apache.org/jira/browse/MDOCCK-14">Plugin does not respect generated documentation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="david@davidkarlsen.com" id="reporter_david@davidkarlsen.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=david%40davidkarlsen.com">David J. M. Karlsen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="10/Sep/08 16:47"><time datetime="2008-09-10T16:47:54+0000">10/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="11/Sep/08 16:07"><time datetime="2008-09-11T16:07:59+0000">11/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801261" rel="12801261" data-issuekey="MDOCCK-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-12" href="https://issues.apache.org/jira/browse/MDOCCK-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-12" href="https://issues.apache.org/jira/browse/MDOCCK-12">MDOCCK-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-12" href="https://issues.apache.org/jira/browse/MDOCCK-12">@Override let QDOX fail for this plugin</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mtstorm" id="reporter_mtstorm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mtstorm">MTStorm</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jun/08 03:42"><time datetime="2008-06-04T03:42:52+0000">04/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 00:41"><time datetime="2015-04-06T00:41:54+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801242" rel="12801242" data-issuekey="MDOCCK-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-10" href="https://issues.apache.org/jira/browse/MDOCCK-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-10" href="https://issues.apache.org/jira/browse/MDOCCK-10">MDOCCK-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-10" href="https://issues.apache.org/jira/browse/MDOCCK-10">Use proper file encoding when checking site descriptor</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Apr/08 05:31"><time datetime="2008-04-05T05:31:00+0000">05/Apr/08</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/15 08:03"><time datetime="2015-04-08T08:03:03+0000">08/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801251" rel="12801251" data-issuekey="MDOCCK-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-8" href="https://issues.apache.org/jira/browse/MDOCCK-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-8" href="https://issues.apache.org/jira/browse/MDOCCK-8">MDOCCK-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-8" href="https://issues.apache.org/jira/browse/MDOCCK-8">NTLM proxy problems: Authentication state already initialized</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="minfrin" id="reporter_minfrin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=minfrin">Graham Leggett</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/May/07 07:19"><time datetime="2007-05-22T07:19:14+0000">22/May/07</time></span> </td>
+                                            <td class="updated"> <span title="25/May/07 07:59"><time datetime="2007-05-25T07:59:04+0000">25/May/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12801245" rel="12801245" data-issuekey="MDOCCK-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOCCK-1" href="https://issues.apache.org/jira/browse/MDOCCK-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOCCK-1" href="https://issues.apache.org/jira/browse/MDOCCK-1">MDOCCK-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOCCK-1" href="https://issues.apache.org/jira/browse/MDOCCK-1">[plugins/docck] fail to run &quot;org.apache.commons.logging.LogConfigurationException: Class org.apache.commons.logging.impl.Jdk14Logger does not implement Log&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lacostej" id="reporter_lacostej" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lacostej">Jerome Lacoste</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jul/06 08:12"><time datetime="2006-07-06T08:12:39+0000">06/Jul/06</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/15 08:03"><time datetime="2015-04-08T08:03:37+0000">08/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

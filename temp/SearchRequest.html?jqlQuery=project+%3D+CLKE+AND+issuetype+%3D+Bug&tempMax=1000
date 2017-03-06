@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+CLKE+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+CLKE+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/CLKE" title="Browse Click Eclipse project">Click Eclipse</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>10</b> of <b>10</b>
+            as at: <b>05/Mar/17 16:55</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12525236" rel="12525236" data-issuekey="CLKE-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-47" href="https://issues.apache.org/jira/browse/CLKE-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-47" href="https://issues.apache.org/jira/browse/CLKE-47">CLKE-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-47" href="https://issues.apache.org/jira/browse/CLKE-47">Problem after starting tomcat 6.0 server with nutch0.9</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="insha" id="reporter_insha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=insha">insha ali</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="29/Sep/11 19:17"><time datetime="2011-09-29T19:17:18+0000">29/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="29/Sep/11 19:17"><time datetime="2011-09-29T19:17:18+0000">29/Sep/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12502652" rel="12502652" data-issuekey="CLKE-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-45" href="https://issues.apache.org/jira/browse/CLKE-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-45" href="https://issues.apache.org/jira/browse/CLKE-45">CLKE-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-45" href="https://issues.apache.org/jira/browse/CLKE-45">Click Page creation wizard: source folder value is invalid</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="reporter_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Mar/11 05:02"><time datetime="2011-03-29T05:02:50+0000">29/Mar/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/11 15:47"><time datetime="2011-04-05T15:47:37+0000">05/Apr/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12502651" rel="12502651" data-issuekey="CLKE-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-44" href="https://issues.apache.org/jira/browse/CLKE-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-44" href="https://issues.apache.org/jira/browse/CLKE-44">CLKE-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-44" href="https://issues.apache.org/jira/browse/CLKE-44">Disabling HTMLValidator is not working</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="reporter_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Mar/11 05:00"><time datetime="2011-03-29T05:00:18+0000">29/Mar/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/11 15:47"><time datetime="2011-04-05T15:47:48+0000">05/Apr/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12458341" rel="12458341" data-issuekey="CLKE-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-39" href="https://issues.apache.org/jira/browse/CLKE-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-39" href="https://issues.apache.org/jira/browse/CLKE-39">CLKE-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-39" href="https://issues.apache.org/jira/browse/CLKE-39">The click.xml editor uses the Page package and classname</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sabob" id="reporter_sabob" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sabob">Bob Schellink</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Mar/10 05:59"><time datetime="2010-03-06T05:59:38+0000">06/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/10 17:38"><time datetime="2010-07-13T17:38:40+0000">13/Jul/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12458340" rel="12458340" data-issuekey="CLKE-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-38" href="https://issues.apache.org/jira/browse/CLKE-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-38" href="https://issues.apache.org/jira/browse/CLKE-38">CLKE-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-38" href="https://issues.apache.org/jira/browse/CLKE-38">Doctype url is incorrect</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sabob" id="reporter_sabob" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sabob">Bob Schellink</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Mar/10 05:48"><time datetime="2010-03-06T05:48:28+0000">06/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/10 17:38"><time datetime="2010-07-13T17:38:56+0000">13/Jul/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12417431" rel="12417431" data-issuekey="CLKE-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-21" href="https://issues.apache.org/jira/browse/CLKE-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-21" href="https://issues.apache.org/jira/browse/CLKE-21">CLKE-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-21" href="https://issues.apache.org/jira/browse/CLKE-21">Can not Create new project </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jeff9374602" id="reporter_jeff9374602" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jeff9374602">Jeff Wu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="11/Apr/07 22:28"><time datetime="2007-04-11T22:28:07+0000">11/Apr/07</time></span> </td>
+                                            <td class="updated"> <span title="18/Sep/07 07:01"><time datetime="2007-09-18T07:01:20+0000">18/Sep/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12417427" rel="12417427" data-issuekey="CLKE-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-15" href="https://issues.apache.org/jira/browse/CLKE-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-15" href="https://issues.apache.org/jira/browse/CLKE-15">CLKE-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-15" href="https://issues.apache.org/jira/browse/CLKE-15">Page auto-mapping problem</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="reporter_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Oct/06 22:05"><time datetime="2006-10-31T22:05:41+0000">31/Oct/06</time></span> </td>
+                                            <td class="updated"> <span title="08/Nov/06 12:09"><time datetime="2006-11-08T12:09:33+0000">08/Nov/06</time></span> </td>
+                                            <td class="duedate">    31/Dec/07
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12417428" rel="12417428" data-issuekey="CLKE-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-14" href="https://issues.apache.org/jira/browse/CLKE-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-14" href="https://issues.apache.org/jira/browse/CLKE-14">CLKE-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-14" href="https://issues.apache.org/jira/browse/CLKE-14">Current Click Eclipse auto complete feature seems not work when Page is located in sub directory.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mikeshimura" id="reporter_mikeshimura" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mikeshimura">Masanobu Shimura</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Oct/06 02:28"><time datetime="2006-10-16T02:28:40+0000">16/Oct/06</time></span> </td>
+                                            <td class="updated"> <span title="08/Nov/06 12:08"><time datetime="2006-11-08T12:08:59+0000">08/Nov/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12417425" rel="12417425" data-issuekey="CLKE-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-8" href="https://issues.apache.org/jira/browse/CLKE-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-8" href="https://issues.apache.org/jira/browse/CLKE-8">CLKE-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-8" href="https://issues.apache.org/jira/browse/CLKE-8">click.xml Page class validation doesn&#39;t support pages package attribute</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="medgar" id="reporter_medgar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=medgar">Malcolm Edgar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Mar/06 12:46"><time datetime="2006-03-24T12:46:19+0000">24/Mar/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Apr/06 05:23"><time datetime="2006-04-15T05:23:28+0000">15/Apr/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12417422" rel="12417422" data-issuekey="CLKE-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="CLKE-5" href="https://issues.apache.org/jira/browse/CLKE-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="CLKE-5" href="https://issues.apache.org/jira/browse/CLKE-5">CLKE-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="CLKE-5" href="https://issues.apache.org/jira/browse/CLKE-5">click.xml validation doesn&#39;t work when classes are removed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="assignee_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="takezoe" id="reporter_takezoe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=takezoe">Naoki Takezoe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Mar/06 04:27"><time datetime="2006-03-22T04:27:37+0000">22/Mar/06</time></span> </td>
+                                            <td class="updated"> <span title="06/Oct/06 09:13"><time datetime="2006-10-06T09:13:46+0000">06/Oct/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

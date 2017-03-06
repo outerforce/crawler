@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MGPG+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MGPG+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MGPG" title="Browse Maven GPG Plugin project">Maven GPG Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>24</b> of <b>24</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13003560" rel="13003560" data-issuekey="MGPG-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-58" href="https://issues.apache.org/jira/browse/MGPG-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-58" href="https://issues.apache.org/jira/browse/MGPG-58">MGPG-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-58" href="https://issues.apache.org/jira/browse/MGPG-58">Encrypted Passphrase in settings.xml fails </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rhpatrick00" id="reporter_rhpatrick00" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rhpatrick00">Robert Patrick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Sep/16 12:32"><time datetime="2016-09-08T12:32:02+0000">08/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Sep/16 12:46"><time datetime="2016-09-08T12:46:33+0000">08/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12999203" rel="12999203" data-issuekey="MGPG-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-57" href="https://issues.apache.org/jira/browse/MGPG-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-57" href="https://issues.apache.org/jira/browse/MGPG-57">MGPG-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-57" href="https://issues.apache.org/jira/browse/MGPG-57">passphraseServerId is ignored if a server with id gpg.passphrase exists</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="agnul" id="reporter_agnul" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=agnul">Angelo D.</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="23/Aug/16 13:00"><time datetime="2016-08-23T13:00:28+0000">23/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Aug/16 13:01"><time datetime="2016-08-23T13:01:04+0000">23/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12917535" rel="12917535" data-issuekey="MGPG-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-53" href="https://issues.apache.org/jira/browse/MGPG-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-53" href="https://issues.apache.org/jira/browse/MGPG-53">MGPG-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-53" href="https://issues.apache.org/jira/browse/MGPG-53">sign-and-deploy-file goal insists on deploying source file for previous sign-and-deploy-file execution</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sleicht" id="reporter_sleicht" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sleicht">Stephan Leicht Vogt</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="02/Dec/15 10:11"><time datetime="2015-12-02T10:11:51+0000">02/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Dec/15 10:15"><time datetime="2015-12-02T10:15:07+0000">02/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803295" rel="12803295" data-issuekey="MGPG-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-45" href="https://issues.apache.org/jira/browse/MGPG-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-45" href="https://issues.apache.org/jira/browse/MGPG-45">MGPG-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-45" href="https://issues.apache.org/jira/browse/MGPG-45">ascDirectory has no effect unless artifacts are not in target</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="14/Jun/13 03:58"><time datetime="2013-06-14T03:58:40+0000">14/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:54"><time datetime="2015-04-07T18:54:22+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803305" rel="12803305" data-issuekey="MGPG-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-44" href="https://issues.apache.org/jira/browse/MGPG-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-44" href="https://issues.apache.org/jira/browse/MGPG-44">MGPG-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-44" href="https://issues.apache.org/jira/browse/MGPG-44">gpg:sign does not handle non-Default outputDirectory correctly</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Jun/13 06:26"><time datetime="2013-06-13T06:26:10+0000">13/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:54"><time datetime="2015-04-07T18:54:23+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803319" rel="12803319" data-issuekey="MGPG-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-42" href="https://issues.apache.org/jira/browse/MGPG-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-42" href="https://issues.apache.org/jira/browse/MGPG-42">MGPG-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-42" href="https://issues.apache.org/jira/browse/MGPG-42">property name references not resolved when copying pom to target directory prior to signing</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="schor" id="reporter_schor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=schor">Marshall Schor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Feb/13 15:05"><time datetime="2013-02-08T15:05:00+0000">08/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/13 15:05"><time datetime="2013-02-08T15:05:00+0000">08/Feb/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803315" rel="12803315" data-issuekey="MGPG-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-41" href="https://issues.apache.org/jira/browse/MGPG-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-41" href="https://issues.apache.org/jira/browse/MGPG-41">MGPG-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-41" href="https://issues.apache.org/jira/browse/MGPG-41">Passphrase revealed when backspacing at prompt</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stephenconnolly" id="assignee_stephenconnolly" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stephenconnolly">stephenconnolly</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tony19" id="reporter_tony19" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tony19">Tony Trinh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Dec/12 23:17"><time datetime="2012-12-01T23:17:35+0000">01/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="21/Feb/14 06:15"><time datetime="2014-02-21T06:15:07+0000">21/Feb/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803294" rel="12803294" data-issuekey="MGPG-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-40" href="https://issues.apache.org/jira/browse/MGPG-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-40" href="https://issues.apache.org/jira/browse/MGPG-40">MGPG-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-40" href="https://issues.apache.org/jira/browse/MGPG-40">Consistency of CLI properties vs configuration: gpg.useagent should be named gpg.useAgent</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mfriedenhagen" id="reporter_mfriedenhagen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mfriedenhagen">Mirko Friedenhagen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Auto Closed
+</td>
+                                            <td class="created"> <span title="08/Nov/12 01:24"><time datetime="2012-11-08T01:24:33+0000">08/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="12/Jan/16 20:12"><time datetime="2016-01-12T20:12:44+0000">12/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803303" rel="12803303" data-issuekey="MGPG-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-37" href="https://issues.apache.org/jira/browse/MGPG-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-37" href="https://issues.apache.org/jira/browse/MGPG-37">MGPG-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-37" href="https://issues.apache.org/jira/browse/MGPG-37">retryFailedDeploymentCount is actually just plain retry deployment</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stephenconnolly" id="assignee_stephenconnolly" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stephenconnolly">stephenconnolly</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stephenc" id="reporter_stephenc" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stephenc">Stephen Connolly</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jun/11 01:13"><time datetime="2011-06-21T01:13:21+0000">21/Jun/11</time></span> </td>
+                                            <td class="updated"> <span title="21/Jun/11 01:17"><time datetime="2011-06-21T01:17:01+0000">21/Jun/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803293" rel="12803293" data-issuekey="MGPG-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-33" href="https://issues.apache.org/jira/browse/MGPG-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-33" href="https://issues.apache.org/jira/browse/MGPG-33">MGPG-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-33" href="https://issues.apache.org/jira/browse/MGPG-33">Signing fails if passphrase contains non-English letters</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hapi" id="reporter_hapi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hapi">Harri Halttunen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="30/Oct/10 10:30"><time datetime="2010-10-30T10:30:24+0000">30/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:47"><time datetime="2014-11-25T14:47:51+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803317" rel="12803317" data-issuekey="MGPG-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-26" href="https://issues.apache.org/jira/browse/MGPG-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-26" href="https://issues.apache.org/jira/browse/MGPG-26">MGPG-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-26" href="https://issues.apache.org/jira/browse/MGPG-26">sign-and-deploy-file does not work with javadoc and sources artifcats</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmoreira2020" id="reporter_tmoreira2020" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmoreira2020">Thiago Leão Moreira</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jun/10 14:11"><time datetime="2010-06-06T14:11:32+0000">06/Jun/10</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:12+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803287" rel="12803287" data-issuekey="MGPG-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-25" href="https://issues.apache.org/jira/browse/MGPG-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-25" href="https://issues.apache.org/jira/browse/MGPG-25">MGPG-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-25" href="https://issues.apache.org/jira/browse/MGPG-25">The GPG Plugin &quot;doubly signs&quot; artifacts</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="maguro" id="reporter_maguro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=maguro">Alan Cabrera</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="03/Jun/10 10:00"><time datetime="2010-06-03T10:00:54+0000">03/Jun/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jun/10 11:04"><time datetime="2010-06-03T11:04:40+0000">03/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803289" rel="12803289" data-issuekey="MGPG-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-22" href="https://issues.apache.org/jira/browse/MGPG-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-22" href="https://issues.apache.org/jira/browse/MGPG-22">MGPG-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-22" href="https://issues.apache.org/jira/browse/MGPG-22">gpg:sign goal hanging build.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bakersemail@hotmail.com" id="reporter_bakersemail@hotmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bakersemail%40hotmail.com">Steven Baker</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="07/May/10 07:30"><time datetime="2010-05-07T07:30:14+0000">07/May/10</time></span> </td>
+                                            <td class="updated"> <span title="07/May/10 07:39"><time datetime="2010-05-07T07:39:16+0000">07/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803275" rel="12803275" data-issuekey="MGPG-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-20" href="https://issues.apache.org/jira/browse/MGPG-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-20" href="https://issues.apache.org/jira/browse/MGPG-20">MGPG-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-20" href="https://issues.apache.org/jira/browse/MGPG-20">Signing fails if project has no main artifact but only attached artifacts with classifiers</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clement.escoffier" id="reporter_clement.escoffier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clement.escoffier">Clement Escoffier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Jan/10 12:22"><time datetime="2010-01-20T12:22:32+0000">20/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="29/May/10 04:49"><time datetime="2010-05-29T04:49:28+0000">29/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803279" rel="12803279" data-issuekey="MGPG-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-19" href="https://issues.apache.org/jira/browse/MGPG-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-19" href="https://issues.apache.org/jira/browse/MGPG-19">MGPG-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-19" href="https://issues.apache.org/jira/browse/MGPG-19">Site descriptor does not get signed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stephenc" id="reporter_stephenc" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stephenc">Stephen Connolly</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="12/Jan/10 10:54"><time datetime="2010-01-12T10:54:41+0000">12/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 01:19"><time datetime="2015-04-06T01:19:11+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803318" rel="12803318" data-issuekey="MGPG-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-18" href="https://issues.apache.org/jira/browse/MGPG-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-18" href="https://issues.apache.org/jira/browse/MGPG-18">MGPG-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-18" href="https://issues.apache.org/jira/browse/MGPG-18">NPE in GpgSigner</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="diathesis" id="reporter_diathesis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=diathesis">Geoffrey Wiseman</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Nov/09 13:03"><time datetime="2009-11-03T13:03:57+0000">03/Nov/09</time></span> </td>
+                                            <td class="updated"> <span title="11/Feb/10 08:04"><time datetime="2010-02-11T08:04:35+0000">11/Feb/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803283" rel="12803283" data-issuekey="MGPG-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-17" href="https://issues.apache.org/jira/browse/MGPG-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-17" href="https://issues.apache.org/jira/browse/MGPG-17">MGPG-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-17" href="https://issues.apache.org/jira/browse/MGPG-17">password is specified, but still promting</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ali65" id="reporter_ali65" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ali65">Albert Kurucz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Sep/09 02:09"><time datetime="2009-09-05T02:09:25+0000">05/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="27/May/10 12:47"><time datetime="2010-05-27T12:47:36+0000">27/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803282" rel="12803282" data-issuekey="MGPG-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-14" href="https://issues.apache.org/jira/browse/MGPG-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-14" href="https://issues.apache.org/jira/browse/MGPG-14">MGPG-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-14" href="https://issues.apache.org/jira/browse/MGPG-14">With maven 2.1.0 some poms end up with invalid signatures</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="05/May/09 10:24"><time datetime="2009-05-05T10:24:00+0000">05/May/09</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:01+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803274" rel="12803274" data-issuekey="MGPG-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-13" href="https://issues.apache.org/jira/browse/MGPG-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-13" href="https://issues.apache.org/jira/browse/MGPG-13">MGPG-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-13" href="https://issues.apache.org/jira/browse/MGPG-13">NPE if no config defined</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cathodion" id="reporter_cathodion" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cathodion">Geert Schuring</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="13/Oct/08 05:50"><time datetime="2008-10-13T05:50:01+0000">13/Oct/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Sep/09 13:31"><time datetime="2009-09-02T13:31:39+0000">02/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803285" rel="12803285" data-issuekey="MGPG-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-11" href="https://issues.apache.org/jira/browse/MGPG-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-11" href="https://issues.apache.org/jira/browse/MGPG-11">MGPG-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-11" href="https://issues.apache.org/jira/browse/MGPG-11">upgrade to last plexus-utils (1.4.8) to work on platform without /bin/bash </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="reporter_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Dec/07 15:41"><time datetime="2007-12-11T15:41:58+0000">11/Dec/07</time></span> </td>
+                                            <td class="updated"> <span title="11/Dec/07 15:48"><time datetime="2007-12-11T15:48:28+0000">11/Dec/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803310" rel="12803310" data-issuekey="MGPG-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-9" href="https://issues.apache.org/jira/browse/MGPG-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-9" href="https://issues.apache.org/jira/browse/MGPG-9">MGPG-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-9" href="https://issues.apache.org/jira/browse/MGPG-9">gpg plugin hangs when it should prompt for the secret key passphrase hangs</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="akarasulu@apache.org" id="reporter_akarasulu@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu%40apache.org">Alex Karasulu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="24/May/07 01:15"><time datetime="2007-05-24T01:15:33+0000">24/May/07</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 00:52"><time datetime="2015-04-06T00:52:40+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803314" rel="12803314" data-issuekey="MGPG-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-8" href="https://issues.apache.org/jira/browse/MGPG-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-8" href="https://issues.apache.org/jira/browse/MGPG-8">MGPG-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-8" href="https://issues.apache.org/jira/browse/MGPG-8">Build error when plugin tries to sign nonexistent jar file in a war module</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wsmoak" id="reporter_wsmoak" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wsmoak">Wendy Smoak</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="14/Apr/07 20:14"><time datetime="2007-04-14T20:14:30+0000">14/Apr/07</time></span> </td>
+                                            <td class="updated"> <span title="31/Jan/15 14:24"><time datetime="2015-01-31T14:24:25+0000">31/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803280" rel="12803280" data-issuekey="MGPG-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-6" href="https://issues.apache.org/jira/browse/MGPG-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-6" href="https://issues.apache.org/jira/browse/MGPG-6">MGPG-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-6" href="https://issues.apache.org/jira/browse/MGPG-6">Attached jars/assemblies that would have renamed files result in wacky .asc files deployed....</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Mar/07 10:39"><time datetime="2007-03-22T10:39:11+0000">22/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/07 13:57"><time datetime="2007-09-20T13:57:30+0000">20/Sep/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803273" rel="12803273" data-issuekey="MGPG-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MGPG-4" href="https://issues.apache.org/jira/browse/MGPG-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MGPG-4" href="https://issues.apache.org/jira/browse/MGPG-4">MGPG-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MGPG-4" href="https://issues.apache.org/jira/browse/MGPG-4">Invalid signature on installed or deployed POM</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jboynes" id="reporter_jboynes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jboynes">Jeremy Boynes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Mar/07 20:59"><time datetime="2007-03-15T20:59:57+0000">15/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="16/Mar/07 11:44"><time datetime="2007-03-16T11:44:01+0000">16/Mar/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

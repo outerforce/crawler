@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DATAFU+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DATAFU+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/DATAFU" title="Browse DataFu project">DataFu</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>29</b> of <b>29</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13011421" rel="13011421" data-issuekey="DATAFU-122" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-122" href="https://issues.apache.org/jira/browse/DATAFU-122"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-122" href="https://issues.apache.org/jira/browse/DATAFU-122">DATAFU-122</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-122" href="https://issues.apache.org/jira/browse/DATAFU-122">Documentation error/typo on tips and tricks involving Coalesce</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="eyal" id="assignee_eyal" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=eyal">Eyal Allweil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rclough" id="reporter_rclough" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rclough">Ryan Clough</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Oct/16 17:00"><time datetime="2016-10-11T17:00:42+0000">11/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="25/Feb/17 00:44"><time datetime="2017-02-25T00:44:17+0000">25/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997501" rel="12997501" data-issuekey="DATAFU-121" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-121" href="https://issues.apache.org/jira/browse/DATAFU-121"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-121" href="https://issues.apache.org/jira/browse/DATAFU-121">DATAFU-121</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-121" href="https://issues.apache.org/jira/browse/DATAFU-121">Binary artifacts should include LICENSE and NOTICE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="assignee_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Aug/16 07:12"><time datetime="2016-08-16T07:12:11+0000">16/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="21/Feb/17 17:19"><time datetime="2017-02-21T17:19:50+0000">21/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12913084" rel="12913084" data-issuekey="DATAFU-107" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-107" href="https://issues.apache.org/jira/browse/DATAFU-107"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-107" href="https://issues.apache.org/jira/browse/DATAFU-107">DATAFU-107</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-107" href="https://issues.apache.org/jira/browse/DATAFU-107">Other license notices at bottom of LICENSE belong in NOTICE instead</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="14/Nov/15 17:08"><time datetime="2015-11-14T17:08:39+0000">14/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/15 02:03"><time datetime="2015-11-15T02:03:59+0000">15/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12911238" rel="12911238" data-issuekey="DATAFU-102" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-102" href="https://issues.apache.org/jira/browse/DATAFU-102"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-102" href="https://issues.apache.org/jira/browse/DATAFU-102">DATAFU-102</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-102" href="https://issues.apache.org/jira/browse/DATAFU-102">SentenceDetect fails to load input bin file</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="assignee_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Nov/15 22:55"><time datetime="2015-11-06T22:55:37+0000">06/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Nov/15 17:14"><time datetime="2015-11-14T17:14:00+0000">14/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12858359" rel="12858359" data-issuekey="DATAFU-99" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-99" href="https://issues.apache.org/jira/browse/DATAFU-99"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-99" href="https://issues.apache.org/jira/browse/DATAFU-99">DATAFU-99</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-99" href="https://issues.apache.org/jira/browse/DATAFU-99">Can&#39;t build on Windows</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="24/Aug/15 18:00"><time datetime="2015-08-24T18:00:04+0000">24/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="24/Aug/15 18:00"><time datetime="2015-08-24T18:00:19+0000">24/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12836229" rel="12836229" data-issuekey="DATAFU-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-97" href="https://issues.apache.org/jira/browse/DATAFU-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-97" href="https://issues.apache.org/jira/browse/DATAFU-97">DATAFU-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-97" href="https://issues.apache.org/jira/browse/DATAFU-97">Set code style standard</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Jun/15 17:47"><time datetime="2015-06-08T17:47:26+0000">08/Jun/15</time></span> </td>
+                                            <td class="updated"> <span title="08/Jun/15 17:47"><time datetime="2015-06-08T17:47:26+0000">08/Jun/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12835854" rel="12835854" data-issuekey="DATAFU-96" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-96" href="https://issues.apache.org/jira/browse/DATAFU-96"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-96" href="https://issues.apache.org/jira/browse/DATAFU-96">DATAFU-96</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-96" href="https://issues.apache.org/jira/browse/DATAFU-96">Update year in NOTICE file</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jghoman" id="assignee_jghoman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jghoman">Jakob Homan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jghoman" id="reporter_jghoman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jghoman">Jakob Homan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Jun/15 22:41"><time datetime="2015-06-05T22:41:25+0000">05/Jun/15</time></span> </td>
+                                            <td class="updated"> <span title="08/Jun/15 18:58"><time datetime="2015-06-08T18:58:57+0000">08/Jun/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12825389" rel="12825389" data-issuekey="DATAFU-91" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-91" href="https://issues.apache.org/jira/browse/DATAFU-91"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-91" href="https://issues.apache.org/jira/browse/DATAFU-91">DATAFU-91</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-91" href="https://issues.apache.org/jira/browse/DATAFU-91">pig version of HyperLogLog estimator should be Algebraic and use combiners</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ihadanny" id="assignee_ihadanny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ihadanny">Ido Hadanny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ihadanny" id="reporter_ihadanny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ihadanny">Ido Hadanny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Apr/15 05:35"><time datetime="2015-04-28T05:35:01+0000">28/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="21/Oct/15 17:25"><time datetime="2015-10-21T17:25:30+0000">21/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12778284" rel="12778284" data-issuekey="DATAFU-89" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-89" href="https://issues.apache.org/jira/browse/DATAFU-89"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-89" href="https://issues.apache.org/jira/browse/DATAFU-89">DATAFU-89</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-89" href="https://issues.apache.org/jira/browse/DATAFU-89">Hourglass documentation is out of date</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="assignee_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Feb/15 19:00"><time datetime="2015-02-27T19:00:56+0000">27/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="05/Mar/15 17:06"><time datetime="2015-03-05T17:06:45+0000">05/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12763894" rel="12763894" data-issuekey="DATAFU-86" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-86" href="https://issues.apache.org/jira/browse/DATAFU-86"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-86" href="https://issues.apache.org/jira/browse/DATAFU-86">DATAFU-86</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-86" href="https://issues.apache.org/jira/browse/DATAFU-86">MD5 truncates leading 0s</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bridiver" id="reporter_bridiver" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bridiver">Brian Johnson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="27/Dec/14 19:34"><time datetime="2014-12-27T19:34:58+0000">27/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="06/Jan/15 19:28"><time datetime="2015-01-06T19:28:44+0000">06/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12758630" rel="12758630" data-issuekey="DATAFU-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-85" href="https://issues.apache.org/jira/browse/DATAFU-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-85" href="https://issues.apache.org/jira/browse/DATAFU-85">DATAFU-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-85" href="https://issues.apache.org/jira/browse/DATAFU-85">Add SPRINTF to provide this functionality to Pig &lt; 0.14.0</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="russell.jurney" id="assignee_russell.jurney" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=russell.jurney">Russell Jurney</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="russell.jurney" id="reporter_russell.jurney" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=russell.jurney">Russell Jurney</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="01/Dec/14 12:27"><time datetime="2014-12-01T12:27:25+0000">01/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/16 17:51"><time datetime="2016-10-13T17:51:39+0000">13/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12757884" rel="12757884" data-issuekey="DATAFU-81" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-81" href="https://issues.apache.org/jira/browse/DATAFU-81"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-81" href="https://issues.apache.org/jira/browse/DATAFU-81">DATAFU-81</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-81" href="https://issues.apache.org/jira/browse/DATAFU-81">Unit test failures on Java 1.8</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="26/Nov/14 02:50"><time datetime="2014-11-26T02:50:25+0000">26/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="17/Oct/16 18:30"><time datetime="2016-10-17T18:30:23+0000">17/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12757782" rel="12757782" data-issuekey="DATAFU-78" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-78" href="https://issues.apache.org/jira/browse/DATAFU-78"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-78" href="https://issues.apache.org/jira/browse/DATAFU-78">DATAFU-78</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-78" href="https://issues.apache.org/jira/browse/DATAFU-78">gradlew assemble build fails</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="assignee_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Nov/14 19:24"><time datetime="2014-11-25T19:24:21+0000">25/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="08/Jan/15 22:49"><time datetime="2015-01-08T22:49:50+0000">08/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12757081" rel="12757081" data-issuekey="DATAFU-77" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-77" href="https://issues.apache.org/jira/browse/DATAFU-77"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-77" href="https://issues.apache.org/jira/browse/DATAFU-77">DATAFU-77</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-77" href="https://issues.apache.org/jira/browse/DATAFU-77">test.sh fails on different versions of gradle</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jghoman" id="assignee_jghoman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jghoman">Jakob Homan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jghoman" id="reporter_jghoman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jghoman">Jakob Homan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Nov/14 20:13"><time datetime="2014-11-21T20:13:59+0000">21/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="21/Nov/14 20:26"><time datetime="2014-11-21T20:26:06+0000">21/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12740862" rel="12740862" data-issuekey="DATAFU-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-69" href="https://issues.apache.org/jira/browse/DATAFU-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-69" href="https://issues.apache.org/jira/browse/DATAFU-69">DATAFU-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-69" href="https://issues.apache.org/jira/browse/DATAFU-69">Create SelectFieldByName UDF - which, given a field who&#39;s value contains a field name, and *, returns the value of the field referenced by the field name</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="russell.jurney" id="assignee_russell.jurney" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=russell.jurney">Russell Jurney</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="russell.jurney" id="reporter_russell.jurney" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=russell.jurney">Russell Jurney</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Sep/14 20:20"><time datetime="2014-09-11T20:20:09+0000">11/Sep/14</time></span> </td>
+                                            <td class="updated"> <span title="03/Nov/14 22:37"><time datetime="2014-11-03T22:37:39+0000">03/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12739837" rel="12739837" data-issuekey="DATAFU-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-68" href="https://issues.apache.org/jira/browse/DATAFU-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-68" href="https://issues.apache.org/jira/browse/DATAFU-68">DATAFU-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-68" href="https://issues.apache.org/jira/browse/DATAFU-68">SampleByKey can throw NullPointerException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jarcec" id="assignee_jarcec" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jarcec">Jarek Jarcec Cecho</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jarcec" id="reporter_jarcec" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jarcec">Jarek Jarcec Cecho</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Sep/14 08:49"><time datetime="2014-09-08T08:49:43+0000">08/Sep/14</time></span> </td>
+                                            <td class="updated"> <span title="28/Sep/14 14:38"><time datetime="2014-09-28T14:38:28+0000">28/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12715318" rel="12715318" data-issuekey="DATAFU-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-49" href="https://issues.apache.org/jira/browse/DATAFU-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-49" href="https://issues.apache.org/jira/browse/DATAFU-49">DATAFU-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-49" href="https://issues.apache.org/jira/browse/DATAFU-49">Scripts in Examples Directory work again</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="mrflip" id="assignee_mrflip" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mrflip">Philip (flip) Kromer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mrflip" id="reporter_mrflip" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mrflip">Philip (flip) Kromer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/May/14 23:00"><time datetime="2014-05-19T23:00:55+0000">19/May/14</time></span> </td>
+                                            <td class="updated"> <span title="02/Nov/15 17:58"><time datetime="2015-11-02T17:58:56+0000">02/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12715039" rel="12715039" data-issuekey="DATAFU-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-46" href="https://issues.apache.org/jira/browse/DATAFU-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-46" href="https://issues.apache.org/jira/browse/DATAFU-46">DATAFU-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-46" href="https://issues.apache.org/jira/browse/DATAFU-46">Hash UDFs should return zero-padded strings of uniform length even when leading bits are zero</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="mrflip" id="assignee_mrflip" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mrflip">Philip (flip) Kromer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/May/14 18:37"><time datetime="2014-05-18T18:37:53+0000">18/May/14</time></span> </td>
+                                            <td class="updated"> <span title="02/Nov/15 17:58"><time datetime="2015-11-02T17:58:09+0000">02/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12710802" rel="12710802" data-issuekey="DATAFU-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-41" href="https://issues.apache.org/jira/browse/DATAFU-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-41" href="https://issues.apache.org/jira/browse/DATAFU-41">DATAFU-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-41" href="https://issues.apache.org/jira/browse/DATAFU-41">BagGroup does not name bag field in some cases</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Apr/14 18:45"><time datetime="2014-04-27T18:45:54+0000">27/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="28/Oct/16 19:42"><time datetime="2016-10-28T19:42:49+0000">28/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12710801" rel="12710801" data-issuekey="DATAFU-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-40" href="https://issues.apache.org/jira/browse/DATAFU-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-40" href="https://issues.apache.org/jira/browse/DATAFU-40">DATAFU-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-40" href="https://issues.apache.org/jira/browse/DATAFU-40">Using BagGroup may yield error: Problem while reconciling output schema of ForEach</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Apr/14 18:40"><time datetime="2014-04-27T18:40:44+0000">27/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="27/Apr/14 18:47"><time datetime="2014-04-27T18:47:50+0000">27/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12710419" rel="12710419" data-issuekey="DATAFU-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-38" href="https://issues.apache.org/jira/browse/DATAFU-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-38" href="https://issues.apache.org/jira/browse/DATAFU-38">DATAFU-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-38" href="https://issues.apache.org/jira/browse/DATAFU-38">BagGroup merges rows</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sds" id="assignee_sds" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sds">Sam Steingold</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sds" id="reporter_sds" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sds">Sam Steingold</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Apr/14 21:07"><time datetime="2014-04-24T21:07:33+0000">24/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="18/May/14 21:23"><time datetime="2014-05-18T21:23:32+0000">18/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12704147" rel="12704147" data-issuekey="DATAFU-35" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-35" href="https://issues.apache.org/jira/browse/DATAFU-35"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-35" href="https://issues.apache.org/jira/browse/DATAFU-35">DATAFU-35</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-35" href="https://issues.apache.org/jira/browse/DATAFU-35">Hourglass does not honor &quot;fail on missing&quot; in all cases</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="assignee_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Mar/14 00:20"><time datetime="2014-03-28T00:20:37+0000">28/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="18/May/14 21:30"><time datetime="2014-05-18T21:30:29+0000">18/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12697086" rel="12697086" data-issuekey="DATAFU-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-33" href="https://issues.apache.org/jira/browse/DATAFU-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-33" href="https://issues.apache.org/jira/browse/DATAFU-33">DATAFU-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-33" href="https://issues.apache.org/jira/browse/DATAFU-33">Can&#39;t instantiate AliasableEvalFunc for unit-testing</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="serega_sheypak" id="reporter_serega_sheypak" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=serega_sheypak">Sergey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="25/Feb/14 07:29"><time datetime="2014-02-25T07:29:53+0000">25/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="03/Mar/14 01:11"><time datetime="2014-03-03T01:11:45+0000">03/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12693624" rel="12693624" data-issuekey="DATAFU-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-31" href="https://issues.apache.org/jira/browse/DATAFU-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-31" href="https://issues.apache.org/jira/browse/DATAFU-31">DATAFU-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-31" href="https://issues.apache.org/jira/browse/DATAFU-31">bags.DistinctBy works incorrectly on string containing minuses</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="king821221" id="assignee_king821221" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=king821221">jian wang</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romezz" id="reporter_romezz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romezz">Roman Borisov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Feb/14 19:11"><time datetime="2014-02-06T19:11:13+0000">06/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="06/Mar/14 03:36"><time datetime="2014-03-06T03:36:50+0000">06/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12692438" rel="12692438" data-issuekey="DATAFU-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-30" href="https://issues.apache.org/jira/browse/DATAFU-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-30" href="https://issues.apache.org/jira/browse/DATAFU-30">DATAFU-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-30" href="https://issues.apache.org/jira/browse/DATAFU-30">Website crawl errors for class use links</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="31/Jan/14 04:25"><time datetime="2014-01-31T04:25:50+0000">31/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="31/Jan/14 17:40"><time datetime="2014-01-31T17:40:31+0000">31/Jan/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12692429" rel="12692429" data-issuekey="DATAFU-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-29" href="https://issues.apache.org/jira/browse/DATAFU-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-29" href="https://issues.apache.org/jira/browse/DATAFU-29">DATAFU-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-29" href="https://issues.apache.org/jira/browse/DATAFU-29">StreamingQuantile PDF link is broken</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="assignee_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Jan/14 01:43"><time datetime="2014-01-31T01:43:17+0000">31/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="06/Mar/14 04:56"><time datetime="2014-03-06T04:56:08+0000">06/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12691517" rel="12691517" data-issuekey="DATAFU-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-24" href="https://issues.apache.org/jira/browse/DATAFU-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-24" href="https://issues.apache.org/jira/browse/DATAFU-24">DATAFU-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-24" href="https://issues.apache.org/jira/browse/DATAFU-24">Entropy constructor should be consistent with other UDFs</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="28/Jan/14 00:29"><time datetime="2014-01-28T00:29:19+0000">28/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="06/Mar/14 04:56"><time datetime="2014-03-06T04:56:31+0000">06/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12689581" rel="12689581" data-issuekey="DATAFU-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-11" href="https://issues.apache.org/jira/browse/DATAFU-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-11" href="https://issues.apache.org/jira/browse/DATAFU-11">DATAFU-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-11" href="https://issues.apache.org/jira/browse/DATAFU-11">ReservoirSample does not behave as expected when grouping by a key other than ALL</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="assignee_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="william.g.vaughan" id="reporter_william.g.vaughan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=william.g.vaughan">Will Vaughan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jan/14 22:24"><time datetime="2014-01-17T22:24:23+0000">17/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="06/Mar/14 04:57"><time datetime="2014-03-06T04:57:05+0000">06/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12689089" rel="12689089" data-issuekey="DATAFU-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DATAFU-6" href="https://issues.apache.org/jira/browse/DATAFU-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DATAFU-6" href="https://issues.apache.org/jira/browse/DATAFU-6">DATAFU-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DATAFU-6" href="https://issues.apache.org/jira/browse/DATAFU-6">MonitoredUDF annotation does not work with AliasableEvalFunc</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="matterhayes" id="reporter_matterhayes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=matterhayes">Matthew Hayes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jan/14 21:06"><time datetime="2014-01-15T21:06:07+0000">15/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="26/Oct/16 19:51"><time datetime="2016-10-26T19:51:52+0000">26/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,2529 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINVOKER+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINVOKER+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MINVOKER" title="Browse Maven Invoker Plugin project">Maven Invoker Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>71</b> of <b>71</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13031348" rel="13031348" data-issuekey="MINVOKER-213" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-213" href="https://issues.apache.org/jira/browse/MINVOKER-213"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-213" href="https://issues.apache.org/jira/browse/MINVOKER-213">MINVOKER-213</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-213" href="https://issues.apache.org/jira/browse/MINVOKER-213">The plugin should escape any XML special characters (&amp;&lt;&gt;) during interpolating XML files.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="schulte77" id="assignee_schulte77" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=schulte77">Christian Schulte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="schulte77" id="reporter_schulte77" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=schulte77">Christian Schulte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Dec/16 22:49"><time datetime="2016-12-30T22:49:30+0000">30/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Feb/17 00:53"><time datetime="2017-02-23T00:53:25+0000">23/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13018294" rel="13018294" data-issuekey="MINVOKER-210" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-210" href="https://issues.apache.org/jira/browse/MINVOKER-210"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-210" href="https://issues.apache.org/jira/browse/MINVOKER-210">MINVOKER-210</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-210" href="https://issues.apache.org/jira/browse/MINVOKER-210">Remove link to non-existing Codehaus wiki</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="assignee_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="reporter_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Nov/16 22:41"><time datetime="2016-11-04T22:41:35+0000">04/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Nov/16 00:03"><time datetime="2016-11-05T00:03:53+0000">05/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12952999" rel="12952999" data-issuekey="MINVOKER-201" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-201" href="https://issues.apache.org/jira/browse/MINVOKER-201"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-201" href="https://issues.apache.org/jira/browse/MINVOKER-201">MINVOKER-201</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-201" href="https://issues.apache.org/jira/browse/MINVOKER-201">Can&#39;t specify batch mode for invoker target</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lngtmg" id="reporter_lngtmg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lngtmg">Paul Polishchuk</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="23/Mar/16 22:08"><time datetime="2016-03-23T22:08:57+0000">23/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="26/Mar/16 16:26"><time datetime="2016-03-26T16:26:42+0000">26/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12945189" rel="12945189" data-issuekey="MINVOKER-200" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-200" href="https://issues.apache.org/jira/browse/MINVOKER-200"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-200" href="https://issues.apache.org/jira/browse/MINVOKER-200">MINVOKER-200</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-200" href="https://issues.apache.org/jira/browse/MINVOKER-200">Does not download artifacts which are defined in extraArtifacts</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="27/Feb/16 11:26"><time datetime="2016-02-27T11:26:20+0000">27/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="27/Feb/16 12:38"><time datetime="2016-02-27T12:38:36+0000">27/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12938926" rel="12938926" data-issuekey="MINVOKER-198" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-198" href="https://issues.apache.org/jira/browse/MINVOKER-198"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-198" href="https://issues.apache.org/jira/browse/MINVOKER-198">MINVOKER-198</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-198" href="https://issues.apache.org/jira/browse/MINVOKER-198">mavenOpts in invoker.properties does not accept parameters with spaces</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Abel S.Romero" id="reporter_Abel S.Romero" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Abel+S.Romero">Abel Salgado Romero</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="12/Feb/16 20:55"><time datetime="2016-02-12T20:55:51+0000">12/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Jul/16 17:57"><time datetime="2016-07-17T17:57:25+0000">17/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12904032" rel="12904032" data-issuekey="MINVOKER-195" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-195" href="https://issues.apache.org/jira/browse/MINVOKER-195"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-195" href="https://issues.apache.org/jira/browse/MINVOKER-195">MINVOKER-195</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-195" href="https://issues.apache.org/jira/browse/MINVOKER-195">Fast Build Configuration and mirrors in local settings.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="slawekjaranowski" id="reporter_slawekjaranowski" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=slawekjaranowski">Slawomir Jaranowski</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Oct/15 12:28"><time datetime="2015-10-11T12:28:57+0000">11/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="11/Oct/15 12:28"><time datetime="2015-10-11T12:28:57+0000">11/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12862087" rel="12862087" data-issuekey="MINVOKER-194" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-194" href="https://issues.apache.org/jira/browse/MINVOKER-194"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-194" href="https://issues.apache.org/jira/browse/MINVOKER-194">MINVOKER-194</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-194" href="https://issues.apache.org/jira/browse/MINVOKER-194">wrong maven.compiler.source value in pom interpolation when run with Maven 3.3.x</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="reporter_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="06/Sep/15 09:48"><time datetime="2015-09-06T09:48:29+0000">06/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="07/Sep/15 20:16"><time datetime="2015-09-07T20:16:46+0000">07/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12835791" rel="12835791" data-issuekey="MINVOKER-191" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-191" href="https://issues.apache.org/jira/browse/MINVOKER-191"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-191" href="https://issues.apache.org/jira/browse/MINVOKER-191">MINVOKER-191</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-191" href="https://issues.apache.org/jira/browse/MINVOKER-191">“Artifact is not fully assembled” error with maven-invoker-plugin in parallel build</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tavianator" id="reporter_tavianator" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tavianator">Tavian Barnes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/Jun/15 18:03"><time datetime="2015-06-05T18:03:56+0000">05/Jun/15</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/15 09:33"><time datetime="2015-09-25T09:33:25+0000">25/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12818531" rel="12818531" data-issuekey="MINVOKER-187" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-187" href="https://issues.apache.org/jira/browse/MINVOKER-187"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-187" href="https://issues.apache.org/jira/browse/MINVOKER-187">MINVOKER-187</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-187" href="https://issues.apache.org/jira/browse/MINVOKER-187">Cloned IT project must be writable</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dantran" id="assignee_dantran" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dantran">Dan Tran</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dantran" id="reporter_dantran" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dantran">Dan Tran</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Apr/15 03:30"><time datetime="2015-04-06T03:30:19+0000">06/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="28/May/16 10:15"><time datetime="2016-05-28T10:15:26+0000">28/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803796" rel="12803796" data-issuekey="MINVOKER-185" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-185" href="https://issues.apache.org/jira/browse/MINVOKER-185"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-185" href="https://issues.apache.org/jira/browse/MINVOKER-185">MINVOKER-185</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-185" href="https://issues.apache.org/jira/browse/MINVOKER-185">Cannot run invoker ITs on Windows with Maven 3.3.1</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sergei_ivanov@mail.ru" id="reporter_sergei_ivanov@mail.ru" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sergei_ivanov%40mail.ru">Sergei S. Ivanov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Mar/15 20:03"><time datetime="2015-03-17T20:03:29+0000">17/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/16 18:48"><time datetime="2016-10-13T18:48:10+0000">13/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803759" rel="12803759" data-issuekey="MINVOKER-183" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-183" href="https://issues.apache.org/jira/browse/MINVOKER-183"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-183" href="https://issues.apache.org/jira/browse/MINVOKER-183">MINVOKER-183</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-183" href="https://issues.apache.org/jira/browse/MINVOKER-183">IT failing when path contains accents</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="reporter_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Mar/15 07:10"><time datetime="2015-03-08T07:10:09+0000">08/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/15 16:04"><time datetime="2015-03-30T16:04:08+0000">30/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803761" rel="12803761" data-issuekey="MINVOKER-182" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-182" href="https://issues.apache.org/jira/browse/MINVOKER-182"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-182" href="https://issues.apache.org/jira/browse/MINVOKER-182">MINVOKER-182</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-182" href="https://issues.apache.org/jira/browse/MINVOKER-182">Different groovy versions on test classpath can cause ClassCastException</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aschurman" id="reporter_aschurman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aschurman">Andrew Schurman</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="15/Feb/15 18:49"><time datetime="2015-02-15T18:49:25+0000">15/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="05/Jun/16 16:39"><time datetime="2016-06-05T16:39:09+0000">05/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803748" rel="12803748" data-issuekey="MINVOKER-180" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-180" href="https://issues.apache.org/jira/browse/MINVOKER-180"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-180" href="https://issues.apache.org/jira/browse/MINVOKER-180">MINVOKER-180</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-180" href="https://issues.apache.org/jira/browse/MINVOKER-180">Profiles are passed to invoked executions since version 1.6</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fj" id="reporter_fj" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fj">Frank Jakop</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="05/Dec/14 06:42"><time datetime="2014-12-05T06:42:00+0000">05/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="10/Jul/16 12:47"><time datetime="2016-07-10T12:47:16+0000">10/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803754" rel="12803754" data-issuekey="MINVOKER-176" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-176" href="https://issues.apache.org/jira/browse/MINVOKER-176"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-176" href="https://issues.apache.org/jira/browse/MINVOKER-176">MINVOKER-176</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-176" href="https://issues.apache.org/jira/browse/MINVOKER-176">Update to plexus-interpolation 1.21 for thread safety issues</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="krosenvold" id="assignee_krosenvold" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=krosenvold">Kristian Rosenvold</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="krosenvold" id="reporter_krosenvold" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=krosenvold">Kristian Rosenvold</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Oct/14 00:55"><time datetime="2014-10-18T00:55:28+0000">18/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="18/Oct/14 00:56"><time datetime="2014-10-18T00:56:33+0000">18/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803749" rel="12803749" data-issuekey="MINVOKER-174" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-174" href="https://issues.apache.org/jira/browse/MINVOKER-174"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-174" href="https://issues.apache.org/jira/browse/MINVOKER-174">MINVOKER-174</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-174" href="https://issues.apache.org/jira/browse/MINVOKER-174">The execution order of setupIncludes can&#39;t be predicted</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/Jul/14 15:31"><time datetime="2014-07-05T15:31:37+0000">05/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="05/Jul/14 15:31"><time datetime="2014-07-05T15:31:37+0000">05/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803734" rel="12803734" data-issuekey="MINVOKER-173" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-173" href="https://issues.apache.org/jira/browse/MINVOKER-173"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-173" href="https://issues.apache.org/jira/browse/MINVOKER-173">MINVOKER-173</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-173" href="https://issues.apache.org/jira/browse/MINVOKER-173">The default values of parameters are not set as described.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="05/Jul/14 13:04"><time datetime="2014-07-05T13:04:11+0000">05/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Mar/15 14:14"><time datetime="2015-03-15T14:14:18+0000">15/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803729" rel="12803729" data-issuekey="MINVOKER-172" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-172" href="https://issues.apache.org/jira/browse/MINVOKER-172"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-172" href="https://issues.apache.org/jira/browse/MINVOKER-172">MINVOKER-172</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-172" href="https://issues.apache.org/jira/browse/MINVOKER-172">Settings MAVEN_OPTS will prevent usage of invoker.mavenOpts in invoker properties</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/Jul/14 03:30"><time datetime="2014-07-05T03:30:51+0000">05/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Feb/17 08:16"><time datetime="2017-02-07T08:16:04+0000">07/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803766" rel="12803766" data-issuekey="MINVOKER-166" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-166" href="https://issues.apache.org/jira/browse/MINVOKER-166"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-166" href="https://issues.apache.org/jira/browse/MINVOKER-166">MINVOKER-166</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-166" href="https://issues.apache.org/jira/browse/MINVOKER-166">Failing in relationship with Maven 3.2.2</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jun/14 12:02"><time datetime="2014-06-26T12:02:51+0000">26/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="27/Jun/14 11:21"><time datetime="2014-06-27T11:21:53+0000">27/Jun/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803792" rel="12803792" data-issuekey="MINVOKER-163" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-163" href="https://issues.apache.org/jira/browse/MINVOKER-163"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-163" href="https://issues.apache.org/jira/browse/MINVOKER-163">MINVOKER-163</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-163" href="https://issues.apache.org/jira/browse/MINVOKER-163">Command line -D&#39;s are not interpolated</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="assignee_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="reporter_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="02/Jan/14 18:30"><time datetime="2014-01-02T18:30:44+0000">02/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/14 09:17"><time datetime="2014-01-03T09:17:25+0000">03/Jan/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803725" rel="12803725" data-issuekey="MINVOKER-162" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-162" href="https://issues.apache.org/jira/browse/MINVOKER-162"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-162" href="https://issues.apache.org/jira/browse/MINVOKER-162">MINVOKER-162</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-162" href="https://issues.apache.org/jira/browse/MINVOKER-162">IT failure with empty local it-repo</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="reporter_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Dec/13 00:27"><time datetime="2013-12-15T00:27:19+0000">15/Dec/13</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/14 10:11"><time datetime="2014-01-02T10:11:22+0000">02/Jan/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803757" rel="12803757" data-issuekey="MINVOKER-161" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-161" href="https://issues.apache.org/jira/browse/MINVOKER-161"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-161" href="https://issues.apache.org/jira/browse/MINVOKER-161">MINVOKER-161</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-161" href="https://issues.apache.org/jira/browse/MINVOKER-161">Full path names not recognized</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gmbaumgardner" id="reporter_gmbaumgardner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gmbaumgardner">Gregory Baumgardner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="21/Nov/13 14:15"><time datetime="2013-11-21T14:15:38+0000">21/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Nov/13 14:23"><time datetime="2013-11-21T14:23:58+0000">21/Nov/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803760" rel="12803760" data-issuekey="MINVOKER-160" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-160" href="https://issues.apache.org/jira/browse/MINVOKER-160"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-160" href="https://issues.apache.org/jira/browse/MINVOKER-160">MINVOKER-160</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-160" href="https://issues.apache.org/jira/browse/MINVOKER-160">environmentVariables param only sets one variable</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="reporter_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="18/Oct/13 03:22"><time datetime="2013-10-18T03:22:01+0000">18/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="18/Oct/13 10:25"><time datetime="2013-10-18T10:25:54+0000">18/Oct/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803785" rel="12803785" data-issuekey="MINVOKER-159" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-159" href="https://issues.apache.org/jira/browse/MINVOKER-159"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-159" href="https://issues.apache.org/jira/browse/MINVOKER-159">MINVOKER-159</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-159" href="https://issues.apache.org/jira/browse/MINVOKER-159">install-goal should use same mavenHome as run-goal</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="reporter_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Oct/13 09:29"><time datetime="2013-10-11T09:29:00+0000">11/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 01:14"><time datetime="2015-04-06T01:14:08+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803788" rel="12803788" data-issuekey="MINVOKER-155" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-155" href="https://issues.apache.org/jira/browse/MINVOKER-155"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-155" href="https://issues.apache.org/jira/browse/MINVOKER-155">MINVOKER-155</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-155" href="https://issues.apache.org/jira/browse/MINVOKER-155">Invoker plugin does not allow multiple environment variables to be set</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lllewellyn" id="reporter_lllewellyn" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lllewellyn">Laura Llewellyn</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/May/13 11:14"><time datetime="2013-05-22T11:14:26+0000">22/May/13</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 01:16"><time datetime="2015-04-06T01:16:02+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803712" rel="12803712" data-issuekey="MINVOKER-154" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-154" href="https://issues.apache.org/jira/browse/MINVOKER-154"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-154" href="https://issues.apache.org/jira/browse/MINVOKER-154">MINVOKER-154</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-154" href="https://issues.apache.org/jira/browse/MINVOKER-154">invoker:report doesn&#39;t show pom.xml name &amp; description of the project</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="reporter_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="14/May/13 17:38"><time datetime="2013-05-14T17:38:46+0000">14/May/13</time></span> </td>
+                                            <td class="updated"> <span title="22/Mar/15 12:48"><time datetime="2015-03-22T12:48:41+0000">22/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803762" rel="12803762" data-issuekey="MINVOKER-153" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-153" href="https://issues.apache.org/jira/browse/MINVOKER-153"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-153" href="https://issues.apache.org/jira/browse/MINVOKER-153">MINVOKER-153</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-153" href="https://issues.apache.org/jira/browse/MINVOKER-153">@project.version@ is not substituted if it comes form invoked test parent</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="andrei.pozolotin" id="reporter_andrei.pozolotin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=andrei.pozolotin">Andrei Pozolotin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Mar/13 14:14"><time datetime="2013-03-28T14:14:39+0000">28/Mar/13</time></span> </td>
+                                            <td class="updated"> <span title="28/Mar/13 14:14"><time datetime="2013-03-28T14:14:39+0000">28/Mar/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803733" rel="12803733" data-issuekey="MINVOKER-150" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-150" href="https://issues.apache.org/jira/browse/MINVOKER-150"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-150" href="https://issues.apache.org/jira/browse/MINVOKER-150">MINVOKER-150</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-150" href="https://issues.apache.org/jira/browse/MINVOKER-150">Results from prior execution are included unless clean build</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="reporter_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Feb/13 06:51"><time datetime="2013-02-25T06:51:16+0000">25/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="01/May/16 00:45"><time datetime="2016-05-01T00:45:19+0000">01/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803763" rel="12803763" data-issuekey="MINVOKER-147" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-147" href="https://issues.apache.org/jira/browse/MINVOKER-147"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-147" href="https://issues.apache.org/jira/browse/MINVOKER-147">MINVOKER-147</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-147" href="https://issues.apache.org/jira/browse/MINVOKER-147">setupIncludes / parallelThreads does not guarantee execution of setup*/pom.xml first.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Dec/12 08:53"><time datetime="2012-12-06T08:53:17+0000">06/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="01/May/16 18:55"><time datetime="2016-05-01T18:55:10+0000">01/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803727" rel="12803727" data-issuekey="MINVOKER-142" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-142" href="https://issues.apache.org/jira/browse/MINVOKER-142"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-142" href="https://issues.apache.org/jira/browse/MINVOKER-142">MINVOKER-142</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-142" href="https://issues.apache.org/jira/browse/MINVOKER-142">Make it possible to specify debug-mode in invoker.properties</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="reporter_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Oct/12 10:46"><time datetime="2012-10-27T10:46:40+0000">27/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/12 12:21"><time datetime="2012-10-27T12:21:01+0000">27/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803778" rel="12803778" data-issuekey="MINVOKER-137" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-137" href="https://issues.apache.org/jira/browse/MINVOKER-137"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-137" href="https://issues.apache.org/jira/browse/MINVOKER-137">MINVOKER-137</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-137" href="https://issues.apache.org/jira/browse/MINVOKER-137">Maven 2.2.1 NullPointerException with mergeUserSettings parameter</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="redfish4ktc" id="reporter_redfish4ktc" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=redfish4ktc">redfish4ktc</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Aug/12 09:45"><time datetime="2012-08-27T09:45:04+0000">27/Aug/12</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/12 14:50"><time datetime="2012-10-27T14:50:55+0000">27/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803756" rel="12803756" data-issuekey="MINVOKER-133" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-133" href="https://issues.apache.org/jira/browse/MINVOKER-133"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-133" href="https://issues.apache.org/jira/browse/MINVOKER-133">MINVOKER-133</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-133" href="https://issues.apache.org/jira/browse/MINVOKER-133">Using mergeUserSettings configuration parameter with multiple executions causes IllegalStateException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="curt.fulcher" id="reporter_curt.fulcher" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=curt.fulcher">Curt Fulcher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Jun/12 10:43"><time datetime="2012-06-14T10:43:28+0000">14/Jun/12</time></span> </td>
+                                            <td class="updated"> <span title="17/Nov/12 16:14"><time datetime="2012-11-17T16:14:03+0000">17/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803711" rel="12803711" data-issuekey="MINVOKER-127" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-127" href="https://issues.apache.org/jira/browse/MINVOKER-127"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-127" href="https://issues.apache.org/jira/browse/MINVOKER-127">MINVOKER-127</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-127" href="https://issues.apache.org/jira/browse/MINVOKER-127">showVersion true for Maven 2.0.11 does not work</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="26/Dec/11 09:07"><time datetime="2011-12-26T09:07:14+0000">26/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="26/Dec/11 09:34"><time datetime="2011-12-26T09:34:24+0000">26/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803709" rel="12803709" data-issuekey="MINVOKER-126" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-126" href="https://issues.apache.org/jira/browse/MINVOKER-126"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-126" href="https://issues.apache.org/jira/browse/MINVOKER-126">MINVOKER-126</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-126" href="https://issues.apache.org/jira/browse/MINVOKER-126">mavenHome in relationship with invoker.maven.version rule</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Dec/11 07:19"><time datetime="2011-12-26T07:19:43+0000">26/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="28/Oct/12 08:57"><time datetime="2012-10-28T08:57:45+0000">28/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803768" rel="12803768" data-issuekey="MINVOKER-118" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-118" href="https://issues.apache.org/jira/browse/MINVOKER-118"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-118" href="https://issues.apache.org/jira/browse/MINVOKER-118">MINVOKER-118</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-118" href="https://issues.apache.org/jira/browse/MINVOKER-118">Specifying an unset property in &lt;properties&gt; causes a NullPointerException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lewisd" id="reporter_lewisd" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lewisd">Derek Lewis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Aug/11 19:27"><time datetime="2011-08-24T19:27:31+0000">24/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="28/Oct/12 17:32"><time datetime="2012-10-28T17:32:23+0000">28/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803771" rel="12803771" data-issuekey="MINVOKER-115" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-115" href="https://issues.apache.org/jira/browse/MINVOKER-115"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-115" href="https://issues.apache.org/jira/browse/MINVOKER-115">MINVOKER-115</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-115" href="https://issues.apache.org/jira/browse/MINVOKER-115">install goal doesn&#39;t install required plugins from the reactor build to the local repo</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afloom" id="reporter_afloom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afloom">Anders Hammar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Feb/11 03:29"><time datetime="2011-02-02T03:29:03+0000">02/Feb/11</time></span> </td>
+                                            <td class="updated"> <span title="21/Nov/12 15:14"><time datetime="2012-11-21T15:14:43+0000">21/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803772" rel="12803772" data-issuekey="MINVOKER-112" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-112" href="https://issues.apache.org/jira/browse/MINVOKER-112"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-112" href="https://issues.apache.org/jira/browse/MINVOKER-112">MINVOKER-112</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-112" href="https://issues.apache.org/jira/browse/MINVOKER-112">duplicate script classpath entries are not filtered out, can cause ClassCastException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lukewpatterson" id="reporter_lukewpatterson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lukewpatterson">luke w patterson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Dec/10 19:38"><time datetime="2010-12-20T19:38:48+0000">20/Dec/10</time></span> </td>
+                                            <td class="updated"> <span title="21/Dec/10 15:06"><time datetime="2010-12-21T15:06:01+0000">21/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803791" rel="12803791" data-issuekey="MINVOKER-107" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-107" href="https://issues.apache.org/jira/browse/MINVOKER-107"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-107" href="https://issues.apache.org/jira/browse/MINVOKER-107">MINVOKER-107</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-107" href="https://issues.apache.org/jira/browse/MINVOKER-107">mvn deploy of SNAPSHOT failed with maven3 when invoker:run look for current build dependency</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="amertum" id="reporter_amertum" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=amertum">Amertum</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="23/Nov/10 16:56"><time datetime="2010-11-23T16:56:36+0000">23/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/12 17:02"><time datetime="2012-10-27T17:02:37+0000">27/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803738" rel="12803738" data-issuekey="MINVOKER-106" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-106" href="https://issues.apache.org/jira/browse/MINVOKER-106"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-106" href="https://issues.apache.org/jira/browse/MINVOKER-106">MINVOKER-106</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-106" href="https://issues.apache.org/jira/browse/MINVOKER-106">invoker.java.version is always evaluated against current JVM instead of JVM running the builds</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Aug/10 06:52"><time datetime="2010-08-07T06:52:35+0000">07/Aug/10</time></span> </td>
+                                            <td class="updated"> <span title="12/Nov/12 15:11"><time datetime="2012-11-12T15:11:29+0000">12/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803797" rel="12803797" data-issuekey="MINVOKER-105" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-105" href="https://issues.apache.org/jira/browse/MINVOKER-105"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-105" href="https://issues.apache.org/jira/browse/MINVOKER-105">MINVOKER-105</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-105" href="https://issues.apache.org/jira/browse/MINVOKER-105">invoker.mavenOpts seemingly ignored</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="reporter_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="23/Jul/10 16:22"><time datetime="2010-07-23T16:22:08+0000">23/Jul/10</time></span> </td>
+                                            <td class="updated"> <span title="23/Jul/10 16:28"><time datetime="2010-07-23T16:28:12+0000">23/Jul/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803658" rel="12803658" data-issuekey="MINVOKER-104" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-104" href="https://issues.apache.org/jira/browse/MINVOKER-104"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-104" href="https://issues.apache.org/jira/browse/MINVOKER-104">MINVOKER-104</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-104" href="https://issues.apache.org/jira/browse/MINVOKER-104">Error installing artifact&#39;s metadata</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rfscholte" id="assignee_rfscholte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rfscholte">Robert Scholte</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gsimpson" id="reporter_gsimpson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gsimpson">Geoff Simpson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="29/Jun/10 00:49"><time datetime="2010-06-29T00:49:32+0000">29/Jun/10</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:06+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803655" rel="12803655" data-issuekey="MINVOKER-98" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-98" href="https://issues.apache.org/jira/browse/MINVOKER-98"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-98" href="https://issues.apache.org/jira/browse/MINVOKER-98">MINVOKER-98</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-98" href="https://issues.apache.org/jira/browse/MINVOKER-98">Inherit proxy settings from general settings.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="francisdb" id="reporter_francisdb" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=francisdb">Francis De Brabandere</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="05/Nov/09 08:15"><time datetime="2009-11-05T08:15:05+0000">05/Nov/09</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/10 08:42"><time datetime="2010-03-21T08:42:04+0000">21/Mar/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803650" rel="12803650" data-issuekey="MINVOKER-93" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-93" href="https://issues.apache.org/jira/browse/MINVOKER-93"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-93" href="https://issues.apache.org/jira/browse/MINVOKER-93">MINVOKER-93</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-93" href="https://issues.apache.org/jira/browse/MINVOKER-93">Filtering all POMs that are relevant to the forked build needs to consider child modules added by profiles</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stephenc" id="reporter_stephenc" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stephenc">Stephen Connolly</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Sep/09 03:54"><time datetime="2009-09-10T03:54:23+0000">10/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="10/Sep/09 17:00"><time datetime="2009-09-10T17:00:14+0000">10/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803686" rel="12803686" data-issuekey="MINVOKER-88" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-88" href="https://issues.apache.org/jira/browse/MINVOKER-88"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-88" href="https://issues.apache.org/jira/browse/MINVOKER-88">MINVOKER-88</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-88" href="https://issues.apache.org/jira/browse/MINVOKER-88">Staging of existing artifacts from the local repository triggers transformations on them</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jun/09 12:28"><time datetime="2009-06-07T12:28:06+0000">07/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="07/Jun/09 12:33"><time datetime="2009-06-07T12:33:01+0000">07/Jun/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803782" rel="12803782" data-issuekey="MINVOKER-87" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-87" href="https://issues.apache.org/jira/browse/MINVOKER-87"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-87" href="https://issues.apache.org/jira/browse/MINVOKER-87">MINVOKER-87</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-87" href="https://issues.apache.org/jira/browse/MINVOKER-87">Invoker install goal fails when used in eclipse</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stimpy" id="reporter_stimpy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stimpy">Lee Thompson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="23/May/09 19:14"><time datetime="2009-05-23T19:14:49+0000">23/May/09</time></span> </td>
+                                            <td class="updated"> <span title="03/Sep/09 05:05"><time datetime="2009-09-03T05:05:00+0000">03/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803676" rel="12803676" data-issuekey="MINVOKER-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-84" href="https://issues.apache.org/jira/browse/MINVOKER-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-84" href="https://issues.apache.org/jira/browse/MINVOKER-84">MINVOKER-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-84" href="https://issues.apache.org/jira/browse/MINVOKER-84">Staging of snapshot dependencies is incomplete</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Feb/09 16:10"><time datetime="2009-02-23T16:10:45+0000">23/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="23/Feb/09 16:30"><time datetime="2009-02-23T16:30:19+0000">23/Feb/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803667" rel="12803667" data-issuekey="MINVOKER-78" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-78" href="https://issues.apache.org/jira/browse/MINVOKER-78"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-78" href="https://issues.apache.org/jira/browse/MINVOKER-78">MINVOKER-78</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-78" href="https://issues.apache.org/jira/browse/MINVOKER-78">Throwing subclasses of java.lang.Error from hook script aborts main build with &quot;FATAL ERROR&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Jan/09 08:08"><time datetime="2009-01-25T08:08:25+0000">25/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="25/Jan/09 09:23"><time datetime="2009-01-25T09:23:14+0000">25/Jan/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803643" rel="12803643" data-issuekey="MINVOKER-71" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-71" href="https://issues.apache.org/jira/browse/MINVOKER-71"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-71" href="https://issues.apache.org/jira/browse/MINVOKER-71">MINVOKER-71</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-71" href="https://issues.apache.org/jira/browse/MINVOKER-71">Usage of &lt;setupIncludes&gt; can result in duplicate project invocation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Oct/08 11:25"><time datetime="2008-10-04T11:25:12+0000">04/Oct/08</time></span> </td>
+                                            <td class="updated"> <span title="04/Oct/08 11:27"><time datetime="2008-10-04T11:27:59+0000">04/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803775" rel="12803775" data-issuekey="MINVOKER-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-70" href="https://issues.apache.org/jira/browse/MINVOKER-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-70" href="https://issues.apache.org/jira/browse/MINVOKER-70">MINVOKER-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-70" href="https://issues.apache.org/jira/browse/MINVOKER-70">invoker:install does not properly handle versioned dependencies</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jroberts" id="reporter_jroberts" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jroberts">jroberts</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/08 10:45"><time datetime="2008-10-03T10:45:13+0000">03/Oct/08</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/09 07:46"><time datetime="2009-03-08T07:46:53+0000">08/Mar/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803666" rel="12803666" data-issuekey="MINVOKER-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-69" href="https://issues.apache.org/jira/browse/MINVOKER-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-69" href="https://issues.apache.org/jira/browse/MINVOKER-69">MINVOKER-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-69" href="https://issues.apache.org/jira/browse/MINVOKER-69">Filter token &quot;basedir&quot; no longer interpolated</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Sep/08 10:27"><time datetime="2008-09-30T10:27:44+0000">30/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/08 10:31"><time datetime="2008-09-30T10:31:56+0000">30/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803640" rel="12803640" data-issuekey="MINVOKER-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-60" href="https://issues.apache.org/jira/browse/MINVOKER-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-60" href="https://issues.apache.org/jira/browse/MINVOKER-60">MINVOKER-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-60" href="https://issues.apache.org/jira/browse/MINVOKER-60">Artifact staging misses attached artifact metadata of POM projects</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Aug/08 09:24"><time datetime="2008-08-31T09:24:38+0000">31/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="31/Aug/08 09:27"><time datetime="2008-08-31T09:27:49+0000">31/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803635" rel="12803635" data-issuekey="MINVOKER-59" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-59" href="https://issues.apache.org/jira/browse/MINVOKER-59"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-59" href="https://issues.apache.org/jira/browse/MINVOKER-59">MINVOKER-59</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-59" href="https://issues.apache.org/jira/browse/MINVOKER-59">Using invoker.profiles with empty value causes unintended build</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Aug/08 12:42"><time datetime="2008-08-24T12:42:20+0000">24/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="24/Aug/08 13:39"><time datetime="2008-08-24T13:39:32+0000">24/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803628" rel="12803628" data-issuekey="MINVOKER-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-53" href="https://issues.apache.org/jira/browse/MINVOKER-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-53" href="https://issues.apache.org/jira/browse/MINVOKER-53">MINVOKER-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-53" href="https://issues.apache.org/jira/browse/MINVOKER-53">Filtering erroneously interpolates expressions from the POM even if prefix is neither project nor pom</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Aug/08 12:12"><time datetime="2008-08-13T12:12:14+0000">13/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="13/Aug/08 12:46"><time datetime="2008-08-13T12:46:11+0000">13/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803627" rel="12803627" data-issuekey="MINVOKER-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-51" href="https://issues.apache.org/jira/browse/MINVOKER-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-51" href="https://issues.apache.org/jira/browse/MINVOKER-51">MINVOKER-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-51" href="https://issues.apache.org/jira/browse/MINVOKER-51">NPE when packaging is pom</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="peterj" id="reporter_peterj" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=peterj">Peter Janes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Aug/08 18:56"><time datetime="2008-08-12T18:56:19+0000">12/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:25+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803629" rel="12803629" data-issuekey="MINVOKER-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-48" href="https://issues.apache.org/jira/browse/MINVOKER-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-48" href="https://issues.apache.org/jira/browse/MINVOKER-48">MINVOKER-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-48" href="https://issues.apache.org/jira/browse/MINVOKER-48">Project cloning does not retain empty directories</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Aug/08 14:48"><time datetime="2008-08-09T14:48:04+0000">09/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Aug/08 16:37"><time datetime="2008-08-09T16:37:00+0000">09/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803626" rel="12803626" data-issuekey="MINVOKER-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-47" href="https://issues.apache.org/jira/browse/MINVOKER-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-47" href="https://issues.apache.org/jira/browse/MINVOKER-47">MINVOKER-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-47" href="https://issues.apache.org/jira/browse/MINVOKER-47">Test builds fail to locate staged artifacts when using custom settings and non-default local repo path</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Aug/08 13:22"><time datetime="2008-08-09T13:22:49+0000">09/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Aug/08 16:05"><time datetime="2008-08-09T16:05:54+0000">09/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803724" rel="12803724" data-issuekey="MINVOKER-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-45" href="https://issues.apache.org/jira/browse/MINVOKER-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-45" href="https://issues.apache.org/jira/browse/MINVOKER-45">MINVOKER-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-45" href="https://issues.apache.org/jira/browse/MINVOKER-45">External properties file is ignored if parameter testProperties is not defined</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Aug/08 13:22"><time datetime="2008-08-05T13:22:42+0000">05/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="05/Aug/08 13:24"><time datetime="2008-08-05T13:24:47+0000">05/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803779" rel="12803779" data-issuekey="MINVOKER-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-44" href="https://issues.apache.org/jira/browse/MINVOKER-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-44" href="https://issues.apache.org/jira/browse/MINVOKER-44">MINVOKER-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-44" href="https://issues.apache.org/jira/browse/MINVOKER-44">cloneProjectsTo fails to copy projects with the same prefix</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brunoduarte" id="reporter_brunoduarte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brunoduarte">Bruno Duarte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Jul/08 09:04"><time datetime="2008-07-30T09:04:05+0000">30/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="30/Jul/08 10:59"><time datetime="2008-07-30T10:59:56+0000">30/Jul/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803625" rel="12803625" data-issuekey="MINVOKER-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-43" href="https://issues.apache.org/jira/browse/MINVOKER-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-43" href="https://issues.apache.org/jira/browse/MINVOKER-43">MINVOKER-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-43" href="https://issues.apache.org/jira/browse/MINVOKER-43">Sync repository identifier of custom IT repo with identifier of real local repository</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Jul/08 05:49"><time datetime="2008-07-24T05:49:47+0000">24/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="28/Jul/08 08:55"><time datetime="2008-07-28T08:55:01+0000">28/Jul/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803794" rel="12803794" data-issuekey="MINVOKER-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-41" href="https://issues.apache.org/jira/browse/MINVOKER-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-41" href="https://issues.apache.org/jira/browse/MINVOKER-41">MINVOKER-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-41" href="https://issues.apache.org/jira/browse/MINVOKER-41">NullPointerException in InvokerMojo::runBuild in case the mvn executable is not at the expected location</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="_jeremy_" id="reporter__jeremy_" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=_jeremy_">Jeremy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Jul/08 04:35"><time datetime="2008-07-01T04:35:13+0000">01/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/08 16:02"><time datetime="2008-07-01T16:02:32+0000">01/Jul/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803780" rel="12803780" data-issuekey="MINVOKER-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-40" href="https://issues.apache.org/jira/browse/MINVOKER-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-40" href="https://issues.apache.org/jira/browse/MINVOKER-40">MINVOKER-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-40" href="https://issues.apache.org/jira/browse/MINVOKER-40">Parent POMs are missing in IT repo</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Jun/08 17:26"><time datetime="2008-06-11T17:26:00+0000">11/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="11/Jun/08 17:30"><time datetime="2008-06-11T17:30:00+0000">11/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803764" rel="12803764" data-issuekey="MINVOKER-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-39" href="https://issues.apache.org/jira/browse/MINVOKER-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-39" href="https://issues.apache.org/jira/browse/MINVOKER-39">MINVOKER-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-39" href="https://issues.apache.org/jira/browse/MINVOKER-39">Spaces are incorrectly handled on command line</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/May/08 07:20"><time datetime="2008-05-30T07:20:32+0000">30/May/08</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 01:16"><time datetime="2015-04-06T01:16:04+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803777" rel="12803777" data-issuekey="MINVOKER-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-31" href="https://issues.apache.org/jira/browse/MINVOKER-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-31" href="https://issues.apache.org/jira/browse/MINVOKER-31">MINVOKER-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-31" href="https://issues.apache.org/jira/browse/MINVOKER-31">Test failing because of system property</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pgier" id="reporter_pgier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pgier">Paul Gier</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Apr/08 16:28"><time datetime="2008-04-17T16:28:13+0000">17/Apr/08</time></span> </td>
+                                            <td class="updated"> <span title="17/Apr/08 16:41"><time datetime="2008-04-17T16:41:44+0000">17/Apr/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803663" rel="12803663" data-issuekey="MINVOKER-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-29" href="https://issues.apache.org/jira/browse/MINVOKER-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-29" href="https://issues.apache.org/jira/browse/MINVOKER-29">MINVOKER-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-29" href="https://issues.apache.org/jira/browse/MINVOKER-29">Use proper encoding when filtering IT POMs</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="assignee_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Apr/08 17:27"><time datetime="2008-04-02T17:27:04+0000">02/Apr/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Apr/08 17:27"><time datetime="2008-04-02T17:27:47+0000">02/Apr/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803721" rel="12803721" data-issuekey="MINVOKER-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-28" href="https://issues.apache.org/jira/browse/MINVOKER-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-28" href="https://issues.apache.org/jira/browse/MINVOKER-28">MINVOKER-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-28" href="https://issues.apache.org/jira/browse/MINVOKER-28">Cant find mvn command</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mosabua" id="reporter_mosabua" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mosabua">Manfred Moser</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="01/Apr/08 11:49"><time datetime="2008-04-01T11:49:41+0000">01/Apr/08</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/08 15:54"><time datetime="2008-07-01T15:54:24+0000">01/Jul/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803693" rel="12803693" data-issuekey="MINVOKER-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-26" href="https://issues.apache.org/jira/browse/MINVOKER-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-26" href="https://issues.apache.org/jira/browse/MINVOKER-26">MINVOKER-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-26" href="https://issues.apache.org/jira/browse/MINVOKER-26">use local repository as mirror of central repo</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="reporter_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Mar/08 18:54"><time datetime="2008-03-12T18:54:23+0000">12/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="09/May/08 15:30"><time datetime="2008-05-09T15:30:06+0000">09/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803682" rel="12803682" data-issuekey="MINVOKER-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-19" href="https://issues.apache.org/jira/browse/MINVOKER-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-19" href="https://issues.apache.org/jira/browse/MINVOKER-19">MINVOKER-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-19" href="https://issues.apache.org/jira/browse/MINVOKER-19">two executions of the same pom causes a prooblem with interpolated-pom.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gerhard6" id="reporter_gerhard6" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gerhard6">Gerhard Langs</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="13/Dec/07 08:15"><time datetime="2007-12-13T08:15:36+0000">13/Dec/07</time></span> </td>
+                                            <td class="updated"> <span title="08/Aug/08 07:39"><time datetime="2008-08-08T07:39:39+0000">08/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803784" rel="12803784" data-issuekey="MINVOKER-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-18" href="https://issues.apache.org/jira/browse/MINVOKER-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-18" href="https://issues.apache.org/jira/browse/MINVOKER-18">MINVOKER-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-18" href="https://issues.apache.org/jira/browse/MINVOKER-18">two executions of the same pom causes a prooblem with interpolated-pom.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gerhard6" id="reporter_gerhard6" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gerhard6">Gerhard Langs</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Dec/07 08:15"><time datetime="2007-12-13T08:15:34+0000">13/Dec/07</time></span> </td>
+                                            <td class="updated"> <span title="08/Aug/08 07:39"><time datetime="2008-08-08T07:39:39+0000">08/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803790" rel="12803790" data-issuekey="MINVOKER-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-8" href="https://issues.apache.org/jira/browse/MINVOKER-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-8" href="https://issues.apache.org/jira/browse/MINVOKER-8">MINVOKER-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-8" href="https://issues.apache.org/jira/browse/MINVOKER-8">invoker unit tests fail</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brettporter" id="reporter_brettporter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brettporter">Brett Porter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Aug/07 18:55"><time datetime="2007-08-09T18:55:40+0000">09/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Nov/07 17:26"><time datetime="2007-11-21T17:26:09+0000">21/Nov/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803720" rel="12803720" data-issuekey="MINVOKER-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-5" href="https://issues.apache.org/jira/browse/MINVOKER-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-5" href="https://issues.apache.org/jira/browse/MINVOKER-5">MINVOKER-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-5" href="https://issues.apache.org/jira/browse/MINVOKER-5">[maven-invoker-plugin] build.log file should not be placed inside the target/ directory</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="vmassol" id="assignee_vmassol" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vmassol">Vincent Massol</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vmassol" id="reporter_vmassol" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vmassol">Vincent Massol</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/06 09:59"><time datetime="2006-10-03T09:59:43+0000">03/Oct/06</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/07 19:40"><time datetime="2007-06-17T19:40:23+0000">17/Jun/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803787" rel="12803787" data-issuekey="MINVOKER-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-3" href="https://issues.apache.org/jira/browse/MINVOKER-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-3" href="https://issues.apache.org/jira/browse/MINVOKER-3">MINVOKER-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-3" href="https://issues.apache.org/jira/browse/MINVOKER-3">Invoker always returns 0 on Windows due to cmd.exe and exit /b in mvn.bat</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="baerrach" id="reporter_baerrach" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=baerrach">Barrie Treloar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/May/07 04:25"><time datetime="2007-05-13T04:25:32+0000">13/May/07</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 01:16"><time datetime="2015-04-06T01:16:03+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803670" rel="12803670" data-issuekey="MINVOKER-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINVOKER-2" href="https://issues.apache.org/jira/browse/MINVOKER-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINVOKER-2" href="https://issues.apache.org/jira/browse/MINVOKER-2">MINVOKER-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINVOKER-2" href="https://issues.apache.org/jira/browse/MINVOKER-2">Failures are incorrectly counted</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pikus" id="reporter_pikus" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pikus">Tomasz Pik</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Feb/07 19:41"><time datetime="2007-02-10T19:41:52+0000">10/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="08/Aug/08 07:33"><time datetime="2008-08-08T07:33:52+0000">08/Aug/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

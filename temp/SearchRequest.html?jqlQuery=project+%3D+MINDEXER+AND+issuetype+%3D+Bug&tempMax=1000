@@ -1,0 +1,1505 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINDEXER+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MINDEXER+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MINDEXER" title="Browse Maven Indexer project">Maven Indexer</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>39</b> of <b>39</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12803493" rel="12803493" data-issuekey="MINDEXER-95" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-95" href="https://issues.apache.org/jira/browse/MINDEXER-95"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-95" href="https://issues.apache.org/jira/browse/MINDEXER-95">MINDEXER-95</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-95" href="https://issues.apache.org/jira/browse/MINDEXER-95">suboptimal indexing execution in DefaultIndexUpdater</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tstupka" id="reporter_tstupka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tstupka">Tomas Stupka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Dec/14 04:23"><time datetime="2014-12-05T04:23:47+0000">05/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Dec/15 00:28"><time datetime="2015-12-29T00:28:01+0000">29/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803481" rel="12803481" data-issuekey="MINDEXER-94" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-94" href="https://issues.apache.org/jira/browse/MINDEXER-94"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-94" href="https://issues.apache.org/jira/browse/MINDEXER-94">MINDEXER-94</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-94" href="https://issues.apache.org/jira/browse/MINDEXER-94">no temp file cleanup in WagonFetcher after an error</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tstupka" id="reporter_tstupka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tstupka">Tomas Stupka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Dec/14 04:20"><time datetime="2014-12-05T04:20:49+0000">05/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Dec/15 00:27"><time datetime="2015-12-29T00:27:52+0000">29/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803471" rel="12803471" data-issuekey="MINDEXER-87" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-87" href="https://issues.apache.org/jira/browse/MINDEXER-87"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-87" href="https://issues.apache.org/jira/browse/MINDEXER-87">MINDEXER-87</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-87" href="https://issues.apache.org/jira/browse/MINDEXER-87">Remove legacy marked code</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="29/Jun/14 12:33"><time datetime="2014-06-29T12:33:08+0000">29/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Sep/14 06:32"><time datetime="2014-09-01T06:32:14+0000">01/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803447" rel="12803447" data-issuekey="MINDEXER-86" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-86" href="https://issues.apache.org/jira/browse/MINDEXER-86"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-86" href="https://issues.apache.org/jira/browse/MINDEXER-86">MINDEXER-86</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-86" href="https://issues.apache.org/jira/browse/MINDEXER-86">Remove &quot;legacy&quot; transport format</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jun/14 12:25"><time datetime="2014-06-29T12:25:05+0000">29/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Sep/14 06:25"><time datetime="2014-09-01T06:25:59+0000">01/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803440" rel="12803440" data-issuekey="MINDEXER-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-85" href="https://issues.apache.org/jira/browse/MINDEXER-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-85" href="https://issues.apache.org/jira/browse/MINDEXER-85">MINDEXER-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-85" href="https://issues.apache.org/jira/browse/MINDEXER-85">POM model reading fails too often</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jun/14 12:23"><time datetime="2014-06-29T12:23:37+0000">29/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Sep/14 06:26"><time datetime="2014-09-01T06:26:15+0000">01/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803479" rel="12803479" data-issuekey="MINDEXER-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-84" href="https://issues.apache.org/jira/browse/MINDEXER-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-84" href="https://issues.apache.org/jira/browse/MINDEXER-84">MINDEXER-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-84" href="https://issues.apache.org/jira/browse/MINDEXER-84">IllegalArgumentException: docID must be &gt;= 0 and &lt; maxDoc=6954 (got docID=6954)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jun/14 12:21"><time datetime="2014-06-29T12:21:03+0000">29/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Sep/14 06:26"><time datetime="2014-09-01T06:26:34+0000">01/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803466" rel="12803466" data-issuekey="MINDEXER-78" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-78" href="https://issues.apache.org/jira/browse/MINDEXER-78"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-78" href="https://issues.apache.org/jira/browse/MINDEXER-78">MINDEXER-78</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-78" href="https://issues.apache.org/jira/browse/MINDEXER-78">updating a local index from remote one fails after downloading properties file</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkleint" id="reporter_mkleint" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkleint">Milos Kleint</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="09/Apr/14 06:17"><time datetime="2014-04-09T06:17:40+0000">09/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="09/Apr/14 06:17"><time datetime="2014-04-09T06:17:40+0000">09/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803485" rel="12803485" data-issuekey="MINDEXER-74" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-74" href="https://issues.apache.org/jira/browse/MINDEXER-74"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-74" href="https://issues.apache.org/jira/browse/MINDEXER-74">MINDEXER-74</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-74" href="https://issues.apache.org/jira/browse/MINDEXER-74">JarFileContentsIndexCreator may stop scanning under some circumstances</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="01/Aug/13 16:13"><time datetime="2013-08-01T16:13:28+0000">01/Aug/13</time></span> </td>
+                                            <td class="updated"> <span title="01/Aug/13 16:14"><time datetime="2013-08-01T16:14:19+0000">01/Aug/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803492" rel="12803492" data-issuekey="MINDEXER-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-73" href="https://issues.apache.org/jira/browse/MINDEXER-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-73" href="https://issues.apache.org/jira/browse/MINDEXER-73">MINDEXER-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-73" href="https://issues.apache.org/jira/browse/MINDEXER-73">Provide a way to perform incremental-only index update</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="igorf" id="reporter_igorf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=igorf">Igor Fedorenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Apr/13 11:11"><time datetime="2013-04-23T11:11:32+0000">23/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="23/Apr/13 11:58"><time datetime="2013-04-23T11:58:39+0000">23/Apr/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803467" rel="12803467" data-issuekey="MINDEXER-71" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-71" href="https://issues.apache.org/jira/browse/MINDEXER-71"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-71" href="https://issues.apache.org/jira/browse/MINDEXER-71">MINDEXER-71</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-71" href="https://issues.apache.org/jira/browse/MINDEXER-71">Do not implicitely close indexing context</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="igorfie" id="assignee_igorfie" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=igorfie">igorfie</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="igorf" id="reporter_igorf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=igorf">Igor Fedorenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Feb/13 13:34"><time datetime="2013-02-28T13:34:49+0000">28/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="28/Feb/13 13:41"><time datetime="2013-02-28T13:41:18+0000">28/Feb/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803507" rel="12803507" data-issuekey="MINDEXER-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-70" href="https://issues.apache.org/jira/browse/MINDEXER-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-70" href="https://issues.apache.org/jira/browse/MINDEXER-70">MINDEXER-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-70" href="https://issues.apache.org/jira/browse/MINDEXER-70">SearchEngine does not releaseIndexSearcher in some cases</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="igorf" id="reporter_igorf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=igorf">Igor Fedorenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Dec/12 19:43"><time datetime="2012-12-03T19:43:14+0000">03/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="04/Dec/12 02:08"><time datetime="2012-12-04T02:08:13+0000">04/Dec/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803469" rel="12803469" data-issuekey="MINDEXER-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-69" href="https://issues.apache.org/jira/browse/MINDEXER-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-69" href="https://issues.apache.org/jira/browse/MINDEXER-69">MINDEXER-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-69" href="https://issues.apache.org/jira/browse/MINDEXER-69">Severe keyword search performance regression </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="igorf" id="reporter_igorf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=igorf">Igor Fedorenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Nov/12 21:27"><time datetime="2012-11-19T21:27:43+0000">19/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="21/Nov/12 12:41"><time datetime="2012-11-21T12:41:06+0000">21/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803491" rel="12803491" data-issuekey="MINDEXER-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-68" href="https://issues.apache.org/jira/browse/MINDEXER-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-68" href="https://issues.apache.org/jira/browse/MINDEXER-68">MINDEXER-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-68" href="https://issues.apache.org/jira/browse/MINDEXER-68">Align context behaviour in case of replace and merge methods</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Nov/12 03:30"><time datetime="2012-11-16T03:30:19+0000">16/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/12 03:34"><time datetime="2012-11-16T03:34:13+0000">16/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803505" rel="12803505" data-issuekey="MINDEXER-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-66" href="https://issues.apache.org/jira/browse/MINDEXER-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-66" href="https://issues.apache.org/jira/browse/MINDEXER-66">MINDEXER-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-66" href="https://issues.apache.org/jira/browse/MINDEXER-66">significant increase in used open file handles</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="igorf" id="reporter_igorf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=igorf">Igor Fedorenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Nov/12 22:00"><time datetime="2012-11-14T22:00:23+0000">14/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/12 02:52"><time datetime="2012-11-16T02:52:44+0000">16/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803489" rel="12803489" data-issuekey="MINDEXER-63" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-63" href="https://issues.apache.org/jira/browse/MINDEXER-63"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-63" href="https://issues.apache.org/jira/browse/MINDEXER-63">MINDEXER-63</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-63" href="https://issues.apache.org/jira/browse/MINDEXER-63">NullPointerException at org.apache.maven.index.context.DefaultIndexingContext.acquireIndexSearcher</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkleint" id="reporter_mkleint" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkleint">Milos Kleint</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Auto Closed
+</td>
+                                            <td class="created"> <span title="15/Oct/12 02:57"><time datetime="2012-10-15T02:57:27+0000">15/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="12/Jan/16 20:12"><time datetime="2016-01-12T20:12:31+0000">12/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803460" rel="12803460" data-issuekey="MINDEXER-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-54" href="https://issues.apache.org/jira/browse/MINDEXER-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-54" href="https://issues.apache.org/jira/browse/MINDEXER-54">MINDEXER-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-54" href="https://issues.apache.org/jira/browse/MINDEXER-54">setting user agent should be more straightforward</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkleint" id="reporter_mkleint" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkleint">Milos Kleint</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Auto Closed
+</td>
+                                            <td class="created"> <span title="03/Aug/12 00:22"><time datetime="2012-08-03T00:22:46+0000">03/Aug/12</time></span> </td>
+                                            <td class="updated"> <span title="06/Sep/15 20:44"><time datetime="2015-09-06T20:44:14+0000">06/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803494" rel="12803494" data-issuekey="MINDEXER-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-52" href="https://issues.apache.org/jira/browse/MINDEXER-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-52" href="https://issues.apache.org/jira/browse/MINDEXER-52">MINDEXER-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-52" href="https://issues.apache.org/jira/browse/MINDEXER-52">reentrant locking in DefaultIndexingContent flawed</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkleint" id="reporter_mkleint" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkleint">Milos Kleint</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Mar/12 04:32"><time datetime="2012-03-19T04:32:15+0000">19/Mar/12</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/12 03:41"><time datetime="2012-11-16T03:41:15+0000">16/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803417" rel="12803417" data-issuekey="MINDEXER-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-51" href="https://issues.apache.org/jira/browse/MINDEXER-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-51" href="https://issues.apache.org/jira/browse/MINDEXER-51">MINDEXER-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-51" href="https://issues.apache.org/jira/browse/MINDEXER-51">scan creates tmp directories in repository directory</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="reporter_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Feb/12 02:59"><time datetime="2012-02-27T02:59:24+0000">27/Feb/12</time></span> </td>
+                                            <td class="updated"> <span title="27/Feb/12 03:02"><time datetime="2012-02-27T03:02:16+0000">27/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803457" rel="12803457" data-issuekey="MINDEXER-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-50" href="https://issues.apache.org/jira/browse/MINDEXER-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-50" href="https://issues.apache.org/jira/browse/MINDEXER-50">MINDEXER-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-50" href="https://issues.apache.org/jira/browse/MINDEXER-50">Logging of parsing exceptions should be handled consistently in org.apache.maven.index.creator.MavenPluginArtifactInfoIndexCreator</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="plynch" id="reporter_plynch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=plynch">Peter Lynch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Feb/12 07:43"><time datetime="2012-02-01T07:43:45+0000">01/Feb/12</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:03+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803486" rel="12803486" data-issuekey="MINDEXER-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-49" href="https://issues.apache.org/jira/browse/MINDEXER-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-49" href="https://issues.apache.org/jira/browse/MINDEXER-49">MINDEXER-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-49" href="https://issues.apache.org/jira/browse/MINDEXER-49">M2GavCalculator does not parse GAV correctly for classifiers with dots</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rzanner" id="reporter_rzanner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rzanner">René Zanner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Jan/12 03:51"><time datetime="2012-01-18T03:51:29+0000">18/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/16 00:04"><time datetime="2016-01-03T00:04:00+0000">03/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803464" rel="12803464" data-issuekey="MINDEXER-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-48" href="https://issues.apache.org/jira/browse/MINDEXER-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-48" href="https://issues.apache.org/jira/browse/MINDEXER-48">MINDEXER-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-48" href="https://issues.apache.org/jira/browse/MINDEXER-48">Assertions thrown when used with Lucene 3.1+</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Jan/12 09:19"><time datetime="2012-01-11T09:19:31+0000">11/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/12 13:11"><time datetime="2012-02-26T13:11:51+0000">26/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803465" rel="12803465" data-issuekey="MINDEXER-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-47" href="https://issues.apache.org/jira/browse/MINDEXER-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-47" href="https://issues.apache.org/jira/browse/MINDEXER-47">MINDEXER-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-47" href="https://issues.apache.org/jira/browse/MINDEXER-47">Subpath reindexing does not work</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Dec/11 10:20"><time datetime="2011-12-05T10:20:23+0000">05/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="07/Aug/12 16:17"><time datetime="2012-08-07T16:17:55+0000">07/Aug/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803426" rel="12803426" data-issuekey="MINDEXER-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-46" href="https://issues.apache.org/jira/browse/MINDEXER-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-46" href="https://issues.apache.org/jira/browse/MINDEXER-46">MINDEXER-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-46" href="https://issues.apache.org/jira/browse/MINDEXER-46">bad url in jira description</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pkozelka" id="reporter_pkozelka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pkozelka">Petr Kozelka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Dec/11 02:44"><time datetime="2011-12-01T02:44:59+0000">01/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="01/Dec/11 15:49"><time datetime="2011-12-01T15:49:49+0000">01/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803506" rel="12803506" data-issuekey="MINDEXER-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-45" href="https://issues.apache.org/jira/browse/MINDEXER-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-45" href="https://issues.apache.org/jira/browse/MINDEXER-45">MINDEXER-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-45" href="https://issues.apache.org/jira/browse/MINDEXER-45">WagonFetcher.disconnect should throw IOException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Nov/11 13:32"><time datetime="2011-11-01T13:32:54+0000">01/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:20+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803488" rel="12803488" data-issuekey="MINDEXER-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-44" href="https://issues.apache.org/jira/browse/MINDEXER-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-44" href="https://issues.apache.org/jira/browse/MINDEXER-44">MINDEXER-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-44" href="https://issues.apache.org/jira/browse/MINDEXER-44">NPE from DefaultSearchEngine.doSearchWithCeiling</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Auto Closed
+</td>
+                                            <td class="created"> <span title="28/Oct/11 21:20"><time datetime="2011-10-28T21:20:20+0000">28/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="06/Sep/15 20:51"><time datetime="2015-09-06T20:51:02+0000">06/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803497" rel="12803497" data-issuekey="MINDEXER-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-43" href="https://issues.apache.org/jira/browse/MINDEXER-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-43" href="https://issues.apache.org/jira/browse/MINDEXER-43">MINDEXER-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-43" href="https://issues.apache.org/jira/browse/MINDEXER-43">WagonFetch.retrieve swallows root causes of problems</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Oct/11 15:24"><time datetime="2011-10-23T15:24:29+0000">23/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:15+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803508" rel="12803508" data-issuekey="MINDEXER-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-42" href="https://issues.apache.org/jira/browse/MINDEXER-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-42" href="https://issues.apache.org/jira/browse/MINDEXER-42">MINDEXER-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-42" href="https://issues.apache.org/jira/browse/MINDEXER-42">WagonHelper.getWagonResourceFetcher does not support HTTPS</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Oct/11 11:02"><time datetime="2011-10-21T11:02:49+0000">21/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:05+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803500" rel="12803500" data-issuekey="MINDEXER-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-40" href="https://issues.apache.org/jira/browse/MINDEXER-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-40" href="https://issues.apache.org/jira/browse/MINDEXER-40">MINDEXER-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-40" href="https://issues.apache.org/jira/browse/MINDEXER-40">Bundle-Classpath not honored</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="26/Sep/11 16:02"><time datetime="2011-09-26T16:02:51+0000">26/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:48"><time datetime="2014-11-25T14:48:42+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803449" rel="12803449" data-issuekey="MINDEXER-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-38" href="https://issues.apache.org/jira/browse/MINDEXER-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-38" href="https://issues.apache.org/jira/browse/MINDEXER-38">MINDEXER-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-38" href="https://issues.apache.org/jira/browse/MINDEXER-38">searchFlat can return empty results with multiple index if the first used returns empty result</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="reporter_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Aug/11 16:00"><time datetime="2011-08-17T16:00:50+0000">17/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="17/Aug/11 16:17"><time datetime="2011-08-17T16:17:46+0000">17/Aug/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803416" rel="12803416" data-issuekey="MINDEXER-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-34" href="https://issues.apache.org/jira/browse/MINDEXER-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-34" href="https://issues.apache.org/jira/browse/MINDEXER-34">MINDEXER-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-34" href="https://issues.apache.org/jira/browse/MINDEXER-34">Order of IndexCreator&#39;s passed to addIndexingContextForced affects whether MavenPluginArtifactInfoIndexCreator has any effect</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Jul/11 12:15"><time datetime="2011-07-05T12:15:12+0000">05/Jul/11</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/11 16:31"><time datetime="2011-09-26T16:31:06+0000">26/Sep/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803496" rel="12803496" data-issuekey="MINDEXER-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-33" href="https://issues.apache.org/jira/browse/MINDEXER-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-33" href="https://issues.apache.org/jira/browse/MINDEXER-33">MINDEXER-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-33" href="https://issues.apache.org/jira/browse/MINDEXER-33">Noncanonical Jenkins URL</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Jun/11 17:43"><time datetime="2011-06-27T17:43:32+0000">27/Jun/11</time></span> </td>
+                                            <td class="updated"> <span title="11/Aug/11 12:49"><time datetime="2011-08-11T12:49:15+0000">11/Aug/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803504" rel="12803504" data-issuekey="MINDEXER-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-30" href="https://issues.apache.org/jira/browse/MINDEXER-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-30" href="https://issues.apache.org/jira/browse/MINDEXER-30">MINDEXER-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-30" href="https://issues.apache.org/jira/browse/MINDEXER-30">IndexPublisher does not protect &quot;read consistency&quot; over published context</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jun/11 09:38"><time datetime="2011-06-08T09:38:27+0000">08/Jun/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Jun/11 10:30"><time datetime="2011-06-08T10:30:02+0000">08/Jun/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803498" rel="12803498" data-issuekey="MINDEXER-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-28" href="https://issues.apache.org/jira/browse/MINDEXER-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-28" href="https://issues.apache.org/jira/browse/MINDEXER-28">MINDEXER-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-28" href="https://issues.apache.org/jira/browse/MINDEXER-28">OOME when fed garbage</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/May/11 10:23"><time datetime="2011-05-04T10:23:26+0000">04/May/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Jun/11 10:22"><time datetime="2011-06-08T10:22:35+0000">08/Jun/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803499" rel="12803499" data-issuekey="MINDEXER-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-26" href="https://issues.apache.org/jira/browse/MINDEXER-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-26" href="https://issues.apache.org/jira/browse/MINDEXER-26">MINDEXER-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-26" href="https://issues.apache.org/jira/browse/MINDEXER-26">NPE from IndexWriter.isLocked in DefaultIndexingContext.prepareCleanIndex</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Apr/11 18:46"><time datetime="2011-04-04T18:46:16+0000">04/Apr/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Jun/11 10:21"><time datetime="2011-06-08T10:21:38+0000">08/Jun/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803433" rel="12803433" data-issuekey="MINDEXER-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-16" href="https://issues.apache.org/jira/browse/MINDEXER-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-16" href="https://issues.apache.org/jira/browse/MINDEXER-16">MINDEXER-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-16" href="https://issues.apache.org/jira/browse/MINDEXER-16">Transport format is not backward compatible</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="reporter_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Mar/11 03:07"><time datetime="2011-03-30T03:07:40+0000">30/Mar/11</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/11 05:15"><time datetime="2011-03-30T05:15:34+0000">30/Mar/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803502" rel="12803502" data-issuekey="MINDEXER-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-14" href="https://issues.apache.org/jira/browse/MINDEXER-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-14" href="https://issues.apache.org/jira/browse/MINDEXER-14">MINDEXER-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-14" href="https://issues.apache.org/jira/browse/MINDEXER-14">FlatSearchResponse.totalHits = 1000 when there are in fact more</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Mar/11 17:37"><time datetime="2011-03-24T17:37:32+0000">24/Mar/11</time></span> </td>
+                                            <td class="updated"> <span title="04/Apr/11 13:58"><time datetime="2011-04-04T13:58:27+0000">04/Apr/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803432" rel="12803432" data-issuekey="MINDEXER-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-13" href="https://issues.apache.org/jira/browse/MINDEXER-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-13" href="https://issues.apache.org/jira/browse/MINDEXER-13">MINDEXER-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-13" href="https://issues.apache.org/jira/browse/MINDEXER-13">*.gz index not loadable using default LightweightHttpWagon</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Mar/11 08:46"><time datetime="2011-03-24T08:46:38+0000">24/Mar/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:16+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803419" rel="12803419" data-issuekey="MINDEXER-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-12" href="https://issues.apache.org/jira/browse/MINDEXER-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-12" href="https://issues.apache.org/jira/browse/MINDEXER-12">MINDEXER-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-12" href="https://issues.apache.org/jira/browse/MINDEXER-12">IOException downloading *.gz masked by IOE of *.zip</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cstamas" id="assignee_cstamas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cstamas">Cservenak, Tamas</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jglick" id="reporter_jglick" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jglick">Jesse Glick</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Mar/11 07:26"><time datetime="2011-03-24T07:26:49+0000">24/Mar/11</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:17+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12803431" rel="12803431" data-issuekey="MINDEXER-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MINDEXER-8" href="https://issues.apache.org/jira/browse/MINDEXER-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MINDEXER-8" href="https://issues.apache.org/jira/browse/MINDEXER-8">MINDEXER-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MINDEXER-8" href="https://issues.apache.org/jira/browse/MINDEXER-8">Improve result ranking </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pascalrapicault" id="reporter_pascalrapicault" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pascalrapicault">Pascal Rapicault</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="24/Jan/11 11:53"><time datetime="2011-01-24T11:53:20+0000">24/Jan/11</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:48"><time datetime="2014-11-25T14:48:30+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

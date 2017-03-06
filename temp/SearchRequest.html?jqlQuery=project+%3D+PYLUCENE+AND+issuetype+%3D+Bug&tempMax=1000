@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+PYLUCENE+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+PYLUCENE+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/PYLUCENE" title="Browse PyLucene project">PyLucene</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>25</b> of <b>25</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12907939" rel="12907939" data-issuekey="PYLUCENE-35" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-35" href="https://issues.apache.org/jira/browse/PYLUCENE-35"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-35" href="https://issues.apache.org/jira/browse/PYLUCENE-35">PYLUCENE-35</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-35" href="https://issues.apache.org/jira/browse/PYLUCENE-35">UnicodeEncodeError when a JavaException is raised</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="htfy96" id="reporter_htfy96" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=htfy96">Vic Luo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Oct/15 15:22"><time datetime="2015-10-26T15:22:04+0000">26/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="28/Oct/15 04:31"><time datetime="2015-10-28T04:31:29+0000">28/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12785873" rel="12785873" data-issuekey="PYLUCENE-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-34" href="https://issues.apache.org/jira/browse/PYLUCENE-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-34" href="https://issues.apache.org/jira/browse/PYLUCENE-34">PYLUCENE-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-34" href="https://issues.apache.org/jira/browse/PYLUCENE-34">Pylucene and multiprocessing</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="JLVeiga" id="reporter_JLVeiga" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=JLVeiga">Jose Lopez Veiga</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="26/Mar/15 12:55"><time datetime="2015-03-26T12:55:13+0000">26/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="26/Mar/15 17:55"><time datetime="2015-03-26T17:55:27+0000">26/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12763435" rel="12763435" data-issuekey="PYLUCENE-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-33" href="https://issues.apache.org/jira/browse/PYLUCENE-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-33" href="https://issues.apache.org/jira/browse/PYLUCENE-33">PYLUCENE-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-33" href="https://issues.apache.org/jira/browse/PYLUCENE-33">Cannot override newTermQuery method of class QueryParser</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="iceout" id="reporter_iceout" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iceout">iceout</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="23/Dec/14 10:30"><time datetime="2014-12-23T10:30:33+0000">23/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Dec/14 17:58"><time datetime="2014-12-24T17:58:17+0000">24/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12683827" rel="12683827" data-issuekey="PYLUCENE-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-29" href="https://issues.apache.org/jira/browse/PYLUCENE-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-29" href="https://issues.apache.org/jira/browse/PYLUCENE-29">PYLUCENE-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-29" href="https://issues.apache.org/jira/browse/PYLUCENE-29">JCC: JArray(&#39;int&#39;) from integer numpy ndarray not possible</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="marscher" id="reporter_marscher" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=marscher">Martin Scherer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="10/Dec/13 12:50"><time datetime="2013-12-10T12:50:40+0000">10/Dec/13</time></span> </td>
+                                            <td class="updated"> <span title="10/Dec/13 14:01"><time datetime="2013-12-10T14:01:53+0000">10/Dec/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12668036" rel="12668036" data-issuekey="PYLUCENE-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-26" href="https://issues.apache.org/jira/browse/PYLUCENE-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-26" href="https://issues.apache.org/jira/browse/PYLUCENE-26">PYLUCENE-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-26" href="https://issues.apache.org/jira/browse/PYLUCENE-26">&quot;extern&quot; keyword missing in reserved keywords in JCC cpp.py unit</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="marscher" id="reporter_marscher" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=marscher">Martin Scherer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Sep/13 12:00"><time datetime="2013-09-11T12:00:33+0000">11/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="11/Sep/13 14:00"><time datetime="2013-09-11T14:00:56+0000">11/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12653180" rel="12653180" data-issuekey="PYLUCENE-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-25" href="https://issues.apache.org/jira/browse/PYLUCENE-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-25" href="https://issues.apache.org/jira/browse/PYLUCENE-25">PYLUCENE-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-25" href="https://issues.apache.org/jira/browse/PYLUCENE-25">JCC: &quot;NameError: global name &#39;StringWriter&#39; is not defined&quot; occurs when java exception raised</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="iliam" id="reporter_iliam" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iliam">Ilia Meerovich</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Implemented
+</td>
+                                            <td class="created"> <span title="17/Jun/13 12:21"><time datetime="2013-06-17T12:21:10+0000">17/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="19/Jun/13 08:09"><time datetime="2013-06-19T08:09:10+0000">19/Jun/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12610025" rel="12610025" data-issuekey="PYLUCENE-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-24" href="https://issues.apache.org/jira/browse/PYLUCENE-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-24" href="https://issues.apache.org/jira/browse/PYLUCENE-24">PYLUCENE-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-24" href="https://issues.apache.org/jira/browse/PYLUCENE-24">Shared JCC object on Linux requires setuptools patch</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cpburnz" id="reporter_cpburnz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cpburnz">Caleb Burns</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/12 03:20"><time datetime="2012-10-03T03:20:46+0000">03/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="11/Oct/12 02:26"><time datetime="2012-10-11T02:26:29+0000">11/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12608484" rel="12608484" data-issuekey="PYLUCENE-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-23" href="https://issues.apache.org/jira/browse/PYLUCENE-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-23" href="https://issues.apache.org/jira/browse/PYLUCENE-23">PYLUCENE-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-23" href="https://issues.apache.org/jira/browse/PYLUCENE-23">OSError</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="googcheng" id="reporter_googcheng" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=googcheng">goog cheng</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="20/Sep/12 15:33"><time datetime="2012-09-20T15:33:07+0000">20/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/12 22:22"><time datetime="2012-09-21T22:22:13+0000">21/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12608483" rel="12608483" data-issuekey="PYLUCENE-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-22" href="https://issues.apache.org/jira/browse/PYLUCENE-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-22" href="https://issues.apache.org/jira/browse/PYLUCENE-22">PYLUCENE-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-22" href="https://issues.apache.org/jira/browse/PYLUCENE-22">NotImplementedError</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="googcheng" id="reporter_googcheng" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=googcheng">goog cheng</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Sep/12 15:27"><time datetime="2012-09-20T15:27:56+0000">20/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/12 15:36"><time datetime="2012-09-20T15:36:21+0000">20/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12600254" rel="12600254" data-issuekey="PYLUCENE-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-20" href="https://issues.apache.org/jira/browse/PYLUCENE-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-20" href="https://issues.apache.org/jira/browse/PYLUCENE-20">PYLUCENE-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-20" href="https://issues.apache.org/jira/browse/PYLUCENE-20">Bug in cpp.py when importing shared module (splitting class name)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rchyla" id="reporter_rchyla" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rchyla">Roman Chyla</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jul/12 01:29"><time datetime="2012-07-26T01:29:10+0000">26/Jul/12</time></span> </td>
+                                            <td class="updated"> <span title="31/Jul/12 10:29"><time datetime="2012-07-31T10:29:49+0000">31/Jul/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12595812" rel="12595812" data-issuekey="PYLUCENE-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-19" href="https://issues.apache.org/jira/browse/PYLUCENE-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-19" href="https://issues.apache.org/jira/browse/PYLUCENE-19">PYLUCENE-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-19" href="https://issues.apache.org/jira/browse/PYLUCENE-19">Unable to launch jvm with remote debugging enabled.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="olindaspider" id="reporter_olindaspider" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olindaspider">Patrick J. McNerthney</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Jun/12 17:28"><time datetime="2012-06-25T17:28:52+0000">25/Jun/12</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/12 02:46"><time datetime="2012-06-26T02:46:10+0000">26/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12595246" rel="12595246" data-issuekey="PYLUCENE-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-18" href="https://issues.apache.org/jira/browse/PYLUCENE-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-18" href="https://issues.apache.org/jira/browse/PYLUCENE-18">PYLUCENE-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-18" href="https://issues.apache.org/jira/browse/PYLUCENE-18">Version 3.6.0 lacks readme</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dion" id="reporter_dion" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dion">Dmitry Nezhevenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Jun/12 10:45"><time datetime="2012-06-20T10:45:16+0000">20/Jun/12</time></span> </td>
+                                            <td class="updated"> <span title="21/Jun/12 10:06"><time datetime="2012-06-21T10:06:33+0000">21/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12548725" rel="12548725" data-issuekey="PYLUCENE-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-17" href="https://issues.apache.org/jira/browse/PYLUCENE-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-17" href="https://issues.apache.org/jira/browse/PYLUCENE-17">PYLUCENE-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-17" href="https://issues.apache.org/jira/browse/PYLUCENE-17">Possible race condition with pylucene attachCurrentThread</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gbowyer@fastmail.co.uk" id="reporter_gbowyer@fastmail.co.uk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gbowyer%40fastmail.co.uk">Greg Bowyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Mar/12 20:02"><time datetime="2012-03-29T20:02:40+0000">29/Mar/12</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/12 02:42"><time datetime="2012-06-26T02:42:23+0000">26/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12534909" rel="12534909" data-issuekey="PYLUCENE-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-16" href="https://issues.apache.org/jira/browse/PYLUCENE-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-16" href="https://issues.apache.org/jira/browse/PYLUCENE-16">PYLUCENE-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-16" href="https://issues.apache.org/jira/browse/PYLUCENE-16">can&#39;t wrap weka because of attribute and method with the same name</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="vajda" id="assignee_vajda" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vajda">Andi Vajda</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="janssen" id="reporter_janssen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=janssen">Bill Janssen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Dec/11 06:42"><time datetime="2011-12-13T06:42:50+0000">13/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="18/Dec/11 09:41"><time datetime="2011-12-18T09:41:51+0000">18/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12532645" rel="12532645" data-issuekey="PYLUCENE-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-13" href="https://issues.apache.org/jira/browse/PYLUCENE-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-13" href="https://issues.apache.org/jira/browse/PYLUCENE-13">PYLUCENE-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-13" href="https://issues.apache.org/jira/browse/PYLUCENE-13">JArray not shared - TypeError</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rchyla" id="reporter_rchyla" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rchyla">Roman Chyla</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="24/Nov/11 19:06"><time datetime="2011-11-24T19:06:02+0000">24/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="04/Dec/11 04:13"><time datetime="2011-12-04T04:13:41+0000">04/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12530659" rel="12530659" data-issuekey="PYLUCENE-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-11" href="https://issues.apache.org/jira/browse/PYLUCENE-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-11" href="https://issues.apache.org/jira/browse/PYLUCENE-11">PYLUCENE-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-11" href="https://issues.apache.org/jira/browse/PYLUCENE-11">SigSEGV returning a Term from inside a python iterator</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gbowyer@fastmail.co.uk" id="reporter_gbowyer@fastmail.co.uk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gbowyer%40fastmail.co.uk">Greg Bowyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Nov/11 00:23"><time datetime="2011-11-08T00:23:48+0000">08/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Nov/11 01:42"><time datetime="2011-11-08T01:42:51+0000">08/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12508962" rel="12508962" data-issuekey="PYLUCENE-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-10" href="https://issues.apache.org/jira/browse/PYLUCENE-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-10" href="https://issues.apache.org/jira/browse/PYLUCENE-10">PYLUCENE-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-10" href="https://issues.apache.org/jira/browse/PYLUCENE-10">Building Pylucene is way too difficult</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pombredanne" id="reporter_pombredanne" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pombredanne">Philippe Ombredanne</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="01/Jun/11 14:10"><time datetime="2011-06-01T14:10:16+0000">01/Jun/11</time></span> </td>
+                                            <td class="updated"> <span title="02/Jun/11 18:58"><time datetime="2011-06-02T18:58:26+0000">02/Jun/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12506348" rel="12506348" data-issuekey="PYLUCENE-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-9" href="https://issues.apache.org/jira/browse/PYLUCENE-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-9" href="https://issues.apache.org/jira/browse/PYLUCENE-9">PYLUCENE-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-9" href="https://issues.apache.org/jira/browse/PYLUCENE-9">QueryParser replacing stop words with wildcards</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ccurrens" id="reporter_ccurrens" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ccurrens">Christopher Currens</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/May/11 23:16"><time datetime="2011-05-05T23:16:16+0000">05/May/11</time></span> </td>
+                                            <td class="updated"> <span title="17/May/11 18:45"><time datetime="2011-05-17T18:45:01+0000">17/May/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12475922" rel="12475922" data-issuekey="PYLUCENE-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-8" href="https://issues.apache.org/jira/browse/PYLUCENE-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-8" href="https://issues.apache.org/jira/browse/PYLUCENE-8">PYLUCENE-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-8" href="https://issues.apache.org/jira/browse/PYLUCENE-8">lucene.JCC_VERSION isn&#39;t set properly on Windows</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="janssen" id="reporter_janssen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=janssen">Bill Janssen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/Oct/10 04:03"><time datetime="2010-10-06T04:03:45+0000">06/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="06/Oct/10 04:03"><time datetime="2010-10-06T04:03:45+0000">06/Oct/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12475900" rel="12475900" data-issuekey="PYLUCENE-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-7" href="https://issues.apache.org/jira/browse/PYLUCENE-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-7" href="https://issues.apache.org/jira/browse/PYLUCENE-7">PYLUCENE-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-7" href="https://issues.apache.org/jira/browse/PYLUCENE-7">compile fails for 3.0.2 with GCC 4.5 on Windows XP with MinGW/msys</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="janssen" id="reporter_janssen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=janssen">Bill Janssen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Oct/10 21:25"><time datetime="2010-10-05T21:25:35+0000">05/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="06/Oct/10 00:58"><time datetime="2010-10-06T00:58:12+0000">06/Oct/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12475896" rel="12475896" data-issuekey="PYLUCENE-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-6" href="https://issues.apache.org/jira/browse/PYLUCENE-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-6" href="https://issues.apache.org/jira/browse/PYLUCENE-6">PYLUCENE-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-6" href="https://issues.apache.org/jira/browse/PYLUCENE-6">ominous svnversion error message -- truly an error?</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="janssen" id="reporter_janssen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=janssen">Bill Janssen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="05/Oct/10 21:15"><time datetime="2010-10-05T21:15:01+0000">05/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="06/Oct/10 04:48"><time datetime="2010-10-06T04:48:26+0000">06/Oct/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12475876" rel="12475876" data-issuekey="PYLUCENE-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-5" href="https://issues.apache.org/jira/browse/PYLUCENE-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-5" href="https://issues.apache.org/jira/browse/PYLUCENE-5">PYLUCENE-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-5" href="https://issues.apache.org/jira/browse/PYLUCENE-5">PyLucene 3.0.2 doesn&#39;t build with GCC 4.5 on Windows XP with MinGW/msys</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="janssen" id="reporter_janssen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=janssen">Bill Janssen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Oct/10 18:51"><time datetime="2010-10-05T18:51:52+0000">05/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="05/Oct/10 19:48"><time datetime="2010-10-05T19:48:06+0000">05/Oct/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12461585" rel="12461585" data-issuekey="PYLUCENE-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-4" href="https://issues.apache.org/jira/browse/PYLUCENE-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-4" href="https://issues.apache.org/jira/browse/PYLUCENE-4">PYLUCENE-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-4" href="https://issues.apache.org/jira/browse/PYLUCENE-4">pylucene not linking on Mac</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mrmaple" id="reporter_mrmaple" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mrmaple">Jim Carroll</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="08/Apr/10 20:42"><time datetime="2010-04-08T20:42:44+0000">08/Apr/10</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/10 21:14"><time datetime="2010-04-08T21:14:17+0000">08/Apr/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12461581" rel="12461581" data-issuekey="PYLUCENE-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-3" href="https://issues.apache.org/jira/browse/PYLUCENE-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-3" href="https://issues.apache.org/jira/browse/PYLUCENE-3">PYLUCENE-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-3" href="https://issues.apache.org/jira/browse/PYLUCENE-3">jcc not compiling on Mac Snow Leopard</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mrmaple" id="reporter_mrmaple" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mrmaple">Jim Carroll</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="08/Apr/10 19:59"><time datetime="2010-04-08T19:59:58+0000">08/Apr/10</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/10 21:26"><time datetime="2010-04-08T21:26:41+0000">08/Apr/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12459354" rel="12459354" data-issuekey="PYLUCENE-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="PYLUCENE-2" href="https://issues.apache.org/jira/browse/PYLUCENE-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="PYLUCENE-2" href="https://issues.apache.org/jira/browse/PYLUCENE-2">PYLUCENE-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="PYLUCENE-2" href="https://issues.apache.org/jira/browse/PYLUCENE-2">Memory leak when searching in real time reader</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fxjwind" id="reporter_fxjwind" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fxjwind">feng xiaojie</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="17/Mar/10 06:35"><time datetime="2010-03-17T06:35:32+0000">17/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="02/Apr/10 19:16"><time datetime="2010-04-02T19:16:37+0000">02/Apr/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,2177 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+BATCHEE+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+BATCHEE+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/BATCHEE" title="Browse BatchEE project">BatchEE</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>60</b> of <b>60</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13033680" rel="13033680" data-issuekey="BATCHEE-116" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-116" href="https://issues.apache.org/jira/browse/BATCHEE-116"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-116" href="https://issues.apache.org/jira/browse/BATCHEE-116">BATCHEE-116</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-116" href="https://issues.apache.org/jira/browse/BATCHEE-116">typo in generated sql file for mysql</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Jan/17 10:55"><time datetime="2017-01-11T10:55:13+0000">11/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="11/Jan/17 11:42"><time datetime="2017-01-11T11:42:01+0000">11/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13033310" rel="13033310" data-issuekey="BATCHEE-115" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-115" href="https://issues.apache.org/jira/browse/BATCHEE-115"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-115" href="https://issues.apache.org/jira/browse/BATCHEE-115">BATCHEE-115</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-115" href="https://issues.apache.org/jira/browse/BATCHEE-115">StepScope blows up with ContextNotActiveException in partitioned batches</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Jan/17 09:06"><time datetime="2017-01-10T09:06:14+0000">10/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="16/Jan/17 08:59"><time datetime="2017-01-16T08:59:48+0000">16/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13029841" rel="13029841" data-issuekey="BATCHEE-114" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-114" href="https://issues.apache.org/jira/browse/BATCHEE-114"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-114" href="https://issues.apache.org/jira/browse/BATCHEE-114">BATCHEE-114</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-114" href="https://issues.apache.org/jira/browse/BATCHEE-114">batchee-cdi blows up with AmbigiousResolutionException on wildfly 10.1.0.Final</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="21/Dec/16 18:11"><time datetime="2016-12-21T18:11:35+0000">21/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="21/Dec/16 21:42"><time datetime="2016-12-21T21:42:47+0000">21/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13029581" rel="13029581" data-issuekey="BATCHEE-113" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-113" href="https://issues.apache.org/jira/browse/BATCHEE-113"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-113" href="https://issues.apache.org/jira/browse/BATCHEE-113">BATCHEE-113</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-113" href="https://issues.apache.org/jira/browse/BATCHEE-113">JobScopedBeans are destroyed while job is running</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Dec/16 22:05"><time datetime="2016-12-20T22:05:05+0000">20/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Dec/16 23:42"><time datetime="2016-12-20T23:42:13+0000">20/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13003052" rel="13003052" data-issuekey="BATCHEE-112" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-112" href="https://issues.apache.org/jira/browse/BATCHEE-112"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-112" href="https://issues.apache.org/jira/browse/BATCHEE-112">BATCHEE-112</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-112" href="https://issues.apache.org/jira/browse/BATCHEE-112">MemoryPersistenceManagerService.jobOperatorGetRunningExecutions() throws NoSuchJobException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Sep/16 21:16"><time datetime="2016-09-06T21:16:18+0000">06/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="07/Sep/16 07:40"><time datetime="2016-09-07T07:40:40+0000">07/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997883" rel="12997883" data-issuekey="BATCHEE-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-108" href="https://issues.apache.org/jira/browse/BATCHEE-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-108" href="https://issues.apache.org/jira/browse/BATCHEE-108">BATCHEE-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-108" href="https://issues.apache.org/jira/browse/BATCHEE-108">Job entities don&#39;t support optimistic locking</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="17/Aug/16 11:25"><time datetime="2016-08-17T11:25:50+0000">17/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/16 07:37"><time datetime="2016-09-30T07:37:29+0000">30/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997882" rel="12997882" data-issuekey="BATCHEE-107" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-107" href="https://issues.apache.org/jira/browse/BATCHEE-107"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-107" href="https://issues.apache.org/jira/browse/BATCHEE-107">BATCHEE-107</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-107" href="https://issues.apache.org/jira/browse/BATCHEE-107">JobOperator#getJobNames() is slow if many Batches exist</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Aug/16 11:23"><time datetime="2016-08-17T11:23:52+0000">17/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="31/Aug/16 09:44"><time datetime="2016-08-31T09:44:40+0000">31/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12994589" rel="12994589" data-issuekey="BATCHEE-106" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-106" href="https://issues.apache.org/jira/browse/BATCHEE-106"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-106" href="https://issues.apache.org/jira/browse/BATCHEE-106">BATCHEE-106</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-106" href="https://issues.apache.org/jira/browse/BATCHEE-106">batchee cli script not working on cygwin</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="reporter_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Aug/16 13:19"><time datetime="2016-08-03T13:19:21+0000">03/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="03/Aug/16 14:03"><time datetime="2016-08-03T14:03:12+0000">03/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12939821" rel="12939821" data-issuekey="BATCHEE-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-97" href="https://issues.apache.org/jira/browse/BATCHEE-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-97" href="https://issues.apache.org/jira/browse/BATCHEE-97">BATCHEE-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-97" href="https://issues.apache.org/jira/browse/BATCHEE-97">JPQL Error in JobInstanceEntity</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elexx" id="reporter_elexx" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elexx">Alexander Falb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Feb/16 12:56"><time datetime="2016-02-17T12:56:55+0000">17/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="18/Feb/16 10:45"><time datetime="2016-02-18T10:45:10+0000">18/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12939807" rel="12939807" data-issuekey="BATCHEE-96" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-96" href="https://issues.apache.org/jira/browse/BATCHEE-96"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-96" href="https://issues.apache.org/jira/browse/BATCHEE-96">BATCHEE-96</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-96" href="https://issues.apache.org/jira/browse/BATCHEE-96">StepExecutionEntity and JobExecutionEntity violate the JPA2.0 Spec</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elexx" id="reporter_elexx" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elexx">Alexander Falb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Feb/16 11:54"><time datetime="2016-02-17T11:54:53+0000">17/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="18/Feb/16 10:45"><time datetime="2016-02-18T10:45:05+0000">18/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12939267" rel="12939267" data-issuekey="BATCHEE-95" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-95" href="https://issues.apache.org/jira/browse/BATCHEE-95"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-95" href="https://issues.apache.org/jira/browse/BATCHEE-95">BATCHEE-95</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-95" href="https://issues.apache.org/jira/browse/BATCHEE-95">stop partitioned batches throws exception for already completed executions</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Feb/16 12:57"><time datetime="2016-02-15T12:57:14+0000">15/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/16 18:05"><time datetime="2016-02-15T18:05:20+0000">15/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12933390" rel="12933390" data-issuekey="BATCHEE-93" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-93" href="https://issues.apache.org/jira/browse/BATCHEE-93"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-93" href="https://issues.apache.org/jira/browse/BATCHEE-93">BATCHEE-93</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-93" href="https://issues.apache.org/jira/browse/BATCHEE-93">Could not compile because Init.java is missing</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kozaka" id="reporter_kozaka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kozaka">Ákos Kozák</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="22/Jan/16 16:35"><time datetime="2016-01-22T16:35:51+0000">22/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="22/Jan/16 19:28"><time datetime="2016-01-22T19:28:52+0000">22/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12931801" rel="12931801" data-issuekey="BATCHEE-89" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-89" href="https://issues.apache.org/jira/browse/BATCHEE-89"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-89" href="https://issues.apache.org/jira/browse/BATCHEE-89">BATCHEE-89</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-89" href="https://issues.apache.org/jira/browse/BATCHEE-89">replace geronimo-tx-components with just the tx api</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jan/16 19:18"><time datetime="2016-01-17T19:18:36+0000">17/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="31/Aug/16 09:45"><time datetime="2016-08-31T09:45:24+0000">31/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12931400" rel="12931400" data-issuekey="BATCHEE-88" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-88" href="https://issues.apache.org/jira/browse/BATCHEE-88"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-88" href="https://issues.apache.org/jira/browse/BATCHEE-88">BATCHEE-88</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-88" href="https://issues.apache.org/jira/browse/BATCHEE-88">rollback fails if the connection already got closed by the container</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jan/16 08:38"><time datetime="2016-01-15T08:38:34+0000">15/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="16/May/16 10:10"><time datetime="2016-05-16T10:10:39+0000">16/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12920880" rel="12920880" data-issuekey="BATCHEE-87" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-87" href="https://issues.apache.org/jira/browse/BATCHEE-87"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-87" href="https://issues.apache.org/jira/browse/BATCHEE-87">BATCHEE-87</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-87" href="https://issues.apache.org/jira/browse/BATCHEE-87">StepExecutionEntity and JobExecutionEntity are not legal JPA entities </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="karlkilden" id="reporter_karlkilden" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=karlkilden">Karl Kildén</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="10/Dec/15 20:29"><time datetime="2015-12-10T20:29:22+0000">10/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="17/Feb/16 19:24"><time datetime="2016-02-17T19:24:54+0000">17/Feb/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12919857" rel="12919857" data-issuekey="BATCHEE-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-85" href="https://issues.apache.org/jira/browse/BATCHEE-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-85" href="https://issues.apache.org/jira/browse/BATCHEE-85">BATCHEE-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-85" href="https://issues.apache.org/jira/browse/BATCHEE-85">allow to configure file encoding for JSefaReader</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Dec/15 21:50"><time datetime="2015-12-07T21:50:21+0000">07/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:19+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12919826" rel="12919826" data-issuekey="BATCHEE-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-84" href="https://issues.apache.org/jira/browse/BATCHEE-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-84" href="https://issues.apache.org/jira/browse/BATCHEE-84">BATCHEE-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-84" href="https://issues.apache.org/jira/browse/BATCHEE-84">Batches.waitForEnd should return BatchStatus</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Dec/15 19:55"><time datetime="2015-12-07T19:55:07+0000">07/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:19+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12919824" rel="12919824" data-issuekey="BATCHEE-83" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-83" href="https://issues.apache.org/jira/browse/BATCHEE-83"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-83" href="https://issues.apache.org/jira/browse/BATCHEE-83">BATCHEE-83</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-83" href="https://issues.apache.org/jira/browse/BATCHEE-83">default header size for JsefaCsvReader</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Dec/15 19:42"><time datetime="2015-12-07T19:42:57+0000">07/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:16+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12918019" rel="12918019" data-issuekey="BATCHEE-82" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-82" href="https://issues.apache.org/jira/browse/BATCHEE-82"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-82" href="https://issues.apache.org/jira/browse/BATCHEE-82">BATCHEE-82</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-82" href="https://issues.apache.org/jira/browse/BATCHEE-82">TransactionalWriter can miss some lines if closed is called without a Synchronization entry</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="reporter_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Dec/15 14:12"><time datetime="2015-12-03T14:12:11+0000">03/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:17+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12916615" rel="12916615" data-issuekey="BATCHEE-74" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-74" href="https://issues.apache.org/jira/browse/BATCHEE-74"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-74" href="https://issues.apache.org/jira/browse/BATCHEE-74">BATCHEE-74</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-74" href="https://issues.apache.org/jira/browse/BATCHEE-74">blacklist org.codehaus.groovy.runtime.,org.apache.commons.collections.functors.,org.apache.xalan in our custom ObjectInputStream</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="reporter_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Nov/15 11:50"><time datetime="2015-11-27T11:50:23+0000">27/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:19+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12915292" rel="12915292" data-issuekey="BATCHEE-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-73" href="https://issues.apache.org/jira/browse/BATCHEE-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-73" href="https://issues.apache.org/jira/browse/BATCHEE-73">BATCHEE-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-73" href="https://issues.apache.org/jira/browse/BATCHEE-73">stochastic tck test-failure in JobOperatorTests.testJobOperatorAbandonJobDuringARestart</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="assignee_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Nov/15 10:33"><time datetime="2015-11-23T10:33:19+0000">23/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/16 18:20"><time datetime="2016-09-22T18:20:05+0000">22/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12912892" rel="12912892" data-issuekey="BATCHEE-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-69" href="https://issues.apache.org/jira/browse/BATCHEE-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-69" href="https://issues.apache.org/jira/browse/BATCHEE-69">BATCHEE-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-69" href="https://issues.apache.org/jira/browse/BATCHEE-69">Partition restart doesn&#39;t re-execute partitions when step has completed ( (allow-start-if-complete=true).  Restart after a restart of a partitioned step with override=true is broken</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Nov/15 17:02"><time datetime="2015-11-13T17:02:12+0000">13/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="26/Apr/16 17:58"><time datetime="2016-04-26T17:58:04+0000">26/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12911454" rel="12911454" data-issuekey="BATCHEE-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-68" href="https://issues.apache.org/jira/browse/BATCHEE-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-68" href="https://issues.apache.org/jira/browse/BATCHEE-68">BATCHEE-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-68" href="https://issues.apache.org/jira/browse/BATCHEE-68">update plugins and dependencies to latest versions</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Nov/15 07:12"><time datetime="2015-11-09T07:12:33+0000">09/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/16 13:43"><time datetime="2016-09-22T13:43:21+0000">22/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12907551" rel="12907551" data-issuekey="BATCHEE-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-67" href="https://issues.apache.org/jira/browse/BATCHEE-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-67" href="https://issues.apache.org/jira/browse/BATCHEE-67">BATCHEE-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-67" href="https://issues.apache.org/jira/browse/BATCHEE-67">Some more cases with JobContext/StepContext info not propagated</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Oct/15 21:17"><time datetime="2015-10-23T21:17:07+0000">23/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:20+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12862012" rel="12862012" data-issuekey="BATCHEE-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-66" href="https://issues.apache.org/jira/browse/BATCHEE-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-66" href="https://issues.apache.org/jira/browse/BATCHEE-66">BATCHEE-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-66" href="https://issues.apache.org/jira/browse/BATCHEE-66">store checkpoint variables etc in human readable format</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Sep/15 09:50"><time datetime="2015-09-05T09:50:25+0000">05/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:16+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12783540" rel="12783540" data-issuekey="BATCHEE-59" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-59" href="https://issues.apache.org/jira/browse/BATCHEE-59"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-59" href="https://issues.apache.org/jira/browse/BATCHEE-59">BATCHEE-59</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-59" href="https://issues.apache.org/jira/browse/BATCHEE-59">Invoking JobOperator#start() using BatchEEJAXRS2Client always produces NullPointerException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="xkylex" id="reporter_xkylex" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=xkylex">Kohei Nozaki</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Mar/15 08:58"><time datetime="2015-03-20T08:58:54+0000">20/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:17+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12765827" rel="12765827" data-issuekey="BATCHEE-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-58" href="https://issues.apache.org/jira/browse/BATCHEE-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-58" href="https://issues.apache.org/jira/browse/BATCHEE-58">BATCHEE-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-58" href="https://issues.apache.org/jira/browse/BATCHEE-58">fix tests on windows</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jan/15 18:56"><time datetime="2015-01-08T18:56:03+0000">08/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:16+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12760386" rel="12760386" data-issuekey="BATCHEE-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-57" href="https://issues.apache.org/jira/browse/BATCHEE-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-57" href="https://issues.apache.org/jira/browse/BATCHEE-57">BATCHEE-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-57" href="https://issues.apache.org/jira/browse/BATCHEE-57">StepListener.afterStep() should not be called in case of exceptions inside the step</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mariok" id="reporter_mariok" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mariok">Mario Ködding</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="09/Dec/14 08:41"><time datetime="2014-12-09T08:41:11+0000">09/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:27+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12760385" rel="12760385" data-issuekey="BATCHEE-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-56" href="https://issues.apache.org/jira/browse/BATCHEE-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-56" href="https://issues.apache.org/jira/browse/BATCHEE-56">BATCHEE-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-56" href="https://issues.apache.org/jira/browse/BATCHEE-56">ChunkListener.onError() should not be called in case of exceptions outside of chunks</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mariok" id="reporter_mariok" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mariok">Mario Ködding</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Dec/14 08:34"><time datetime="2014-12-09T08:34:19+0000">09/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:18+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12756011" rel="12756011" data-issuekey="BATCHEE-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-55" href="https://issues.apache.org/jira/browse/BATCHEE-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-55" href="https://issues.apache.org/jira/browse/BATCHEE-55">BATCHEE-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-55" href="https://issues.apache.org/jira/browse/BATCHEE-55">RI Bug 5806 - JobExecution returned by jobOperator.getJobExecutions(jobInstance) has null parameters</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Nov/14 04:31"><time datetime="2014-11-18T04:31:17+0000">18/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:21+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12754055" rel="12754055" data-issuekey="BATCHEE-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-54" href="https://issues.apache.org/jira/browse/BATCHEE-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-54" href="https://issues.apache.org/jira/browse/BATCHEE-54">BATCHEE-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-54" href="https://issues.apache.org/jira/browse/BATCHEE-54">After retry-with-rollback, 1-at-a-time processing continues for the rest of the step.   Numerous areas where ChunkStepController&#39;s sequence of calls is out-of-synch with spec.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Nov/14 04:46"><time datetime="2014-11-10T04:46:57+0000">10/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="26/Apr/16 17:58"><time datetime="2016-04-26T17:58:04+0000">26/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12746646" rel="12746646" data-issuekey="BATCHEE-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-53" href="https://issues.apache.org/jira/browse/BATCHEE-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-53" href="https://issues.apache.org/jira/browse/BATCHEE-53">BATCHEE-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-53" href="https://issues.apache.org/jira/browse/BATCHEE-53">JSefa Flr/CsvField converterType won&#39;t get picked up</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rsandtner" id="reporter_rsandtner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rsandtner">Reinhard Sandtner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Oct/14 07:42"><time datetime="2014-10-08T07:42:44+0000">08/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:15+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12736334" rel="12736334" data-issuekey="BATCHEE-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-52" href="https://issues.apache.org/jira/browse/BATCHEE-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-52" href="https://issues.apache.org/jira/browse/BATCHEE-52">BATCHEE-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-52" href="https://issues.apache.org/jira/browse/BATCHEE-52">Partition-level artifacts don&#39;t accept  #{jobProperties} substitutions (see RI Bug 5748)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Aug/14 10:27"><time datetime="2014-08-24T10:27:38+0000">24/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:20+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12733028" rel="12733028" data-issuekey="BATCHEE-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-51" href="https://issues.apache.org/jira/browse/BATCHEE-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-51" href="https://issues.apache.org/jira/browse/BATCHEE-51">BATCHEE-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-51" href="https://issues.apache.org/jira/browse/BATCHEE-51">add stop and restart to SimpleRest</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Aug/14 12:16"><time datetime="2014-08-09T12:16:36+0000">09/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:27+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12729391" rel="12729391" data-issuekey="BATCHEE-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-49" href="https://issues.apache.org/jira/browse/BATCHEE-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-49" href="https://issues.apache.org/jira/browse/BATCHEE-49">BATCHEE-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-49" href="https://issues.apache.org/jira/browse/BATCHEE-49">Clicking on a parameter name or value removes the parameter</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="julianus" id="reporter_julianus" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=julianus">Julianus Pepperoni</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Jul/14 08:00"><time datetime="2014-07-24T08:00:43+0000">24/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:25+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12729388" rel="12729388" data-issuekey="BATCHEE-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-48" href="https://issues.apache.org/jira/browse/BATCHEE-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-48" href="https://issues.apache.org/jira/browse/BATCHEE-48">BATCHEE-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-48" href="https://issues.apache.org/jira/browse/BATCHEE-48">ItemProcessListener.onProcessError() gets called with &#39;processedItem&#39; instead of &#39;itemRead&#39;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="a.gonzalez" id="reporter_a.gonzalez" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=a.gonzalez">Alonso Gonzalez</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Jul/14 07:49"><time datetime="2014-07-24T07:49:27+0000">24/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:26+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12728980" rel="12728980" data-issuekey="BATCHEE-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-47" href="https://issues.apache.org/jira/browse/BATCHEE-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-47" href="https://issues.apache.org/jira/browse/BATCHEE-47">BATCHEE-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-47" href="https://issues.apache.org/jira/browse/BATCHEE-47">Fail to create buffer in TransactionalWriter</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="michael.edgar" id="reporter_michael.edgar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=michael.edgar">Michael Edgar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Jul/14 21:37"><time datetime="2014-07-22T21:37:22+0000">22/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:24+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12726277" rel="12726277" data-issuekey="BATCHEE-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-44" href="https://issues.apache.org/jira/browse/BATCHEE-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-44" href="https://issues.apache.org/jira/browse/BATCHEE-44">BATCHEE-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-44" href="https://issues.apache.org/jira/browse/BATCHEE-44">Rollback should not swallow Exceptions</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jul/14 09:52"><time datetime="2014-07-09T09:52:45+0000">09/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:25+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12726049" rel="12726049" data-issuekey="BATCHEE-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-43" href="https://issues.apache.org/jira/browse/BATCHEE-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-43" href="https://issues.apache.org/jira/browse/BATCHEE-43">BATCHEE-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-43" href="https://issues.apache.org/jira/browse/BATCHEE-43">JobExecutionEntity#jobProperties should get stored as String</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jul/14 11:24"><time datetime="2014-07-08T11:24:31+0000">08/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:23+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12725472" rel="12725472" data-issuekey="BATCHEE-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-42" href="https://issues.apache.org/jira/browse/BATCHEE-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-42" href="https://issues.apache.org/jira/browse/BATCHEE-42">BATCHEE-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-42" href="https://issues.apache.org/jira/browse/BATCHEE-42">CLI openejb misses geronimo-javamail</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jul/14 11:45"><time datetime="2014-07-04T11:45:45+0000">04/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:26+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12715932" rel="12715932" data-issuekey="BATCHEE-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-41" href="https://issues.apache.org/jira/browse/BATCHEE-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-41" href="https://issues.apache.org/jira/browse/BATCHEE-41">BATCHEE-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-41" href="https://issues.apache.org/jira/browse/BATCHEE-41">JAX-RS module should create a jar</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/May/14 05:56"><time datetime="2014-05-22T05:56:56+0000">22/May/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 08:32"><time datetime="2016-01-15T08:32:15+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12713286" rel="12713286" data-issuekey="BATCHEE-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-39" href="https://issues.apache.org/jira/browse/BATCHEE-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-39" href="https://issues.apache.org/jira/browse/BATCHEE-39">BATCHEE-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-39" href="https://issues.apache.org/jira/browse/BATCHEE-39">jobProperties handling in JobExecutionEntity is wrong</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/May/14 10:43"><time datetime="2014-05-09T10:43:10+0000">09/May/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:27+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12713179" rel="12713179" data-issuekey="BATCHEE-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-38" href="https://issues.apache.org/jira/browse/BATCHEE-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-38" href="https://issues.apache.org/jira/browse/BATCHEE-38">BATCHEE-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-38" href="https://issues.apache.org/jira/browse/BATCHEE-38">readOnly mode is broken on a few containers</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/May/14 20:30"><time datetime="2014-05-08T20:30:30+0000">08/May/14</time></span> </td>
+                                            <td class="updated"> <span title="22/Sep/16 13:41"><time datetime="2016-09-22T13:41:23+0000">22/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12708701" rel="12708701" data-issuekey="BATCHEE-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-28" href="https://issues.apache.org/jira/browse/BATCHEE-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-28" href="https://issues.apache.org/jira/browse/BATCHEE-28">BATCHEE-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-28" href="https://issues.apache.org/jira/browse/BATCHEE-28">@Inject JobContext only works during loadArtifact</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Apr/14 08:36"><time datetime="2014-04-16T08:36:02+0000">16/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:24+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12706566" rel="12706566" data-issuekey="BATCHEE-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-26" href="https://issues.apache.org/jira/browse/BATCHEE-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-26" href="https://issues.apache.org/jira/browse/BATCHEE-26">BATCHEE-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-26" href="https://issues.apache.org/jira/browse/BATCHEE-26">rename our Database table names</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Apr/14 06:07"><time datetime="2014-04-04T06:07:44+0000">04/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 22:40"><time datetime="2015-12-07T22:40:26+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12705879" rel="12705879" data-issuekey="BATCHEE-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-25" href="https://issues.apache.org/jira/browse/BATCHEE-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-25" href="https://issues.apache.org/jira/browse/BATCHEE-25">BATCHEE-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-25" href="https://issues.apache.org/jira/browse/BATCHEE-25">entity StepExecutionEntity use reserved names as attributes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Apr/14 08:37"><time datetime="2014-04-01T08:37:26+0000">01/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:36+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12705789" rel="12705789" data-issuekey="BATCHEE-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-24" href="https://issues.apache.org/jira/browse/BATCHEE-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-24" href="https://issues.apache.org/jira/browse/BATCHEE-24">BATCHEE-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-24" href="https://issues.apache.org/jira/browse/BATCHEE-24">create the DB create table scripts for a few standard databases</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Mar/14 21:33"><time datetime="2014-03-31T21:33:39+0000">31/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:36+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12705532" rel="12705532" data-issuekey="BATCHEE-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-23" href="https://issues.apache.org/jira/browse/BATCHEE-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-23" href="https://issues.apache.org/jira/browse/BATCHEE-23">BATCHEE-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-23" href="https://issues.apache.org/jira/browse/BATCHEE-23">think about auto clustering for JBatch Jobs itself</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Mar/14 08:59"><time datetime="2014-03-30T08:59:47+0000">30/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/14 09:01"><time datetime="2014-03-30T09:01:59+0000">30/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12705531" rel="12705531" data-issuekey="BATCHEE-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-22" href="https://issues.apache.org/jira/browse/BATCHEE-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-22" href="https://issues.apache.org/jira/browse/BATCHEE-22">BATCHEE-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-22" href="https://issues.apache.org/jira/browse/BATCHEE-22">make our GUI (or better the JobOperator) be able to control multiple cluster nodes</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Mar/14 08:55"><time datetime="2014-03-30T08:55:48+0000">30/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/14 09:01"><time datetime="2014-03-30T09:01:59+0000">30/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12705530" rel="12705530" data-issuekey="BATCHEE-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-21" href="https://issues.apache.org/jira/browse/BATCHEE-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-21" href="https://issues.apache.org/jira/browse/BATCHEE-21">BATCHEE-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-21" href="https://issues.apache.org/jira/browse/BATCHEE-21">Think about security configuration</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Mar/14 08:34"><time datetime="2014-03-30T08:34:02+0000">30/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/14 08:37"><time datetime="2014-03-30T08:37:56+0000">30/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12705529" rel="12705529" data-issuekey="BATCHEE-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-20" href="https://issues.apache.org/jira/browse/BATCHEE-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-20" href="https://issues.apache.org/jira/browse/BATCHEE-20">BATCHEE-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-20" href="https://issues.apache.org/jira/browse/BATCHEE-20">extend the PersistenceManagerService to support multiple Batch job repository locations</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Mar/14 08:32"><time datetime="2014-03-30T08:32:38+0000">30/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/14 08:53"><time datetime="2014-03-30T08:53:20+0000">30/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12698399" rel="12698399" data-issuekey="BATCHEE-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-19" href="https://issues.apache.org/jira/browse/BATCHEE-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-19" href="https://issues.apache.org/jira/browse/BATCHEE-19">BATCHEE-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-19" href="https://issues.apache.org/jira/browse/BATCHEE-19">add TransactionManager support for IBM WebSphere</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Mar/14 10:57"><time datetime="2014-03-03T10:57:54+0000">03/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:38+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12697953" rel="12697953" data-issuekey="BATCHEE-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-17" href="https://issues.apache.org/jira/browse/BATCHEE-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-17" href="https://issues.apache.org/jira/browse/BATCHEE-17">BATCHEE-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-17" href="https://issues.apache.org/jira/browse/BATCHEE-17">Class &#39;IOs&#39; is redundant in many modules</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Feb/14 15:28"><time datetime="2014-02-28T15:28:36+0000">28/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:36+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12686944" rel="12686944" data-issuekey="BATCHEE-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-9" href="https://issues.apache.org/jira/browse/BATCHEE-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-9" href="https://issues.apache.org/jira/browse/BATCHEE-9">BATCHEE-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-9" href="https://issues.apache.org/jira/browse/BATCHEE-9">Once a batch action (JobOperator) is invoked it should use a single ServicesManager and not a contextual one</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="reporter_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Jan/14 09:25"><time datetime="2014-01-02T09:25:29+0000">02/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:37+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681973" rel="12681973" data-issuekey="BATCHEE-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-6" href="https://issues.apache.org/jira/browse/BATCHEE-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-6" href="https://issues.apache.org/jira/browse/BATCHEE-6">BATCHEE-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-6" href="https://issues.apache.org/jira/browse/BATCHEE-6">JAX-RS requires an Application impl </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Nov/13 20:20"><time datetime="2013-11-30T20:20:02+0000">30/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:38+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681428" rel="12681428" data-issuekey="BATCHEE-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-5" href="https://issues.apache.org/jira/browse/BATCHEE-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-5" href="https://issues.apache.org/jira/browse/BATCHEE-5">BATCHEE-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-5" href="https://issues.apache.org/jira/browse/BATCHEE-5">Metrics weren&#39;t fully implemented in RI for partition steps</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Nov/13 22:15"><time datetime="2013-11-26T22:15:04+0000">26/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:37+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681075" rel="12681075" data-issuekey="BATCHEE-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-4" href="https://issues.apache.org/jira/browse/BATCHEE-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-4" href="https://issues.apache.org/jira/browse/BATCHEE-4">BATCHEE-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-4" href="https://issues.apache.org/jira/browse/BATCHEE-4">Spec change on skip/retry exception matching coming in 1.1</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Nov/13 16:03"><time datetime="2013-11-25T16:03:06+0000">25/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:36+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681073" rel="12681073" data-issuekey="BATCHEE-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-3" href="https://issues.apache.org/jira/browse/BATCHEE-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-3" href="https://issues.apache.org/jira/browse/BATCHEE-3">BATCHEE-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-3" href="https://issues.apache.org/jira/browse/BATCHEE-3">Job/StepContext getExecutionId()/getInstanceId() return wrong value on partition threads</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="romain.manni-bucau" id="assignee_romain.manni-bucau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romain.manni-bucau">Romain Manni-Bucau</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottkurz" id="reporter_scottkurz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottkurz">Scott Kurz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Nov/13 15:56"><time datetime="2013-11-25T15:56:55+0000">25/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:38+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12678532" rel="12678532" data-issuekey="BATCHEE-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-2" href="https://issues.apache.org/jira/browse/BATCHEE-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-2" href="https://issues.apache.org/jira/browse/BATCHEE-2">BATCHEE-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-2" href="https://issues.apache.org/jira/browse/BATCHEE-2">make the thread creation an SPI </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Nov/13 09:35"><time datetime="2013-11-11T09:35:41+0000">11/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:37+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12678529" rel="12678529" data-issuekey="BATCHEE-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BATCHEE-1" href="https://issues.apache.org/jira/browse/BATCHEE-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BATCHEE-1" href="https://issues.apache.org/jira/browse/BATCHEE-1">BATCHEE-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BATCHEE-1" href="https://issues.apache.org/jira/browse/BATCHEE-1">move from javax.* dependencies to org.apache.geronimo.specs.*</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Nov/13 09:24"><time datetime="2013-11-11T09:24:25+0000">11/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/14 06:59"><time datetime="2014-04-07T06:59:37+0000">07/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

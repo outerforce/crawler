@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+SANDESHA2C+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+SANDESHA2C+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/SANDESHA2C" title="Browse Sandesha2/C project">Sandesha2/C</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>52</b> of <b>52</b>
+            as at: <b>05/Mar/17 17:00</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12627619" rel="12627619" data-issuekey="SANDESHA2C-75" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-75" href="https://issues.apache.org/jira/browse/SANDESHA2C-75"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-75" href="https://issues.apache.org/jira/browse/SANDESHA2C-75">SANDESHA2C-75</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-75" href="https://issues.apache.org/jira/browse/SANDESHA2C-75">Crash in Sandesha2/C with Sqlite persistence after 174 simple messages consistently.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="paonethestar" id="reporter_paonethestar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=paonethestar">Vamsi Pavan Kumar Sanka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="15/Jan/13 09:55"><time datetime="2013-01-15T09:55:46+0000">15/Jan/13</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/13 09:55"><time datetime="2013-01-15T09:55:46+0000">15/Jan/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12458285" rel="12458285" data-issuekey="SANDESHA2C-74" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-74" href="https://issues.apache.org/jira/browse/SANDESHA2C-74"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-74" href="https://issues.apache.org/jira/browse/SANDESHA2C-74">SANDESHA2C-74</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-74" href="https://issues.apache.org/jira/browse/SANDESHA2C-74">Homepage and documentation do not show the new SVN locations</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="danushka" id="reporter_danushka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=danushka">Danushka Menikkumbura</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/Mar/10 21:02"><time datetime="2010-03-05T21:02:18+0000">05/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="17/Mar/10 03:08"><time datetime="2010-03-17T03:08:15+0000">17/Mar/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12414135" rel="12414135" data-issuekey="SANDESHA2C-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-73" href="https://issues.apache.org/jira/browse/SANDESHA2C-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-73" href="https://issues.apache.org/jira/browse/SANDESHA2C-73">SANDESHA2C-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-73" href="https://issues.apache.org/jira/browse/SANDESHA2C-73">IS there a limitation for message size using Reliable point to point message? I could not send a message larger than 65Kbytes? Could you confirm, please?</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rdharia" id="reporter_rdharia" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rdharia">Rajesh Dharia</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/Feb/09 19:49"><time datetime="2009-02-05T19:49:52+0000">05/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="17/Feb/09 11:29"><time datetime="2009-02-17T11:29:03+0000">17/Feb/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12409424" rel="12409424" data-issuekey="SANDESHA2C-72" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-72" href="https://issues.apache.org/jira/browse/SANDESHA2C-72"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-72" href="https://issues.apache.org/jira/browse/SANDESHA2C-72">SANDESHA2C-72</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-72" href="https://issues.apache.org/jira/browse/SANDESHA2C-72">When policy bean is set into the service as a service parameter it fails when run with Apache2</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Nov/08 05:11"><time datetime="2008-11-28T05:11:57+0000">28/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="30/Jul/09 09:28"><time datetime="2009-07-30T09:28:01+0000">30/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12409404" rel="12409404" data-issuekey="SANDESHA2C-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-70" href="https://issues.apache.org/jira/browse/SANDESHA2C-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-70" href="https://issues.apache.org/jira/browse/SANDESHA2C-70">SANDESHA2C-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-70" href="https://issues.apache.org/jira/browse/SANDESHA2C-70">Ping Sample Clients Fail to Work</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="danushka" id="reporter_danushka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=danushka">Danushka Menikkumbura</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Nov/08 18:35"><time datetime="2008-11-27T18:35:01+0000">27/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/08 06:58"><time datetime="2008-11-28T06:58:56+0000">28/Nov/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12409374" rel="12409374" data-issuekey="SANDESHA2C-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-69" href="https://issues.apache.org/jira/browse/SANDESHA2C-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-69" href="https://issues.apache.org/jira/browse/SANDESHA2C-69">SANDESHA2C-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-69" href="https://issues.apache.org/jira/browse/SANDESHA2C-69">Incorrect WS-A Action in Dual-channel Reply Message</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="danushka" id="reporter_danushka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=danushka">Danushka Menikkumbura</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Nov/08 05:50"><time datetime="2008-11-27T05:50:38+0000">27/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/08 06:39"><time datetime="2008-11-28T06:39:29+0000">28/Nov/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12407782" rel="12407782" data-issuekey="SANDESHA2C-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-68" href="https://issues.apache.org/jira/browse/SANDESHA2C-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-68" href="https://issues.apache.org/jira/browse/SANDESHA2C-68">SANDESHA2C-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-68" href="https://issues.apache.org/jira/browse/SANDESHA2C-68">Transport sender gets replaced by sandesha2 transport sender</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="danushka" id="reporter_danushka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=danushka">Danushka Menikkumbura</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Nov/08 14:16"><time datetime="2008-11-04T14:16:13+0000">04/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/08 05:24"><time datetime="2008-11-28T05:24:18+0000">28/Nov/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12407780" rel="12407780" data-issuekey="SANDESHA2C-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-67" href="https://issues.apache.org/jira/browse/SANDESHA2C-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-67" href="https://issues.apache.org/jira/browse/SANDESHA2C-67">SANDESHA2C-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-67" href="https://issues.apache.org/jira/browse/SANDESHA2C-67">Sandesha copies message properties selectively when creating message context for LastMessage reply</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="danushka" id="reporter_danushka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=danushka">Danushka Menikkumbura</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Nov/08 13:44"><time datetime="2008-11-04T13:44:05+0000">04/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/08 06:34"><time datetime="2008-11-28T06:34:22+0000">28/Nov/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12404486" rel="12404486" data-issuekey="SANDESHA2C-66" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-66" href="https://issues.apache.org/jira/browse/SANDESHA2C-66"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-66" href="https://issues.apache.org/jira/browse/SANDESHA2C-66">SANDESHA2C-66</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-66" href="https://issues.apache.org/jira/browse/SANDESHA2C-66">When the soap_action is not present Sandesha2/C set the to_address as the soap_action.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="17/Sep/08 06:30"><time datetime="2008-09-17T06:30:17+0000">17/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="17/Sep/08 06:30"><time datetime="2008-09-17T06:30:17+0000">17/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12404484" rel="12404484" data-issuekey="SANDESHA2C-65" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-65" href="https://issues.apache.org/jira/browse/SANDESHA2C-65"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-65" href="https://issues.apache.org/jira/browse/SANDESHA2C-65">SANDESHA2C-65</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-65" href="https://issues.apache.org/jira/browse/SANDESHA2C-65">Reference parameters inside acks_to epr need to be processed from sandesha2/C </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Sep/08 06:05"><time datetime="2008-09-17T06:05:26+0000">17/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/08 17:01"><time datetime="2008-10-02T17:01:53+0000">02/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12404258" rel="12404258" data-issuekey="SANDESHA2C-64" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-64" href="https://issues.apache.org/jira/browse/SANDESHA2C-64"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-64" href="https://issues.apache.org/jira/browse/SANDESHA2C-64">SANDESHA2C-64</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-64" href="https://issues.apache.org/jira/browse/SANDESHA2C-64">Security integration is needed.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Sep/08 16:06"><time datetime="2008-09-12T16:06:01+0000">12/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/08 16:06"><time datetime="2008-09-12T16:06:01+0000">12/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12404257" rel="12404257" data-issuekey="SANDESHA2C-63" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-63" href="https://issues.apache.org/jira/browse/SANDESHA2C-63"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-63" href="https://issues.apache.org/jira/browse/SANDESHA2C-63">SANDESHA2C-63</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-63" href="https://issues.apache.org/jira/browse/SANDESHA2C-63">Do Policy integration</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="assignee_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Sep/08 16:05"><time datetime="2008-09-12T16:05:09+0000">12/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/08 17:00"><time datetime="2008-10-02T17:00:49+0000">02/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12403207" rel="12403207" data-issuekey="SANDESHA2C-61" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-61" href="https://issues.apache.org/jira/browse/SANDESHA2C-61"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-61" href="https://issues.apache.org/jira/browse/SANDESHA2C-61">SANDESHA2C-61</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-61" href="https://issues.apache.org/jira/browse/SANDESHA2C-61">RM 1.1 Client does not send the last message number in the terminate sequence message when doing request reply addressible requests</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/08 01:12"><time datetime="2008-08-28T01:12:01+0000">28/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/08 15:49"><time datetime="2008-09-12T15:49:26+0000">12/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12403206" rel="12403206" data-issuekey="SANDESHA2C-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-60" href="https://issues.apache.org/jira/browse/SANDESHA2C-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-60" href="https://issues.apache.org/jira/browse/SANDESHA2C-60">SANDESHA2C-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-60" href="https://issues.apache.org/jira/browse/SANDESHA2C-60">Sandesha2 service does not sends CreateSequenceResponse messages for RequestReply RM10 .net client requets</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/08 01:02"><time datetime="2008-08-28T01:02:37+0000">28/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/08 16:57"><time datetime="2008-10-02T16:57:19+0000">02/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12403204" rel="12403204" data-issuekey="SANDESHA2C-59" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-59" href="https://issues.apache.org/jira/browse/SANDESHA2C-59"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-59" href="https://issues.apache.org/jira/browse/SANDESHA2C-59">SANDESHA2C-59</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-59" href="https://issues.apache.org/jira/browse/SANDESHA2C-59">rm oneway annonymous request reply fails due to invalid action in the sandesha2/C servers response.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/08 00:49"><time datetime="2008-08-28T00:49:48+0000">28/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/08 16:57"><time datetime="2008-10-02T16:57:10+0000">02/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12403199" rel="12403199" data-issuekey="SANDESHA2C-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-58" href="https://issues.apache.org/jira/browse/SANDESHA2C-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-58" href="https://issues.apache.org/jira/browse/SANDESHA2C-58">SANDESHA2C-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-58" href="https://issues.apache.org/jira/browse/SANDESHA2C-58">rm 1.0 oneway addressable .net cliet requests cannot be handled from sandesha2/C server</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/08 00:18"><time datetime="2008-08-28T00:18:18+0000">28/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/08 16:54"><time datetime="2008-10-02T16:54:54+0000">02/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12403198" rel="12403198" data-issuekey="SANDESHA2C-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-57" href="https://issues.apache.org/jira/browse/SANDESHA2C-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-57" href="https://issues.apache.org/jira/browse/SANDESHA2C-57">SANDESHA2C-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-57" href="https://issues.apache.org/jira/browse/SANDESHA2C-57">rm service crashes for rm 1.1 .net oneway annonymous requests</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/08 00:11"><time datetime="2008-08-28T00:11:05+0000">28/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/08 16:53"><time datetime="2008-10-02T16:53:23+0000">02/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12403196" rel="12403196" data-issuekey="SANDESHA2C-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-56" href="https://issues.apache.org/jira/browse/SANDESHA2C-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-56" href="https://issues.apache.org/jira/browse/SANDESHA2C-56">SANDESHA2C-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-56" href="https://issues.apache.org/jira/browse/SANDESHA2C-56">Rm 1.0 oneway annonymous service does not interop with .net client</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/08 00:02"><time datetime="2008-08-28T00:02:10+0000">28/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="01/Sep/08 15:53"><time datetime="2008-09-01T15:53:48+0000">01/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12402449" rel="12402449" data-issuekey="SANDESHA2C-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-55" href="https://issues.apache.org/jira/browse/SANDESHA2C-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-55" href="https://issues.apache.org/jira/browse/SANDESHA2C-55">SANDESHA2C-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-55" href="https://issues.apache.org/jira/browse/SANDESHA2C-55">Does not interoperate with .net when sending addressable twoway messages </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Aug/08 11:31"><time datetime="2008-08-15T11:31:57+0000">15/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/08 16:53"><time datetime="2008-10-02T16:53:59+0000">02/Oct/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12402448" rel="12402448" data-issuekey="SANDESHA2C-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-54" href="https://issues.apache.org/jira/browse/SANDESHA2C-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-54" href="https://issues.apache.org/jira/browse/SANDESHA2C-54">SANDESHA2C-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-54" href="https://issues.apache.org/jira/browse/SANDESHA2C-54">Sandesha2/C keeps on sending terminate sequemces when it receives an piggybacked terminate sequence</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Aug/08 11:29"><time datetime="2008-08-15T11:29:56+0000">15/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/08 15:51"><time datetime="2008-09-12T15:51:34+0000">12/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12402447" rel="12402447" data-issuekey="SANDESHA2C-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-53" href="https://issues.apache.org/jira/browse/SANDESHA2C-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-53" href="https://issues.apache.org/jira/browse/SANDESHA2C-53">SANDESHA2C-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-53" href="https://issues.apache.org/jira/browse/SANDESHA2C-53">One way addressable scenarios are not working</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Aug/08 11:28"><time datetime="2008-08-15T11:28:05+0000">15/Aug/08</time></span> </td>
+                                            <td class="updated"> <span title="02/May/13 02:29"><time datetime="2013-05-02T02:29:16+0000">02/May/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12396547" rel="12396547" data-issuekey="SANDESHA2C-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-51" href="https://issues.apache.org/jira/browse/SANDESHA2C-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-51" href="https://issues.apache.org/jira/browse/SANDESHA2C-51">SANDESHA2C-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-51" href="https://issues.apache.org/jira/browse/SANDESHA2C-51">When sequence timed out sandesha2/C try to send a create sequence message.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/May/08 17:55"><time datetime="2008-05-21T17:55:20+0000">21/May/08</time></span> </td>
+                                            <td class="updated"> <span title="22/Jun/08 03:40"><time datetime="2008-06-22T03:40:14+0000">22/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12395541" rel="12395541" data-issuekey="SANDESHA2C-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-50" href="https://issues.apache.org/jira/browse/SANDESHA2C-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-50" href="https://issues.apache.org/jira/browse/SANDESHA2C-50">SANDESHA2C-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-50" href="https://issues.apache.org/jira/browse/SANDESHA2C-50">When empty last message is sent to the Sandesha2/C server it does not send a terminate sequence message.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/May/08 17:34"><time datetime="2008-05-07T17:34:21+0000">07/May/08</time></span> </td>
+                                            <td class="updated"> <span title="09/May/08 15:47"><time datetime="2008-05-09T15:47:57+0000">09/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12395443" rel="12395443" data-issuekey="SANDESHA2C-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-49" href="https://issues.apache.org/jira/browse/SANDESHA2C-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-49" href="https://issues.apache.org/jira/browse/SANDESHA2C-49">SANDESHA2C-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-49" href="https://issues.apache.org/jira/browse/SANDESHA2C-49">When SequenceAcknowledgement is piggyback at the application reply, application&#39;s wsa:action is replaced with rm&#39;s action.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="reporter_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/May/08 16:59"><time datetime="2008-05-06T16:59:15+0000">06/May/08</time></span> </td>
+                                            <td class="updated"> <span title="22/Jun/08 03:41"><time datetime="2008-06-22T03:41:13+0000">22/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12395439" rel="12395439" data-issuekey="SANDESHA2C-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-48" href="https://issues.apache.org/jira/browse/SANDESHA2C-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-48" href="https://issues.apache.org/jira/browse/SANDESHA2C-48">SANDESHA2C-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-48" href="https://issues.apache.org/jira/browse/SANDESHA2C-48">When tested with .net client sandesha2/C server fails by sending two soap messages in the same response.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/May/08 16:33"><time datetime="2008-05-06T16:33:19+0000">06/May/08</time></span> </td>
+                                            <td class="updated"> <span title="09/May/08 15:49"><time datetime="2008-05-09T15:49:01+0000">09/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12395436" rel="12395436" data-issuekey="SANDESHA2C-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-47" href="https://issues.apache.org/jira/browse/SANDESHA2C-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-47" href="https://issues.apache.org/jira/browse/SANDESHA2C-47">SANDESHA2C-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-47" href="https://issues.apache.org/jira/browse/SANDESHA2C-47">When server is deployed with Apache2, sometimes server does not send terminate message.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/May/08 16:15"><time datetime="2008-05-06T16:15:54+0000">06/May/08</time></span> </td>
+                                            <td class="updated"> <span title="09/May/08 15:50"><time datetime="2008-05-09T15:50:09+0000">09/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12391579" rel="12391579" data-issuekey="SANDESHA2C-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-44" href="https://issues.apache.org/jira/browse/SANDESHA2C-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-44" href="https://issues.apache.org/jira/browse/SANDESHA2C-44">SANDESHA2C-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-44" href="https://issues.apache.org/jira/browse/SANDESHA2C-44">rm_echo_single_1_1 sample fail frequently</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Mar/08 01:47"><time datetime="2008-03-17T01:47:48+0000">17/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/08 17:46"><time datetime="2008-04-06T17:46:34+0000">06/Apr/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389957" rel="12389957" data-issuekey="SANDESHA2C-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-43" href="https://issues.apache.org/jira/browse/SANDESHA2C-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-43" href="https://issues.apache.org/jira/browse/SANDESHA2C-43">SANDESHA2C-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-43" href="https://issues.apache.org/jira/browse/SANDESHA2C-43">When large sequences are sent for rm_ping_1_0 acks are not receieved for random messages.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Mar/08 09:10"><time datetime="2008-03-01T09:10:03+0000">01/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="01/Mar/08 11:41"><time datetime="2008-03-01T11:41:05+0000">01/Mar/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389956" rel="12389956" data-issuekey="SANDESHA2C-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-42" href="https://issues.apache.org/jira/browse/SANDESHA2C-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-42" href="https://issues.apache.org/jira/browse/SANDESHA2C-42">SANDESHA2C-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-42" href="https://issues.apache.org/jira/browse/SANDESHA2C-42">With apach2 module server segfaults</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Mar/08 09:07"><time datetime="2008-03-01T09:07:23+0000">01/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/08 16:01"><time datetime="2008-09-12T16:01:31+0000">12/Sep/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389955" rel="12389955" data-issuekey="SANDESHA2C-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-41" href="https://issues.apache.org/jira/browse/SANDESHA2C-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-41" href="https://issues.apache.org/jira/browse/SANDESHA2C-41">SANDESHA2C-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-41" href="https://issues.apache.org/jira/browse/SANDESHA2C-41">Randomely sending response application messages without soap headers which result in soap fault.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Mar/08 09:02"><time datetime="2008-03-01T09:02:12+0000">01/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/08 17:47"><time datetime="2008-04-06T17:47:30+0000">06/Apr/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389593" rel="12389593" data-issuekey="SANDESHA2C-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-40" href="https://issues.apache.org/jira/browse/SANDESHA2C-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-40" href="https://issues.apache.org/jira/browse/SANDESHA2C-40">SANDESHA2C-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-40" href="https://issues.apache.org/jira/browse/SANDESHA2C-40">When a large sequence is sent an random intermediate message is not sent for rm_ping-1-0 sample</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Feb/08 14:24"><time datetime="2008-02-26T14:24:28+0000">26/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="01/Mar/08 09:05"><time datetime="2008-03-01T09:05:10+0000">01/Mar/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12386790" rel="12386790" data-issuekey="SANDESHA2C-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-39" href="https://issues.apache.org/jira/browse/SANDESHA2C-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-39" href="https://issues.apache.org/jira/browse/SANDESHA2C-39">SANDESHA2C-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-39" href="https://issues.apache.org/jira/browse/SANDESHA2C-39">When built with mysql and when mysql-bin is not on PATH, no appropriate error message is seen</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="senakafdo" id="reporter_senakafdo" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=senakafdo">Senaka Fernando</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jan/08 16:43"><time datetime="2008-01-21T16:43:10+0000">21/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 14:12"><time datetime="2008-02-26T14:12:51+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12386573" rel="12386573" data-issuekey="SANDESHA2C-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-38" href="https://issues.apache.org/jira/browse/SANDESHA2C-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-38" href="https://issues.apache.org/jira/browse/SANDESHA2C-38">SANDESHA2C-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-38" href="https://issues.apache.org/jira/browse/SANDESHA2C-38">There&#39;s a build break on Windows.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dchandradasa" id="reporter_dchandradasa" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dchandradasa">Marcus Dushshantha Chandradasa</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jan/08 06:17"><time datetime="2008-01-18T06:17:12+0000">18/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 14:14"><time datetime="2008-02-26T14:14:29+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12384770" rel="12384770" data-issuekey="SANDESHA2C-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-37" href="https://issues.apache.org/jira/browse/SANDESHA2C-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-37" href="https://issues.apache.org/jira/browse/SANDESHA2C-37">SANDESHA2C-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-37" href="https://issues.apache.org/jira/browse/SANDESHA2C-37">line numbers are not correct in README</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manojkumara" id="reporter_manojkumara" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manojkumara">Manoj Pushpakumara</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Dec/07 14:46"><time datetime="2007-12-17T14:46:58+0000">17/Dec/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 14:15"><time datetime="2008-02-26T14:15:41+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12383502" rel="12383502" data-issuekey="SANDESHA2C-35" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-35" href="https://issues.apache.org/jira/browse/SANDESHA2C-35"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-35" href="https://issues.apache.org/jira/browse/SANDESHA2C-35">SANDESHA2C-35</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-35" href="https://issues.apache.org/jira/browse/SANDESHA2C-35">rm_ping client does not work properly with mysql</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Nov/07 10:20"><time datetime="2007-11-29T10:20:56+0000">29/Nov/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 14:17"><time datetime="2008-02-26T14:17:42+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12382944" rel="12382944" data-issuekey="SANDESHA2C-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-34" href="https://issues.apache.org/jira/browse/SANDESHA2C-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-34" href="https://issues.apache.org/jira/browse/SANDESHA2C-34">SANDESHA2C-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-34" href="https://issues.apache.org/jira/browse/SANDESHA2C-34">when rm_ping client fails to run again correctly the data base need clean up.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Nov/07 04:32"><time datetime="2007-11-21T04:32:02+0000">21/Nov/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 15:50"><time datetime="2008-02-26T15:50:43+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12365970" rel="12365970" data-issuekey="SANDESHA2C-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-33" href="https://issues.apache.org/jira/browse/SANDESHA2C-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-33" href="https://issues.apache.org/jira/browse/SANDESHA2C-33">SANDESHA2C-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-33" href="https://issues.apache.org/jira/browse/SANDESHA2C-33">SVN head broken due to changes in Axis2/C, axis2_msg_ctx_{get,set}_property functions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Mar/07 05:27"><time datetime="2007-03-28T05:27:48+0000">28/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="06/May/08 16:04"><time datetime="2008-05-06T16:04:42+0000">06/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12364778" rel="12364778" data-issuekey="SANDESHA2C-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-32" href="https://issues.apache.org/jira/browse/SANDESHA2C-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-32" href="https://issues.apache.org/jira/browse/SANDESHA2C-32">SANDESHA2C-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-32" href="https://issues.apache.org/jira/browse/SANDESHA2C-32">sandesha2_utils_get_current_time_in_millis is not functioning properly.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Mar/07 04:57"><time datetime="2007-03-13T04:57:00+0000">13/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="13/Mar/07 05:14"><time datetime="2007-03-13T05:14:27+0000">13/Mar/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12364775" rel="12364775" data-issuekey="SANDESHA2C-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-30" href="https://issues.apache.org/jira/browse/SANDESHA2C-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-30" href="https://issues.apache.org/jira/browse/SANDESHA2C-30">SANDESHA2C-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-30" href="https://issues.apache.org/jira/browse/SANDESHA2C-30">Bottleneck due to sequential transactions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Mar/07 04:36"><time datetime="2007-03-13T04:36:33+0000">13/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 15:54"><time datetime="2008-02-26T15:54:30+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12364774" rel="12364774" data-issuekey="SANDESHA2C-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-29" href="https://issues.apache.org/jira/browse/SANDESHA2C-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-29" href="https://issues.apache.org/jira/browse/SANDESHA2C-29">SANDESHA2C-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-29" href="https://issues.apache.org/jira/browse/SANDESHA2C-29">SEND_RECEIVE_NON_BLOCKING segfaults in the second app message of the sequence</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Mar/07 04:28"><time datetime="2007-03-13T04:28:55+0000">13/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 15:57"><time datetime="2008-02-26T15:57:20+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12364101" rel="12364101" data-issuekey="SANDESHA2C-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-28" href="https://issues.apache.org/jira/browse/SANDESHA2C-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-28" href="https://issues.apache.org/jira/browse/SANDESHA2C-28">SANDESHA2C-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-28" href="https://issues.apache.org/jira/browse/SANDESHA2C-28">Terminate message is sent twice</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Mar/07 09:18"><time datetime="2007-03-05T09:18:17+0000">05/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="13/Mar/07 04:42"><time datetime="2007-03-13T04:42:58+0000">13/Mar/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12363767" rel="12363767" data-issuekey="SANDESHA2C-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-27" href="https://issues.apache.org/jira/browse/SANDESHA2C-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-27" href="https://issues.apache.org/jira/browse/SANDESHA2C-27">SANDESHA2C-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-27" href="https://issues.apache.org/jira/browse/SANDESHA2C-27">Do memory leak fixes in Sandesha2c</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Feb/07 08:26"><time datetime="2007-02-28T08:26:12+0000">28/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/08 18:30"><time datetime="2008-04-06T18:30:45+0000">06/Apr/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12363483" rel="12363483" data-issuekey="SANDESHA2C-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-25" href="https://issues.apache.org/jira/browse/SANDESHA2C-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-25" href="https://issues.apache.org/jira/browse/SANDESHA2C-25">SANDESHA2C-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-25" href="https://issues.apache.org/jira/browse/SANDESHA2C-25">Application response does not reach the client consistently in two way single channel RM 1.0</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Feb/07 13:44"><time datetime="2007-02-23T13:44:20+0000">23/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="05/Mar/07 06:34"><time datetime="2007-03-05T06:34:09+0000">05/Mar/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12363368" rel="12363368" data-issuekey="SANDESHA2C-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-24" href="https://issues.apache.org/jira/browse/SANDESHA2C-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-24" href="https://issues.apache.org/jira/browse/SANDESHA2C-24">SANDESHA2C-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-24" href="https://issues.apache.org/jira/browse/SANDESHA2C-24">When non RM application messages are sent sandesha2_in_handler is invoked which is wrong</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Feb/07 06:19"><time datetime="2007-02-22T06:19:37+0000">22/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/07 08:58"><time datetime="2007-02-26T08:58:53+0000">26/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12363366" rel="12363366" data-issuekey="SANDESHA2C-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-23" href="https://issues.apache.org/jira/browse/SANDESHA2C-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-23" href="https://issues.apache.org/jira/browse/SANDESHA2C-23">SANDESHA2C-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-23" href="https://issues.apache.org/jira/browse/SANDESHA2C-23">If reply_to is NULL it is not taken as anonymous</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Feb/07 05:37"><time datetime="2007-02-22T05:37:38+0000">22/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/07 09:00"><time datetime="2007-02-26T09:00:16+0000">26/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12362753" rel="12362753" data-issuekey="SANDESHA2C-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-21" href="https://issues.apache.org/jira/browse/SANDESHA2C-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-21" href="https://issues.apache.org/jira/browse/SANDESHA2C-21">SANDESHA2C-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-21" href="https://issues.apache.org/jira/browse/SANDESHA2C-21">In RM 1.0 when a single message is sent marked with last message, the terminate sequence is not sent</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="assignee_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Feb/07 03:56"><time datetime="2007-02-14T03:56:44+0000">14/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="16/Feb/07 05:17"><time datetime="2007-02-16T05:17:27+0000">16/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12362752" rel="12362752" data-issuekey="SANDESHA2C-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-20" href="https://issues.apache.org/jira/browse/SANDESHA2C-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-20" href="https://issues.apache.org/jira/browse/SANDESHA2C-20">SANDESHA2C-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-20" href="https://issues.apache.org/jira/browse/SANDESHA2C-20">Terminate sequence is not initiated from server side in two way messaging</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Feb/07 03:54"><time datetime="2007-02-14T03:54:58+0000">14/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 16:11"><time datetime="2008-02-26T16:11:11+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12362073" rel="12362073" data-issuekey="SANDESHA2C-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-18" href="https://issues.apache.org/jira/browse/SANDESHA2C-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-18" href="https://issues.apache.org/jira/browse/SANDESHA2C-18">SANDESHA2C-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-18" href="https://issues.apache.org/jira/browse/SANDESHA2C-18">When rm_echo_single sample is run with persistent storage manager, client side database is not completely cleared after termination of the sequence</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Feb/07 06:10"><time datetime="2007-02-06T06:10:31+0000">06/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 16:05"><time datetime="2008-02-26T16:05:32+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12362072" rel="12362072" data-issuekey="SANDESHA2C-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-17" href="https://issues.apache.org/jira/browse/SANDESHA2C-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-17" href="https://issues.apache.org/jira/browse/SANDESHA2C-17">SANDESHA2C-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-17" href="https://issues.apache.org/jira/browse/SANDESHA2C-17">In single channel mode MakeConnection messages are continued to be sent even after the terminate sequence. </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Feb/07 05:59"><time datetime="2007-02-06T05:59:49+0000">06/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/08 16:08"><time datetime="2008-02-26T16:08:12+0000">26/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12361079" rel="12361079" data-issuekey="SANDESHA2C-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-9" href="https://issues.apache.org/jira/browse/SANDESHA2C-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-9" href="https://issues.apache.org/jira/browse/SANDESHA2C-9">SANDESHA2C-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-9" href="https://issues.apache.org/jira/browse/SANDESHA2C-9">There is unneccessary delay for the first sequence message</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="damitha" id="reporter_damitha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=damitha">Damitha Kumarage</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Jan/07 11:04"><time datetime="2007-01-23T11:04:36+0000">23/Jan/07</time></span> </td>
+                                            <td class="updated"> <span title="05/Feb/07 10:05"><time datetime="2007-02-05T10:05:25+0000">05/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12351950" rel="12351950" data-issuekey="SANDESHA2C-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-2" href="https://issues.apache.org/jira/browse/SANDESHA2C-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-2" href="https://issues.apache.org/jira/browse/SANDESHA2C-2">SANDESHA2C-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-2" href="https://issues.apache.org/jira/browse/SANDESHA2C-2">Sandesha does not work with Apache2 httpd module of Axis2/C</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="samisa" id="reporter_samisa" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=samisa">Samisa Abeysinghe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Sep/06 07:54"><time datetime="2006-09-28T07:54:43+0000">28/Sep/06</time></span> </td>
+                                            <td class="updated"> <span title="23/Jan/07 10:44"><time datetime="2007-01-23T10:44:37+0000">23/Jan/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12351770" rel="12351770" data-issuekey="SANDESHA2C-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANDESHA2C-1" href="https://issues.apache.org/jira/browse/SANDESHA2C-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANDESHA2C-1" href="https://issues.apache.org/jira/browse/SANDESHA2C-1">SANDESHA2C-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANDESHA2C-1" href="https://issues.apache.org/jira/browse/SANDESHA2C-1">sandesha2/C rm_ping client fails to process the acknowledgement from sandesha2/java Rm service</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manjula peiris" id="reporter_manjula peiris" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manjula+peiris">Manjula Peiris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Sep/06 08:10"><time datetime="2006-09-26T08:10:45+0000">26/Sep/06</time></span> </td>
+                                            <td class="updated"> <span title="23/Jan/07 10:45"><time datetime="2007-01-23T10:45:27+0000">23/Jan/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

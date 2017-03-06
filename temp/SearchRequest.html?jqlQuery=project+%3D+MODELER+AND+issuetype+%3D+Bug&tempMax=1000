@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MODELER+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MODELER+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MODELER" title="Browse Commons Modeler project">Commons Modeler</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>28</b> of <b>28</b>
+            as at: <b>05/Mar/17 16:55</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13039278" rel="13039278" data-issuekey="MODELER-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-32" href="https://issues.apache.org/jira/browse/MODELER-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-32" href="https://issues.apache.org/jira/browse/MODELER-32">MODELER-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-32" href="https://issues.apache.org/jira/browse/MODELER-32">Used a wrong incrementer in for statement?</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lifove" id="reporter_lifove" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lifove">JC</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="31/Jan/17 19:53"><time datetime="2017-01-31T19:53:58+0000">31/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="31/Jan/17 19:53"><time datetime="2017-01-31T19:53:58+0000">31/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12708137" rel="12708137" data-issuekey="MODELER-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-31" href="https://issues.apache.org/jira/browse/MODELER-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-31" href="https://issues.apache.org/jira/browse/MODELER-31">MODELER-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-31" href="https://issues.apache.org/jira/browse/MODELER-31">BaseModelMBean does not clean-up attributeBroadcaster in removeNotificationListener()</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kkolinko" id="reporter_kkolinko" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kkolinko">Konstantin Kolinko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Apr/14 12:20"><time datetime="2014-04-13T12:20:24+0000">13/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Apr/14 12:20"><time datetime="2014-04-13T12:20:24+0000">13/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389088" rel="12389088" data-issuekey="MODELER-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-28" href="https://issues.apache.org/jira/browse/MODELER-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-28" href="https://issues.apache.org/jira/browse/MODELER-28">MODELER-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-28" href="https://issues.apache.org/jira/browse/MODELER-28">Possible NullPointerException in IntrospectionUtils</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pmay" id="reporter_pmay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pmay">Philip May</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Feb/08 09:07"><time datetime="2008-02-20T09:07:16+0000">20/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/08 09:07"><time datetime="2008-02-20T09:07:16+0000">20/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389086" rel="12389086" data-issuekey="MODELER-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-27" href="https://issues.apache.org/jira/browse/MODELER-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-27" href="https://issues.apache.org/jira/browse/MODELER-27">MODELER-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-27" href="https://issues.apache.org/jira/browse/MODELER-27">commons.logging should be used instead of System.out</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pmay" id="reporter_pmay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pmay">Philip May</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Feb/08 08:46"><time datetime="2008-02-20T08:46:44+0000">20/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/08 08:46"><time datetime="2008-02-20T08:46:44+0000">20/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389024" rel="12389024" data-issuekey="MODELER-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-26" href="https://issues.apache.org/jira/browse/MODELER-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-26" href="https://issues.apache.org/jira/browse/MODELER-26">MODELER-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-26" href="https://issues.apache.org/jira/browse/MODELER-26">Fields are not final but should be</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pmay" id="reporter_pmay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pmay">Philip May</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Feb/08 15:38"><time datetime="2008-02-19T15:38:12+0000">19/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/08 15:39"><time datetime="2008-02-19T15:39:53+0000">19/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389019" rel="12389019" data-issuekey="MODELER-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-25" href="https://issues.apache.org/jira/browse/MODELER-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-25" href="https://issues.apache.org/jira/browse/MODELER-25">MODELER-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-25" href="https://issues.apache.org/jira/browse/MODELER-25">Bug in TestCase (RegistryTestCase)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pmay" id="reporter_pmay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pmay">Philip May</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Feb/08 14:57"><time datetime="2008-02-19T14:57:26+0000">19/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/08 15:08"><time datetime="2008-02-19T15:08:23+0000">19/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389016" rel="12389016" data-issuekey="MODELER-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-24" href="https://issues.apache.org/jira/browse/MODELER-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-24" href="https://issues.apache.org/jira/browse/MODELER-24">MODELER-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-24" href="https://issues.apache.org/jira/browse/MODELER-24">Dependency cycle on package level</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pmay" id="reporter_pmay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pmay">Philip May</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Feb/08 14:55"><time datetime="2008-02-19T14:55:09+0000">19/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/08 15:18"><time datetime="2008-02-19T15:18:21+0000">19/Feb/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12372146" rel="12372146" data-issuekey="MODELER-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-23" href="https://issues.apache.org/jira/browse/MODELER-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-23" href="https://issues.apache.org/jira/browse/MODELER-23">MODELER-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-23" href="https://issues.apache.org/jira/browse/MODELER-23">mbeans-descriptors.dtd is missing from the jar and binary distro</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="niallp" id="assignee_niallp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=niallp">Niall Pemberton</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="niallp" id="reporter_niallp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=niallp">Niall Pemberton</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jun/07 17:01"><time datetime="2007-06-21T17:01:53+0000">21/Jun/07</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/08 07:49"><time datetime="2008-01-02T07:49:10+0000">02/Jan/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12372120" rel="12372120" data-issuekey="MODELER-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-22" href="https://issues.apache.org/jira/browse/MODELER-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-22" href="https://issues.apache.org/jira/browse/MODELER-22">MODELER-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-22" href="https://issues.apache.org/jira/browse/MODELER-22">ant.properties is missing from the Modeler jar</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="niallp" id="assignee_niallp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=niallp">Niall Pemberton</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="niallp" id="reporter_niallp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=niallp">Niall Pemberton</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jun/07 11:33"><time datetime="2007-06-21T11:33:39+0000">21/Jun/07</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/08 07:49"><time datetime="2008-01-02T07:49:10+0000">02/Jan/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12358053" rel="12358053" data-issuekey="MODELER-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-21" href="https://issues.apache.org/jira/browse/MODELER-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-21" href="https://issues.apache.org/jira/browse/MODELER-21">MODELER-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-21" href="https://issues.apache.org/jira/browse/MODELER-21">MbeansDescriptorsDigesterSource.java is never build if just setting commons-digester.jar property in build.properties</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="betelgeuse" id="reporter_betelgeuse" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=betelgeuse">Petteri Räty</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Dec/06 20:00"><time datetime="2006-12-07T20:00:59+0000">07/Dec/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:42"><time datetime="2007-02-15T09:42:01+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12358051" rel="12358051" data-issuekey="MODELER-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-20" href="https://issues.apache.org/jira/browse/MODELER-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-20" href="https://issues.apache.org/jira/browse/MODELER-20">MODELER-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-20" href="https://issues.apache.org/jira/browse/MODELER-20">ant jar in trunk fails</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="betelgeuse" id="reporter_betelgeuse" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=betelgeuse">Petteri Räty</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Dec/06 19:28"><time datetime="2006-12-07T19:28:15+0000">07/Dec/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:42"><time datetime="2007-02-15T09:42:15+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12346002" rel="12346002" data-issuekey="MODELER-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-19" href="https://issues.apache.org/jira/browse/MODELER-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-19" href="https://issues.apache.org/jira/browse/MODELER-19">MODELER-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-19" href="https://issues.apache.org/jira/browse/MODELER-19">Improve modeler site/build</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="niallp" id="assignee_niallp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=niallp">Niall Pemberton</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="niallp" id="reporter_niallp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=niallp">Niall Pemberton</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Jul/06 14:21"><time datetime="2006-07-14T14:21:52+0000">14/Jul/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:30+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12342885" rel="12342885" data-issuekey="MODELER-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-16" href="https://issues.apache.org/jira/browse/MODELER-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-16" href="https://issues.apache.org/jira/browse/MODELER-16">MODELER-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-16" href="https://issues.apache.org/jira/browse/MODELER-16">[modeler] download links broken</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kevin.brown@air2web.com" id="reporter_kevin.brown@air2web.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kevin.brown%40air2web.com">Kevin Brown</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Feb/06 00:17"><time datetime="2006-02-07T00:17:10+0000">07/Feb/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:30+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12342542" rel="12342542" data-issuekey="MODELER-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-15" href="https://issues.apache.org/jira/browse/MODELER-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-15" href="https://issues.apache.org/jira/browse/MODELER-15">MODELER-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-15" href="https://issues.apache.org/jira/browse/MODELER-15">[modeler] IntrospectionUtils memory leak</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mchyzer@yahoo.com" id="reporter_mchyzer@yahoo.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mchyzer%40yahoo.com">Chris</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Sep/05 22:32"><time datetime="2005-09-08T22:32:28+0000">08/Sep/05</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12340297" rel="12340297" data-issuekey="MODELER-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-14" href="https://issues.apache.org/jira/browse/MODELER-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-14" href="https://issues.apache.org/jira/browse/MODELER-14">MODELER-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-14" href="https://issues.apache.org/jira/browse/MODELER-14">After setting an Attribute the Notification Listener will not performed</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="daniel.schmidt@gp.materna.de" id="reporter_daniel.schmidt@gp.materna.de" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=daniel.schmidt%40gp.materna.de">Daniel Schmidt</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="21/Aug/02 14:50"><time datetime="2002-08-21T14:50:22+0000">21/Aug/02</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12341220" rel="12341220" data-issuekey="MODELER-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-13" href="https://issues.apache.org/jira/browse/MODELER-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-13" href="https://issues.apache.org/jira/browse/MODELER-13">MODELER-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-13" href="https://issues.apache.org/jira/browse/MODELER-13">[modeler] BaseModelMBean class setModeledType method should be setModelerType</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ed_french@g1.com" id="reporter_ed_french@g1.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ed_french%40g1.com">Ed French</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Jan/04 03:22"><time datetime="2004-01-23T03:22:06+0000">23/Jan/04</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12341625" rel="12341625" data-issuekey="MODELER-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-12" href="https://issues.apache.org/jira/browse/MODELER-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-12" href="https://issues.apache.org/jira/browse/MODELER-12">MODELER-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-12" href="https://issues.apache.org/jira/browse/MODELER-12">[modeler] ManagedBean uses the wrong case for ObjectReference</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="apache@the9muses.net" id="reporter_apache@the9muses.net" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apache%40the9muses.net">Kirk Lund</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Aug/04 01:21"><time datetime="2004-08-10T01:21:09+0000">10/Aug/04</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12342121" rel="12342121" data-issuekey="MODELER-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-11" href="https://issues.apache.org/jira/browse/MODELER-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-11" href="https://issues.apache.org/jira/browse/MODELER-11">MODELER-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-11" href="https://issues.apache.org/jira/browse/MODELER-11">[modeler] Null Pointer Exception - Non-Singleton Registry</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mstanley@mstanley.net" id="reporter_mstanley@mstanley.net" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mstanley%40mstanley.net">Mike Stanley</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Mar/05 06:18"><time datetime="2005-03-18T06:18:45+0000">18/Mar/05</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12342262" rel="12342262" data-issuekey="MODELER-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-10" href="https://issues.apache.org/jira/browse/MODELER-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-10" href="https://issues.apache.org/jira/browse/MODELER-10">MODELER-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-10" href="https://issues.apache.org/jira/browse/MODELER-10">[modeler] DTD violation when using simple wrapping</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hahn@immobilienscout24.de" id="reporter_hahn@immobilienscout24.de" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hahn%40immobilienscout24.de">L. Hahn</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="26/May/05 21:48"><time datetime="2005-05-26T21:48:21+0000">26/May/05</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12341793" rel="12341793" data-issuekey="MODELER-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-9" href="https://issues.apache.org/jira/browse/MODELER-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-9" href="https://issues.apache.org/jira/browse/MODELER-9">MODELER-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-9" href="https://issues.apache.org/jira/browse/MODELER-9">[modeler] Registry.convertValue doesn&#39;t support longs</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rainer.jung@kippdata.de" id="reporter_rainer.jung@kippdata.de" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rainer.jung%40kippdata.de">Rainer Jung</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Oct/04 06:38"><time datetime="2004-10-09T06:38:03+0000">09/Oct/04</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12341888" rel="12341888" data-issuekey="MODELER-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-8" href="https://issues.apache.org/jira/browse/MODELER-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-8" href="https://issues.apache.org/jira/browse/MODELER-8">MODELER-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-8" href="https://issues.apache.org/jira/browse/MODELER-8">[modeler] AttributeChangeNotification sent before attribute changes</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pmouawad" id="reporter_pmouawad" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pmouawad">Philippe Mouawad</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Nov/04 01:22"><time datetime="2004-11-24T01:22:18+0000">24/Nov/04</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:27+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12340571" rel="12340571" data-issuekey="MODELER-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-7" href="https://issues.apache.org/jira/browse/MODELER-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-7" href="https://issues.apache.org/jira/browse/MODELER-7">MODELER-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-7" href="https://issues.apache.org/jira/browse/MODELER-7">sendAttributeChangeNotification on setAttribute</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sganapathy@ipin.com" id="reporter_sganapathy@ipin.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sganapathy%40ipin.com">Sriram Ganapathy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Feb/03 04:12"><time datetime="2003-02-25T04:12:37+0000">25/Feb/03</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:26+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12342886" rel="12342886" data-issuekey="MODELER-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-6" href="https://issues.apache.org/jira/browse/MODELER-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-6" href="https://issues.apache.org/jira/browse/MODELER-6">MODELER-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-6" href="https://issues.apache.org/jira/browse/MODELER-6">[modeler] wiki page is immutable and out-of-date</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kevin.brown@air2web.com" id="reporter_kevin.brown@air2web.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kevin.brown%40air2web.com">Kevin Brown</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="07/Feb/06 00:18"><time datetime="2006-02-07T00:18:22+0000">07/Feb/06</time></span> </td>
+                                            <td class="updated"> <span title="14/Oct/06 02:45"><time datetime="2006-10-14T02:45:36+0000">14/Oct/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12342122" rel="12342122" data-issuekey="MODELER-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-5" href="https://issues.apache.org/jira/browse/MODELER-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-5" href="https://issues.apache.org/jira/browse/MODELER-5">MODELER-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-5" href="https://issues.apache.org/jira/browse/MODELER-5">[modeler] setServer stack overflow</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mstanley@mstanley.net" id="reporter_mstanley@mstanley.net" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mstanley%40mstanley.net">Mike Stanley</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Mar/05 06:35"><time datetime="2005-03-18T06:35:24+0000">18/Mar/05</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:26+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12342249" rel="12342249" data-issuekey="MODELER-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-4" href="https://issues.apache.org/jira/browse/MODELER-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-4" href="https://issues.apache.org/jira/browse/MODELER-4">MODELER-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-4" href="https://issues.apache.org/jira/browse/MODELER-4">[modeler] Overloaded operations throw &quot;wrong number of parameters&quot; exception</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="whu@sybase.com" id="reporter_whu@sybase.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=whu%40sybase.com">Joe Hu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/May/05 23:14"><time datetime="2005-05-18T23:14:02+0000">18/May/05</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:26+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12343068" rel="12343068" data-issuekey="MODELER-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-3" href="https://issues.apache.org/jira/browse/MODELER-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-3" href="https://issues.apache.org/jira/browse/MODELER-3">MODELER-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-3" href="https://issues.apache.org/jira/browse/MODELER-3">[modeler] maven build fails on os x with test failure.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="djencks" id="reporter_djencks" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=djencks">David Jencks</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/May/06 04:17"><time datetime="2006-05-09T04:17:18+0000">09/May/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:26+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12343069" rel="12343069" data-issuekey="MODELER-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-2" href="https://issues.apache.org/jira/browse/MODELER-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-2" href="https://issues.apache.org/jira/browse/MODELER-2">MODELER-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-2" href="https://issues.apache.org/jira/browse/MODELER-2">[modeler] Registry insufficiently synchronized</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="djencks" id="reporter_djencks" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=djencks">David Jencks</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/May/06 04:21"><time datetime="2006-05-09T04:21:33+0000">09/May/06</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:26+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12340293" rel="12340293" data-issuekey="MODELER-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MODELER-1" href="https://issues.apache.org/jira/browse/MODELER-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MODELER-1" href="https://issues.apache.org/jira/browse/MODELER-1">MODELER-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MODELER-1" href="https://issues.apache.org/jira/browse/MODELER-1">ClassNotFoundException while using the Notification</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="daniel.schmidt@gp.materna.de" id="reporter_daniel.schmidt@gp.materna.de" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=daniel.schmidt%40gp.materna.de">Daniel Schmidt</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Aug/02 19:06"><time datetime="2002-08-19T19:06:10+0000">19/Aug/02</time></span> </td>
+                                            <td class="updated"> <span title="15/Feb/07 09:39"><time datetime="2007-02-15T09:39:26+0000">15/Feb/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

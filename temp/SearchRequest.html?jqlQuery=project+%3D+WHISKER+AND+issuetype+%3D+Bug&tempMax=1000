@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+WHISKER+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+WHISKER+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/WHISKER" title="Browse Apache Whisker project">Apache Whisker</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>10</b> of <b>10</b>
+            as at: <b>05/Mar/17 16:56</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12738890" rel="12738890" data-issuekey="WHISKER-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-13" href="https://issues.apache.org/jira/browse/WHISKER-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-13" href="https://issues.apache.org/jira/browse/WHISKER-13">WHISKER-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-13" href="https://issues.apache.org/jira/browse/WHISKER-13">Error during site generation with Java8</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Sep/14 19:53"><time datetime="2014-09-03T19:53:07+0000">03/Sep/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Sep/14 17:13"><time datetime="2014-09-07T17:13:27+0000">07/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12732928" rel="12732928" data-issuekey="WHISKER-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-12" href="https://issues.apache.org/jira/browse/WHISKER-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-12" href="https://issues.apache.org/jira/browse/WHISKER-12">WHISKER-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-12" href="https://issues.apache.org/jira/browse/WHISKER-12">Cleanup Build Infrastructure</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Aug/14 20:31"><time datetime="2014-08-08T20:31:26+0000">08/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="03/Oct/14 21:12"><time datetime="2014-10-03T21:12:58+0000">03/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12615016" rel="12615016" data-issuekey="WHISKER-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-11" href="https://issues.apache.org/jira/browse/WHISKER-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-11" href="https://issues.apache.org/jira/browse/WHISKER-11">WHISKER-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-11" href="https://issues.apache.org/jira/browse/WHISKER-11">Support configuration which adds sources links into LICENSE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="reporter_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/Nov/12 19:40"><time datetime="2012-11-06T19:40:31+0000">06/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="22/Nov/12 20:25"><time datetime="2012-11-22T20:25:03+0000">22/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12614642" rel="12614642" data-issuekey="WHISKER-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-10" href="https://issues.apache.org/jira/browse/WHISKER-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-10" href="https://issues.apache.org/jira/browse/WHISKER-10">WHISKER-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-10" href="https://issues.apache.org/jira/browse/WHISKER-10">Investigate Whether with-license issues are skipped without copyright-notice</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="reporter_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="03/Nov/12 12:30"><time datetime="2012-11-03T12:30:19+0000">03/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="05/Nov/12 20:39"><time datetime="2012-11-05T20:39:05+0000">05/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12614426" rel="12614426" data-issuekey="WHISKER-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-9" href="https://issues.apache.org/jira/browse/WHISKER-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-9" href="https://issues.apache.org/jira/browse/WHISKER-9">WHISKER-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-9" href="https://issues.apache.org/jira/browse/WHISKER-9">Improve Source Element Documentation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="reporter_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="01/Nov/12 20:26"><time datetime="2012-11-01T20:26:00+0000">01/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/12 20:26"><time datetime="2012-11-01T20:26:47+0000">01/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12614087" rel="12614087" data-issuekey="WHISKER-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-8" href="https://issues.apache.org/jira/browse/WHISKER-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-8" href="https://issues.apache.org/jira/browse/WHISKER-8">WHISKER-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-8" href="https://issues.apache.org/jira/browse/WHISKER-8">Allow Templates To Be Customised</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="reporter_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Oct/12 21:27"><time datetime="2012-10-30T21:27:32+0000">30/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/12 21:01"><time datetime="2012-11-01T21:01:32+0000">01/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12614084" rel="12614084" data-issuekey="WHISKER-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-7" href="https://issues.apache.org/jira/browse/WHISKER-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-7" href="https://issues.apache.org/jira/browse/WHISKER-7">WHISKER-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-7" href="https://issues.apache.org/jira/browse/WHISKER-7">Document When Copyright Notice Is Appropriate </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="reporter_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Oct/12 21:19"><time datetime="2012-10-30T21:19:28+0000">30/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/12 20:15"><time datetime="2012-11-15T20:15:17+0000">15/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12613806" rel="12613806" data-issuekey="WHISKER-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-6" href="https://issues.apache.org/jira/browse/WHISKER-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-6" href="https://issues.apache.org/jira/browse/WHISKER-6">WHISKER-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-6" href="https://issues.apache.org/jira/browse/WHISKER-6">Subsidary Copyright Notice Ignored When License is Primary</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="reporter_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Oct/12 17:34"><time datetime="2012-10-28T17:34:45+0000">28/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="30/Oct/12 20:22"><time datetime="2012-10-30T20:22:00+0000">30/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12609571" rel="12609571" data-issuekey="WHISKER-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-3" href="https://issues.apache.org/jira/browse/WHISKER-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-3" href="https://issues.apache.org/jira/browse/WHISKER-3">WHISKER-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-3" href="https://issues.apache.org/jira/browse/WHISKER-3">The license.vm template makes too many assumptions about skipping licensing details for the primary org and license type.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chipchilders" id="reporter_chipchilders" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chipchilders">Chip Childers</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Sep/12 17:57"><time datetime="2012-09-28T17:57:10+0000">28/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="06/Nov/12 19:41"><time datetime="2012-11-06T19:41:18+0000">06/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12594988" rel="12594988" data-issuekey="WHISKER-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="WHISKER-2" href="https://issues.apache.org/jira/browse/WHISKER-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="WHISKER-2" href="https://issues.apache.org/jira/browse/WHISKER-2">WHISKER-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="WHISKER-2" href="https://issues.apache.org/jira/browse/WHISKER-2">mvn errors after initial checkout </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robertburrelldonkin" id="assignee_robertburrelldonkin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robertburrelldonkin">Robert Burrell Donkin</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hugo.hirsch" id="reporter_hugo.hirsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hugo.hirsch">Philipp Ottlinger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jun/12 18:58"><time datetime="2012-06-18T18:58:42+0000">18/Jun/12</time></span> </td>
+                                            <td class="updated"> <span title="24/Jun/12 19:16"><time datetime="2012-06-24T19:16:58+0000">24/Jun/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

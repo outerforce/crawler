@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+FREEMARKER+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+FREEMARKER+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/FREEMARKER" title="Browse Apache Freemarker project">Apache Freemarker</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>24</b> of <b>24</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13045942" rel="13045942" data-issuekey="FREEMARKER-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-46" href="https://issues.apache.org/jira/browse/FREEMARKER-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-46" href="https://issues.apache.org/jira/browse/FREEMARKER-46">FREEMARKER-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-46" href="https://issues.apache.org/jira/browse/FREEMARKER-46">Empty value</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="leozo79" id="reporter_leozo79" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=leozo79">Leonardo Zorzi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="24/Feb/17 08:49"><time datetime="2017-02-24T08:49:40+0000">24/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="27/Feb/17 13:00"><time datetime="2017-02-27T13:00:05+0000">27/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13028618" rel="13028618" data-issuekey="FREEMARKER-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-44" href="https://issues.apache.org/jira/browse/FREEMARKER-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-44" href="https://issues.apache.org/jira/browse/FREEMARKER-44">FREEMARKER-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-44" href="https://issues.apache.org/jira/browse/FREEMARKER-44">Default adapters should handle RuntimeExceptions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="koraktor" id="reporter_koraktor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=koraktor">Sebastian Staudt</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Dec/16 08:40"><time datetime="2016-12-16T08:40:59+0000">16/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Dec/16 08:41"><time datetime="2016-12-16T08:41:53+0000">16/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025143" rel="13025143" data-issuekey="FREEMARKER-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-42" href="https://issues.apache.org/jira/browse/FREEMARKER-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-42" href="https://issues.apache.org/jira/browse/FREEMARKER-42">FREEMARKER-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-42" href="https://issues.apache.org/jira/browse/FREEMARKER-42">?first sequence operator does not work for SortedSets</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="trumpetx" id="reporter_trumpetx" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=trumpetx">David Greene</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Dec/16 17:08"><time datetime="2016-12-02T17:08:02+0000">02/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="04/Dec/16 23:51"><time datetime="2016-12-04T23:51:14+0000">04/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13024388" rel="13024388" data-issuekey="FREEMARKER-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-41" href="https://issues.apache.org/jira/browse/FREEMARKER-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-41" href="https://issues.apache.org/jira/browse/FREEMARKER-41">FREEMARKER-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-41" href="https://issues.apache.org/jira/browse/FREEMARKER-41">XPathSupport executeQuery doesn&#39;t handle text() in models that isn&#39;t normalized</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pero" id="reporter_pero" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pero">Per Olsson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Nov/16 10:42"><time datetime="2016-11-30T10:42:26+0000">30/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="10/Dec/16 19:02"><time datetime="2016-12-10T19:02:18+0000">10/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13020343" rel="13020343" data-issuekey="FREEMARKER-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-40" href="https://issues.apache.org/jira/browse/FREEMARKER-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-40" href="https://issues.apache.org/jira/browse/FREEMARKER-40">FREEMARKER-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-40" href="https://issues.apache.org/jira/browse/FREEMARKER-40">ClassIntrospector should detect public methods in non-public classes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="assignee_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jochen@apache.org" id="reporter_jochen@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jochen%40apache.org">Jochen Wiedmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="13/Nov/16 10:27"><time datetime="2016-11-13T10:27:50+0000">13/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="31/Dec/16 09:49"><time datetime="2016-12-31T09:49:02+0000">31/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13009801" rel="13009801" data-issuekey="FREEMARKER-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-36" href="https://issues.apache.org/jira/browse/FREEMARKER-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-36" href="https://issues.apache.org/jira/browse/FREEMARKER-36">FREEMARKER-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-36" href="https://issues.apache.org/jira/browse/FREEMARKER-36">Datetime is not accepting timezone</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nahalkat" id="reporter_nahalkat" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nahalkat">Tibor Nahalka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Information Provided
+</td>
+                                            <td class="created"> <span title="05/Oct/16 08:13"><time datetime="2016-10-05T08:13:53+0000">05/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="07/Oct/16 18:35"><time datetime="2016-10-07T18:35:35+0000">07/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13006112" rel="13006112" data-issuekey="FREEMARKER-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-34" href="https://issues.apache.org/jira/browse/FREEMARKER-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-34" href="https://issues.apache.org/jira/browse/FREEMARKER-34">FREEMARKER-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-34" href="https://issues.apache.org/jira/browse/FREEMARKER-34">ignore_missing option of the &lt;#include does directive not work as expected</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jacques.le.roux" id="reporter_jacques.le.roux" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jacques.le.roux">Jacques Le Roux</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Information Provided
+</td>
+                                            <td class="created"> <span title="20/Sep/16 06:19"><time datetime="2016-09-20T06:19:38+0000">20/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Sep/16 17:41"><time datetime="2016-09-20T17:41:42+0000">20/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002612" rel="13002612" data-issuekey="FREEMARKER-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-33" href="https://issues.apache.org/jira/browse/FREEMARKER-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-33" href="https://issues.apache.org/jira/browse/FREEMARKER-33">FREEMARKER-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-33" href="https://issues.apache.org/jira/browse/FREEMARKER-33">&lt;#list map as k,v&gt; doesn&#39;t works as expected</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="quaff" id="reporter_quaff" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=quaff">zhouyanming</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Bug
+</td>
+                                            <td class="created"> <span title="04/Sep/16 10:07"><time datetime="2016-09-04T10:07:21+0000">04/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="09/Sep/16 17:22"><time datetime="2016-09-09T17:22:42+0000">09/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13000152" rel="13000152" data-issuekey="FREEMARKER-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-32" href="https://issues.apache.org/jira/browse/FREEMARKER-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-32" href="https://issues.apache.org/jira/browse/FREEMARKER-32">FREEMARKER-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-32" href="https://issues.apache.org/jira/browse/FREEMARKER-32">Memory Leak</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="akuntamukkala" id="reporter_akuntamukkala" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akuntamukkala">ashwini kuntamukkala</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="25/Aug/16 19:40"><time datetime="2016-08-25T19:40:20+0000">25/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/16 21:42"><time datetime="2016-11-09T21:42:25+0000">09/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12990384" rel="12990384" data-issuekey="FREEMARKER-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-29" href="https://issues.apache.org/jira/browse/FREEMARKER-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-29" href="https://issues.apache.org/jira/browse/FREEMARKER-29">FREEMARKER-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-29" href="https://issues.apache.org/jira/browse/FREEMARKER-29">Stream closed Exception</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Diceme7" id="reporter_Diceme7" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Diceme7">Christian Senkowski</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Bug
+</td>
+                                            <td class="created"> <span title="18/Jul/16 13:11"><time datetime="2016-07-18T13:11:43+0000">18/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="24/Aug/16 15:05"><time datetime="2016-08-24T15:05:03+0000">24/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12986841" rel="12986841" data-issuekey="FREEMARKER-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-28" href="https://issues.apache.org/jira/browse/FREEMARKER-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-28" href="https://issues.apache.org/jira/browse/FREEMARKER-28">FREEMARKER-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-28" href="https://issues.apache.org/jira/browse/FREEMARKER-28">Documentation error in escaping</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mjdenham" id="reporter_mjdenham" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mjdenham">Martin Denham</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Jul/16 15:02"><time datetime="2016-07-05T15:02:57+0000">05/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Jul/16 20:42"><time datetime="2016-07-05T20:42:50+0000">05/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983339" rel="12983339" data-issuekey="FREEMARKER-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-27" href="https://issues.apache.org/jira/browse/FREEMARKER-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-27" href="https://issues.apache.org/jira/browse/FREEMARKER-27">FREEMARKER-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-27" href="https://issues.apache.org/jira/browse/FREEMARKER-27">Move some entries from the NOTICE to the LICENSE</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="reporter_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jun/16 19:10"><time datetime="2016-06-26T19:10:47+0000">26/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/17 22:32"><time datetime="2017-01-15T22:32:08+0000">15/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12965089" rel="12965089" data-issuekey="FREEMARKER-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-23" href="https://issues.apache.org/jira/browse/FREEMARKER-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-23" href="https://issues.apache.org/jira/browse/FREEMARKER-23">FREEMARKER-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-23" href="https://issues.apache.org/jira/browse/FREEMARKER-23">&lt;#t&gt; documentation doesn&#39;t match actual behavior</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pekarna" id="reporter_pekarna" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pekarna">Ondra Žižka</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="04/May/16 20:22"><time datetime="2016-05-04T20:22:47+0000">04/May/16</time></span> </td>
+                                            <td class="updated"> <span title="05/May/16 05:45"><time datetime="2016-05-05T05:45:17+0000">05/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12957479" rel="12957479" data-issuekey="FREEMARKER-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-19" href="https://issues.apache.org/jira/browse/FREEMARKER-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-19" href="https://issues.apache.org/jira/browse/FREEMARKER-19">FREEMARKER-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-19" href="https://issues.apache.org/jira/browse/FREEMARKER-19">2.3.24 calculates column number with tab size 1 instead of 8</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="assignee_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="reporter_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Apr/16 21:07"><time datetime="2016-04-09T21:07:15+0000">09/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/16 18:55"><time datetime="2016-06-26T18:55:13+0000">26/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12952994" rel="12952994" data-issuekey="FREEMARKER-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-18" href="https://issues.apache.org/jira/browse/FREEMARKER-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-18" href="https://issues.apache.org/jira/browse/FREEMARKER-18">FREEMARKER-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-18" href="https://issues.apache.org/jira/browse/FREEMARKER-18">JSP EL function and custom tag with the same name overwrite each other</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="assignee_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="reporter_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Mar/16 21:45"><time datetime="2016-03-23T21:45:49+0000">23/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/16 18:55"><time datetime="2016-06-26T18:55:31+0000">26/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12949860" rel="12949860" data-issuekey="FREEMARKER-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-16" href="https://issues.apache.org/jira/browse/FREEMARKER-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-16" href="https://issues.apache.org/jira/browse/FREEMARKER-16">FREEMARKER-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-16" href="https://issues.apache.org/jira/browse/FREEMARKER-16">js_string buit-in function escapes &#39;/&#39; for first character</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="assignee_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mtethal" id="reporter_mtethal" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mtethal">Martin Těthal</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Mar/16 12:11"><time datetime="2016-03-14T12:11:58+0000">14/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Mar/16 21:14"><time datetime="2016-03-17T21:14:34+0000">17/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12931351" rel="12931351" data-issuekey="FREEMARKER-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-14" href="https://issues.apache.org/jira/browse/FREEMARKER-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-14" href="https://issues.apache.org/jira/browse/FREEMARKER-14">FREEMARKER-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-14" href="https://issues.apache.org/jira/browse/FREEMARKER-14">Website mistake freemarer instead of freemaker</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ddekany" id="assignee_ddekany" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ddekany">Daniel Dekany</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vinetu" id="reporter_vinetu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vinetu">Marius Žilėnas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jan/16 05:50"><time datetime="2016-01-15T05:50:04+0000">15/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="21/Jan/16 19:27"><time datetime="2016-01-21T19:27:00+0000">21/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12914167" rel="12914167" data-issuekey="FREEMARKER-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-12" href="https://issues.apache.org/jira/browse/FREEMARKER-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-12" href="https://issues.apache.org/jira/browse/FREEMARKER-12">FREEMARKER-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-12" href="https://issues.apache.org/jira/browse/FREEMARKER-12">#return value bubbles through functions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="diogoko" id="reporter_diogoko" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=diogoko">Diogo Kollross</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Nov/15 16:57"><time datetime="2015-11-18T16:57:44+0000">18/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="19/Nov/15 00:42"><time datetime="2015-11-19T00:42:42+0000">19/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12913208" rel="12913208" data-issuekey="FREEMARKER-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-11" href="https://issues.apache.org/jira/browse/FREEMARKER-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-11" href="https://issues.apache.org/jira/browse/FREEMARKER-11">FREEMARKER-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-11" href="https://issues.apache.org/jira/browse/FREEMARKER-11">Canonical is misspelled as canoical</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ratherblue" id="reporter_ratherblue" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ratherblue">Rather</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Nov/15 04:17"><time datetime="2015-11-16T04:17:49+0000">16/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="30/Dec/15 23:29"><time datetime="2015-12-30T23:29:06+0000">30/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12913075" rel="12913075" data-issuekey="FREEMARKER-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-10" href="https://issues.apache.org/jira/browse/FREEMARKER-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-10" href="https://issues.apache.org/jira/browse/FREEMARKER-10">FREEMARKER-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-10" href="https://issues.apache.org/jira/browse/FREEMARKER-10">Missing template path not reported</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mschipperheyn" id="reporter_mschipperheyn" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mschipperheyn">marc schipperheyn</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="14/Nov/15 13:01"><time datetime="2015-11-14T13:01:41+0000">14/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/15 09:23"><time datetime="2015-11-15T09:23:35+0000">15/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12912619" rel="12912619" data-issuekey="FREEMARKER-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-9" href="https://issues.apache.org/jira/browse/FREEMARKER-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-9" href="https://issues.apache.org/jira/browse/FREEMARKER-9">FREEMARKER-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-9" href="https://issues.apache.org/jira/browse/FREEMARKER-9">Can&#39;t use macro inside #if-#elseif-#else</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="heka" id="reporter_heka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=heka">Henrik Karlsson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="12/Nov/15 21:58"><time datetime="2015-11-12T21:58:45+0000">12/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/15 09:26"><time datetime="2015-11-15T09:26:11+0000">15/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12909696" rel="12909696" data-issuekey="FREEMARKER-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-6" href="https://issues.apache.org/jira/browse/FREEMARKER-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-6" href="https://issues.apache.org/jira/browse/FREEMARKER-6">FREEMARKER-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-6" href="https://issues.apache.org/jira/browse/FREEMARKER-6">DNS for freemarker.org is down</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="breun" id="reporter_breun" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=breun">Nils Breunese</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Nov/15 15:16"><time datetime="2015-11-02T15:16:49+0000">02/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/15 22:10"><time datetime="2015-11-09T22:10:23+0000">09/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12904062" rel="12904062" data-issuekey="FREEMARKER-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-4" href="https://issues.apache.org/jira/browse/FREEMARKER-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-4" href="https://issues.apache.org/jira/browse/FREEMARKER-4">FREEMARKER-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-4" href="https://issues.apache.org/jira/browse/FREEMARKER-4">[Docgen] Links in tables are wrapping</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="edendramis" id="assignee_edendramis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=edendramis">Lee</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="edendramis" id="reporter_edendramis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=edendramis">Lee</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Oct/15 23:24"><time datetime="2015-10-11T23:24:03+0000">11/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/15 09:26"><time datetime="2015-11-15T09:26:35+0000">15/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12904036" rel="12904036" data-issuekey="FREEMARKER-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FREEMARKER-3" href="https://issues.apache.org/jira/browse/FREEMARKER-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FREEMARKER-3" href="https://issues.apache.org/jira/browse/FREEMARKER-3">FREEMARKER-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FREEMARKER-3" href="https://issues.apache.org/jira/browse/FREEMARKER-3">FileTemplateLoaderTest and ASTTest fails test on non-Windows env</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="woon_san" id="reporter_woon_san" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=woon_san">Woonsan Ko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Oct/15 13:46"><time datetime="2015-10-11T13:46:54+0000">11/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="17/Oct/15 16:26"><time datetime="2015-10-17T16:26:48+0000">17/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

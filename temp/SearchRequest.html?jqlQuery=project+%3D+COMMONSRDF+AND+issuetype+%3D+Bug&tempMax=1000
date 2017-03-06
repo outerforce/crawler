@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+COMMONSRDF+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+COMMONSRDF+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/COMMONSRDF" title="Browse Apache Commons RDF project">Apache Commons RDF</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>12</b> of <b>12</b>
+            as at: <b>05/Mar/17 17:01</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13043613" rel="13043613" data-issuekey="COMMONSRDF-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-58" href="https://issues.apache.org/jira/browse/COMMONSRDF-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-58" href="https://issues.apache.org/jira/browse/COMMONSRDF-58">COMMONSRDF-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-58" href="https://issues.apache.org/jira/browse/COMMONSRDF-58">Refactor RDFParser fluent interface</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Feb/17 12:07"><time datetime="2017-02-16T12:07:26+0000">16/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="16/Feb/17 12:08"><time datetime="2017-02-16T12:08:14+0000">16/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13041532" rel="13041532" data-issuekey="COMMONSRDF-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-57" href="https://issues.apache.org/jira/browse/COMMONSRDF-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-57" href="https://issues.apache.org/jira/browse/COMMONSRDF-57">COMMONSRDF-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-57" href="https://issues.apache.org/jira/browse/COMMONSRDF-57">Use newer dependency Jena/RDF4J/JSONLD Java</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Feb/17 23:20"><time datetime="2017-02-08T23:20:39+0000">08/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/17 00:30"><time datetime="2017-02-09T00:30:06+0000">09/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13041457" rel="13041457" data-issuekey="COMMONSRDF-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-56" href="https://issues.apache.org/jira/browse/COMMONSRDF-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-56" href="https://issues.apache.org/jira/browse/COMMONSRDF-56">COMMONSRDF-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-56" href="https://issues.apache.org/jira/browse/COMMONSRDF-56">JSON-LD Literals wrongly compare equal</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Feb/17 19:17"><time datetime="2017-02-08T19:17:51+0000">08/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/17 22:41"><time datetime="2017-02-08T22:41:45+0000">08/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13038141" rel="13038141" data-issuekey="COMMONSRDF-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-55" href="https://issues.apache.org/jira/browse/COMMONSRDF-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-55" href="https://issues.apache.org/jira/browse/COMMONSRDF-55">COMMONSRDF-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-55" href="https://issues.apache.org/jira/browse/COMMONSRDF-55">Stream of Jena quads use wrong IRI for default graph</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jan/17 14:46"><time datetime="2017-01-26T14:46:32+0000">26/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/17 14:45"><time datetime="2017-02-08T14:45:45+0000">08/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13031837" rel="13031837" data-issuekey="COMMONSRDF-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-52" href="https://issues.apache.org/jira/browse/COMMONSRDF-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-52" href="https://issues.apache.org/jira/browse/COMMONSRDF-52">COMMONSRDF-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-52" href="https://issues.apache.org/jira/browse/COMMONSRDF-52">Duplicate Bundle-SymbolicName values across all components</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="acoburn" id="reporter_acoburn" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=acoburn">Aaron Coburn</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jan/17 03:07"><time datetime="2017-01-04T03:07:28+0000">04/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="11/Jan/17 14:52"><time datetime="2017-01-11T14:52:39+0000">11/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13023060" rel="13023060" data-issuekey="COMMONSRDF-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-51" href="https://issues.apache.org/jira/browse/COMMONSRDF-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-51" href="https://issues.apache.org/jira/browse/COMMONSRDF-51">COMMONSRDF-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-51" href="https://issues.apache.org/jira/browse/COMMONSRDF-51">RDF-1.1 specifies that language tags need to be compared using lower-case</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="p_ansell" id="reporter_p_ansell" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=p_ansell">Peter Ansell</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Nov/16 01:18"><time datetime="2016-11-24T01:18:22+0000">24/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/17 14:46"><time datetime="2017-02-08T14:46:14+0000">08/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13016094" rel="13016094" data-issuekey="COMMONSRDF-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-47" href="https://issues.apache.org/jira/browse/COMMONSRDF-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-47" href="https://issues.apache.org/jira/browse/COMMONSRDF-47">COMMONSRDF-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-47" href="https://issues.apache.org/jira/browse/COMMONSRDF-47">RDFSyntax should be interface, not enum</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Oct/16 09:44"><time datetime="2016-10-28T09:44:26+0000">28/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Feb/17 11:56"><time datetime="2017-02-16T11:56:39+0000">16/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13014529" rel="13014529" data-issuekey="COMMONSRDF-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-46" href="https://issues.apache.org/jira/browse/COMMONSRDF-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-46" href="https://issues.apache.org/jira/browse/COMMONSRDF-46">COMMONSRDF-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-46" href="https://issues.apache.org/jira/browse/COMMONSRDF-46">Rename RDFTermFactory to RDF</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Oct/16 00:15"><time datetime="2016-10-23T00:15:30+0000">23/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="28/Oct/16 15:05"><time datetime="2016-10-28T15:05:48+0000">28/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13008224" rel="13008224" data-issuekey="COMMONSRDF-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-38" href="https://issues.apache.org/jira/browse/COMMONSRDF-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-38" href="https://issues.apache.org/jira/browse/COMMONSRDF-38">COMMONSRDF-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-38" href="https://issues.apache.org/jira/browse/COMMONSRDF-38">simple Graph.contains(Triple) does not map bnodes consistently</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Sep/16 13:15"><time datetime="2016-09-28T13:15:30+0000">28/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/16 09:57"><time datetime="2016-10-27T09:57:58+0000">27/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12829160" rel="12829160" data-issuekey="COMMONSRDF-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-25" href="https://issues.apache.org/jira/browse/COMMONSRDF-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-25" href="https://issues.apache.org/jira/browse/COMMONSRDF-25">COMMONSRDF-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-25" href="https://issues.apache.org/jira/browse/COMMONSRDF-25">Remove mentions of &quot;local scope&quot; in .equals()</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stain" id="reporter_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/May/15 10:52"><time datetime="2015-05-12T10:52:18+0000">12/May/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Oct/16 09:19"><time datetime="2016-10-27T09:19:10+0000">27/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12820724" rel="12820724" data-issuekey="COMMONSRDF-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-16" href="https://issues.apache.org/jira/browse/COMMONSRDF-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-16" href="https://issues.apache.org/jira/browse/COMMONSRDF-16">COMMONSRDF-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-16" href="https://issues.apache.org/jira/browse/COMMONSRDF-16">Sketch versioning scheme</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wikier" id="assignee_wikier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wikier">Sergio Fernández</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wikier" id="reporter_wikier" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wikier">Sergio Fernández</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Apr/15 06:33"><time datetime="2015-04-14T06:33:55+0000">14/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="21/Apr/16 09:01"><time datetime="2016-04-21T09:01:11+0000">21/Apr/16</time></span> </td>
+                                            <td class="duedate">    17/Apr/15
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12786531" rel="12786531" data-issuekey="COMMONSRDF-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COMMONSRDF-8" href="https://issues.apache.org/jira/browse/COMMONSRDF-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COMMONSRDF-8" href="https://issues.apache.org/jira/browse/COMMONSRDF-8">COMMONSRDF-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COMMONSRDF-8" href="https://issues.apache.org/jira/browse/COMMONSRDF-8">  simple .GraphImpl.add() must clone BlankNode </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="stain" id="assignee_stain" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stain">Stian Soiland-Reyes</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="soilandreyes" id="reporter_soilandreyes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=soilandreyes">Stian Soiland-Reyes (old) (Inactive)</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Mar/15 13:58"><time datetime="2015-03-29T13:58:06+0000">29/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="21/Apr/16 09:01"><time datetime="2016-04-21T09:01:12+0000">21/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

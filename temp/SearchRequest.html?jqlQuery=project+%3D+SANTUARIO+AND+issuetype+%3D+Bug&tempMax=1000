@@ -1,0 +1,2209 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+SANTUARIO+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+SANTUARIO+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/SANTUARIO" title="Browse Santuario project">Santuario</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>61</b> of <b>61</b>
+            as at: <b>05/Mar/17 17:01</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13041393" rel="13041393" data-issuekey="SANTUARIO-462" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-462" href="https://issues.apache.org/jira/browse/SANTUARIO-462"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-462" href="https://issues.apache.org/jira/browse/SANTUARIO-462">SANTUARIO-462</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-462" href="https://issues.apache.org/jira/browse/SANTUARIO-462">getNodesetBeforeFirstCanonicalization() in Reference.java is missing C14N11 canonicalization algorithms</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="emmanvg" id="reporter_emmanvg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=emmanvg">Emmanuelle Vargas-Gonzalez</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Feb/17 14:15"><time datetime="2017-02-08T14:15:15+0000">08/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/17 14:45"><time datetime="2017-02-08T14:45:08+0000">08/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13019477" rel="13019477" data-issuekey="SANTUARIO-459" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-459" href="https://issues.apache.org/jira/browse/SANTUARIO-459"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-459" href="https://issues.apache.org/jira/browse/SANTUARIO-459">SANTUARIO-459</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-459" href="https://issues.apache.org/jira/browse/SANTUARIO-459">Wrong usage of Integer.MAX_VALUE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Hoomey" id="reporter_Hoomey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Hoomey">Ronald Boettcher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Nov/16 08:33"><time datetime="2016-11-09T08:33:08+0000">09/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Dec/16 10:00"><time datetime="2016-12-05T10:00:47+0000">05/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13015856" rel="13015856" data-issuekey="SANTUARIO-457" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-457" href="https://issues.apache.org/jira/browse/SANTUARIO-457"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-457" href="https://issues.apache.org/jira/browse/SANTUARIO-457">SANTUARIO-457</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-457" href="https://issues.apache.org/jira/browse/SANTUARIO-457">Marshaller:sendAttributeToWriter broken by Attr without namespace</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="asoldano" id="reporter_asoldano" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=asoldano">Alessio Soldano</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Oct/16 14:53"><time datetime="2016-10-27T14:53:51+0000">27/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Dec/16 10:00"><time datetime="2016-12-05T10:00:46+0000">05/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13015290" rel="13015290" data-issuekey="SANTUARIO-456" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-456" href="https://issues.apache.org/jira/browse/SANTUARIO-456"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-456" href="https://issues.apache.org/jira/browse/SANTUARIO-456">SANTUARIO-456</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-456" href="https://issues.apache.org/jira/browse/SANTUARIO-456">xalan is marked as provided, but FuncHere.class requires it</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jpyeron" id="reporter_jpyeron" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jpyeron">Jason Pyeron</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="26/Oct/16 02:07"><time datetime="2016-10-26T02:07:32+0000">26/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/16 16:37"><time datetime="2016-11-09T16:37:43+0000">09/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13012163" rel="13012163" data-issuekey="SANTUARIO-455" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-455" href="https://issues.apache.org/jira/browse/SANTUARIO-455"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-455" href="https://issues.apache.org/jira/browse/SANTUARIO-455">SANTUARIO-455</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-455" href="https://issues.apache.org/jira/browse/SANTUARIO-455">Default Attributes are Not Canonicalized</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ememisya" id="reporter_ememisya" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ememisya">Erdem Memisyazici</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="13/Oct/16 21:45"><time datetime="2016-10-13T21:45:08+0000">13/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/16 09:51"><time datetime="2016-11-09T09:51:56+0000">09/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12989733" rel="12989733" data-issuekey="SANTUARIO-450" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-450" href="https://issues.apache.org/jira/browse/SANTUARIO-450"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-450" href="https://issues.apache.org/jira/browse/SANTUARIO-450">SANTUARIO-450</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-450" href="https://issues.apache.org/jira/browse/SANTUARIO-450">Array index overflow in Base64 utility class</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="Hoomey" id="reporter_Hoomey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=Hoomey">Ronald Boettcher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jul/16 09:44"><time datetime="2016-07-15T09:44:03+0000">15/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Dec/16 10:00"><time datetime="2016-12-05T10:00:44+0000">05/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983751" rel="12983751" data-issuekey="SANTUARIO-449" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-449" href="https://issues.apache.org/jira/browse/SANTUARIO-449"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-449" href="https://issues.apache.org/jira/browse/SANTUARIO-449">SANTUARIO-449</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-449" href="https://issues.apache.org/jira/browse/SANTUARIO-449">TXFMOutputFile can try to close unopened stream</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wferi" id="reporter_wferi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wferi">Ferenc Wágner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Jun/16 12:09"><time datetime="2016-06-27T12:09:46+0000">27/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="27/Jun/16 12:34"><time datetime="2016-06-27T12:34:00+0000">27/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983177" rel="12983177" data-issuekey="SANTUARIO-448" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-448" href="https://issues.apache.org/jira/browse/SANTUARIO-448"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-448" href="https://issues.apache.org/jira/browse/SANTUARIO-448">SANTUARIO-448</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-448" href="https://issues.apache.org/jira/browse/SANTUARIO-448">Fails to build with GCC 6</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wferi" id="reporter_wferi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wferi">Ferenc Wágner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="25/Jun/16 21:23"><time datetime="2016-06-25T21:23:46+0000">25/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/16 19:35"><time datetime="2016-06-26T19:35:30+0000">26/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983174" rel="12983174" data-issuekey="SANTUARIO-447" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-447" href="https://issues.apache.org/jira/browse/SANTUARIO-447"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-447" href="https://issues.apache.org/jira/browse/SANTUARIO-447">SANTUARIO-447</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-447" href="https://issues.apache.org/jira/browse/SANTUARIO-447">XSECCryptoX509::loadX509PEM() can read past unterminated buffer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wferi" id="reporter_wferi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wferi">Ferenc Wágner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Jun/16 20:44"><time datetime="2016-06-25T20:44:58+0000">25/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/16 19:35"><time datetime="2016-06-26T19:35:45+0000">26/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12976388" rel="12976388" data-issuekey="SANTUARIO-446" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-446" href="https://issues.apache.org/jira/browse/SANTUARIO-446"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-446" href="https://issues.apache.org/jira/browse/SANTUARIO-446">SANTUARIO-446</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-446" href="https://issues.apache.org/jira/browse/SANTUARIO-446">Base64 encoder uses &quot;\n&quot; instead of &quot;\r\n&quot; for newlines</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="reporter_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jun/16 10:00"><time datetime="2016-06-07T10:00:37+0000">07/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/16 09:40"><time datetime="2016-06-17T09:40:54+0000">17/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12976371" rel="12976371" data-issuekey="SANTUARIO-445" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-445" href="https://issues.apache.org/jira/browse/SANTUARIO-445"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-445" href="https://issues.apache.org/jira/browse/SANTUARIO-445">SANTUARIO-445</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-445" href="https://issues.apache.org/jira/browse/SANTUARIO-445">Streaming canonicalizers adding empty namespaces</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="giger" id="assignee_giger" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giger">Marc Giger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="reporter_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jun/16 09:15"><time datetime="2016-06-07T09:15:31+0000">07/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/16 09:40"><time datetime="2016-06-17T09:40:54+0000">17/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12972446" rel="12972446" data-issuekey="SANTUARIO-443" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-443" href="https://issues.apache.org/jira/browse/SANTUARIO-443"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-443" href="https://issues.apache.org/jira/browse/SANTUARIO-443">SANTUARIO-443</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-443" href="https://issues.apache.org/jira/browse/SANTUARIO-443">Java library generates schema invalid KeyValue for EC credentials</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="iay" id="reporter_iay" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=iay">Ian Young</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/May/16 17:03"><time datetime="2016-05-24T17:03:30+0000">24/May/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/16 09:40"><time datetime="2016-06-17T09:40:53+0000">17/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12970383" rel="12970383" data-issuekey="SANTUARIO-442" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-442" href="https://issues.apache.org/jira/browse/SANTUARIO-442"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-442" href="https://issues.apache.org/jira/browse/SANTUARIO-442">SANTUARIO-442</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-442" href="https://issues.apache.org/jira/browse/SANTUARIO-442">invalid signature in case of soap fault</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="david.leruse@gmail.com" id="reporter_david.leruse@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=david.leruse%40gmail.com">david leruse</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="17/May/16 14:34"><time datetime="2016-05-17T14:34:35+0000">17/May/16</time></span> </td>
+                                            <td class="updated"> <span title="17/May/16 14:43"><time datetime="2016-05-17T14:43:12+0000">17/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12964012" rel="12964012" data-issuekey="SANTUARIO-441" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-441" href="https://issues.apache.org/jira/browse/SANTUARIO-441"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-441" href="https://issues.apache.org/jira/browse/SANTUARIO-441">SANTUARIO-441</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-441" href="https://issues.apache.org/jira/browse/SANTUARIO-441">Binary compatibility broken between version 2.0.7-SNAPSHOT and 2.0.6</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="garydgregory" id="reporter_garydgregory" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=garydgregory">Gary Gregory</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Apr/16 23:38"><time datetime="2016-04-29T23:38:51+0000">29/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/16 09:40"><time datetime="2016-06-17T09:40:53+0000">17/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12960191" rel="12960191" data-issuekey="SANTUARIO-440" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-440" href="https://issues.apache.org/jira/browse/SANTUARIO-440"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-440" href="https://issues.apache.org/jira/browse/SANTUARIO-440">SANTUARIO-440</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-440" href="https://issues.apache.org/jira/browse/SANTUARIO-440">Binary compatibility broken between version 2.0.5 and 2.0.4 in org.apache.xml.security.c14n.CanonicalizationException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="garydgregory" id="reporter_garydgregory" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=garydgregory">Gary Gregory</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Apr/16 01:35"><time datetime="2016-04-20T01:35:17+0000">20/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="03/May/16 10:34"><time datetime="2016-05-03T10:34:11+0000">03/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12936191" rel="12936191" data-issuekey="SANTUARIO-437" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-437" href="https://issues.apache.org/jira/browse/SANTUARIO-437"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-437" href="https://issues.apache.org/jira/browse/SANTUARIO-437">SANTUARIO-437</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-437" href="https://issues.apache.org/jira/browse/SANTUARIO-437">Cannot compile as C++11</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jwakely" id="reporter_jwakely" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jwakely">Jonathan Wakely</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Feb/16 00:06"><time datetime="2016-02-03T00:06:01+0000">03/Feb/16</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/16 19:38"><time datetime="2016-06-26T19:38:06+0000">26/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12923473" rel="12923473" data-issuekey="SANTUARIO-436" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-436" href="https://issues.apache.org/jira/browse/SANTUARIO-436"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-436" href="https://issues.apache.org/jira/browse/SANTUARIO-436">SANTUARIO-436</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-436" href="https://issues.apache.org/jira/browse/SANTUARIO-436">XmlWriterToTree calls DOM with invalid global namespace URI</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clement_pellerin@ibi.com" id="reporter_clement_pellerin@ibi.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clement_pellerin%40ibi.com">Clement Pellerin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Dec/15 16:28"><time datetime="2015-12-21T16:28:02+0000">21/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="22/Dec/15 11:04"><time datetime="2015-12-22T11:04:12+0000">22/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12916493" rel="12916493" data-issuekey="SANTUARIO-435" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-435" href="https://issues.apache.org/jira/browse/SANTUARIO-435"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-435" href="https://issues.apache.org/jira/browse/SANTUARIO-435">SANTUARIO-435</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-435" href="https://issues.apache.org/jira/browse/SANTUARIO-435">Automake misses the subdir-objects option</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wferi" id="reporter_wferi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wferi">Ferenc Wágner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="26/Nov/15 16:47"><time datetime="2015-11-26T16:47:06+0000">26/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="26/Nov/15 16:47"><time datetime="2015-11-26T16:47:06+0000">26/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12916488" rel="12916488" data-issuekey="SANTUARIO-434" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-434" href="https://issues.apache.org/jira/browse/SANTUARIO-434"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-434" href="https://issues.apache.org/jira/browse/SANTUARIO-434">SANTUARIO-434</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-434" href="https://issues.apache.org/jira/browse/SANTUARIO-434">GCC warnings for pointer conversions</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wferi" id="reporter_wferi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wferi">Ferenc Wágner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="26/Nov/15 16:38"><time datetime="2015-11-26T16:38:44+0000">26/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/16 19:38"><time datetime="2016-06-26T19:38:20+0000">26/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12914863" rel="12914863" data-issuekey="SANTUARIO-433" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-433" href="https://issues.apache.org/jira/browse/SANTUARIO-433"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-433" href="https://issues.apache.org/jira/browse/SANTUARIO-433">SANTUARIO-433</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-433" href="https://issues.apache.org/jira/browse/SANTUARIO-433">IBM WAS 8.5.5 JVM does not support null for NameSpace prefix</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="giger" id="assignee_giger" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giger">Marc Giger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="csit" id="reporter_csit" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=csit">sit</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Nov/15 14:23"><time datetime="2015-11-20T14:23:25+0000">20/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 13:47"><time datetime="2015-12-07T13:47:40+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12904842" rel="12904842" data-issuekey="SANTUARIO-431" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-431" href="https://issues.apache.org/jira/browse/SANTUARIO-431"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-431" href="https://issues.apache.org/jira/browse/SANTUARIO-431">SANTUARIO-431</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-431" href="https://issues.apache.org/jira/browse/SANTUARIO-431">Invalid return value of getTextCharacters(...)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="csit" id="reporter_csit" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=csit">sit</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Oct/15 12:10"><time datetime="2015-10-14T12:10:51+0000">14/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 13:46"><time datetime="2015-12-07T13:46:53+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12902372" rel="12902372" data-issuekey="SANTUARIO-430" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-430" href="https://issues.apache.org/jira/browse/SANTUARIO-430"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-430" href="https://issues.apache.org/jira/browse/SANTUARIO-430">SANTUARIO-430</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-430" href="https://issues.apache.org/jira/browse/SANTUARIO-430">AES-GCM encryption/decryption does not work using STAX APIs and Java JCE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="namrata" id="reporter_namrata" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=namrata">Namrata Jaiswal</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Oct/15 07:28"><time datetime="2015-10-05T07:28:29+0000">05/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/15 13:46"><time datetime="2015-12-07T13:46:53+0000">07/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12862583" rel="12862583" data-issuekey="SANTUARIO-427" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-427" href="https://issues.apache.org/jira/browse/SANTUARIO-427"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-427" href="https://issues.apache.org/jira/browse/SANTUARIO-427">SANTUARIO-427</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-427" href="https://issues.apache.org/jira/browse/SANTUARIO-427">org.w3c.dom.DOMException: NOT_FOUND_ERR: An attempt is made to reference a node in a context where it does not exist. 	at com.sun.org.apache.xerces.internal.dom.ElementImpl.setIdAttribute(Unknown Source)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sangeetash" id="reporter_sangeetash" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sangeetash">sangeeta</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Sep/15 23:25"><time datetime="2015-09-08T23:25:23+0000">08/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Sep/15 10:40"><time datetime="2015-09-14T10:40:24+0000">14/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12858571" rel="12858571" data-issuekey="SANTUARIO-426" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-426" href="https://issues.apache.org/jira/browse/SANTUARIO-426"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-426" href="https://issues.apache.org/jira/browse/SANTUARIO-426">SANTUARIO-426</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-426" href="https://issues.apache.org/jira/browse/SANTUARIO-426">xml-security-c-1.7.3 not getting build on AIX with xerces-c-3.1.2</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ajeettewari" id="reporter_ajeettewari" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ajeettewari">ajeet</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="25/Aug/15 10:27"><time datetime="2015-08-25T10:27:30+0000">25/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="25/Aug/15 13:23"><time datetime="2015-08-25T13:23:09+0000">25/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12849910" rel="12849910" data-issuekey="SANTUARIO-424" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-424" href="https://issues.apache.org/jira/browse/SANTUARIO-424"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-424" href="https://issues.apache.org/jira/browse/SANTUARIO-424">SANTUARIO-424</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-424" href="https://issues.apache.org/jira/browse/SANTUARIO-424">Multiple Signatures cause a NPE on verification in the streaming code</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="giger" id="assignee_giger" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giger">Marc Giger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="reporter_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jul/15 11:48"><time datetime="2015-07-29T11:48:31+0000">29/Jul/15</time></span> </td>
+                                            <td class="updated"> <span title="18/Jan/16 18:07"><time datetime="2016-01-18T18:07:43+0000">18/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12840558" rel="12840558" data-issuekey="SANTUARIO-423" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-423" href="https://issues.apache.org/jira/browse/SANTUARIO-423"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-423" href="https://issues.apache.org/jira/browse/SANTUARIO-423">SANTUARIO-423</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-423" href="https://issues.apache.org/jira/browse/SANTUARIO-423">TRANSFORM_ENVELOPED_SIGNATURE Doesn&#39;t have any effect.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="malpi" id="reporter_malpi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=malpi">Malte Pickhan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="25/Jun/15 14:43"><time datetime="2015-06-25T14:43:46+0000">25/Jun/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Jan/16 14:31"><time datetime="2016-01-14T14:31:35+0000">14/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12835191" rel="12835191" data-issuekey="SANTUARIO-421" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-421" href="https://issues.apache.org/jira/browse/SANTUARIO-421"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-421" href="https://issues.apache.org/jira/browse/SANTUARIO-421">SANTUARIO-421</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-421" href="https://issues.apache.org/jira/browse/SANTUARIO-421">Use of algorithm from given parameter not field </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="zregvart" id="reporter_zregvart" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=zregvart">Zoran Regvart</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Jun/15 20:40"><time datetime="2015-06-03T20:40:12+0000">03/Jun/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Jul/15 09:42"><time datetime="2015-07-14T09:42:04+0000">14/Jul/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12828277" rel="12828277" data-issuekey="SANTUARIO-419" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-419" href="https://issues.apache.org/jira/browse/SANTUARIO-419"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-419" href="https://issues.apache.org/jira/browse/SANTUARIO-419">SANTUARIO-419</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-419" href="https://issues.apache.org/jira/browse/SANTUARIO-419">SecretKey Problem after decryption</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="CaptGoldfish" id="reporter_CaptGoldfish" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=CaptGoldfish">Pascal Knüppel</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="08/May/15 07:45"><time datetime="2015-05-08T07:45:01+0000">08/May/15</time></span> </td>
+                                            <td class="updated"> <span title="08/May/15 11:30"><time datetime="2015-05-08T11:30:41+0000">08/May/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12820578" rel="12820578" data-issuekey="SANTUARIO-418" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-418" href="https://issues.apache.org/jira/browse/SANTUARIO-418"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-418" href="https://issues.apache.org/jira/browse/SANTUARIO-418">SANTUARIO-418</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-418" href="https://issues.apache.org/jira/browse/SANTUARIO-418">Invalid acceptance of unpadded RSA signatures</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="reporter_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Apr/15 16:48"><time datetime="2015-04-13T16:48:22+0000">13/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Apr/15 16:48"><time datetime="2015-04-13T16:48:22+0000">13/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12773845" rel="12773845" data-issuekey="SANTUARIO-415" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-415" href="https://issues.apache.org/jira/browse/SANTUARIO-415"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-415" href="https://issues.apache.org/jira/browse/SANTUARIO-415">SANTUARIO-415</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-415" href="https://issues.apache.org/jira/browse/SANTUARIO-415">java.lang.UnsupportedOperation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="giger" id="assignee_giger" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giger">Marc Giger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tobiaswolf" id="reporter_tobiaswolf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tobiaswolf">Tobias Wolf</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Feb/15 13:24"><time datetime="2015-02-10T13:24:49+0000">10/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="20/Apr/15 09:58"><time datetime="2015-04-20T09:58:31+0000">20/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12772424" rel="12772424" data-issuekey="SANTUARIO-414" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-414" href="https://issues.apache.org/jira/browse/SANTUARIO-414"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-414" href="https://issues.apache.org/jira/browse/SANTUARIO-414">SANTUARIO-414</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-414" href="https://issues.apache.org/jira/browse/SANTUARIO-414">Use standard &quot;key names&quot; for Signature algorithms in the JCEMapper</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="reporter_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Feb/15 17:20"><time datetime="2015-02-04T17:20:45+0000">04/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="20/Apr/15 09:58"><time datetime="2015-04-20T09:58:31+0000">20/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12769740" rel="12769740" data-issuekey="SANTUARIO-413" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-413" href="https://issues.apache.org/jira/browse/SANTUARIO-413"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-413" href="https://issues.apache.org/jira/browse/SANTUARIO-413">SANTUARIO-413</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-413" href="https://issues.apache.org/jira/browse/SANTUARIO-413">Decrypted content should not be logged</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chrismoos" id="reporter_chrismoos" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chrismoos">Chris Moos</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="23/Jan/15 20:39"><time datetime="2015-01-23T20:39:47+0000">23/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Apr/15 09:07"><time datetime="2015-04-13T09:07:51+0000">13/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12762665" rel="12762665" data-issuekey="SANTUARIO-409" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-409" href="https://issues.apache.org/jira/browse/SANTUARIO-409"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-409" href="https://issues.apache.org/jira/browse/SANTUARIO-409">SANTUARIO-409</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-409" href="https://issues.apache.org/jira/browse/SANTUARIO-409">Win32 unicode build breaks due to wchar_t * passed to GetProcAddress()</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="usrben" id="reporter_usrben" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=usrben">Ben Sutcliffe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Dec/14 19:37"><time datetime="2014-12-18T19:37:34+0000">18/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/15 02:18"><time datetime="2015-01-29T02:18:19+0000">29/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12761747" rel="12761747" data-issuekey="SANTUARIO-408" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-408" href="https://issues.apache.org/jira/browse/SANTUARIO-408"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-408" href="https://issues.apache.org/jira/browse/SANTUARIO-408">SANTUARIO-408</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-408" href="https://issues.apache.org/jira/browse/SANTUARIO-408">santuario 2.0&#39;s stax logging uses default encoding</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ashundi" id="reporter_ashundi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ashundi">Anli Shundi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Dec/14 13:55"><time datetime="2014-12-15T13:55:23+0000">15/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Jan/15 10:07"><time datetime="2015-01-13T10:07:20+0000">13/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12757346" rel="12757346" data-issuekey="SANTUARIO-406" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-406" href="https://issues.apache.org/jira/browse/SANTUARIO-406"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-406" href="https://issues.apache.org/jira/browse/SANTUARIO-406">SANTUARIO-406</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-406" href="https://issues.apache.org/jira/browse/SANTUARIO-406">RSA/ECB/OAEPWithSHA-256AndMGF1Padding not working</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thomas_konst" id="reporter_thomas_konst" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thomas_konst">Thomas Konstantinides</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Nov/14 08:44"><time datetime="2014-11-24T08:44:24+0000">24/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Jan/15 10:07"><time datetime="2015-01-13T10:07:18+0000">13/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12746655" rel="12746655" data-issuekey="SANTUARIO-401" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-401" href="https://issues.apache.org/jira/browse/SANTUARIO-401"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-401" href="https://issues.apache.org/jira/browse/SANTUARIO-401">SANTUARIO-401</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-401" href="https://issues.apache.org/jira/browse/SANTUARIO-401">XmlWriterToTree can write out xmlns:null for a null prefix</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="reporter_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Oct/14 08:15"><time datetime="2014-10-08T08:15:02+0000">08/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Jan/15 10:07"><time datetime="2015-01-13T10:07:20+0000">13/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12745821" rel="12745821" data-issuekey="SANTUARIO-400" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-400" href="https://issues.apache.org/jira/browse/SANTUARIO-400"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-400" href="https://issues.apache.org/jira/browse/SANTUARIO-400">SANTUARIO-400</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-400" href="https://issues.apache.org/jira/browse/SANTUARIO-400">Buffer overwrite in WinCAPICryptoSymmetricKey::encrypt() (WinCAPICryptoSymmetricKey.cpp)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="SergeLalonde" id="reporter_SergeLalonde" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=SergeLalonde">Serge Lalonde</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/14 20:40"><time datetime="2014-10-03T20:40:52+0000">03/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/15 02:09"><time datetime="2015-01-29T02:09:46+0000">29/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12742910" rel="12742910" data-issuekey="SANTUARIO-399" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-399" href="https://issues.apache.org/jira/browse/SANTUARIO-399"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-399" href="https://issues.apache.org/jira/browse/SANTUARIO-399">SANTUARIO-399</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-399" href="https://issues.apache.org/jira/browse/SANTUARIO-399">XMLCipher fails to declare signature namespace on xenc:EncryptionMethod/ds:DigestMethod elements</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="putmanb@georgetown.edu" id="reporter_putmanb@georgetown.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=putmanb%40georgetown.edu">Brent Putman</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Sep/14 02:11"><time datetime="2014-09-20T02:11:37+0000">20/Sep/14</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/14 14:50"><time datetime="2014-09-25T14:50:19+0000">25/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12739242" rel="12739242" data-issuekey="SANTUARIO-398" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-398" href="https://issues.apache.org/jira/browse/SANTUARIO-398"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-398" href="https://issues.apache.org/jira/browse/SANTUARIO-398">SANTUARIO-398</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-398" href="https://issues.apache.org/jira/browse/SANTUARIO-398">SignedInfo.getCanonicalizedOctetStream() -- getInclusiveNamespaces() ?</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="maslen" id="reporter_maslen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=maslen">Thomas Maslen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Sep/14 20:35"><time datetime="2014-09-04T20:35:17+0000">04/Sep/14</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/14 14:50"><time datetime="2014-09-25T14:50:19+0000">25/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12737360" rel="12737360" data-issuekey="SANTUARIO-397" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-397" href="https://issues.apache.org/jira/browse/SANTUARIO-397"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-397" href="https://issues.apache.org/jira/browse/SANTUARIO-397">SANTUARIO-397</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-397" href="https://issues.apache.org/jira/browse/SANTUARIO-397">EncryptedKey Id Validation fails</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mujahedsyed" id="reporter_mujahedsyed" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mujahedsyed">Mujahed Syed</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/14 11:18"><time datetime="2014-08-28T11:18:25+0000">28/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/14 14:50"><time datetime="2014-09-25T14:50:19+0000">25/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12734508" rel="12734508" data-issuekey="SANTUARIO-396" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-396" href="https://issues.apache.org/jira/browse/SANTUARIO-396"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-396" href="https://issues.apache.org/jira/browse/SANTUARIO-396">SANTUARIO-396</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-396" href="https://issues.apache.org/jira/browse/SANTUARIO-396">XMLCipher does not allow the use of Entrust RSAOAEPParamterSpec for RSA OAEP</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sean.mullan@oracle.com" id="assignee_sean.mullan@oracle.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sean.mullan%40oracle.com">sean.mullan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="greenbean" id="reporter_greenbean" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=greenbean">Kevin Urciolo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="15/Aug/14 20:08"><time datetime="2014-08-15T20:08:32+0000">15/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="28/Aug/14 20:56"><time datetime="2014-08-28T20:56:11+0000">28/Aug/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12727874" rel="12727874" data-issuekey="SANTUARIO-395" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-395" href="https://issues.apache.org/jira/browse/SANTUARIO-395"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-395" href="https://issues.apache.org/jira/browse/SANTUARIO-395">SANTUARIO-395</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-395" href="https://issues.apache.org/jira/browse/SANTUARIO-395">decryption with apache santuario for xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mujahedsyed" id="reporter_mujahedsyed" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mujahedsyed">Mujahed Syed</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="17/Jul/14 08:10"><time datetime="2014-07-17T08:10:50+0000">17/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="21/Jul/14 10:05"><time datetime="2014-07-21T10:05:28+0000">21/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12722508" rel="12722508" data-issuekey="SANTUARIO-394" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-394" href="https://issues.apache.org/jira/browse/SANTUARIO-394"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-394" href="https://issues.apache.org/jira/browse/SANTUARIO-394">SANTUARIO-394</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-394" href="https://issues.apache.org/jira/browse/SANTUARIO-394">Performance issue with getting XML parsers</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ashundi" id="reporter_ashundi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ashundi">Anli Shundi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Jun/14 15:09"><time datetime="2014-06-19T15:09:49+0000">19/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Jan/15 10:07"><time datetime="2015-01-13T10:07:19+0000">13/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12720878" rel="12720878" data-issuekey="SANTUARIO-393" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-393" href="https://issues.apache.org/jira/browse/SANTUARIO-393"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-393" href="https://issues.apache.org/jira/browse/SANTUARIO-393">SANTUARIO-393</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-393" href="https://issues.apache.org/jira/browse/SANTUARIO-393">Performance regression as signature data is not buffered</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="netmackan" id="reporter_netmackan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=netmackan">Markus Kilås</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jun/14 13:43"><time datetime="2014-06-12T13:43:48+0000">12/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/14 12:10"><time datetime="2014-07-01T12:10:44+0000">01/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12716437" rel="12716437" data-issuekey="SANTUARIO-391" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-391" href="https://issues.apache.org/jira/browse/SANTUARIO-391"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-391" href="https://issues.apache.org/jira/browse/SANTUARIO-391">SANTUARIO-391</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-391" href="https://issues.apache.org/jira/browse/SANTUARIO-391">Support for Signature Algorithm RSA with SHA-224 </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="putmanb@georgetown.edu" id="reporter_putmanb@georgetown.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=putmanb%40georgetown.edu">Brent Putman</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="23/May/14 20:49"><time datetime="2014-05-23T20:49:08+0000">23/May/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/14 12:10"><time datetime="2014-07-01T12:10:43+0000">01/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12714096" rel="12714096" data-issuekey="SANTUARIO-387" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-387" href="https://issues.apache.org/jira/browse/SANTUARIO-387"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-387" href="https://issues.apache.org/jira/browse/SANTUARIO-387">SANTUARIO-387</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-387" href="https://issues.apache.org/jira/browse/SANTUARIO-387">JUnit test XMLEncryption11Test.testAESGCMAuthentication() for StAX API fails sometimes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="giger" id="assignee_giger" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giger">Marc Giger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gino" id="reporter_gino" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gino">Giedrius Noreikis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/May/14 02:31"><time datetime="2014-05-14T02:31:41+0000">14/May/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/14 12:10"><time datetime="2014-07-01T12:10:43+0000">01/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12708682" rel="12708682" data-issuekey="SANTUARIO-384" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-384" href="https://issues.apache.org/jira/browse/SANTUARIO-384"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-384" href="https://issues.apache.org/jira/browse/SANTUARIO-384">SANTUARIO-384</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-384" href="https://issues.apache.org/jira/browse/SANTUARIO-384">OpenSSLCryptoKeyEC::signBase64SignatureDSA fails most of time</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stackcn" id="reporter_stackcn" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stackcn">stack</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Apr/14 06:48"><time datetime="2014-04-16T06:48:08+0000">16/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="04/Mar/15 02:22"><time datetime="2015-03-04T02:22:38+0000">04/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12708224" rel="12708224" data-issuekey="SANTUARIO-383" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-383" href="https://issues.apache.org/jira/browse/SANTUARIO-383"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-383" href="https://issues.apache.org/jira/browse/SANTUARIO-383">SANTUARIO-383</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-383" href="https://issues.apache.org/jira/browse/SANTUARIO-383">NPE in DOMXMLSignature</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="frank.cornelis" id="reporter_frank.cornelis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=frank.cornelis">Frank Cornelis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Apr/14 10:52"><time datetime="2014-04-14T10:52:21+0000">14/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="01/May/14 14:18"><time datetime="2014-05-01T14:18:36+0000">01/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12707083" rel="12707083" data-issuekey="SANTUARIO-382" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-382" href="https://issues.apache.org/jira/browse/SANTUARIO-382"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-382" href="https://issues.apache.org/jira/browse/SANTUARIO-382">SANTUARIO-382</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-382" href="https://issues.apache.org/jira/browse/SANTUARIO-382">Unconditionally enable large file support</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="eagle" id="reporter_eagle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=eagle">Russ Allbery</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Apr/14 00:46"><time datetime="2014-04-08T00:46:23+0000">08/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/15 02:22"><time datetime="2015-01-29T02:22:49+0000">29/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12707080" rel="12707080" data-issuekey="SANTUARIO-381" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-381" href="https://issues.apache.org/jira/browse/SANTUARIO-381"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-381" href="https://issues.apache.org/jira/browse/SANTUARIO-381">SANTUARIO-381</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-381" href="https://issues.apache.org/jira/browse/SANTUARIO-381">Spelling error in xsec/enc/OpenSSL/OpenSSLCryptoSymmetricKey.cpp</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="eagle" id="reporter_eagle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=eagle">Russ Allbery</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/14 00:43"><time datetime="2014-04-08T00:43:49+0000">08/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/15 02:22"><time datetime="2015-01-29T02:22:33+0000">29/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12707078" rel="12707078" data-issuekey="SANTUARIO-380" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-380" href="https://issues.apache.org/jira/browse/SANTUARIO-380"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-380" href="https://issues.apache.org/jira/browse/SANTUARIO-380">SANTUARIO-380</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-380" href="https://issues.apache.org/jira/browse/SANTUARIO-380">Avoid use of PATH_MAX where possible</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="eagle" id="reporter_eagle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=eagle">Russ Allbery</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/14 00:41"><time datetime="2014-04-08T00:41:22+0000">08/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/15 03:01"><time datetime="2015-01-29T03:01:36+0000">29/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12701195" rel="12701195" data-issuekey="SANTUARIO-379" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-379" href="https://issues.apache.org/jira/browse/SANTUARIO-379"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-379" href="https://issues.apache.org/jira/browse/SANTUARIO-379">SANTUARIO-379</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-379" href="https://issues.apache.org/jira/browse/SANTUARIO-379">Signing XML with SHA1 with DSA throws exception when key is larger than 1024</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sean.mullan@oracle.com" id="assignee_sean.mullan@oracle.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sean.mullan%40oracle.com">sean.mullan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="m.dzhigarov" id="reporter_m.dzhigarov" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=m.dzhigarov">Marin Dzhigarov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Mar/14 09:09"><time datetime="2014-03-13T09:09:02+0000">13/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/14 12:11"><time datetime="2014-07-01T12:11:15+0000">01/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12698902" rel="12698902" data-issuekey="SANTUARIO-378" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-378" href="https://issues.apache.org/jira/browse/SANTUARIO-378"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-378" href="https://issues.apache.org/jira/browse/SANTUARIO-378">SANTUARIO-378</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-378" href="https://issues.apache.org/jira/browse/SANTUARIO-378">xml-security-c cannot initialise on a Windows system with mandatory user profiles</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="cantor.2@osu.edu" id="assignee_cantor.2@osu.edu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cantor.2%40osu.edu">Scott Cantor</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="johne" id="reporter_johne" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=johne">John Elliott</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Mar/14 16:27"><time datetime="2014-03-05T16:27:00+0000">05/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/15 02:40"><time datetime="2015-01-29T02:40:56+0000">29/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681371" rel="12681371" data-issuekey="SANTUARIO-374" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-374" href="https://issues.apache.org/jira/browse/SANTUARIO-374"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-374" href="https://issues.apache.org/jira/browse/SANTUARIO-374">SANTUARIO-374</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-374" href="https://issues.apache.org/jira/browse/SANTUARIO-374">Please delete old releases from mirroring system</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Nov/13 20:07"><time datetime="2013-11-26T20:07:41+0000">26/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="27/Nov/13 12:43"><time datetime="2013-11-27T12:43:12+0000">27/Nov/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681151" rel="12681151" data-issuekey="SANTUARIO-373" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-373" href="https://issues.apache.org/jira/browse/SANTUARIO-373"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-373" href="https://issues.apache.org/jira/browse/SANTUARIO-373">SANTUARIO-373</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-373" href="https://issues.apache.org/jira/browse/SANTUARIO-373">SignatureVerificationReferenceURIResolverTest fails on Windows system</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mhaeusle" id="reporter_mhaeusle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mhaeusle">Michael Haeusler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Nov/13 22:43"><time datetime="2013-11-25T22:43:44+0000">25/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="01/May/14 14:18"><time datetime="2014-05-01T14:18:36+0000">01/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12680912" rel="12680912" data-issuekey="SANTUARIO-372" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-372" href="https://issues.apache.org/jira/browse/SANTUARIO-372"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-372" href="https://issues.apache.org/jira/browse/SANTUARIO-372">SANTUARIO-372</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-372" href="https://issues.apache.org/jira/browse/SANTUARIO-372">SignatureCreationReferenceURIResolverTest fails on Windows system</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mhaeusle" id="reporter_mhaeusle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mhaeusle">Michael Haeusler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Nov/13 02:30"><time datetime="2013-11-24T02:30:03+0000">24/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="01/May/14 14:18"><time datetime="2014-05-01T14:18:36+0000">01/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12680911" rel="12680911" data-issuekey="SANTUARIO-371" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-371" href="https://issues.apache.org/jira/browse/SANTUARIO-371"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-371" href="https://issues.apache.org/jira/browse/SANTUARIO-371">SANTUARIO-371</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-371" href="https://issues.apache.org/jira/browse/SANTUARIO-371">Junit test fails on 2.0 branch</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mhaeusle" id="reporter_mhaeusle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mhaeusle">Michael Haeusler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Nov/13 02:22"><time datetime="2013-11-24T02:22:02+0000">24/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="01/May/14 14:18"><time datetime="2014-05-01T14:18:34+0000">01/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12678538" rel="12678538" data-issuekey="SANTUARIO-370" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-370" href="https://issues.apache.org/jira/browse/SANTUARIO-370"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-370" href="https://issues.apache.org/jira/browse/SANTUARIO-370">SANTUARIO-370</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-370" href="https://issues.apache.org/jira/browse/SANTUARIO-370">XPath2 prefix</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="frank.cornelis" id="reporter_frank.cornelis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=frank.cornelis">Frank Cornelis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Nov/13 09:55"><time datetime="2013-11-11T09:55:03+0000">11/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="20/Nov/13 04:32"><time datetime="2013-11-20T04:32:36+0000">20/Nov/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12675964" rel="12675964" data-issuekey="SANTUARIO-369" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-369" href="https://issues.apache.org/jira/browse/SANTUARIO-369"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-369" href="https://issues.apache.org/jira/browse/SANTUARIO-369">SANTUARIO-369</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-369" href="https://issues.apache.org/jira/browse/SANTUARIO-369">XMLSecurityStreamWriter setPrefix() and setDefaultNamespace() outputs namespaces</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="giger" id="assignee_giger" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giger">Marc Giger</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="giger" id="reporter_giger" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giger">Marc Giger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Oct/13 19:25"><time datetime="2013-10-26T19:25:49+0000">26/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="01/May/14 14:18"><time datetime="2014-05-01T14:18:36+0000">01/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12671006" rel="12671006" data-issuekey="SANTUARIO-368" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-368" href="https://issues.apache.org/jira/browse/SANTUARIO-368"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-368" href="https://issues.apache.org/jira/browse/SANTUARIO-368">SANTUARIO-368</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-368" href="https://issues.apache.org/jira/browse/SANTUARIO-368">NullPointerException in XMLSecurity.java</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rwdennis" id="reporter_rwdennis" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rwdennis">Wally Dennis</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Sep/13 20:18"><time datetime="2013-09-27T20:18:41+0000">27/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/13 13:41"><time datetime="2013-11-15T13:41:56+0000">15/Nov/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12663307" rel="12663307" data-issuekey="SANTUARIO-365" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="SANTUARIO-365" href="https://issues.apache.org/jira/browse/SANTUARIO-365"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="SANTUARIO-365" href="https://issues.apache.org/jira/browse/SANTUARIO-365">SANTUARIO-365</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="SANTUARIO-365" href="https://issues.apache.org/jira/browse/SANTUARIO-365">JAXB Context from ObjectFactory....</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="coheigea" id="assignee_coheigea" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=coheigea">Colm O hEigeartaigh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Aug/13 23:17"><time datetime="2013-08-12T23:17:07+0000">12/Aug/13</time></span> </td>
+                                            <td class="updated"> <span title="01/May/14 14:18"><time datetime="2014-05-01T14:18:35+0000">01/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

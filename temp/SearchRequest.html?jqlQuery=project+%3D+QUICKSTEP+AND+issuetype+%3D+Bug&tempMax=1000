@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+QUICKSTEP+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+QUICKSTEP+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/QUICKSTEP" title="Browse Apache Quickstep project">Apache Quickstep</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>18</b> of <b>18</b>
+            as at: <b>05/Mar/17 17:01</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13042445" rel="13042445" data-issuekey="QUICKSTEP-76" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-76" href="https://issues.apache.org/jira/browse/QUICKSTEP-76"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-76" href="https://issues.apache.org/jira/browse/QUICKSTEP-76">QUICKSTEP-76</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-76" href="https://issues.apache.org/jira/browse/QUICKSTEP-76">LIP Filter Does not Work in the distributed version</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hitony" id="reporter_hitony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hitony">Zuyu Zhang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Feb/17 00:26"><time datetime="2017-02-13T00:26:38+0000">13/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="13/Feb/17 00:26"><time datetime="2017-02-13T00:26:38+0000">13/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13035964" rel="13035964" data-issuekey="QUICKSTEP-67" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-67" href="https://issues.apache.org/jira/browse/QUICKSTEP-67"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-67" href="https://issues.apache.org/jira/browse/QUICKSTEP-67">QUICKSTEP-67</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-67" href="https://issues.apache.org/jira/browse/QUICKSTEP-67">Compilation on Mac OS Sierra (v 16.3.0)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hakanmemisoglu" id="assignee_hakanmemisoglu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hakanmemisoglu">Hakan Memisoglu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hakanmemisoglu" id="reporter_hakanmemisoglu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hakanmemisoglu">Hakan Memisoglu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Jan/17 19:12"><time datetime="2017-01-18T19:12:48+0000">18/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="18/Jan/17 19:12"><time datetime="2017-01-18T19:12:48+0000">18/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13025996" rel="13025996" data-issuekey="QUICKSTEP-65" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-65" href="https://issues.apache.org/jira/browse/QUICKSTEP-65"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-65" href="https://issues.apache.org/jira/browse/QUICKSTEP-65">QUICKSTEP-65</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-65" href="https://issues.apache.org/jira/browse/QUICKSTEP-65">Quickstep fails to build on Mac OSX 10.12</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ssaurabh" id="assignee_ssaurabh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ssaurabh">Saket Saurabh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="saketj" id="reporter_saketj" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=saketj">Saket Saurabh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Dec/16 15:52"><time datetime="2016-12-06T15:52:12+0000">06/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Dec/16 07:06"><time datetime="2016-12-17T07:06:55+0000">17/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13021371" rel="13021371" data-issuekey="QUICKSTEP-63" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-63" href="https://issues.apache.org/jira/browse/QUICKSTEP-63"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-63" href="https://issues.apache.org/jira/browse/QUICKSTEP-63">QUICKSTEP-63</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-63" href="https://issues.apache.org/jira/browse/QUICKSTEP-63">PlanVisualizer related crashes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jianqiao" id="assignee_jianqiao" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jianqiao">Jianqiao Zhu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hitony" id="reporter_hitony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hitony">Zuyu Zhang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Nov/16 07:14"><time datetime="2016-11-17T07:14:27+0000">17/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="17/Dec/16 06:14"><time datetime="2016-12-17T06:14:49+0000">17/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13020972" rel="13020972" data-issuekey="QUICKSTEP-62" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-62" href="https://issues.apache.org/jira/browse/QUICKSTEP-62"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-62" href="https://issues.apache.org/jira/browse/QUICKSTEP-62">QUICKSTEP-62</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-62" href="https://issues.apache.org/jira/browse/QUICKSTEP-62">Crash on Order By with no rows</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="spehl" id="reporter_spehl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=spehl">Marc Spehlmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="15/Nov/16 23:35"><time datetime="2016-11-15T23:35:58+0000">15/Nov/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Nov/16 23:35"><time datetime="2016-11-15T23:35:58+0000">15/Nov/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13016659" rel="13016659" data-issuekey="QUICKSTEP-61" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-61" href="https://issues.apache.org/jira/browse/QUICKSTEP-61"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-61" href="https://issues.apache.org/jira/browse/QUICKSTEP-61">QUICKSTEP-61</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-61" href="https://issues.apache.org/jira/browse/QUICKSTEP-61">SplitRowStore crashes on BulkLoads</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="spehl" id="assignee_spehl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=spehl">Marc Spehlmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="spehl" id="reporter_spehl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=spehl">Marc Spehlmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Oct/16 17:15"><time datetime="2016-10-31T17:15:53+0000">31/Oct/16</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/16 21:20"><time datetime="2016-11-01T21:20:42+0000">01/Nov/16</time></span> </td>
+                                            <td class="duedate">    07/Nov/16
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13007263" rel="13007263" data-issuekey="QUICKSTEP-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-58" href="https://issues.apache.org/jira/browse/QUICKSTEP-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-58" href="https://issues.apache.org/jira/browse/QUICKSTEP-58">QUICKSTEP-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-58" href="https://issues.apache.org/jira/browse/QUICKSTEP-58">Destruction of HashTable buckets in Aggregation hash tables</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hbdeshmukh@apache.org" id="assignee_hbdeshmukh@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hbdeshmukh%40apache.org">Harshad Deshmukh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hbdeshmukh@apache.org" id="reporter_hbdeshmukh@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hbdeshmukh%40apache.org">Harshad Deshmukh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Sep/16 20:50"><time datetime="2016-09-23T20:50:56+0000">23/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Oct/16 13:37"><time datetime="2016-10-23T13:37:56+0000">23/Oct/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13002555" rel="13002555" data-issuekey="QUICKSTEP-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-54" href="https://issues.apache.org/jira/browse/QUICKSTEP-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-54" href="https://issues.apache.org/jira/browse/QUICKSTEP-54">QUICKSTEP-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-54" href="https://issues.apache.org/jira/browse/QUICKSTEP-54">Reduce hash table initial size and let it resize dynamically</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jianqiao" id="assignee_jianqiao" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jianqiao">Jianqiao Zhu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="navsan" id="reporter_navsan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=navsan">Navneet Potti</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Sep/16 13:08"><time datetime="2016-09-03T13:08:01+0000">03/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="03/Sep/16 13:08"><time datetime="2016-09-03T13:08:01+0000">03/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13000177" rel="13000177" data-issuekey="QUICKSTEP-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-45" href="https://issues.apache.org/jira/browse/QUICKSTEP-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-45" href="https://issues.apache.org/jira/browse/QUICKSTEP-45">QUICKSTEP-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-45" href="https://issues.apache.org/jira/browse/QUICKSTEP-45">Exchange Subtrahend and Minuend terms</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hbdeshmukh@apache.org" id="reporter_hbdeshmukh@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hbdeshmukh%40apache.org">Harshad Deshmukh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Aug/16 21:10"><time datetime="2016-08-25T21:10:34+0000">25/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="25/Aug/16 21:10"><time datetime="2016-08-25T21:10:34+0000">25/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12987236" rel="12987236" data-issuekey="QUICKSTEP-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-36" href="https://issues.apache.org/jira/browse/QUICKSTEP-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-36" href="https://issues.apache.org/jira/browse/QUICKSTEP-36">QUICKSTEP-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-36" href="https://issues.apache.org/jira/browse/QUICKSTEP-36">Quickstep gives segmentation fault when it imports table from a file that does not have access rights.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hakanmemisoglu" id="reporter_hakanmemisoglu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hakanmemisoglu">Hakan Memisoglu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jul/16 18:19"><time datetime="2016-07-06T18:19:03+0000">06/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Sep/16 17:48"><time datetime="2016-09-23T17:48:02+0000">23/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12986870" rel="12986870" data-issuekey="QUICKSTEP-35" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-35" href="https://issues.apache.org/jira/browse/QUICKSTEP-35"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-35" href="https://issues.apache.org/jira/browse/QUICKSTEP-35">QUICKSTEP-35</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-35" href="https://issues.apache.org/jira/browse/QUICKSTEP-35">Quickstep doesn&#39;t clean up on-disk temp blocks on crash</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="navsan" id="reporter_navsan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=navsan">Navneet Potti</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="05/Jul/16 16:26"><time datetime="2016-07-05T16:26:23+0000">05/Jul/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Jul/16 16:26"><time datetime="2016-07-05T16:26:23+0000">05/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12985135" rel="12985135" data-issuekey="QUICKSTEP-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-33" href="https://issues.apache.org/jira/browse/QUICKSTEP-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-33" href="https://issues.apache.org/jira/browse/QUICKSTEP-33">QUICKSTEP-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-33" href="https://issues.apache.org/jira/browse/QUICKSTEP-33">Fix UnaryNumericCast Logic Bug</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hakanmemisoglu" id="assignee_hakanmemisoglu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hakanmemisoglu">Hakan Memisoglu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hakanmemisoglu" id="reporter_hakanmemisoglu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hakanmemisoglu">Hakan Memisoglu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jun/16 18:35"><time datetime="2016-06-29T18:35:54+0000">29/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Jun/16 23:20"><time datetime="2016-06-30T23:20:19+0000">30/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12984157" rel="12984157" data-issuekey="QUICKSTEP-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-32" href="https://issues.apache.org/jira/browse/QUICKSTEP-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-32" href="https://issues.apache.org/jira/browse/QUICKSTEP-32">QUICKSTEP-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-32" href="https://issues.apache.org/jira/browse/QUICKSTEP-32">Failure on Group By hash table merge</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rathijit" id="reporter_rathijit" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rathijit">Rathijit Sen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Jun/16 23:31"><time datetime="2016-06-27T23:31:31+0000">27/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="27/Jun/16 23:31"><time datetime="2016-06-27T23:31:31+0000">27/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12983162" rel="12983162" data-issuekey="QUICKSTEP-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-27" href="https://issues.apache.org/jira/browse/QUICKSTEP-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-27" href="https://issues.apache.org/jira/browse/QUICKSTEP-27">QUICKSTEP-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-27" href="https://issues.apache.org/jira/browse/QUICKSTEP-27">TPC-H Query 18 failing when executed multiple times</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rathijit" id="reporter_rathijit" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rathijit">Rathijit Sen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Jun/16 19:22"><time datetime="2016-06-25T19:22:57+0000">25/Jun/16</time></span> </td>
+                                            <td class="updated"> <span title="25/Jun/16 19:22"><time datetime="2016-06-25T19:22:57+0000">25/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12960172" rel="12960172" data-issuekey="QUICKSTEP-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-5" href="https://issues.apache.org/jira/browse/QUICKSTEP-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-5" href="https://issues.apache.org/jira/browse/QUICKSTEP-5">QUICKSTEP-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-5" href="https://issues.apache.org/jira/browse/QUICKSTEP-5">Make first release under Apache</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jigneshpatel" id="assignee_jigneshpatel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jigneshpatel">Jignesh Patel</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="julianhyde" id="reporter_julianhyde" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=julianhyde">Julian Hyde</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Apr/16 23:20"><time datetime="2016-04-19T23:20:11+0000">19/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="10/Jun/16 18:01"><time datetime="2016-06-10T18:01:10+0000">10/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12960171" rel="12960171" data-issuekey="QUICKSTEP-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-4" href="https://issues.apache.org/jira/browse/QUICKSTEP-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-4" href="https://issues.apache.org/jira/browse/QUICKSTEP-4">QUICKSTEP-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-4" href="https://issues.apache.org/jira/browse/QUICKSTEP-4">Create a web site</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jigneshpatel" id="assignee_jigneshpatel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jigneshpatel">Jignesh Patel</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="julianhyde" id="reporter_julianhyde" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=julianhyde">Julian Hyde</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Apr/16 23:16"><time datetime="2016-04-19T23:16:57+0000">19/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Aug/16 19:13"><time datetime="2016-08-30T19:13:06+0000">30/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12960170" rel="12960170" data-issuekey="QUICKSTEP-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-3" href="https://issues.apache.org/jira/browse/QUICKSTEP-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-3" href="https://issues.apache.org/jira/browse/QUICKSTEP-3">QUICKSTEP-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-3" href="https://issues.apache.org/jira/browse/QUICKSTEP-3">Create twitter account</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jigneshpatel" id="assignee_jigneshpatel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jigneshpatel">Jignesh Patel</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="julianhyde" id="reporter_julianhyde" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=julianhyde">Julian Hyde</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Apr/16 23:15"><time datetime="2016-04-19T23:15:49+0000">19/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="10/Jun/16 18:00"><time datetime="2016-06-10T18:00:57+0000">10/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12959779" rel="12959779" data-issuekey="QUICKSTEP-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="QUICKSTEP-1" href="https://issues.apache.org/jira/browse/QUICKSTEP-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="QUICKSTEP-1" href="https://issues.apache.org/jira/browse/QUICKSTEP-1">QUICKSTEP-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="QUICKSTEP-1" href="https://issues.apache.org/jira/browse/QUICKSTEP-1">Add incubation disclaimer to README.md </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hitony" id="assignee_hitony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hitony">Zuyu Zhang</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="julianhyde" id="reporter_julianhyde" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=julianhyde">Julian Hyde</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Apr/16 20:25"><time datetime="2016-04-18T20:25:28+0000">18/Apr/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Apr/16 20:53"><time datetime="2016-04-20T20:53:09+0000">20/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

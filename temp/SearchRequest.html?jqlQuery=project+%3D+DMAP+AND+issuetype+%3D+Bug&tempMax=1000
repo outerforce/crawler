@@ -1,0 +1,1601 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DMAP+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DMAP+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/DMAP" title="Browse DeviceMap project">DeviceMap</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>42</b> of <b>42</b>
+            as at: <b>05/Mar/17 16:56</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13031502" rel="13031502" data-issuekey="DMAP-204" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-204" href="https://issues.apache.org/jira/browse/DMAP-204"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-204" href="https://issues.apache.org/jira/browse/DMAP-204">DMAP-204</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-204" href="https://issues.apache.org/jira/browse/DMAP-204">Mention about DeviceMap successor YAUAA</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="assignee_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vy" id="reporter_vy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vy">Volkan Yazıcı</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="02/Jan/17 13:38"><time datetime="2017-01-02T13:38:58+0000">02/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/17 13:48"><time datetime="2017-01-02T13:48:27+0000">02/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997652" rel="12997652" data-issuekey="DMAP-194" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-194" href="https://issues.apache.org/jira/browse/DMAP-194"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-194" href="https://issues.apache.org/jira/browse/DMAP-194">DMAP-194</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-194" href="https://issues.apache.org/jira/browse/DMAP-194">debugger</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="assignee_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="MayaKarya" id="reporter_MayaKarya" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=MayaKarya">Andi HARPIANTO</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Aug/16 17:23"><time datetime="2016-08-16T17:23:47+0000">16/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="19/Aug/16 17:14"><time datetime="2016-08-19T17:14:59+0000">19/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12953840" rel="12953840" data-issuekey="DMAP-191" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-191" href="https://issues.apache.org/jira/browse/DMAP-191"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-191" href="https://issues.apache.org/jira/browse/DMAP-191">DMAP-191</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-191" href="https://issues.apache.org/jira/browse/DMAP-191">DMAP-Spring on VM broken</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Mar/16 12:54"><time datetime="2016-03-27T12:54:32+0000">27/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="08/May/16 16:22"><time datetime="2016-05-08T16:22:58+0000">08/May/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12949815" rel="12949815" data-issuekey="DMAP-190" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-190" href="https://issues.apache.org/jira/browse/DMAP-190"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-190" href="https://issues.apache.org/jira/browse/DMAP-190">DMAP-190</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-190" href="https://issues.apache.org/jira/browse/DMAP-190">Google Mobile-Friendly Test fails</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="flansch" id="reporter_flansch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=flansch">Daniel Calliess</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="14/Mar/16 09:36"><time datetime="2016-03-14T09:36:08+0000">14/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="14/Mar/16 09:38"><time datetime="2016-03-14T09:38:05+0000">14/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12923234" rel="12923234" data-issuekey="DMAP-186" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-186" href="https://issues.apache.org/jira/browse/DMAP-186"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-186" href="https://issues.apache.org/jira/browse/DMAP-186">DMAP-186</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-186" href="https://issues.apache.org/jira/browse/DMAP-186">Some arguments like debug/log won&#39;t work in Java Console</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Dec/15 15:21"><time datetime="2015-12-19T15:21:20+0000">19/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="18/Feb/17 16:14"><time datetime="2017-02-18T16:14:05+0000">18/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12904095" rel="12904095" data-issuekey="DMAP-180" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-180" href="https://issues.apache.org/jira/browse/DMAP-180"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-180" href="https://issues.apache.org/jira/browse/DMAP-180">DMAP-180</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-180" href="https://issues.apache.org/jira/browse/DMAP-180">C# /.net Source code download URL is wrong</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="muralidharand" id="reporter_muralidharand" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=muralidharand">Muralidharan Deenathayalan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Oct/15 06:31"><time datetime="2015-10-12T06:31:17+0000">12/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Oct/15 21:20"><time datetime="2015-10-14T21:20:36+0000">14/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12853848" rel="12853848" data-issuekey="DMAP-169" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-169" href="https://issues.apache.org/jira/browse/DMAP-169"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-169" href="https://issues.apache.org/jira/browse/DMAP-169">DMAP-169</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-169" href="https://issues.apache.org/jira/browse/DMAP-169">Apply standard build infrastructure to &quot;reference&quot; client</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Aug/15 13:51"><time datetime="2015-08-10T13:51:45+0000">10/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="10/Aug/15 13:53"><time datetime="2015-08-10T13:53:39+0000">10/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12853844" rel="12853844" data-issuekey="DMAP-168" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-168" href="https://issues.apache.org/jira/browse/DMAP-168"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-168" href="https://issues.apache.org/jira/browse/DMAP-168">DMAP-168</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-168" href="https://issues.apache.org/jira/browse/DMAP-168">Provide org.apache package structure to &quot;reference&quot; client</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Aug/15 13:45"><time datetime="2015-08-10T13:45:40+0000">10/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="10/Aug/15 13:53"><time datetime="2015-08-10T13:53:21+0000">10/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12819663" rel="12819663" data-issuekey="DMAP-155" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-155" href="https://issues.apache.org/jira/browse/DMAP-155"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-155" href="https://issues.apache.org/jira/browse/DMAP-155">DMAP-155</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-155" href="https://issues.apache.org/jira/browse/DMAP-155">UA changes with Windows 10 update</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="09/Apr/15 13:23"><time datetime="2015-04-09T13:23:38+0000">09/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Sep/15 12:05"><time datetime="2015-09-02T12:05:18+0000">02/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12785513" rel="12785513" data-issuekey="DMAP-151" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-151" href="https://issues.apache.org/jira/browse/DMAP-151"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-151" href="https://issues.apache.org/jira/browse/DMAP-151">DMAP-151</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-151" href="https://issues.apache.org/jira/browse/DMAP-151">URLoader configured to use SVN instead of Web URL</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Mar/15 13:17"><time datetime="2015-03-25T13:17:35+0000">25/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Oct/15 21:22"><time datetime="2015-10-14T21:22:21+0000">14/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12783368" rel="12783368" data-issuekey="DMAP-150" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-150" href="https://issues.apache.org/jira/browse/DMAP-150"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-150" href="https://issues.apache.org/jira/browse/DMAP-150">DMAP-150</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-150" href="https://issues.apache.org/jira/browse/DMAP-150">iPhone operating system version is always reported at &quot;1.0&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="arcecio" id="reporter_arcecio" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=arcecio">Angel Darquea</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="19/Mar/15 20:53"><time datetime="2015-03-19T20:53:53+0000">19/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="19/Jun/16 02:37"><time datetime="2016-06-19T02:37:10+0000">19/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12779410" rel="12779410" data-issuekey="DMAP-149" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-149" href="https://issues.apache.org/jira/browse/DMAP-149"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-149" href="https://issues.apache.org/jira/browse/DMAP-149">DMAP-149</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-149" href="https://issues.apache.org/jira/browse/DMAP-149">.NET Version too narrow</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Mar/15 15:15"><time datetime="2015-03-04T15:15:38+0000">04/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="14/Mar/15 14:31"><time datetime="2015-03-14T14:31:48+0000">14/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12773074" rel="12773074" data-issuekey="DMAP-147" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-147" href="https://issues.apache.org/jira/browse/DMAP-147"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-147" href="https://issues.apache.org/jira/browse/DMAP-147">DMAP-147</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-147" href="https://issues.apache.org/jira/browse/DMAP-147">Apply W3C DDRSimpleAPITester</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/Feb/15 18:30"><time datetime="2015-02-06T18:30:41+0000">06/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="06/Feb/15 18:31"><time datetime="2015-02-06T18:31:05+0000">06/Feb/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12771605" rel="12771605" data-issuekey="DMAP-132" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-132" href="https://issues.apache.org/jira/browse/DMAP-132"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-132" href="https://issues.apache.org/jira/browse/DMAP-132">DMAP-132</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-132" href="https://issues.apache.org/jira/browse/DMAP-132">Microsoft fakes UA in IE11</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="01/Feb/15 15:40"><time datetime="2015-02-01T15:40:14+0000">01/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Apr/15 13:24"><time datetime="2015-04-09T13:24:10+0000">09/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764678" rel="12764678" data-issuekey="DMAP-122" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-122" href="https://issues.apache.org/jira/browse/DMAP-122"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-122" href="https://issues.apache.org/jira/browse/DMAP-122">DMAP-122</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-122" href="https://issues.apache.org/jira/browse/DMAP-122">Client tests still failing with &quot;genericAndroid&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="03/Jan/15 01:39"><time datetime="2015-01-03T01:39:24+0000">03/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/15 11:55"><time datetime="2015-01-03T11:55:07+0000">03/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764478" rel="12764478" data-issuekey="DMAP-121" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-121" href="https://issues.apache.org/jira/browse/DMAP-121"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-121" href="https://issues.apache.org/jira/browse/DMAP-121">DMAP-121</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-121" href="https://issues.apache.org/jira/browse/DMAP-121">Device mismatch for SGP312</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="keilw" id="reporter_keilw" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=keilw">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="02/Jan/15 02:52"><time datetime="2015-01-02T02:52:44+0000">02/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/15 03:05"><time datetime="2015-01-02T03:05:10+0000">02/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764477" rel="12764477" data-issuekey="DMAP-120" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-120" href="https://issues.apache.org/jira/browse/DMAP-120"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-120" href="https://issues.apache.org/jira/browse/DMAP-120">DMAP-120</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-120" href="https://issues.apache.org/jira/browse/DMAP-120">Device mismatch for SGP311 </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="keilw" id="reporter_keilw" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=keilw">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="02/Jan/15 02:33"><time datetime="2015-01-02T02:33:12+0000">02/Jan/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/15 02:58"><time datetime="2015-01-02T02:58:57+0000">02/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764414" rel="12764414" data-issuekey="DMAP-117" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-117" href="https://issues.apache.org/jira/browse/DMAP-117"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-117" href="https://issues.apache.org/jira/browse/DMAP-117">DMAP-117</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-117" href="https://issues.apache.org/jira/browse/DMAP-117">Results differ from OS version in UA</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="keilw" id="reporter_keilw" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=keilw">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="31/Dec/14 19:58"><time datetime="2014-12-31T19:58:02+0000">31/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Jan/16 19:02"><time datetime="2016-01-01T19:02:11+0000">01/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764401" rel="12764401" data-issuekey="DMAP-116" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-116" href="https://issues.apache.org/jira/browse/DMAP-116"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-116" href="https://issues.apache.org/jira/browse/DMAP-116">DMAP-116</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-116" href="https://issues.apache.org/jira/browse/DMAP-116">At least one Unit test fails and contains reference to private URL</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="keilw" id="reporter_keilw" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=keilw">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Dec/14 16:56"><time datetime="2014-12-31T16:56:40+0000">31/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/15 00:10"><time datetime="2015-01-02T00:10:21+0000">02/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764167" rel="12764167" data-issuekey="DMAP-115" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-115" href="https://issues.apache.org/jira/browse/DMAP-115"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-115" href="https://issues.apache.org/jira/browse/DMAP-115">DMAP-115</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-115" href="https://issues.apache.org/jira/browse/DMAP-115">Remove calls to instance methods in Pattern ctor.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vy" id="reporter_vy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vy">Volkan Yazıcı</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="30/Dec/14 09:38"><time datetime="2014-12-30T09:38:18+0000">30/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Dec/14 15:04"><time datetime="2014-12-30T15:04:58+0000">30/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764040" rel="12764040" data-issuekey="DMAP-113" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-113" href="https://issues.apache.org/jira/browse/DMAP-113"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-113" href="https://issues.apache.org/jira/browse/DMAP-113">DMAP-113</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-113" href="https://issues.apache.org/jira/browse/DMAP-113">URLs still pointing to Incubator</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="keilw" id="reporter_keilw" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=keilw">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Dec/14 16:23"><time datetime="2014-12-29T16:23:34+0000">29/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Dec/14 17:23"><time datetime="2014-12-30T17:23:06+0000">30/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764008" rel="12764008" data-issuekey="DMAP-112" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-112" href="https://issues.apache.org/jira/browse/DMAP-112"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-112" href="https://issues.apache.org/jira/browse/DMAP-112">DMAP-112</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-112" href="https://issues.apache.org/jira/browse/DMAP-112">Java client test fails with JDK 1.8.0-25</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vy" id="reporter_vy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vy">Volkan Yazıcı</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="29/Dec/14 10:47"><time datetime="2014-12-29T10:47:44+0000">29/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/15 02:27"><time datetime="2015-01-02T02:27:45+0000">02/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12762180" rel="12762180" data-issuekey="DMAP-110" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-110" href="https://issues.apache.org/jira/browse/DMAP-110"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-110" href="https://issues.apache.org/jira/browse/DMAP-110">DMAP-110</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-110" href="https://issues.apache.org/jira/browse/DMAP-110">sig and hash links should point to download dist area</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Dec/14 02:15"><time datetime="2014-12-17T02:15:44+0000">17/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="17/Dec/14 02:28"><time datetime="2014-12-17T02:28:05+0000">17/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12762179" rel="12762179" data-issuekey="DMAP-109" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-109" href="https://issues.apache.org/jira/browse/DMAP-109"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-109" href="https://issues.apache.org/jira/browse/DMAP-109">DMAP-109</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-109" href="https://issues.apache.org/jira/browse/DMAP-109">KEYS file link should point to download area</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Dec/14 02:13"><time datetime="2014-12-17T02:13:46+0000">17/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="17/Dec/14 02:28"><time datetime="2014-12-17T02:28:37+0000">17/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12762118" rel="12762118" data-issuekey="DMAP-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-108" href="https://issues.apache.org/jira/browse/DMAP-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-108" href="https://issues.apache.org/jira/browse/DMAP-108">DMAP-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-108" href="https://issues.apache.org/jira/browse/DMAP-108">Download links for current releases are broken</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Dec/14 21:14"><time datetime="2014-12-16T21:14:29+0000">16/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="17/Dec/14 02:08"><time datetime="2014-12-17T02:08:24+0000">17/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12760422" rel="12760422" data-issuekey="DMAP-105" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-105" href="https://issues.apache.org/jira/browse/DMAP-105"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-105" href="https://issues.apache.org/jira/browse/DMAP-105">DMAP-105</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-105" href="https://issues.apache.org/jira/browse/DMAP-105">Android 5 not recognized on Nexus 7</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="09/Dec/14 11:13"><time datetime="2014-12-09T11:13:16+0000">09/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="19/Jun/16 02:42"><time datetime="2016-06-19T02:42:03+0000">19/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12759424" rel="12759424" data-issuekey="DMAP-104" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-104" href="https://issues.apache.org/jira/browse/DMAP-104"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-104" href="https://issues.apache.org/jira/browse/DMAP-104">DMAP-104</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-104" href="https://issues.apache.org/jira/browse/DMAP-104">Unresolved Crawler UAs</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vy" id="reporter_vy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vy">Volkan Yazıcı</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="04/Dec/14 13:58"><time datetime="2014-12-04T13:58:47+0000">04/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="31/Dec/14 14:12"><time datetime="2014-12-31T14:12:39+0000">31/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12759422" rel="12759422" data-issuekey="DMAP-103" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-103" href="https://issues.apache.org/jira/browse/DMAP-103"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-103" href="https://issues.apache.org/jira/browse/DMAP-103">DMAP-103</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-103" href="https://issues.apache.org/jira/browse/DMAP-103">Unresolved HTTP Clients</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vy" id="reporter_vy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vy">Volkan Yazıcı</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="04/Dec/14 13:57"><time datetime="2014-12-04T13:57:08+0000">04/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="31/Dec/14 14:12"><time datetime="2014-12-31T14:12:25+0000">31/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12749316" rel="12749316" data-issuekey="DMAP-89" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-89" href="https://issues.apache.org/jira/browse/DMAP-89"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-89" href="https://issues.apache.org/jira/browse/DMAP-89">DMAP-89</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-89" href="https://issues.apache.org/jira/browse/DMAP-89">XML comments</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="reporter_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Oct/14 18:33"><time datetime="2014-10-20T18:33:50+0000">20/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="20/Oct/14 23:19"><time datetime="2014-10-20T23:19:18+0000">20/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12736606" rel="12736606" data-issuekey="DMAP-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-84" href="https://issues.apache.org/jira/browse/DMAP-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-84" href="https://issues.apache.org/jira/browse/DMAP-84">DMAP-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-84" href="https://issues.apache.org/jira/browse/DMAP-84">Support XML entity parsing in XMLParser</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="esjr" id="assignee_esjr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=esjr">eberhard speer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="reporter_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Aug/14 19:49"><time datetime="2014-08-25T19:49:46+0000">25/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="20/Oct/14 23:18"><time datetime="2014-10-20T23:18:51+0000">20/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12732304" rel="12732304" data-issuekey="DMAP-82" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-82" href="https://issues.apache.org/jira/browse/DMAP-82"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-82" href="https://issues.apache.org/jira/browse/DMAP-82">DMAP-82</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-82" href="https://issues.apache.org/jira/browse/DMAP-82">Better iPhone and iPad detection</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="assignee_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="reporter_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/Aug/14 14:10"><time datetime="2014-08-06T14:10:42+0000">06/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="01/Jan/16 19:01"><time datetime="2016-01-01T19:01:18+0000">01/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12731905" rel="12731905" data-issuekey="DMAP-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-60" href="https://issues.apache.org/jira/browse/DMAP-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-60" href="https://issues.apache.org/jira/browse/DMAP-60">DMAP-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-60" href="https://issues.apache.org/jira/browse/DMAP-60">Type is a pattern attribute</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="reporter_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Aug/14 01:29"><time datetime="2014-08-05T01:29:54+0000">05/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="10/Aug/14 23:10"><time datetime="2014-08-10T23:10:27+0000">10/Aug/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12730343" rel="12730343" data-issuekey="DMAP-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-55" href="https://issues.apache.org/jira/browse/DMAP-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-55" href="https://issues.apache.org/jira/browse/DMAP-55">DMAP-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-55" href="https://issues.apache.org/jira/browse/DMAP-55">Resolve twisting of Singleton and Factory in DeviceMapFactory</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="keilw" id="reporter_keilw" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=keilw">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jul/14 22:41"><time datetime="2014-07-28T22:41:56+0000">28/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jul/14 22:59"><time datetime="2014-07-29T22:59:41+0000">29/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12728097" rel="12728097" data-issuekey="DMAP-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-51" href="https://issues.apache.org/jira/browse/DMAP-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-51" href="https://issues.apache.org/jira/browse/DMAP-51">DMAP-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-51" href="https://issues.apache.org/jira/browse/DMAP-51">classify() returns a mutable map</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="reporter_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jul/14 01:26"><time datetime="2014-07-18T01:26:34+0000">18/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="22/Jul/14 23:44"><time datetime="2014-07-22T23:44:24+0000">22/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12726940" rel="12726940" data-issuekey="DMAP-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-44" href="https://issues.apache.org/jira/browse/DMAP-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-44" href="https://issues.apache.org/jira/browse/DMAP-44">DMAP-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-44" href="https://issues.apache.org/jira/browse/DMAP-44">XMLParser is implementation detail</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="12/Jul/14 11:07"><time datetime="2014-07-12T11:07:51+0000">12/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="23/Jul/14 20:40"><time datetime="2014-07-23T20:40:51+0000">23/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12719093" rel="12719093" data-issuekey="DMAP-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-37" href="https://issues.apache.org/jira/browse/DMAP-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-37" href="https://issues.apache.org/jira/browse/DMAP-37">DMAP-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-37" href="https://issues.apache.org/jira/browse/DMAP-37">Fix hardcoded POM entries in Classifier module</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdelacretaz" id="assignee_bdelacretaz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdelacretaz">Bertrand Delacretaz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wkeil" id="reporter_wkeil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wkeil">Werner Keil</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jun/14 00:38"><time datetime="2014-06-09T00:38:11+0000">09/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="09/Jun/14 13:25"><time datetime="2014-06-09T13:25:22+0000">09/Jun/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12679433" rel="12679433" data-issuekey="DMAP-33" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-33" href="https://issues.apache.org/jira/browse/DMAP-33"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-33" href="https://issues.apache.org/jira/browse/DMAP-33">DMAP-33</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-33" href="https://issues.apache.org/jira/browse/DMAP-33">BrowserMap is forwarding the client to a wrong language variant</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="assignee_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="reporter_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Nov/13 16:51"><time datetime="2013-11-15T16:51:41+0000">15/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="18/Nov/13 14:46"><time datetime="2013-11-18T14:46:22+0000">18/Nov/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12669809" rel="12669809" data-issuekey="DMAP-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-28" href="https://issues.apache.org/jira/browse/DMAP-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-28" href="https://issues.apache.org/jira/browse/DMAP-28">DMAP-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-28" href="https://issues.apache.org/jira/browse/DMAP-28">grunt test does not work</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="asavory" id="assignee_asavory" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=asavory">Andrew Savory</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="asavory" id="reporter_asavory" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=asavory">Andrew Savory</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Sep/13 13:42"><time datetime="2013-09-21T13:42:36+0000">21/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/13 15:10"><time datetime="2013-09-21T15:10:01+0000">21/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12660257" rel="12660257" data-issuekey="DMAP-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-27" href="https://issues.apache.org/jira/browse/DMAP-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-27" href="https://issues.apache.org/jira/browse/DMAP-27">DMAP-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-27" href="https://issues.apache.org/jira/browse/DMAP-27">Fallback from alternate link to device group specific url not working</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="assignee_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="reporter_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jul/13 11:47"><time datetime="2013-07-28T11:47:31+0000">28/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="30/Jul/13 12:32"><time datetime="2013-07-30T12:32:10+0000">30/Jul/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12657480" rel="12657480" data-issuekey="DMAP-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-24" href="https://issues.apache.org/jira/browse/DMAP-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-24" href="https://issues.apache.org/jira/browse/DMAP-24">DMAP-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-24" href="https://issues.apache.org/jira/browse/DMAP-24">OS X 10 being detected as an X10 phone</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="assignee_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rezan" id="reporter_rezan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rezan">Reza Naghibi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jul/13 15:44"><time datetime="2013-07-12T15:44:59+0000">12/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="04/Jul/14 21:17"><time datetime="2014-07-04T21:17:26+0000">04/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12646692" rel="12646692" data-issuekey="DMAP-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-20" href="https://issues.apache.org/jira/browse/DMAP-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-20" href="https://issues.apache.org/jira/browse/DMAP-20">DMAP-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-20" href="https://issues.apache.org/jira/browse/DMAP-20">Update BrowserMap module to version 1.2.0</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="assignee_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="radu.cotescu" id="reporter_radu.cotescu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=radu.cotescu">Radu Cotescu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/May/13 20:46"><time datetime="2013-05-08T20:46:17+0000">08/May/13</time></span> </td>
+                                            <td class="updated"> <span title="08/May/13 20:53"><time datetime="2013-05-08T20:53:41+0000">08/May/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12627189" rel="12627189" data-issuekey="DMAP-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DMAP-15" href="https://issues.apache.org/jira/browse/DMAP-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DMAP-15" href="https://issues.apache.org/jira/browse/DMAP-15">DMAP-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DMAP-15" href="https://issues.apache.org/jira/browse/DMAP-15">Add some tests for the DDR Service</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdelacretaz" id="assignee_bdelacretaz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdelacretaz">Bertrand Delacretaz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdelacretaz" id="reporter_bdelacretaz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdelacretaz">Bertrand Delacretaz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Jan/13 15:41"><time datetime="2013-01-11T15:41:22+0000">11/Jan/13</time></span> </td>
+                                            <td class="updated"> <span title="11/Jan/13 15:57"><time datetime="2013-01-11T15:57:33+0000">11/Jan/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

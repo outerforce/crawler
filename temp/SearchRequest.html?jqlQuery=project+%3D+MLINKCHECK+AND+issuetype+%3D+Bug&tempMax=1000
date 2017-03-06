@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MLINKCHECK+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MLINKCHECK+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MLINKCHECK" title="Browse Maven Linkcheck Plugin project">Maven Linkcheck Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>12</b> of <b>12</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13038647" rel="13038647" data-issuekey="MLINKCHECK-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-28" href="https://issues.apache.org/jira/browse/MLINKCHECK-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-28" href="https://issues.apache.org/jira/browse/MLINKCHECK-28">MLINKCHECK-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-28" href="https://issues.apache.org/jira/browse/MLINKCHECK-28">javax.net.ssl.SSLHandshakeException : Received fatal alert: handshake_failure</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="romani" id="reporter_romani" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=romani">Roman Ivanov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Jan/17 14:32"><time datetime="2017-01-28T14:32:19+0000">28/Jan/17</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/17 15:09"><time datetime="2017-01-28T15:09:18+0000">28/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997578" rel="12997578" data-issuekey="MLINKCHECK-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-26" href="https://issues.apache.org/jira/browse/MLINKCHECK-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-26" href="https://issues.apache.org/jira/browse/MLINKCHECK-26">MLINKCHECK-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-26" href="https://issues.apache.org/jira/browse/MLINKCHECK-26">Linkcheck does not support parallel builds</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dwegener" id="reporter_dwegener" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dwegener">Daniel Wegener</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Aug/16 13:26"><time datetime="2016-08-16T13:26:13+0000">16/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="20/Jan/17 12:14"><time datetime="2017-01-20T12:14:50+0000">20/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12853948" rel="12853948" data-issuekey="MLINKCHECK-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-23" href="https://issues.apache.org/jira/browse/MLINKCHECK-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-23" href="https://issues.apache.org/jira/browse/MLINKCHECK-23">MLINKCHECK-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-23" href="https://issues.apache.org/jira/browse/MLINKCHECK-23">Linkcheck reports 302 Found on link that is redirected to itself.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="MEZk" id="reporter_MEZk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=MEZk">Andrei Selkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Aug/15 19:52"><time datetime="2015-08-10T19:52:14+0000">10/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="12/Aug/15 16:33"><time datetime="2015-08-12T16:33:52+0000">12/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12853945" rel="12853945" data-issuekey="MLINKCHECK-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-22" href="https://issues.apache.org/jira/browse/MLINKCHECK-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-22" href="https://issues.apache.org/jira/browse/MLINKCHECK-22">MLINKCHECK-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-22" href="https://issues.apache.org/jira/browse/MLINKCHECK-22">Linkcheck reports 307 Temporary Redirect on twitter.com</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="MEZk" id="reporter_MEZk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=MEZk">Andrei Selkin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Aug/15 19:37"><time datetime="2015-08-10T19:37:18+0000">10/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="12/Aug/15 16:34"><time datetime="2015-08-12T16:34:40+0000">12/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804641" rel="12804641" data-issuekey="MLINKCHECK-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-21" href="https://issues.apache.org/jira/browse/MLINKCHECK-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-21" href="https://issues.apache.org/jira/browse/MLINKCHECK-21">MLINKCHECK-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-21" href="https://issues.apache.org/jira/browse/MLINKCHECK-21">Links to methods are marked as &quot;invalid&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kravin" id="reporter_kravin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kravin">Aleksey  Nesterenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="09/Feb/15 08:00"><time datetime="2015-02-09T08:00:50+0000">09/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Feb/15 16:39"><time datetime="2015-02-13T16:39:17+0000">13/Feb/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804636" rel="12804636" data-issuekey="MLINKCHECK-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-9" href="https://issues.apache.org/jira/browse/MLINKCHECK-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-9" href="https://issues.apache.org/jira/browse/MLINKCHECK-9">MLINKCHECK-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-9" href="https://issues.apache.org/jira/browse/MLINKCHECK-9">The necessary images are not included in the generated site, if you use a custom skin</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="assignee_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="reporter_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Oct/10 04:45"><time datetime="2010-10-06T04:45:19+0000">06/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:15"><time datetime="2015-04-07T18:15:44+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804648" rel="12804648" data-issuekey="MLINKCHECK-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-8" href="https://issues.apache.org/jira/browse/MLINKCHECK-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-8" href="https://issues.apache.org/jira/browse/MLINKCHECK-8">MLINKCHECK-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-8" href="https://issues.apache.org/jira/browse/MLINKCHECK-8">Adding configuration for excludeLinks suppresses warnings</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="assignee_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="reporter_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Oct/10 04:52"><time datetime="2010-10-05T04:52:53+0000">05/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:15"><time datetime="2015-04-07T18:15:50+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804633" rel="12804633" data-issuekey="MLINKCHECK-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-6" href="https://issues.apache.org/jira/browse/MLINKCHECK-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-6" href="https://issues.apache.org/jira/browse/MLINKCHECK-6">MLINKCHECK-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-6" href="https://issues.apache.org/jira/browse/MLINKCHECK-6">IllegalArgumentException for some URIs</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="assignee_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="reporter_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Sep/10 07:05"><time datetime="2010-09-30T07:05:55+0000">30/Sep/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:16"><time datetime="2015-04-07T18:16:00+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804646" rel="12804646" data-issuekey="MLINKCHECK-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-5" href="https://issues.apache.org/jira/browse/MLINKCHECK-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-5" href="https://issues.apache.org/jira/browse/MLINKCHECK-5">MLINKCHECK-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-5" href="https://issues.apache.org/jira/browse/MLINKCHECK-5">baseURL parameter does not work fine ???</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="assignee_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ol" id="reporter_ol" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ol">ol</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="30/Sep/10 02:47"><time datetime="2010-09-30T02:47:03+0000">30/Sep/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:15"><time datetime="2015-04-07T18:15:12+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804630" rel="12804630" data-issuekey="MLINKCHECK-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-3" href="https://issues.apache.org/jira/browse/MLINKCHECK-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-3" href="https://issues.apache.org/jira/browse/MLINKCHECK-3">MLINKCHECK-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-3" href="https://issues.apache.org/jira/browse/MLINKCHECK-3">Cannot add excludedHttpStatusErrors configuration</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="assignee_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="youngm" id="reporter_youngm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=youngm">Mike Youngstrom</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Sep/10 14:27"><time datetime="2010-09-27T14:27:59+0000">27/Sep/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:15"><time datetime="2015-04-07T18:15:39+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804637" rel="12804637" data-issuekey="MLINKCHECK-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-2" href="https://issues.apache.org/jira/browse/MLINKCHECK-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-2" href="https://issues.apache.org/jira/browse/MLINKCHECK-2">MLINKCHECK-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-2" href="https://issues.apache.org/jira/browse/MLINKCHECK-2">links to reports give false positives if run from a profile</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="assignee_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="reporter_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Aug/10 08:38"><time datetime="2010-08-05T08:38:52+0000">05/Aug/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:15"><time datetime="2015-04-07T18:15:00+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12804650" rel="12804650" data-issuekey="MLINKCHECK-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MLINKCHECK-1" href="https://issues.apache.org/jira/browse/MLINKCHECK-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MLINKCHECK-1" href="https://issues.apache.org/jira/browse/MLINKCHECK-1">MLINKCHECK-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MLINKCHECK-1" href="https://issues.apache.org/jira/browse/MLINKCHECK-1">NPE when generating linkcheck report</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="assignee_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ltheussl" id="reporter_ltheussl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ltheussl">Lukas Theussl</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Aug/10 04:44"><time datetime="2010-08-05T04:44:41+0000">05/Aug/10</time></span> </td>
+                                            <td class="updated"> <span title="07/Apr/15 18:15"><time datetime="2015-04-07T18:15:48+0000">07/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

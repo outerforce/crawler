@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MFCOMMONS+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MFCOMMONS+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MFCOMMONS" title="Browse MyFaces Commons project">MyFaces Commons</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>22</b> of <b>22</b>
+            as at: <b>05/Mar/17 16:59</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12539916" rel="12539916" data-issuekey="MFCOMMONS-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-46" href="https://issues.apache.org/jira/browse/MFCOMMONS-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-46" href="https://issues.apache.org/jira/browse/MFCOMMONS-46">MFCOMMONS-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-46" href="https://issues.apache.org/jira/browse/MFCOMMONS-46">CLONE - org.apache.myfaces.shared.resource. ResourceImpl: PushbackInputStream delegate is not closed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sutinse" id="reporter_sutinse" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sutinse">Seppo Sutinen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jan/12 15:52"><time datetime="2012-01-26T15:52:56+0000">26/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="01/Feb/12 03:44"><time datetime="2012-02-01T03:44:58+0000">01/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12534530" rel="12534530" data-issuekey="MFCOMMONS-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-45" href="https://issues.apache.org/jira/browse/MFCOMMONS-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-45" href="https://issues.apache.org/jira/browse/MFCOMMONS-45">MFCOMMONS-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-45" href="https://issues.apache.org/jira/browse/MFCOMMONS-45">CLONE - MyFaces ResourceImpl$ValueExpressionFilterInputStream does not handle resolving long URLs</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dmsinotte" id="reporter_dmsinotte" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dmsinotte">Deryk Sinotte</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Dec/11 19:30"><time datetime="2011-12-09T19:30:46+0000">09/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/11 16:56"><time datetime="2011-12-12T16:56:07+0000">12/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12528034" rel="12528034" data-issuekey="MFCOMMONS-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-43" href="https://issues.apache.org/jira/browse/MFCOMMONS-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-43" href="https://issues.apache.org/jira/browse/MFCOMMONS-43">MFCOMMONS-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-43" href="https://issues.apache.org/jira/browse/MFCOMMONS-43">review commons-resourcehandler and remove unused/unneeded features</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Oct/11 21:47"><time datetime="2011-10-20T21:47:14+0000">20/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="20/Oct/11 21:47"><time datetime="2011-10-20T21:47:14+0000">20/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12527909" rel="12527909" data-issuekey="MFCOMMONS-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-42" href="https://issues.apache.org/jira/browse/MFCOMMONS-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-42" href="https://issues.apache.org/jira/browse/MFCOMMONS-42">MFCOMMONS-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-42" href="https://issues.apache.org/jira/browse/MFCOMMONS-42">mf-common 2.0 branch still uses StringBuffer instead of StringBuilder</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Oct/11 11:06"><time datetime="2011-10-20T11:06:38+0000">20/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="20/Oct/11 11:06"><time datetime="2011-10-20T11:06:38+0000">20/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12527907" rel="12527907" data-issuekey="MFCOMMONS-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-41" href="https://issues.apache.org/jira/browse/MFCOMMONS-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-41" href="https://issues.apache.org/jira/browse/MFCOMMONS-41">MFCOMMONS-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-41" href="https://issues.apache.org/jira/browse/MFCOMMONS-41">MyFaces commons files must use svn:eol-style native</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Oct/11 10:46"><time datetime="2011-10-20T10:46:07+0000">20/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/11 16:56"><time datetime="2011-12-12T16:56:08+0000">12/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12527902" rel="12527902" data-issuekey="MFCOMMONS-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-40" href="https://issues.apache.org/jira/browse/MFCOMMONS-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-40" href="https://issues.apache.org/jira/browse/MFCOMMONS-40">MFCOMMONS-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-40" href="https://issues.apache.org/jira/browse/MFCOMMONS-40">enable checkstyle checks for MyFaces commons</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="reporter_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Oct/11 09:58"><time datetime="2011-10-20T09:58:38+0000">20/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/11 16:56"><time datetime="2011-12-12T16:56:07+0000">12/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12527894" rel="12527894" data-issuekey="MFCOMMONS-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-39" href="https://issues.apache.org/jira/browse/MFCOMMONS-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-39" href="https://issues.apache.org/jira/browse/MFCOMMONS-39">MFCOMMONS-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-39" href="https://issues.apache.org/jira/browse/MFCOMMONS-39">semicolon typo in ExtendedDefaultResourceHandlerSupport</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="struberg" id="assignee_struberg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=struberg">Mark Struberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mbuett" id="reporter_mbuett" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mbuett">Marcus Büttner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Oct/11 08:36"><time datetime="2011-10-20T08:36:19+0000">20/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/11 16:56"><time datetime="2011-12-12T16:56:07+0000">12/Dec/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12525489" rel="12525489" data-issuekey="MFCOMMONS-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-38" href="https://issues.apache.org/jira/browse/MFCOMMONS-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-38" href="https://issues.apache.org/jira/browse/MFCOMMONS-38">MFCOMMONS-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-38" href="https://issues.apache.org/jira/browse/MFCOMMONS-38">Resource ending with .css is not processed for value expressions when gzip compression is enabled and cache disk is true</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Oct/11 19:02"><time datetime="2011-10-02T19:02:02+0000">02/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="10/Oct/11 20:48"><time datetime="2011-10-10T20:48:09+0000">10/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12525488" rel="12525488" data-issuekey="MFCOMMONS-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-37" href="https://issues.apache.org/jira/browse/MFCOMMONS-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-37" href="https://issues.apache.org/jira/browse/MFCOMMONS-37">MFCOMMONS-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-37" href="https://issues.apache.org/jira/browse/MFCOMMONS-37">Extended ResourceHandler should be configured after all other wrappers, to be the first one when a request is processed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Oct/11 18:57"><time datetime="2011-10-02T18:57:50+0000">02/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="10/Oct/11 20:48"><time datetime="2011-10-10T20:48:08+0000">10/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12511426" rel="12511426" data-issuekey="MFCOMMONS-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-34" href="https://issues.apache.org/jira/browse/MFCOMMONS-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-34" href="https://issues.apache.org/jira/browse/MFCOMMONS-34">MFCOMMONS-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-34" href="https://issues.apache.org/jira/browse/MFCOMMONS-34">HTML class should declare constants</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Jun/11 00:27"><time datetime="2011-06-24T00:27:46+0000">24/Jun/11</time></span> </td>
+                                            <td class="updated"> <span title="10/Oct/11 20:48"><time datetime="2011-10-10T20:48:08+0000">10/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12506294" rel="12506294" data-issuekey="MFCOMMONS-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-32" href="https://issues.apache.org/jira/browse/MFCOMMONS-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-32" href="https://issues.apache.org/jira/browse/MFCOMMONS-32">MFCOMMONS-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-32" href="https://issues.apache.org/jira/browse/MFCOMMONS-32">mcv:validateCompareTo uses &quot;for&quot; attribute to identify the target component, but JSF 2.0 facelets reserves that property name for composite components</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/May/11 15:20"><time datetime="2011-05-05T15:20:20+0000">05/May/11</time></span> </td>
+                                            <td class="updated"> <span title="10/Oct/11 20:48"><time datetime="2011-10-10T20:48:09+0000">10/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12497766" rel="12497766" data-issuekey="MFCOMMONS-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-27" href="https://issues.apache.org/jira/browse/MFCOMMONS-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-27" href="https://issues.apache.org/jira/browse/MFCOMMONS-27">MFCOMMONS-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-27" href="https://issues.apache.org/jira/browse/MFCOMMONS-27">CLONE - Its not possible to change the summary/ detail message of a ParametrizableFacesMessage</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="meursj" id="reporter_meursj" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=meursj">Jerry Meurs</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Feb/11 20:19"><time datetime="2011-02-05T20:19:16+0000">05/Feb/11</time></span> </td>
+                                            <td class="updated"> <span title="10/Oct/11 20:48"><time datetime="2011-10-10T20:48:09+0000">10/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12409768" rel="12409768" data-issuekey="MFCOMMONS-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-26" href="https://issues.apache.org/jira/browse/MFCOMMONS-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-26" href="https://issues.apache.org/jira/browse/MFCOMMONS-26">MFCOMMONS-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-26" href="https://issues.apache.org/jira/browse/MFCOMMONS-26">validateRegExpr doesnt support value binding in patter property</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tomasz.bech" id="reporter_tomasz.bech" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tomasz.bech">Tomasz Bech</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Dec/08 16:16"><time datetime="2008-12-03T16:16:51+0000">03/Dec/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/10 01:39"><time datetime="2010-12-09T01:39:57+0000">09/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12479642" rel="12479642" data-issuekey="MFCOMMONS-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-24" href="https://issues.apache.org/jira/browse/MFCOMMONS-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-24" href="https://issues.apache.org/jira/browse/MFCOMMONS-24">MFCOMMONS-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-24" href="https://issues.apache.org/jira/browse/MFCOMMONS-24">Copy myfaces messages from javax.faces.Messages.properties to myfaces commons utils bundle</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Nov/10 21:04"><time datetime="2010-11-10T21:04:19+0000">10/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/10 01:39"><time datetime="2010-12-09T01:39:57+0000">09/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12479531" rel="12479531" data-issuekey="MFCOMMONS-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-22" href="https://issues.apache.org/jira/browse/MFCOMMONS-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-22" href="https://issues.apache.org/jira/browse/MFCOMMONS-22">MFCOMMONS-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-22" href="https://issues.apache.org/jira/browse/MFCOMMONS-22">Detail message for mcv:validateDateRestriction is not clear</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Nov/10 22:43"><time datetime="2010-11-09T22:43:08+0000">09/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/10 01:39"><time datetime="2010-12-09T01:39:56+0000">09/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12475885" rel="12475885" data-issuekey="MFCOMMONS-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-16" href="https://issues.apache.org/jira/browse/MFCOMMONS-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-16" href="https://issues.apache.org/jira/browse/MFCOMMONS-16">MFCOMMONS-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-16" href="https://issues.apache.org/jira/browse/MFCOMMONS-16">EL expressions are to evaluated on validation time for Validator classes on facelets </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Oct/10 19:53"><time datetime="2010-10-05T19:53:49+0000">05/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/10 01:39"><time datetime="2010-12-09T01:39:55+0000">09/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12426336" rel="12426336" data-issuekey="MFCOMMONS-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-8" href="https://issues.apache.org/jira/browse/MFCOMMONS-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-8" href="https://issues.apache.org/jira/browse/MFCOMMONS-8">MFCOMMONS-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-8" href="https://issues.apache.org/jira/browse/MFCOMMONS-8">EnumConverter can&#39;t fetch target class automatically</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="volkerweber" id="assignee_volkerweber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=volkerweber">Volker Weber</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bigd" id="reporter_bigd" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bigd">Sven Bunge</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/May/09 09:38"><time datetime="2009-05-26T09:38:22+0000">26/May/09</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/10 01:39"><time datetime="2010-12-09T01:39:53+0000">09/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12415201" rel="12415201" data-issuekey="MFCOMMONS-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-7" href="https://issues.apache.org/jira/browse/MFCOMMONS-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-7" href="https://issues.apache.org/jira/browse/MFCOMMONS-7">MFCOMMONS-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-7" href="https://issues.apache.org/jira/browse/MFCOMMONS-7">&lt;mc:exporterActionListener&gt; problem with datascroller</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hazems" id="assignee_hazems" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hazems">Hazem Saleh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="giemes" id="reporter_giemes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giemes">Gerd Schaffer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="20/Feb/09 06:44"><time datetime="2009-02-20T06:44:20+0000">20/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/09 12:09"><time datetime="2009-02-20T12:09:17+0000">20/Feb/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12415198" rel="12415198" data-issuekey="MFCOMMONS-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-5" href="https://issues.apache.org/jira/browse/MFCOMMONS-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-5" href="https://issues.apache.org/jira/browse/MFCOMMONS-5">MFCOMMONS-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-5" href="https://issues.apache.org/jira/browse/MFCOMMONS-5">&lt;mc:exporterActionListener&gt; does not work with message bundles</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hazems" id="assignee_hazems" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hazems">Hazem Saleh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="giemes" id="reporter_giemes" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giemes">Gerd Schaffer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Feb/09 06:35"><time datetime="2009-02-20T06:35:23+0000">20/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/09 13:06"><time datetime="2009-02-20T13:06:27+0000">20/Feb/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12411960" rel="12411960" data-issuekey="MFCOMMONS-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-3" href="https://issues.apache.org/jira/browse/MFCOMMONS-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-3" href="https://issues.apache.org/jira/browse/MFCOMMONS-3">MFCOMMONS-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-3" href="https://issues.apache.org/jira/browse/MFCOMMONS-3">&lt;mc:exportActionListener&gt; does not work with Facelets</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hazems" id="assignee_hazems" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hazems">Hazem Saleh</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hazems" id="reporter_hazems" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hazems">Hazem Saleh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jan/09 15:59"><time datetime="2009-01-08T15:59:43+0000">08/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/10 01:39"><time datetime="2010-12-09T01:39:52+0000">09/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12410201" rel="12410201" data-issuekey="MFCOMMONS-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-2" href="https://issues.apache.org/jira/browse/MFCOMMONS-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-2" href="https://issues.apache.org/jira/browse/MFCOMMONS-2">MFCOMMONS-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-2" href="https://issues.apache.org/jira/browse/MFCOMMONS-2">ExporterActionListener should be dependant of UIData instead of HtmlDataTable</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gdemarty" id="reporter_gdemarty" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gdemarty">Gilles Demarty</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Patch Available
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Dec/08 16:45"><time datetime="2008-12-08T16:45:55+0000">08/Dec/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/08 08:59"><time datetime="2008-12-09T08:59:12+0000">09/Dec/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12409466" rel="12409466" data-issuekey="MFCOMMONS-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MFCOMMONS-1" href="https://issues.apache.org/jira/browse/MFCOMMONS-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MFCOMMONS-1" href="https://issues.apache.org/jira/browse/MFCOMMONS-1">MFCOMMONS-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MFCOMMONS-1" href="https://issues.apache.org/jira/browse/MFCOMMONS-1">id attribute for html components on JSF 1.2 could be set via an rtexprvalue (but not by a ValueExpression)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="assignee_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lu4242" id="reporter_lu4242" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lu4242">Leonardo Uribe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Nov/08 00:36"><time datetime="2008-11-29T00:36:29+0000">29/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Dec/10 01:39"><time datetime="2010-12-09T01:39:52+0000">09/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

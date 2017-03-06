@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+BSF+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+BSF+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/BSF" title="Browse Commons BSF project">Commons BSF</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>26</b> of <b>26</b>
+            as at: <b>05/Mar/17 16:55</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13029979" rel="13029979" data-issuekey="BSF-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-44" href="https://issues.apache.org/jira/browse/BSF-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-44" href="https://issues.apache.org/jira/browse/BSF-44">BSF-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-44" href="https://issues.apache.org/jira/browse/BSF-44">Un-thrown exception</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lifove" id="reporter_lifove" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lifove">JC</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="22/Dec/16 02:45"><time datetime="2016-12-22T02:45:38+0000">22/Dec/16</time></span> </td>
+                                            <td class="updated"> <span title="30/Dec/16 11:53"><time datetime="2016-12-30T11:53:01+0000">30/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12916966" rel="12916966" data-issuekey="BSF-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-43" href="https://issues.apache.org/jira/browse/BSF-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-43" href="https://issues.apache.org/jira/browse/BSF-43">BSF-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-43" href="https://issues.apache.org/jira/browse/BSF-43">Exception while executing the javascript from xslt</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sravya1812" id="reporter_sravya1812" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sravya1812">sravya</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="30/Nov/15 14:24"><time datetime="2015-11-30T14:24:34+0000">30/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="01/Dec/15 11:47"><time datetime="2015-12-01T11:47:10+0000">01/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12916965" rel="12916965" data-issuekey="BSF-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-42" href="https://issues.apache.org/jira/browse/BSF-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-42" href="https://issues.apache.org/jira/browse/BSF-42">BSF-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-42" href="https://issues.apache.org/jira/browse/BSF-42">Exception while executing the javascript from xslt</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sravya1812" id="reporter_sravya1812" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sravya1812">sravya</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="30/Nov/15 14:22"><time datetime="2015-11-30T14:22:29+0000">30/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="30/Nov/15 16:19"><time datetime="2015-11-30T16:19:26+0000">30/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12764281" rel="12764281" data-issuekey="BSF-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-41" href="https://issues.apache.org/jira/browse/BSF-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-41" href="https://issues.apache.org/jira/browse/BSF-41">BSF-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-41" href="https://issues.apache.org/jira/browse/BSF-41">Memory leak when terminating engines in long running programs</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Dec/14 21:08"><time datetime="2014-12-30T21:08:25+0000">30/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="30/Dec/14 21:17"><time datetime="2014-12-30T21:17:51+0000">30/Dec/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12538669" rel="12538669" data-issuekey="BSF-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-39" href="https://issues.apache.org/jira/browse/BSF-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-39" href="https://issues.apache.org/jira/browse/BSF-39">BSF-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-39" href="https://issues.apache.org/jira/browse/BSF-39">EventAdapterRegistry.java - Handle case when context class loader is not set</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jan/12 18:02"><time datetime="2012-01-17T18:02:16+0000">17/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/12 15:56"><time datetime="2012-01-29T15:56:23+0000">29/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12538668" rel="12538668" data-issuekey="BSF-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-38" href="https://issues.apache.org/jira/browse/BSF-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-38" href="https://issues.apache.org/jira/browse/BSF-38">BSF-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-38" href="https://issues.apache.org/jira/browse/BSF-38">BSFManager.java -  Handle case when context class loader is not set</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jan/12 17:59"><time datetime="2012-01-17T17:59:38+0000">17/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/12 17:19"><time datetime="2012-01-29T17:19:05+0000">29/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12538666" rel="12538666" data-issuekey="BSF-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-37" href="https://issues.apache.org/jira/browse/BSF-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-37" href="https://issues.apache.org/jira/browse/BSF-37">BSF-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-37" href="https://issues.apache.org/jira/browse/BSF-37">BSF_Log.java - Handle case when context class loader is not set</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jan/12 17:55"><time datetime="2012-01-17T17:55:59+0000">17/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/12 15:52"><time datetime="2012-01-29T15:52:11+0000">29/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12529366" rel="12529366" data-issuekey="BSF-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-36" href="https://issues.apache.org/jira/browse/BSF-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-36" href="https://issues.apache.org/jira/browse/BSF-36">BSF-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-36" href="https://issues.apache.org/jira/browse/BSF-36">ReflectionUtils assumes that context class loader is always set, which is not necessarily the case</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Oct/11 16:44"><time datetime="2011-10-29T16:44:39+0000">29/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="29/Oct/11 17:27"><time datetime="2011-10-29T17:27:16+0000">29/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12464872" rel="12464872" data-issuekey="BSF-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-32" href="https://issues.apache.org/jira/browse/BSF-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-32" href="https://issues.apache.org/jira/browse/BSF-32">BSF-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-32" href="https://issues.apache.org/jira/browse/BSF-32">BSF 3.0 incompatible with JEXL2</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="joehni" id="reporter_joehni" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=joehni">Joerg Schaible</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="19/May/10 07:31"><time datetime="2010-05-19T07:31:56+0000">19/May/10</time></span> </td>
+                                            <td class="updated"> <span title="27/Apr/11 00:30"><time datetime="2011-04-27T00:30:43+0000">27/Apr/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12461294" rel="12461294" data-issuekey="BSF-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-30" href="https://issues.apache.org/jira/browse/BSF-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-30" href="https://issues.apache.org/jira/browse/BSF-30">BSF-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-30" href="https://issues.apache.org/jira/browse/BSF-30">ScriptEngineManager swallows Exception when iterating factories</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Apr/10 20:31"><time datetime="2010-04-06T20:31:52+0000">06/Apr/10</time></span> </td>
+                                            <td class="updated"> <span title="23/May/10 14:02"><time datetime="2010-05-23T14:02:39+0000">23/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12445135" rel="12445135" data-issuekey="BSF-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-29" href="https://issues.apache.org/jira/browse/BSF-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-29" href="https://issues.apache.org/jira/browse/BSF-29">BSF-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-29" href="https://issues.apache.org/jira/browse/BSF-29">ScriptException constructed via chained constructor ScriptException(Exception) always returns String &quot;null&quot; for getMessage()</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brett_s_r" id="reporter_brett_s_r" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brett_s_r">Brett Randall</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Jan/10 10:06"><time datetime="2010-01-10T10:06:00+0000">10/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="23/May/10 14:04"><time datetime="2010-05-23T14:04:02+0000">23/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12431949" rel="12431949" data-issuekey="BSF-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-25" href="https://issues.apache.org/jira/browse/BSF-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-25" href="https://issues.apache.org/jira/browse/BSF-25">BSF-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-25" href="https://issues.apache.org/jira/browse/BSF-25">Wrong parameter type for Bindings.put - key must be a String, not an object.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Aug/09 02:12"><time datetime="2009-08-01T02:12:31+0000">01/Aug/09</time></span> </td>
+                                            <td class="updated"> <span title="01/Aug/09 02:34"><time datetime="2009-08-01T02:34:25+0000">01/Aug/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12419316" rel="12419316" data-issuekey="BSF-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-23" href="https://issues.apache.org/jira/browse/BSF-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-23" href="https://issues.apache.org/jira/browse/BSF-23">BSF-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-23" href="https://issues.apache.org/jira/browse/BSF-23">org.apache.bsf.utils.http.HttpScriptContext redefines getAttribute/setAttribute</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Mar/09 15:27"><time datetime="2009-03-24T15:27:22+0000">24/Mar/09</time></span> </td>
+                                            <td class="updated"> <span title="25/Mar/09 09:13"><time datetime="2009-03-25T09:13:50+0000">25/Mar/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12410199" rel="12410199" data-issuekey="BSF-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-22" href="https://issues.apache.org/jira/browse/BSF-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-22" href="https://issues.apache.org/jira/browse/BSF-22">BSF-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-22" href="https://issues.apache.org/jira/browse/BSF-22">Cannot create null Javascript Objects</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Dec/08 16:11"><time datetime="2008-12-08T16:11:38+0000">08/Dec/08</time></span> </td>
+                                            <td class="updated"> <span title="18/Mar/10 23:58"><time datetime="2010-03-18T23:58:54+0000">18/Mar/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12399619" rel="12399619" data-issuekey="BSF-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-21" href="https://issues.apache.org/jira/browse/BSF-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-21" href="https://issues.apache.org/jira/browse/BSF-21">BSF-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-21" href="https://issues.apache.org/jira/browse/BSF-21">AdapterClassLoader: does not attempt to use current Thread&#39;s context class loader, if ...</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jul/08 15:16"><time datetime="2008-07-04T15:16:28+0000">04/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="29/Jan/12 15:55"><time datetime="2012-01-29T15:55:00+0000">29/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12398328" rel="12398328" data-issuekey="BSF-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-18" href="https://issues.apache.org/jira/browse/BSF-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-18" href="https://issues.apache.org/jira/browse/BSF-18">BSF-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-18" href="https://issues.apache.org/jira/browse/BSF-18">EngineUtils.loadClass(mgr,name) may return null, instead of raising an Exception</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Jun/08 13:42"><time datetime="2008-06-16T13:42:57+0000">16/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/12 14:09"><time datetime="2012-01-15T14:09:29+0000">15/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12396526" rel="12396526" data-issuekey="BSF-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-17" href="https://issues.apache.org/jira/browse/BSF-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-17" href="https://issues.apache.org/jira/browse/BSF-17">BSF-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-17" href="https://issues.apache.org/jira/browse/BSF-17">Unnamed block in BSF_Log should be static?</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/May/08 17:05"><time datetime="2008-05-21T17:05:45+0000">21/May/08</time></span> </td>
+                                            <td class="updated"> <span title="21/May/08 22:48"><time datetime="2008-05-21T22:48:19+0000">21/May/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12396503" rel="12396503" data-issuekey="BSF-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-16" href="https://issues.apache.org/jira/browse/BSF-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-16" href="https://issues.apache.org/jira/browse/BSF-16">BSF-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-16" href="https://issues.apache.org/jira/browse/BSF-16">Ant buildfile does not appear to check if TCL and XSLT are present</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="21/May/08 14:35"><time datetime="2008-05-21T14:35:41+0000">21/May/08</time></span> </td>
+                                            <td class="updated"> <span title="18/Mar/10 23:58"><time datetime="2010-03-18T23:58:55+0000">18/Mar/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12396406" rel="12396406" data-issuekey="BSF-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-14" href="https://issues.apache.org/jira/browse/BSF-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-14" href="https://issues.apache.org/jira/browse/BSF-14">BSF-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-14" href="https://issues.apache.org/jira/browse/BSF-14">BSFManager should use final fields where possible</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/May/08 13:11"><time datetime="2008-05-20T13:11:06+0000">20/May/08</time></span> </td>
+                                            <td class="updated"> <span title="18/Mar/10 23:58"><time datetime="2010-03-18T23:58:54+0000">18/Mar/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12389737" rel="12389737" data-issuekey="BSF-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-12" href="https://issues.apache.org/jira/browse/BSF-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-12" href="https://issues.apache.org/jira/browse/BSF-12">BSF-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-12" href="https://issues.apache.org/jira/browse/BSF-12">BSF 2.4.0 source distributions do not include build-properties.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vocaro" id="reporter_vocaro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vocaro">Trevor Harmon</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Feb/08 00:39"><time datetime="2008-02-28T00:39:38+0000">28/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="18/Mar/10 23:58"><time datetime="2010-03-18T23:58:55+0000">18/Mar/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12381652" rel="12381652" data-issuekey="BSF-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-9" href="https://issues.apache.org/jira/browse/BSF-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-9" href="https://issues.apache.org/jira/browse/BSF-9">BSF-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-9" href="https://issues.apache.org/jira/browse/BSF-9">SimpleScriptContext.java cannot be compiled with Java 1.4</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sanka" id="assignee_sanka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sanka">Sanka Samaranayake</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Nov/07 19:44"><time datetime="2007-11-01T19:44:07+0000">01/Nov/07</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/09 17:32"><time datetime="2009-03-24T17:32:50+0000">24/Mar/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12378931" rel="12378931" data-issuekey="BSF-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-7" href="https://issues.apache.org/jira/browse/BSF-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-7" href="https://issues.apache.org/jira/browse/BSF-7">BSF-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-7" href="https://issues.apache.org/jira/browse/BSF-7">BSF 2.4: ClassLoader Issue with OpenOffice.org 2.3.0</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rony" id="reporter_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Sep/07 19:15"><time datetime="2007-09-22T19:15:12+0000">22/Sep/07</time></span> </td>
+                                            <td class="updated"> <span title="09/Oct/07 10:47"><time datetime="2007-10-09T10:47:23+0000">09/Oct/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12376196" rel="12376196" data-issuekey="BSF-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-6" href="https://issues.apache.org/jira/browse/BSF-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-6" href="https://issues.apache.org/jira/browse/BSF-6">BSF-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-6" href="https://issues.apache.org/jira/browse/BSF-6">update bug link on home page</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="rony" id="assignee_rony" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rony">Rony G. Flatscher</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scytacki" id="reporter_scytacki" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scytacki">Scott Cytacki</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Aug/07 20:36"><time datetime="2007-08-16T20:36:40+0000">16/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="09/Oct/07 11:10"><time datetime="2007-10-09T11:10:10+0000">09/Oct/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12376118" rel="12376118" data-issuekey="BSF-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-5" href="https://issues.apache.org/jira/browse/BSF-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-5" href="https://issues.apache.org/jira/browse/BSF-5">BSF-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-5" href="https://issues.apache.org/jira/browse/BSF-5">Few suggested bug fixes for BSF 3.0 b1</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sanka" id="assignee_sanka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sanka">Sanka Samaranayake</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sanka" id="reporter_sanka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sanka">Sanka Samaranayake</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Aug/07 04:35"><time datetime="2007-08-16T04:35:30+0000">16/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="30/Oct/07 18:25"><time datetime="2007-10-30T18:25:39+0000">30/Oct/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12376117" rel="12376117" data-issuekey="BSF-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-4" href="https://issues.apache.org/jira/browse/BSF-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-4" href="https://issues.apache.org/jira/browse/BSF-4">BSF-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-4" href="https://issues.apache.org/jira/browse/BSF-4">The invokeMethod and invokeFunction methods of javax.script.Invocable should declare java.lang.NoSuchMethodExcept as a checked exception</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sanka" id="assignee_sanka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sanka">Sanka Samaranayake</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sanka" id="reporter_sanka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sanka">Sanka Samaranayake</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Aug/07 04:30"><time datetime="2007-08-16T04:30:01+0000">16/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="23/May/10 14:14"><time datetime="2010-05-23T14:14:18+0000">23/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12368556" rel="12368556" data-issuekey="BSF-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="BSF-3" href="https://issues.apache.org/jira/browse/BSF-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="BSF-3" href="https://issues.apache.org/jira/browse/BSF-3">BSF-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="BSF-3" href="https://issues.apache.org/jira/browse/BSF-3">ScriptEngineManager.getFactories() NOT compliant with JSR223 API</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sanka" id="assignee_sanka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sanka">Sanka Samaranayake</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="imartinez" id="reporter_imartinez" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=imartinez">Ivan Martinez-Ortiz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/May/07 13:45"><time datetime="2007-05-03T13:45:09+0000">03/May/07</time></span> </td>
+                                            <td class="updated"> <span title="23/May/10 14:08"><time datetime="2010-05-23T14:08:34+0000">23/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

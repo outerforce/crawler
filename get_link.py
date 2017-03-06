@@ -28,11 +28,13 @@ for line in file:
 url = []
 #print(L)
 for i in L:
-    url[i] = "https://issues.apache.org/jira/sr/jira.issueviews:searchrequest-printable" \
-          "/temp/SearchRequest.html?jqlQuery=project+%3D+"+str(i)+"+AND+issuetype+%3D+Bug&tempMax=1000"
-    print(url[i])
+    url.append("https://issues.apache.org/jira/sr/jira.issueviews:searchrequest-printable/temp/SearchRequest.html?"
+               "jqlQuery=project+%3D+"+str(i)+"+AND+issuetype+%3D+Bug&tempMax=1000")
+    #print(url)
+print(len(url))
 outF = open("op1.txt", "w")
 url = map(lambda x: x + "\n", url)
 outF.writelines(url)
 outF.close()
+
 

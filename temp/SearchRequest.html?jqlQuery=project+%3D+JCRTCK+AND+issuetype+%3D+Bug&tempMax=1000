@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+JCRTCK+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+JCRTCK+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/JCRTCK" title="Browse Jackrabbit JCR Tests project">Jackrabbit JCR Tests</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>15</b> of <b>15</b>
+            as at: <b>05/Mar/17 16:57</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12437054" rel="12437054" data-issuekey="JCRTCK-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-17" href="https://issues.apache.org/jira/browse/JCRTCK-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-17" href="https://issues.apache.org/jira/browse/JCRTCK-17">JCRTCK-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-17" href="https://issues.apache.org/jira/browse/JCRTCK-17">Ambiguous exception conditions in version tests</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mreutegg" id="reporter_mreutegg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mreutegg">Marcel Reutegger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Oct/09 18:58"><time datetime="2009-10-01T18:58:37+0000">01/Oct/09</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/09 06:11"><time datetime="2009-10-02T06:11:33+0000">02/Oct/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12436913" rel="12436913" data-issuekey="JCRTCK-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-16" href="https://issues.apache.org/jira/browse/JCRTCK-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-16" href="https://issues.apache.org/jira/browse/JCRTCK-16">JCRTCK-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-16" href="https://issues.apache.org/jira/browse/JCRTCK-16">Lock tests doen&#39;t handle simultaneous ownership</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nzamosenchuk" id="reporter_nzamosenchuk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nzamosenchuk">Nikolay Zamosenchuk</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Sep/09 13:09"><time datetime="2009-09-30T13:09:55+0000">30/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/09 13:09"><time datetime="2009-09-30T13:09:55+0000">30/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12390460" rel="12390460" data-issuekey="JCRTCK-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-14" href="https://issues.apache.org/jira/browse/JCRTCK-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-14" href="https://issues.apache.org/jira/browse/JCRTCK-14">JCRTCK-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-14" href="https://issues.apache.org/jira/browse/JCRTCK-14">TCK: testRestore assumes too much about OPV=VERSION</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="tripod" id="assignee_tripod" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tripod">Tobias Bocanegra</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anchela" id="reporter_anchela" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anchela">angela</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="07/Mar/08 15:16"><time datetime="2008-03-07T15:16:43+0000">07/Mar/08</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:19+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12363253" rel="12363253" data-issuekey="JCRTCK-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-13" href="https://issues.apache.org/jira/browse/JCRTCK-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-13" href="https://issues.apache.org/jira/browse/JCRTCK-13">JCRTCK-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-13" href="https://issues.apache.org/jira/browse/JCRTCK-13">handling of namespace registrations in AbstractJCRTest</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="reporter_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Feb/07 18:24"><time datetime="2007-02-20T18:24:26+0000">20/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:19+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12376999" rel="12376999" data-issuekey="JCRTCK-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-12" href="https://issues.apache.org/jira/browse/JCRTCK-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-12" href="https://issues.apache.org/jira/browse/JCRTCK-12">JCRTCK-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-12" href="https://issues.apache.org/jira/browse/JCRTCK-12">TCK assumes that repository does not automatically add mixins on node creation</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="reporter_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Aug/07 13:59"><time datetime="2007-08-28T13:59:31+0000">28/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:18+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12377228" rel="12377228" data-issuekey="JCRTCK-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-11" href="https://issues.apache.org/jira/browse/JCRTCK-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-11" href="https://issues.apache.org/jira/browse/JCRTCK-11">JCRTCK-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-11" href="https://issues.apache.org/jira/browse/JCRTCK-11">bad test assumptions in SQLJoinTest</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="assignee_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="reporter_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="31/Aug/07 11:38"><time datetime="2007-08-31T11:38:57+0000">31/Aug/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:18+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12386047" rel="12386047" data-issuekey="JCRTCK-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-10" href="https://issues.apache.org/jira/browse/JCRTCK-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-10" href="https://issues.apache.org/jira/browse/JCRTCK-10">JCRTCK-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-10" href="https://issues.apache.org/jira/browse/JCRTCK-10">TCK: Attribute values may be normalized in document view exports</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jukkaz" id="reporter_jukkaz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jukkaz">Jukka Zitting</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Jan/08 11:48"><time datetime="2008-01-11T11:48:25+0000">11/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:18+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12406363" rel="12406363" data-issuekey="JCRTCK-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-9" href="https://issues.apache.org/jira/browse/JCRTCK-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-9" href="https://issues.apache.org/jira/browse/JCRTCK-9">JCRTCK-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-9" href="https://issues.apache.org/jira/browse/JCRTCK-9">Jcr-Test: SerializationTest logs exception during tearDown.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="anchela" id="reporter_anchela" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=anchela">angela</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="14/Oct/08 07:07"><time datetime="2008-10-14T07:07:14+0000">14/Oct/08</time></span> </td>
+                                            <td class="updated"> <span title="30/Jun/10 08:11"><time datetime="2010-06-30T08:11:31+0000">30/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12378177" rel="12378177" data-issuekey="JCRTCK-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-8" href="https://issues.apache.org/jira/browse/JCRTCK-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-8" href="https://issues.apache.org/jira/browse/JCRTCK-8">JCRTCK-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-8" href="https://issues.apache.org/jira/browse/JCRTCK-8">bad test assumptions in TextNodeTest with respect to availability of jcr:xmltext/jcr:xmlcharacters</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="reporter_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Sep/07 16:17"><time datetime="2007-09-13T16:17:33+0000">13/Sep/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:17+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12379863" rel="12379863" data-issuekey="JCRTCK-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-7" href="https://issues.apache.org/jira/browse/JCRTCK-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-7" href="https://issues.apache.org/jira/browse/JCRTCK-7">JCRTCK-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-7" href="https://issues.apache.org/jira/browse/JCRTCK-7">Bad test assumptions in observation tests</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="assignee_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="reporter_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                In Progress
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="08/Oct/07 12:33"><time datetime="2007-10-08T12:33:48+0000">08/Oct/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:17+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12346739" rel="12346739" data-issuekey="JCRTCK-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-6" href="https://issues.apache.org/jira/browse/JCRTCK-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-6" href="https://issues.apache.org/jira/browse/JCRTCK-6">JCRTCK-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-6" href="https://issues.apache.org/jira/browse/JCRTCK-6">TCK: NodeTest#testNodeIdentity fails if versioning and locking not supported</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dpitfiel" id="reporter_dpitfiel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dpitfiel">David Pitfield</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Patch Available
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="26/Jul/06 23:33"><time datetime="2006-07-26T23:33:17+0000">26/Jul/06</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:17+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12435584" rel="12435584" data-issuekey="JCRTCK-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-5" href="https://issues.apache.org/jira/browse/JCRTCK-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-5" href="https://issues.apache.org/jira/browse/JCRTCK-5">JCRTCK-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-5" href="https://issues.apache.org/jira/browse/JCRTCK-5">PredefinedNodeTypeTest too strict</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mreutegg" id="reporter_mreutegg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mreutegg">Marcel Reutegger</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Sep/09 11:32"><time datetime="2009-09-14T11:32:44+0000">14/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="14/Oct/09 14:31"><time datetime="2009-10-14T14:31:09+0000">14/Oct/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12378173" rel="12378173" data-issuekey="JCRTCK-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-4" href="https://issues.apache.org/jira/browse/JCRTCK-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-4" href="https://issues.apache.org/jira/browse/JCRTCK-4">JCRTCK-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-4" href="https://issues.apache.org/jira/browse/JCRTCK-4">bad test assumptions in versioning tests</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="reporter_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Sep/07 15:51"><time datetime="2007-09-13T15:51:37+0000">13/Sep/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:17+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12363205" rel="12363205" data-issuekey="JCRTCK-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-3" href="https://issues.apache.org/jira/browse/JCRTCK-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-3" href="https://issues.apache.org/jira/browse/JCRTCK-3">JCRTCK-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-3" href="https://issues.apache.org/jira/browse/JCRTCK-3">Test cases leak sessions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reschke" id="reporter_reschke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reschke">Julian Reschke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Feb/07 10:11"><time datetime="2007-02-20T10:11:23+0000">20/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:17+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12379613" rel="12379613" data-issuekey="JCRTCK-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="JCRTCK-2" href="https://issues.apache.org/jira/browse/JCRTCK-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="JCRTCK-2" href="https://issues.apache.org/jira/browse/JCRTCK-2">JCRTCK-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="JCRTCK-2" href="https://issues.apache.org/jira/browse/JCRTCK-2">Export test cases fail with Java 5 on Mac OS X</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jukkaz" id="assignee_jukkaz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jukkaz">Jukka Zitting</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jukkaz" id="reporter_jukkaz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jukkaz">Jukka Zitting</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Oct/07 21:34"><time datetime="2007-10-03T21:34:43+0000">03/Oct/07</time></span> </td>
+                                            <td class="updated"> <span title="21/Sep/09 13:40"><time datetime="2009-09-21T13:40:16+0000">21/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,1857 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DIR+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DIR+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/DIR" title="Browse Directory project">Directory</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>50</b> of <b>50</b>
+            as at: <b>05/Mar/17 16:56</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12901907" rel="12901907" data-issuekey="DIR-319" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-319" href="https://issues.apache.org/jira/browse/DIR-319"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-319" href="https://issues.apache.org/jira/browse/DIR-319">DIR-319</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-319" href="https://issues.apache.org/jira/browse/DIR-319">Replication NullPointer at SyncReplRequestHandler.java:648</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="emanuele" id="reporter_emanuele" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=emanuele">Emanuele Forlano</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="01/Oct/15 14:19"><time datetime="2015-10-01T14:19:05+0000">01/Oct/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Oct/15 08:40"><time datetime="2015-10-02T08:40:34+0000">02/Oct/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12858066" rel="12858066" data-issuekey="DIR-318" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-318" href="https://issues.apache.org/jira/browse/DIR-318"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-318" href="https://issues.apache.org/jira/browse/DIR-318">DIR-318</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-318" href="https://issues.apache.org/jira/browse/DIR-318">ApacheDS JDBM don&#39;t include the license file</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="puntogil" id="reporter_puntogil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=puntogil">gil cattaneo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Aug/15 14:35"><time datetime="2015-08-22T14:35:37+0000">22/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="23/Aug/15 12:53"><time datetime="2015-08-23T12:53:12+0000">23/Aug/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12822870" rel="12822870" data-issuekey="DIR-317" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-317" href="https://issues.apache.org/jira/browse/DIR-317"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-317" href="https://issues.apache.org/jira/browse/DIR-317">DIR-317</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-317" href="https://issues.apache.org/jira/browse/DIR-317">Typo and consistent list punctuation on mailing list page of site</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="smoyer64@gmail.com" id="reporter_smoyer64@gmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=smoyer64%40gmail.com">Steve Moyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Apr/15 00:54"><time datetime="2015-04-22T00:54:17+0000">22/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="22/Apr/15 01:23"><time datetime="2015-04-22T01:23:05+0000">22/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12819700" rel="12819700" data-issuekey="DIR-316" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-316" href="https://issues.apache.org/jira/browse/DIR-316"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-316" href="https://issues.apache.org/jira/browse/DIR-316">DIR-316</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-316" href="https://issues.apache.org/jira/browse/DIR-316">find: &#39;version&#39; : No such file or directory</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="stijngeuens" id="reporter_stijngeuens" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=stijngeuens">Stijn Geuens</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="09/Apr/15 14:59"><time datetime="2015-04-09T14:59:55+0000">09/Apr/15</time></span> </td>
+                                            <td class="updated"> <span title="05/May/15 19:55"><time datetime="2015-05-05T19:55:44+0000">05/May/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12786662" rel="12786662" data-issuekey="DIR-315" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-315" href="https://issues.apache.org/jira/browse/DIR-315"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-315" href="https://issues.apache.org/jira/browse/DIR-315">DIR-315</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-315" href="https://issues.apache.org/jira/browse/DIR-315">Broken links on the Fortress site</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="30/Mar/15 10:14"><time datetime="2015-03-30T10:14:23+0000">30/Mar/15</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/15 10:14"><time datetime="2015-03-30T10:14:23+0000">30/Mar/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12747596" rel="12747596" data-issuekey="DIR-307" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-307" href="https://issues.apache.org/jira/browse/DIR-307"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-307" href="https://issues.apache.org/jira/browse/DIR-307">DIR-307</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-307" href="https://issues.apache.org/jira/browse/DIR-307">The link to LDAP API javadoc is broken</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Oct/14 18:52"><time datetime="2014-10-12T18:52:49+0000">12/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/14 10:24"><time datetime="2014-10-13T10:24:15+0000">13/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12728866" rel="12728866" data-issuekey="DIR-303" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-303" href="https://issues.apache.org/jira/browse/DIR-303"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-303" href="https://issues.apache.org/jira/browse/DIR-303">DIR-303</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-303" href="https://issues.apache.org/jira/browse/DIR-303">Can&#39;t get ldap-browser-plugin.html from the server</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kmega" id="reporter_kmega" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kmega">Kimberly M. Megahee</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="22/Jul/14 14:22"><time datetime="2014-07-22T14:22:24+0000">22/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="22/Jul/14 19:17"><time datetime="2014-07-22T19:17:42+0000">22/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12728146" rel="12728146" data-issuekey="DIR-302" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-302" href="https://issues.apache.org/jira/browse/DIR-302"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-302" href="https://issues.apache.org/jira/browse/DIR-302">DIR-302</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-302" href="https://issues.apache.org/jira/browse/DIR-302">Can&#39;t delete local dir on executor automatically when running spark over Mesos.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="waterman" id="reporter_waterman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=waterman">Yadong Qi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="18/Jul/14 07:57"><time datetime="2014-07-18T07:57:55+0000">18/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="17/Sep/14 13:58"><time datetime="2014-09-17T13:58:12+0000">17/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12728145" rel="12728145" data-issuekey="DIR-301" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-301" href="https://issues.apache.org/jira/browse/DIR-301"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-301" href="https://issues.apache.org/jira/browse/DIR-301">DIR-301</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-301" href="https://issues.apache.org/jira/browse/DIR-301">Can&#39;t delete local dir on executor automatically when running spark over Mesos.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="waterman" id="reporter_waterman" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=waterman">Yadong Qi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="18/Jul/14 07:56"><time datetime="2014-07-18T07:56:14+0000">18/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="17/Sep/14 13:59"><time datetime="2014-09-17T13:59:02+0000">17/Sep/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12698620" rel="12698620" data-issuekey="DIR-299" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-299" href="https://issues.apache.org/jira/browse/DIR-299"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-299" href="https://issues.apache.org/jira/browse/DIR-299">DIR-299</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-299" href="https://issues.apache.org/jira/browse/DIR-299">Wrong commandline output in 2.1.2 deleting entries</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mbruch" id="reporter_mbruch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mbruch">Marcel Bruch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Mar/14 13:26"><time datetime="2014-03-04T13:26:04+0000">04/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="22/Jan/15 13:57"><time datetime="2015-01-22T13:57:21+0000">22/Jan/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12698611" rel="12698611" data-issuekey="DIR-298" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-298" href="https://issues.apache.org/jira/browse/DIR-298"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-298" href="https://issues.apache.org/jira/browse/DIR-298">DIR-298</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-298" href="https://issues.apache.org/jira/browse/DIR-298">Broken links in basic user guide</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mbruch" id="reporter_mbruch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mbruch">Marcel Bruch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Mar/14 11:30"><time datetime="2014-03-04T11:30:10+0000">04/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="04/Mar/14 12:23"><time datetime="2014-03-04T12:23:24+0000">04/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12672362" rel="12672362" data-issuekey="DIR-297" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-297" href="https://issues.apache.org/jira/browse/DIR-297"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-297" href="https://issues.apache.org/jira/browse/DIR-297">DIR-297</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-297" href="https://issues.apache.org/jira/browse/DIR-297">Lots of typographical errors in documentation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="crd" id="reporter_crd" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=crd">Chad Dougherty</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Oct/13 16:24"><time datetime="2013-10-04T16:24:51+0000">04/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="16/Oct/14 14:27"><time datetime="2014-10-16T14:27:44+0000">16/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12667378" rel="12667378" data-issuekey="DIR-296" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-296" href="https://issues.apache.org/jira/browse/DIR-296"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-296" href="https://issues.apache.org/jira/browse/DIR-296">DIR-296</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-296" href="https://issues.apache.org/jira/browse/DIR-296">Wrong repository name created</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dag" id="reporter_dag" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dag">DAG Support</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="06/Sep/13 19:12"><time datetime="2013-09-06T19:12:15+0000">06/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Sep/13 04:22"><time datetime="2013-09-07T04:22:53+0000">07/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12650675" rel="12650675" data-issuekey="DIR-294" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-294" href="https://issues.apache.org/jira/browse/DIR-294"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-294" href="https://issues.apache.org/jira/browse/DIR-294">DIR-294</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-294" href="https://issues.apache.org/jira/browse/DIR-294">[1.3.1 and 1.4] spool directory source can get stuck in a &quot;Serializer has been closed&quot; loop when retireCurrentFile throws an exception</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scaph01" id="reporter_scaph01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scaph01">Phil Scala</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="03/Jun/13 16:33"><time datetime="2013-06-03T16:33:08+0000">03/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="03/Jun/13 16:34"><time datetime="2013-06-03T16:34:48+0000">03/Jun/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12632897" rel="12632897" data-issuekey="DIR-293" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-293" href="https://issues.apache.org/jira/browse/DIR-293"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-293" href="https://issues.apache.org/jira/browse/DIR-293">DIR-293</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-293" href="https://issues.apache.org/jira/browse/DIR-293">ERR_02002_FAILURE_ON_UNDERLYING_CURSOR when searching a just added entry</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="flo4sengines" id="reporter_flo4sengines" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=flo4sengines">Florent ANDRE</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="18/Feb/13 21:00"><time datetime="2013-02-18T21:00:34+0000">18/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/13 12:54"><time datetime="2013-02-19T12:54:13+0000">19/Feb/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12626702" rel="12626702" data-issuekey="DIR-292" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-292" href="https://issues.apache.org/jira/browse/DIR-292"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-292" href="https://issues.apache.org/jira/browse/DIR-292">DIR-292</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-292" href="https://issues.apache.org/jira/browse/DIR-292">New site breakages</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="09/Jan/13 04:16"><time datetime="2013-01-09T04:16:26+0000">09/Jan/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Jul/16 15:20"><time datetime="2016-07-21T15:20:56+0000">21/Jul/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12610030" rel="12610030" data-issuekey="DIR-288" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-288" href="https://issues.apache.org/jira/browse/DIR-288"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-288" href="https://issues.apache.org/jira/browse/DIR-288">DIR-288</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-288" href="https://issues.apache.org/jira/browse/DIR-288">Links to &quot;download old versions&quot; return 404</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/12 05:04"><time datetime="2012-10-03T05:04:59+0000">03/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="06/May/13 11:34"><time datetime="2013-05-06T11:34:26+0000">06/May/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12534915" rel="12534915" data-issuekey="DIR-286" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-286" href="https://issues.apache.org/jira/browse/DIR-286"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-286" href="https://issues.apache.org/jira/browse/DIR-286">DIR-286</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-286" href="https://issues.apache.org/jira/browse/DIR-286">&quot;Embedding ApacheDS as a Web Application&quot; does not work with latest stable (1.5.7)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="reporter_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Dec/11 08:30"><time datetime="2011-12-13T08:30:45+0000">13/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Oct/12 03:57"><time datetime="2012-10-03T03:57:08+0000">03/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12520698" rel="12520698" data-issuekey="DIR-280" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-280" href="https://issues.apache.org/jira/browse/DIR-280"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-280" href="https://issues.apache.org/jira/browse/DIR-280">DIR-280</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-280" href="https://issues.apache.org/jira/browse/DIR-280">Broken link in web site (&quot;Basic User&#39;s Guide&quot; on ApacheDS 2.0 page)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="basil.bourque" id="reporter_basil.bourque" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=basil.bourque">Basil Bourque</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Aug/11 07:28"><time datetime="2011-08-30T07:28:00+0000">30/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/14 10:25"><time datetime="2014-10-13T10:25:57+0000">13/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12501792" rel="12501792" data-issuekey="DIR-278" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-278" href="https://issues.apache.org/jira/browse/DIR-278"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-278" href="https://issues.apache.org/jira/browse/DIR-278">DIR-278</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-278" href="https://issues.apache.org/jira/browse/DIR-278">Pb with the latest shared build : mvn eclipse:eclipse does not generate the right .classpath anymore</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Mar/11 14:05"><time datetime="2011-03-18T14:05:59+0000">18/Mar/11</time></span> </td>
+                                            <td class="updated"> <span title="22/Feb/12 15:50"><time datetime="2012-02-22T15:50:23+0000">22/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12444596" rel="12444596" data-issuekey="DIR-252" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-252" href="https://issues.apache.org/jira/browse/DIR-252"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-252" href="https://issues.apache.org/jira/browse/DIR-252">DIR-252</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-252" href="https://issues.apache.org/jira/browse/DIR-252">Broken CSS for Studio&#39;s site on IE 8</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="pamarcelot" id="assignee_pamarcelot" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pamarcelot">Pierre-Arnaud Marcelot</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pamarcelot" id="reporter_pamarcelot" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pamarcelot">Pierre-Arnaud Marcelot</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jan/10 15:28"><time datetime="2010-01-04T15:28:28+0000">04/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="05/Jan/10 10:33"><time datetime="2010-01-05T10:33:34+0000">05/Jan/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12440329" rel="12440329" data-issuekey="DIR-251" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-251" href="https://issues.apache.org/jira/browse/DIR-251"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-251" href="https://issues.apache.org/jira/browse/DIR-251">DIR-251</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-251" href="https://issues.apache.org/jira/browse/DIR-251">lefthand navigation bar has incorrect links on pages within http://directory.apache.org/studio/download/</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="seelmann" id="assignee_seelmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=seelmann">Stefan Seelmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nirkus" id="reporter_nirkus" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nirkus">Linus van Geuns</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Nov/09 20:29"><time datetime="2009-11-10T20:29:42+0000">10/Nov/09</time></span> </td>
+                                            <td class="updated"> <span title="22/Feb/12 15:54"><time datetime="2012-02-22T15:54:48+0000">22/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12435810" rel="12435810" data-issuekey="DIR-247" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-247" href="https://issues.apache.org/jira/browse/DIR-247"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-247" href="https://issues.apache.org/jira/browse/DIR-247">DIR-247</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-247" href="https://issues.apache.org/jira/browse/DIR-247">error when i run exec command</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scspl_dilip" id="reporter_scspl_dilip" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scspl_dilip">dilip gorasia</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="16/Sep/09 11:17"><time datetime="2009-09-16T11:17:33+0000">16/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="16/Sep/09 11:29"><time datetime="2009-09-16T11:29:25+0000">16/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12429085" rel="12429085" data-issuekey="DIR-246" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-246" href="https://issues.apache.org/jira/browse/DIR-246"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-246" href="https://issues.apache.org/jira/browse/DIR-246">DIR-246</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-246" href="https://issues.apache.org/jira/browse/DIR-246">ApacheDS trunk build fails due to circular dependency between apacheds-xbean-spring &lt;-&gt; apacheds-server-xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="olo" id="reporter_olo" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olo">Aleksander Adamowski PZU</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="29/Jun/09 12:43"><time datetime="2009-06-29T12:43:39+0000">29/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="22/Feb/12 15:54"><time datetime="2012-02-22T15:54:01+0000">22/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12417293" rel="12417293" data-issuekey="DIR-244" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-244" href="https://issues.apache.org/jira/browse/DIR-244"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-244" href="https://issues.apache.org/jira/browse/DIR-244">DIR-244</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-244" href="https://issues.apache.org/jira/browse/DIR-244">Compilation issues (Java 1.5) in SysPropPartition example project</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="szoerner" id="assignee_szoerner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=szoerner">Stefan Zoerner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pamarcelot" id="reporter_pamarcelot" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pamarcelot">Pierre-Arnaud Marcelot</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Mar/09 16:20"><time datetime="2009-03-19T16:20:41+0000">19/Mar/09</time></span> </td>
+                                            <td class="updated"> <span title="24/Mar/09 16:08"><time datetime="2009-03-24T16:08:36+0000">24/Mar/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12415054" rel="12415054" data-issuekey="DIR-241" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-241" href="https://issues.apache.org/jira/browse/DIR-241"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-241" href="https://issues.apache.org/jira/browse/DIR-241">DIR-241</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-241" href="https://issues.apache.org/jira/browse/DIR-241">Skins CPD and PMD reports</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="felixk" id="assignee_felixk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=felixk">Felix Knecht</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="felixk" id="reporter_felixk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=felixk">Felix Knecht</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Feb/09 14:31"><time datetime="2009-02-18T14:31:09+0000">18/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="26/May/10 10:16"><time datetime="2010-05-26T10:16:30+0000">26/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12413922" rel="12413922" data-issuekey="DIR-240" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-240" href="https://issues.apache.org/jira/browse/DIR-240"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-240" href="https://issues.apache.org/jira/browse/DIR-240">DIR-240</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-240" href="https://issues.apache.org/jira/browse/DIR-240">Copyright Notice of Website outdated</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="szoerner" id="reporter_szoerner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=szoerner">Stefan Zoerner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Feb/09 18:44"><time datetime="2009-02-03T18:44:47+0000">03/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 16:03"><time datetime="2009-05-06T16:03:11+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12413009" rel="12413009" data-issuekey="DIR-239" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-239" href="https://issues.apache.org/jira/browse/DIR-239"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-239" href="https://issues.apache.org/jira/browse/DIR-239">DIR-239</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-239" href="https://issues.apache.org/jira/browse/DIR-239">Broken link to Directory project wiki</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="szoerner" id="assignee_szoerner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=szoerner">Stefan Zoerner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mszklano" id="reporter_mszklano" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mszklano">Michal Szklanowski</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Jan/09 17:21"><time datetime="2009-01-22T17:21:01+0000">22/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 16:03"><time datetime="2009-05-06T16:03:50+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12411150" rel="12411150" data-issuekey="DIR-238" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-238" href="https://issues.apache.org/jira/browse/DIR-238"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-238" href="https://issues.apache.org/jira/browse/DIR-238">DIR-238</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-238" href="https://issues.apache.org/jira/browse/DIR-238">No download page available for Apache DS 1.5.x and Solaris architecture</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="pamarcelot" id="assignee_pamarcelot" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pamarcelot">Pierre-Arnaud Marcelot</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pamarcelot" id="reporter_pamarcelot" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pamarcelot">Pierre-Arnaud Marcelot</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Dec/08 12:22"><time datetime="2008-12-22T12:22:37+0000">22/Dec/08</time></span> </td>
+                                            <td class="updated"> <span title="29/Dec/08 10:23"><time datetime="2008-12-29T10:23:27+0000">29/Dec/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12398546" rel="12398546" data-issuekey="DIR-230" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-230" href="https://issues.apache.org/jira/browse/DIR-230"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-230" href="https://issues.apache.org/jira/browse/DIR-230">DIR-230</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-230" href="https://issues.apache.org/jira/browse/DIR-230">Broken/incorrect link</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jun/08 22:41"><time datetime="2008-06-18T22:41:36+0000">18/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 16:02"><time datetime="2009-05-06T16:02:31+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12398447" rel="12398447" data-issuekey="DIR-229" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-229" href="https://issues.apache.org/jira/browse/DIR-229"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-229" href="https://issues.apache.org/jira/browse/DIR-229">DIR-229</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-229" href="https://issues.apache.org/jira/browse/DIR-229">Old releases should be deleted from dist directory structure</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jun/08 19:29"><time datetime="2008-06-17T19:29:15+0000">17/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="10/Dec/09 07:05"><time datetime="2009-12-10T07:05:08+0000">10/Dec/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12398446" rel="12398446" data-issuekey="DIR-228" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-228" href="https://issues.apache.org/jira/browse/DIR-228"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-228" href="https://issues.apache.org/jira/browse/DIR-228">DIR-228</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-228" href="https://issues.apache.org/jira/browse/DIR-228">Very difficult to find KEYS, hashes and sigs for downloads</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="pamarcelot" id="assignee_pamarcelot" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pamarcelot">Pierre-Arnaud Marcelot</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jun/08 19:17"><time datetime="2008-06-17T19:17:00+0000">17/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="04/Jul/08 11:56"><time datetime="2008-07-04T11:56:46+0000">04/Jul/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12386006" rel="12386006" data-issuekey="DIR-227" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-227" href="https://issues.apache.org/jira/browse/DIR-227"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-227" href="https://issues.apache.org/jira/browse/DIR-227">DIR-227</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-227" href="https://issues.apache.org/jira/browse/DIR-227">&quot;failed to unbind session properly&quot; on anonymous search</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="itaylor" id="reporter_itaylor" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=itaylor">Ian Taylor</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Jan/08 21:54"><time datetime="2008-01-10T21:54:16+0000">10/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 16:03"><time datetime="2009-05-06T16:03:29+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12384134" rel="12384134" data-issuekey="DIR-225" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-225" href="https://issues.apache.org/jira/browse/DIR-225"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-225" href="https://issues.apache.org/jira/browse/DIR-225">DIR-225</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-225" href="https://issues.apache.org/jira/browse/DIR-225">[kerberos]org.apache.directory.server.kerberos.shared.crypto.encryption.ArcFourHmacMd5Encryption decryption function is not complete</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="spark shen" id="reporter_spark shen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=spark+shen">spark shen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="07/Dec/07 05:32"><time datetime="2007-12-07T05:32:11+0000">07/Dec/07</time></span> </td>
+                                            <td class="updated"> <span title="07/Dec/07 05:46"><time datetime="2007-12-07T05:46:31+0000">07/Dec/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12380808" rel="12380808" data-issuekey="DIR-224" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-224" href="https://issues.apache.org/jira/browse/DIR-224"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-224" href="https://issues.apache.org/jira/browse/DIR-224">DIR-224</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-224" href="https://issues.apache.org/jira/browse/DIR-224">A lot of Velocity warnings during build</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="felixk" id="reporter_felixk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=felixk">Felix Knecht</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Oct/07 20:33"><time datetime="2007-10-19T20:33:33+0000">19/Oct/07</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 16:01"><time datetime="2009-05-06T16:01:44+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12377934" rel="12377934" data-issuekey="DIR-222" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-222" href="https://issues.apache.org/jira/browse/DIR-222"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-222" href="https://issues.apache.org/jira/browse/DIR-222">DIR-222</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-222" href="https://issues.apache.org/jira/browse/DIR-222">Correct Linux install documentation for ApacheDS 1.5</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nbeyer" id="reporter_nbeyer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nbeyer">Nathan Beyer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Sep/07 02:33"><time datetime="2007-09-11T02:33:12+0000">11/Sep/07</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 16:01"><time datetime="2009-05-06T16:01:27+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12362001" rel="12362001" data-issuekey="DIR-203" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-203" href="https://issues.apache.org/jira/browse/DIR-203"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-203" href="https://issues.apache.org/jira/browse/DIR-203">DIR-203</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-203" href="https://issues.apache.org/jira/browse/DIR-203">Broken links in the new site: Main Page (except &#39;Starting... and Documentation)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Feb/07 14:07"><time datetime="2007-02-05T14:07:50+0000">05/Feb/07</time></span> </td>
+                                            <td class="updated"> <span title="28/Mar/07 12:10"><time datetime="2007-03-28T12:10:25+0000">28/Mar/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12352625" rel="12352625" data-issuekey="DIR-196" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-196" href="https://issues.apache.org/jira/browse/DIR-196"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-196" href="https://issues.apache.org/jira/browse/DIR-196">DIR-196</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-196" href="https://issues.apache.org/jira/browse/DIR-196">Cannot build Trunks</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Oct/06 13:38"><time datetime="2006-10-06T13:38:17+0000">06/Oct/06</time></span> </td>
+                                            <td class="updated"> <span title="06/Oct/06 16:33"><time datetime="2006-10-06T16:33:41+0000">06/Oct/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12344062" rel="12344062" data-issuekey="DIR-185" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-185" href="https://issues.apache.org/jira/browse/DIR-185"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-185" href="https://issues.apache.org/jira/browse/DIR-185">DIR-185</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-185" href="https://issues.apache.org/jira/browse/DIR-185">ldaps not working with gpg</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ralfhauser" id="reporter_ralfhauser" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ralfhauser">Ralf Hauser</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jun/06 18:59"><time datetime="2006-06-07T18:59:09+0000">07/Jun/06</time></span> </td>
+                                            <td class="updated"> <span title="17/Aug/06 20:56"><time datetime="2006-08-17T20:56:26+0000">17/Aug/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12332381" rel="12332381" data-issuekey="DIR-184" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-184" href="https://issues.apache.org/jira/browse/DIR-184"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-184" href="https://issues.apache.org/jira/browse/DIR-184">DIR-184</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-184" href="https://issues.apache.org/jira/browse/DIR-184">DnParser does not correctly parse leading and trailing spaces and pound signs in values.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jbarrett" id="reporter_jbarrett" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbarrett">Jacob S. Barrett</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Apr/06 03:02"><time datetime="2006-04-20T03:02:28+0000">20/Apr/06</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 15:57"><time datetime="2009-05-06T15:57:45+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12328408" rel="12328408" data-issuekey="DIR-126" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-126" href="https://issues.apache.org/jira/browse/DIR-126"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-126" href="https://issues.apache.org/jira/browse/DIR-126">DIR-126</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-126" href="https://issues.apache.org/jira/browse/DIR-126">ACI problem when using com.sun.jndi.ldap.LdapCtxFactory as the INITIAL_CONTEXT_FACTORY</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tony_blanchard" id="reporter_tony_blanchard" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tony_blanchard">Tony Blanchard</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="01/Feb/06 20:27"><time datetime="2006-02-01T20:27:21+0000">01/Feb/06</time></span> </td>
+                                            <td class="updated"> <span title="17/Aug/06 20:54"><time datetime="2006-08-17T20:54:46+0000">17/Aug/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12325576" rel="12325576" data-issuekey="DIR-116" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-116" href="https://issues.apache.org/jira/browse/DIR-116"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-116" href="https://issues.apache.org/jira/browse/DIR-116">DIR-116</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-116" href="https://issues.apache.org/jira/browse/DIR-116">MODRDN throws an exception when blank line is detected</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="yingyang" id="reporter_yingyang" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=yingyang">Jim Yang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="12/Nov/05 04:41"><time datetime="2005-11-12T04:41:13+0000">12/Nov/05</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 15:57"><time datetime="2009-05-06T15:57:08+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12325265" rel="12325265" data-issuekey="DIR-115" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-115" href="https://issues.apache.org/jira/browse/DIR-115"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-115" href="https://issues.apache.org/jira/browse/DIR-115">DIR-115</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-115" href="https://issues.apache.org/jira/browse/DIR-115">Query string gets normilized in most cases (when normalization service is enabled)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="assignee_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="giamma" id="reporter_giamma" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=giamma">Giamma</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="03/Nov/05 04:03"><time datetime="2005-11-03T04:03:52+0000">03/Nov/05</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 15:56"><time datetime="2009-05-06T15:56:56+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12311372" rel="12311372" data-issuekey="DIR-112" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-112" href="https://issues.apache.org/jira/browse/DIR-112"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-112" href="https://issues.apache.org/jira/browse/DIR-112">DIR-112</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-112" href="https://issues.apache.org/jira/browse/DIR-112">The implementation of LdapName#getSuffix(int) does not match that of Java 1.5&#39;s LDAP.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jbarrett" id="reporter_jbarrett" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbarrett">Jacob S. Barrett</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jun/05 00:58"><time datetime="2005-06-15T00:58:19+0000">15/Jun/05</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 15:56"><time datetime="2009-05-06T15:56:23+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow30666" rel="30666" data-issuekey="DIR-107" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-107" href="https://issues.apache.org/jira/browse/DIR-107"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-107" href="https://issues.apache.org/jira/browse/DIR-107">DIR-107</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-107" href="https://issues.apache.org/jira/browse/DIR-107">Bad Tags value</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="08/Mar/05 05:29"><time datetime="2005-03-08T05:29:25+0000">08/Mar/05</time></span> </td>
+                                            <td class="updated"> <span title="16/Jun/05 15:00"><time datetime="2005-06-16T15:00:32+0000">16/Jun/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow29877" rel="29877" data-issuekey="DIR-99" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-99" href="https://issues.apache.org/jira/browse/DIR-99"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-99" href="https://issues.apache.org/jira/browse/DIR-99">DIR-99</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-99" href="https://issues.apache.org/jira/browse/DIR-99">Bug in codesize.sh, &amp; improvment</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="elecharny" id="reporter_elecharny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=elecharny">Emmanuel Lecharny</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Feb/05 11:00"><time datetime="2005-02-03T11:00:14+0000">03/Feb/05</time></span> </td>
+                                            <td class="updated"> <span title="24/Jun/06 21:21"><time datetime="2006-06-24T21:21:22+0000">24/Jun/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow17243" rel="17243" data-issuekey="DIR-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-70" href="https://issues.apache.org/jira/browse/DIR-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-70" href="https://issues.apache.org/jira/browse/DIR-70">DIR-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-70" href="https://issues.apache.org/jira/browse/DIR-70">Take out timing dependent merlin testcases in all comps</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="reporter_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Mar/04 11:40"><time datetime="2004-03-22T11:40:53+0000">22/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/04 02:42"><time datetime="2004-03-30T02:42:47+0000">30/Mar/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13586" rel="13586" data-issuekey="DIR-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-18" href="https://issues.apache.org/jira/browse/DIR-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-18" href="https://issues.apache.org/jira/browse/DIR-18">DIR-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-18" href="https://issues.apache.org/jira/browse/DIR-18">Prevent phantom connections</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="reporter_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Feb/04 07:28"><time datetime="2004-02-20T07:28:38+0000">20/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/04 08:21"><time datetime="2004-02-20T08:21:09+0000">20/Feb/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13578" rel="13578" data-issuekey="DIR-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-12" href="https://issues.apache.org/jira/browse/DIR-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-12" href="https://issues.apache.org/jira/browse/DIR-12">DIR-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-12" href="https://issues.apache.org/jira/browse/DIR-12">Direct NIO ByteBuffer does not produce correct hashCodes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="reporter_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="19/Feb/04 06:28"><time datetime="2004-02-19T06:28:50+0000">19/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/04 07:15"><time datetime="2004-02-19T07:15:08+0000">19/Feb/04</time></span> </td>
+                                            <td class="duedate">    19/Feb/04
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13574" rel="13574" data-issuekey="DIR-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="DIR-11" href="https://issues.apache.org/jira/browse/DIR-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DIR-11" href="https://issues.apache.org/jira/browse/DIR-11">DIR-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="DIR-11" href="https://issues.apache.org/jira/browse/DIR-11">Channel registration in InputManager blocks</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="assignee_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="akarasulu" id="reporter_akarasulu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=akarasulu">Alex Karasulu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Feb/04 17:58"><time datetime="2004-02-18T17:58:56+0000">18/Feb/04</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 15:50"><time datetime="2009-05-06T15:50:36+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

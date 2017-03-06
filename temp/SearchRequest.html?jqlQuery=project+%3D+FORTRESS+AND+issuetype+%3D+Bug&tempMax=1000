@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+FORTRESS+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+FORTRESS+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/FORTRESS" title="Browse Excalibur Fortress project">Excalibur Fortress</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>12</b> of <b>12</b>
+            as at: <b>05/Mar/17 17:00</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12389089" rel="12389089" data-issuekey="FORTRESS-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-24" href="https://issues.apache.org/jira/browse/FORTRESS-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-24" href="https://issues.apache.org/jira/browse/FORTRESS-24">FORTRESS-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-24" href="https://issues.apache.org/jira/browse/FORTRESS-24">Useless length check in fortress/meta/src/java/org/apache/avalon/fortress/tools/Component.java</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jbapple" id="reporter_jbapple" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jbapple">Jim Apple</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Feb/08 09:22"><time datetime="2008-02-20T09:22:42+0000">20/Feb/08</time></span> </td>
+                                            <td class="updated"> <span title="11/Jun/08 12:29"><time datetime="2008-06-11T12:29:38+0000">11/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12367557" rel="12367557" data-issuekey="FORTRESS-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-23" href="https://issues.apache.org/jira/browse/FORTRESS-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-23" href="https://issues.apache.org/jira/browse/FORTRESS-23">FORTRESS-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-23" href="https://issues.apache.org/jira/browse/FORTRESS-23">FortressTestCase: Context initialization bug </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="farra" id="assignee_farra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=farra">J Aaron Farr</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="alonsodomin" id="reporter_alonsodomin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=alonsodomin">Alonso Dominguez</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Apr/07 11:02"><time datetime="2007-04-19T11:02:23+0000">19/Apr/07</time></span> </td>
+                                            <td class="updated"> <span title="19/Apr/07 14:16"><time datetime="2007-04-19T14:16:06+0000">19/Apr/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12317158" rel="12317158" data-issuekey="FORTRESS-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-20" href="https://issues.apache.org/jira/browse/FORTRESS-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-20" href="https://issues.apache.org/jira/browse/FORTRESS-20">FORTRESS-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-20" href="https://issues.apache.org/jira/browse/FORTRESS-20">Avalon Framework does not work with newer LOG4J versions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sgoeschl" id="reporter_sgoeschl" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sgoeschl">Siegfried Goeschl</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="21/Sep/05 16:00"><time datetime="2005-09-21T16:00:28+0000">21/Sep/05</time></span> </td>
+                                            <td class="updated"> <span title="06/Jun/06 16:07"><time datetime="2006-06-06T16:07:09+0000">06/Jun/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12313680" rel="12313680" data-issuekey="FORTRESS-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-19" href="https://issues.apache.org/jira/browse/FORTRESS-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-19" href="https://issues.apache.org/jira/browse/FORTRESS-19">FORTRESS-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-19" href="https://issues.apache.org/jira/browse/FORTRESS-19">ComponentMetaInfoCollector 1.2-RC3 does not work with files containing non-english characters.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mortenson" id="reporter_mortenson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mortenson">Leif Mortenson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="23/Aug/05 13:53"><time datetime="2005-08-23T13:53:02+0000">23/Aug/05</time></span> </td>
+                                            <td class="updated"> <span title="23/Aug/05 13:53"><time datetime="2005-08-23T13:53:02+0000">23/Aug/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow32086" rel="32086" data-issuekey="FORTRESS-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-18" href="https://issues.apache.org/jira/browse/FORTRESS-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-18" href="https://issues.apache.org/jira/browse/FORTRESS-18">FORTRESS-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-18" href="https://issues.apache.org/jira/browse/FORTRESS-18">JavaDoc on site is incomplete</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="farra" id="assignee_farra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=farra">J Aaron Farr</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tschlabach@apache.org" id="reporter_tschlabach@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tschlabach%40apache.org">Torsten Schlabach</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Apr/05 22:23"><time datetime="2005-04-28T22:23:58+0000">28/Apr/05</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/06 08:22"><time datetime="2006-11-16T08:22:01+0000">16/Nov/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow31530" rel="31530" data-issuekey="FORTRESS-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-17" href="https://issues.apache.org/jira/browse/FORTRESS-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-17" href="https://issues.apache.org/jira/browse/FORTRESS-17">FORTRESS-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-17" href="https://issues.apache.org/jira/browse/FORTRESS-17">Running Fortress in Eclipse</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="farra" id="assignee_farra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=farra">J Aaron Farr</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="farra" id="reporter_farra" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=farra">J Aaron Farr</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/05 05:34"><time datetime="2005-04-08T05:34:14+0000">08/Apr/05</time></span> </td>
+                                            <td class="updated"> <span title="16/Nov/06 08:22"><time datetime="2006-11-16T08:22:04+0000">16/Nov/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow29679" rel="29679" data-issuekey="FORTRESS-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-14" href="https://issues.apache.org/jira/browse/FORTRESS-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-14" href="https://issues.apache.org/jira/browse/FORTRESS-14">FORTRESS-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-14" href="https://issues.apache.org/jira/browse/FORTRESS-14">FortressServiceSelector throws NullPointerException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bloritsch" id="assignee_bloritsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bloritsch">Berin Loritsch</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="morisil" id="reporter_morisil" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=morisil">Kazimierz Pogoda</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Jan/05 17:58"><time datetime="2005-01-27T17:58:49+0000">27/Jan/05</time></span> </td>
+                                            <td class="updated"> <span title="27/Jan/05 23:29"><time datetime="2005-01-27T23:29:14+0000">27/Jan/05</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow27531" rel="27531" data-issuekey="FORTRESS-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-8" href="https://issues.apache.org/jira/browse/FORTRESS-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-8" href="https://issues.apache.org/jira/browse/FORTRESS-8">FORTRESS-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-8" href="https://issues.apache.org/jira/browse/FORTRESS-8">Fortress fails to build</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="crafterm" id="reporter_crafterm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=crafterm">Marcus Crafter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="29/Sep/04 21:32"><time datetime="2004-09-29T21:32:01+0000">29/Sep/04</time></span> </td>
+                                            <td class="updated"> <span title="24/Oct/04 01:05"><time datetime="2004-10-24T01:05:34+0000">24/Oct/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow27454" rel="27454" data-issuekey="FORTRESS-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-6" href="https://issues.apache.org/jira/browse/FORTRESS-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-6" href="https://issues.apache.org/jira/browse/FORTRESS-6">FORTRESS-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-6" href="https://issues.apache.org/jira/browse/FORTRESS-6">Download links are broken on excalibur website</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="crafterm" id="reporter_crafterm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=crafterm">Marcus Crafter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Sep/04 16:34"><time datetime="2004-09-24T16:34:54+0000">24/Sep/04</time></span> </td>
+                                            <td class="updated"> <span title="24/Oct/04 01:07"><time datetime="2004-10-24T01:07:00+0000">24/Oct/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow22050" rel="22050" data-issuekey="FORTRESS-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-5" href="https://issues.apache.org/jira/browse/FORTRESS-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-5" href="https://issues.apache.org/jira/browse/FORTRESS-5">FORTRESS-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-5" href="https://issues.apache.org/jira/browse/FORTRESS-5">javadocs link on main excalibur page is broken</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jecollins" id="reporter_jecollins" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jecollins">John Collins</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jul/04 19:30"><time datetime="2004-07-07T19:30:22+0000">07/Jul/04</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/04 11:12"><time datetime="2004-07-08T11:12:30+0000">08/Jul/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow21825" rel="21825" data-issuekey="FORTRESS-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-4" href="https://issues.apache.org/jira/browse/FORTRESS-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-4" href="https://issues.apache.org/jira/browse/FORTRESS-4">FORTRESS-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-4" href="https://issues.apache.org/jira/browse/FORTRESS-4">PerThreadComponentHandler is not holding components correctly</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hammett" id="reporter_hammett" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hammett">hamilton verissimo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jun/04 17:31"><time datetime="2004-06-15T17:31:37+0000">15/Jun/04</time></span> </td>
+                                            <td class="updated"> <span title="22/Jun/04 17:45"><time datetime="2004-06-22T17:45:02+0000">22/Jun/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow15255" rel="15255" data-issuekey="FORTRESS-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="FORTRESS-3" href="https://issues.apache.org/jira/browse/FORTRESS-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="FORTRESS-3" href="https://issues.apache.org/jira/browse/FORTRESS-3">FORTRESS-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="FORTRESS-3" href="https://issues.apache.org/jira/browse/FORTRESS-3">In an initialization failure, fortress keeps a not daemon thread that prevents the VM from shutting down</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hammett" id="reporter_hammett" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hammett">hamilton verissimo</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="08/Mar/04 22:00"><time datetime="2004-03-08T22:00:29+0000">08/Mar/04</time></span> </td>
+                                            <td class="updated"> <span title="09/Mar/04 16:38"><time datetime="2004-03-09T16:38:24+0000">09/Mar/04</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

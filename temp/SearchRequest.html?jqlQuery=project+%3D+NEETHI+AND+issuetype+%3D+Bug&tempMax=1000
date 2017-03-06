@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+NEETHI+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+NEETHI+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/NEETHI" title="Browse Neethi project">Neethi</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>14</b> of <b>14</b>
+            as at: <b>05/Mar/17 17:01</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12671004" rel="12671004" data-issuekey="NEETHI-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-16" href="https://issues.apache.org/jira/browse/NEETHI-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-16" href="https://issues.apache.org/jira/browse/NEETHI-16">NEETHI-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-16" href="https://issues.apache.org/jira/browse/NEETHI-16">Writing a policy can miss namespace declarations</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Sep/13 19:48"><time datetime="2013-09-27T19:48:47+0000">27/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/13 21:15"><time datetime="2013-09-27T21:15:01+0000">27/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12670934" rel="12670934" data-issuekey="NEETHI-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-15" href="https://issues.apache.org/jira/browse/NEETHI-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-15" href="https://issues.apache.org/jira/browse/NEETHI-15">NEETHI-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-15" href="https://issues.apache.org/jira/browse/NEETHI-15">Problem in policy intersection caused by error in PolicyIntersector.compatiblePolicies method</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jorsch" id="reporter_jorsch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jorsch">Jörn Schneider</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Sep/13 13:16"><time datetime="2013-09-27T13:16:01+0000">27/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/13 21:15"><time datetime="2013-09-27T21:15:01+0000">27/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12525577" rel="12525577" data-issuekey="NEETHI-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-13" href="https://issues.apache.org/jira/browse/NEETHI-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-13" href="https://issues.apache.org/jira/browse/NEETHI-13">NEETHI-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-13" href="https://issues.apache.org/jira/browse/NEETHI-13">If attribute on a DOM is created with createAttribute instead of createAttributeNS, an exception is thrown</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Oct/11 20:31"><time datetime="2011-10-03T20:31:33+0000">03/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Mar/12 22:51"><time datetime="2012-03-08T22:51:09+0000">08/Mar/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12513011" rel="12513011" data-issuekey="NEETHI-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-12" href="https://issues.apache.org/jira/browse/NEETHI-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-12" href="https://issues.apache.org/jira/browse/NEETHI-12">NEETHI-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-12" href="https://issues.apache.org/jira/browse/NEETHI-12">Problems if root element is not a policy element</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jul/11 16:15"><time datetime="2011-07-06T16:15:23+0000">06/Jul/11</time></span> </td>
+                                            <td class="updated"> <span title="06/Jul/11 16:23"><time datetime="2011-07-06T16:23:02+0000">06/Jul/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12509230" rel="12509230" data-issuekey="NEETHI-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-11" href="https://issues.apache.org/jira/browse/NEETHI-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-11" href="https://issues.apache.org/jira/browse/NEETHI-11">NEETHI-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-11" href="https://issues.apache.org/jira/browse/NEETHI-11">OSGi imports two separate javax.xml.stream ranges.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Jun/11 19:43"><time datetime="2011-06-03T19:43:10+0000">03/Jun/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jun/11 19:46"><time datetime="2011-06-03T19:46:44+0000">03/Jun/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12505289" rel="12505289" data-issuekey="NEETHI-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-10" href="https://issues.apache.org/jira/browse/NEETHI-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-10" href="https://issues.apache.org/jira/browse/NEETHI-10">NEETHI-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-10" href="https://issues.apache.org/jira/browse/NEETHI-10">Packages javax.xml.stream and javax.xml.stream.events cannot be resolved</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.weindel" id="reporter_martin.weindel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.weindel">Martin Weindel</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Apr/11 10:02"><time datetime="2011-04-27T10:02:41+0000">27/Apr/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jun/11 19:52"><time datetime="2011-06-03T19:52:11+0000">03/Jun/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12504459" rel="12504459" data-issuekey="NEETHI-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-9" href="https://issues.apache.org/jira/browse/NEETHI-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-9" href="https://issues.apache.org/jira/browse/NEETHI-9">NEETHI-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-9" href="https://issues.apache.org/jira/browse/NEETHI-9">Errors in XML object model conversions are not handled properly</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="veithen" id="reporter_veithen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=veithen">Andreas Veithen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Apr/11 20:03"><time datetime="2011-04-16T20:03:14+0000">16/Apr/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/11 20:28"><time datetime="2011-07-08T20:28:23+0000">08/Jul/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12427811" rel="12427811" data-issuekey="NEETHI-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-7" href="https://issues.apache.org/jira/browse/NEETHI-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-7" href="https://issues.apache.org/jira/browse/NEETHI-7">NEETHI-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-7" href="https://issues.apache.org/jira/browse/NEETHI-7">An alternative constructor for AbstractPolicyOperators for convenience</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="creme-fresh" id="reporter_creme-fresh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=creme-fresh">Konrad K</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Jun/09 09:58"><time datetime="2009-06-13T09:58:18+0000">13/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/11 16:57"><time datetime="2011-02-09T16:57:26+0000">09/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12386383" rel="12386383" data-issuekey="NEETHI-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-6" href="https://issues.apache.org/jira/browse/NEETHI-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-6" href="https://issues.apache.org/jira/browse/NEETHI-6">NEETHI-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-6" href="https://issues.apache.org/jira/browse/NEETHI-6">AbstractPolicyOperator.getFirstPolicyComponent throws NPE when Operator is empty</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gerald.preissler" id="reporter_gerald.preissler" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gerald.preissler">Gerald Preissler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Jan/08 14:11"><time datetime="2008-01-16T14:11:02+0000">16/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/11 17:00"><time datetime="2011-02-09T17:00:22+0000">09/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12366258" rel="12366258" data-issuekey="NEETHI-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-5" href="https://issues.apache.org/jira/browse/NEETHI-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-5" href="https://issues.apache.org/jira/browse/NEETHI-5">NEETHI-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-5" href="https://issues.apache.org/jira/browse/NEETHI-5">policy.getAlternatives() throws an NPE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cmcnally" id="reporter_cmcnally" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cmcnally">Cindy McNally</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Mar/07 21:24"><time datetime="2007-03-30T21:24:41+0000">30/Mar/07</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/11 17:41"><time datetime="2011-02-09T17:41:58+0000">09/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12387277" rel="12387277" data-issuekey="NEETHI-4" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-4" href="https://issues.apache.org/jira/browse/NEETHI-4"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-4" href="https://issues.apache.org/jira/browse/NEETHI-4">NEETHI-4</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-4" href="https://issues.apache.org/jira/browse/NEETHI-4">Policy intersection is not yet implemented</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vanto" id="reporter_vanto" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vanto">Tammo van Lessen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Jan/08 10:56"><time datetime="2008-01-28T10:56:00+0000">28/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="10/Feb/11 03:39"><time datetime="2011-02-10T03:39:44+0000">10/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12381112" rel="12381112" data-issuekey="NEETHI-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-3" href="https://issues.apache.org/jira/browse/NEETHI-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-3" href="https://issues.apache.org/jira/browse/NEETHI-3">NEETHI-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-3" href="https://issues.apache.org/jira/browse/NEETHI-3">Neethi&#39;s deep normalization does not normalize assertions nested within an XmlPrimtiveAssertion</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sbarere" id="reporter_sbarere" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sbarere">Simon Barere</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Oct/07 23:53"><time datetime="2007-10-24T23:53:48+0000">24/Oct/07</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/11 17:09"><time datetime="2011-02-09T17:09:20+0000">09/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12405171" rel="12405171" data-issuekey="NEETHI-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-2" href="https://issues.apache.org/jira/browse/NEETHI-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-2" href="https://issues.apache.org/jira/browse/NEETHI-2">NEETHI-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-2" href="https://issues.apache.org/jira/browse/NEETHI-2">WS-Policy namespace handling</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rjpike23" id="reporter_rjpike23" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rjpike23">Rad Pike</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Sep/08 18:29"><time datetime="2008-09-25T18:29:07+0000">25/Sep/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/11 17:41"><time datetime="2011-02-09T17:41:33+0000">09/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12386388" rel="12386388" data-issuekey="NEETHI-1" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="NEETHI-1" href="https://issues.apache.org/jira/browse/NEETHI-1"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="NEETHI-1" href="https://issues.apache.org/jira/browse/NEETHI-1">NEETHI-1</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="NEETHI-1" href="https://issues.apache.org/jira/browse/NEETHI-1">Javadoc for PolicyComponent.getType() lists wrong return results</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="assignee_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="gerald.preissler" id="reporter_gerald.preissler" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gerald.preissler">Gerald Preissler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="16/Jan/08 14:51"><time datetime="2008-01-16T14:51:00+0000">16/Jan/08</time></span> </td>
+                                            <td class="updated"> <span title="09/Feb/11 16:51"><time datetime="2011-02-09T16:51:59+0000">09/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

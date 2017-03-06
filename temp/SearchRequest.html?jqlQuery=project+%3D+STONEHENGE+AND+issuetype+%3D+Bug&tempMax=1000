@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+STONEHENGE+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+STONEHENGE+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/STONEHENGE" title="Browse Stonehenge project">Stonehenge</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>52</b> of <b>52</b>
+            as at: <b>05/Mar/17 17:00</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12519553" rel="12519553" data-issuekey="STONEHENGE-130" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-130" href="https://issues.apache.org/jira/browse/STONEHENGE-130"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-130" href="https://issues.apache.org/jira/browse/STONEHENGE-130">STONEHENGE-130</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-130" href="https://issues.apache.org/jira/browse/STONEHENGE-130">Website must display disclaimer text and link to incubator</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="21/Aug/11 16:59"><time datetime="2011-08-21T16:59:58+0000">21/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="21/Aug/11 16:59"><time datetime="2011-08-21T16:59:58+0000">21/Aug/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12468107" rel="12468107" data-issuekey="STONEHENGE-129" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-129" href="https://issues.apache.org/jira/browse/STONEHENGE-129"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-129" href="https://issues.apache.org/jira/browse/STONEHENGE-129">STONEHENGE-129</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-129" href="https://issues.apache.org/jira/browse/STONEHENGE-129">Incorrect/missing SVN eol-style properties</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jun/10 00:06"><time datetime="2010-06-29T00:06:03+0000">29/Jun/10</time></span> </td>
+                                            <td class="updated"> <span title="30/Jun/10 05:19"><time datetime="2010-06-30T05:19:49+0000">30/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12467361" rel="12467361" data-issuekey="STONEHENGE-128" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-128" href="https://issues.apache.org/jira/browse/STONEHENGE-128"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-128" href="https://issues.apache.org/jira/browse/STONEHENGE-128">STONEHENGE-128</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-128" href="https://issues.apache.org/jira/browse/STONEHENGE-128">DB: Create script for config db points to incorrect METRO_BS endpoint</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jun/10 16:54"><time datetime="2010-06-18T16:54:21+0000">18/Jun/10</time></span> </td>
+                                            <td class="updated"> <span title="18/Jun/10 17:41"><time datetime="2010-06-18T17:41:04+0000">18/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12467107" rel="12467107" data-issuekey="STONEHENGE-127" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-127" href="https://issues.apache.org/jira/browse/STONEHENGE-127"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-127" href="https://issues.apache.org/jira/browse/STONEHENGE-127">STONEHENGE-127</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-127" href="https://issues.apache.org/jira/browse/STONEHENGE-127">Null pointer exception in Order Processor client</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pcibraro" id="reporter_pcibraro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pcibraro">Pablo Mariano Cibraro</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="16/Jun/10 17:54"><time datetime="2010-06-16T17:54:54+0000">16/Jun/10</time></span> </td>
+                                            <td class="updated"> <span title="16/Jun/10 19:24"><time datetime="2010-06-16T19:24:30+0000">16/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12465449" rel="12465449" data-issuekey="STONEHENGE-126" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-126" href="https://issues.apache.org/jira/browse/STONEHENGE-126"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-126" href="https://issues.apache.org/jira/browse/STONEHENGE-126">STONEHENGE-126</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-126" href="https://issues.apache.org/jira/browse/STONEHENGE-126">Incorrect Order Processor WSDL in Metro</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pcibraro" id="reporter_pcibraro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pcibraro">Pablo Mariano Cibraro</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/May/10 12:20"><time datetime="2010-05-26T12:20:12+0000">26/May/10</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/10 02:50"><time datetime="2010-06-17T02:50:13+0000">17/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12464371" rel="12464371" data-issuekey="STONEHENGE-125" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-125" href="https://issues.apache.org/jira/browse/STONEHENGE-125"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-125" href="https://issues.apache.org/jira/browse/STONEHENGE-125">STONEHENGE-125</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-125" href="https://issues.apache.org/jira/browse/STONEHENGE-125">SQL Scripts included alongside .NET Implementation do not create CONFIGSERVICE table required by Metro</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/May/10 17:40"><time datetime="2010-05-12T17:40:06+0000">12/May/10</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/10 02:52"><time datetime="2010-06-17T02:52:00+0000">17/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12463581" rel="12463581" data-issuekey="STONEHENGE-124" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-124" href="https://issues.apache.org/jira/browse/STONEHENGE-124"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-124" href="https://issues.apache.org/jira/browse/STONEHENGE-124">STONEHENGE-124</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-124" href="https://issues.apache.org/jira/browse/STONEHENGE-124">Endpoint mapping missing for WSAS_BS in .NET Client Config</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/May/10 17:52"><time datetime="2010-05-03T17:52:05+0000">03/May/10</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/10 02:48"><time datetime="2010-06-17T02:48:16+0000">17/Jun/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12463054" rel="12463054" data-issuekey="STONEHENGE-123" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-123" href="https://issues.apache.org/jira/browse/STONEHENGE-123"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-123" href="https://issues.apache.org/jira/browse/STONEHENGE-123">STONEHENGE-123</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-123" href="https://issues.apache.org/jira/browse/STONEHENGE-123">Messed up comment in etc/web.xml of order processor service causes deploy to fail</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Apr/10 22:28"><time datetime="2010-04-26T22:28:20+0000">26/Apr/10</time></span> </td>
+                                            <td class="updated"> <span title="06/May/10 16:33"><time datetime="2010-05-06T16:33:54+0000">06/May/10</time></span> </td>
+                                            <td class="duedate">    26/Apr/10
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12463053" rel="12463053" data-issuekey="STONEHENGE-122" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-122" href="https://issues.apache.org/jira/browse/STONEHENGE-122"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-122" href="https://issues.apache.org/jira/browse/STONEHENGE-122">STONEHENGE-122</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-122" href="https://issues.apache.org/jira/browse/STONEHENGE-122">Metro implementation of StockTrader attempts to deploy resources to domain2</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Apr/10 21:49"><time datetime="2010-04-26T21:49:40+0000">26/Apr/10</time></span> </td>
+                                            <td class="updated"> <span title="06/May/10 16:32"><time datetime="2010-05-06T16:32:34+0000">06/May/10</time></span> </td>
+                                            <td class="duedate">    26/Apr/10
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12457489" rel="12457489" data-issuekey="STONEHENGE-120" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-120" href="https://issues.apache.org/jira/browse/STONEHENGE-120"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-120" href="https://issues.apache.org/jira/browse/STONEHENGE-120">STONEHENGE-120</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-120" href="https://issues.apache.org/jira/browse/STONEHENGE-120">Configuration mapping missing for WSAS in Business Service Console Configuration</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Feb/10 21:58"><time datetime="2010-02-25T21:58:53+0000">25/Feb/10</time></span> </td>
+                                            <td class="updated"> <span title="06/May/10 16:37"><time datetime="2010-05-06T16:37:25+0000">06/May/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12456043" rel="12456043" data-issuekey="STONEHENGE-119" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-119" href="https://issues.apache.org/jira/browse/STONEHENGE-119"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-119" href="https://issues.apache.org/jira/browse/STONEHENGE-119">STONEHENGE-119</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-119" href="https://issues.apache.org/jira/browse/STONEHENGE-119">Changing &quot;advanced configuration&quot; in .NET doesn&#39;t invalidate configuration footer display</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Feb/10 17:11"><time datetime="2010-02-11T17:11:21+0000">11/Feb/10</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/10 16:36"><time datetime="2010-02-12T16:36:22+0000">12/Feb/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12444736" rel="12444736" data-issuekey="STONEHENGE-112" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-112" href="https://issues.apache.org/jira/browse/STONEHENGE-112"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-112" href="https://issues.apache.org/jira/browse/STONEHENGE-112">STONEHENGE-112</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-112" href="https://issues.apache.org/jira/browse/STONEHENGE-112">Actual domain name is used in configuration files</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/Jan/10 18:53"><time datetime="2010-01-05T18:53:35+0000">05/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="26/Jan/10 18:30"><time datetime="2010-01-26T18:30:11+0000">26/Jan/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12443031" rel="12443031" data-issuekey="STONEHENGE-111" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-111" href="https://issues.apache.org/jira/browse/STONEHENGE-111"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-111" href="https://issues.apache.org/jira/browse/STONEHENGE-111">STONEHENGE-111</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-111" href="https://issues.apache.org/jira/browse/STONEHENGE-111">.NET Trader isn&#39;t using the userId claim returned from the ActiveSTS</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Dec/09 21:08"><time datetime="2009-12-10T21:08:00+0000">10/Dec/09</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/10 03:24"><time datetime="2010-01-19T03:24:05+0000">19/Jan/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12442747" rel="12442747" data-issuekey="STONEHENGE-110" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-110" href="https://issues.apache.org/jira/browse/STONEHENGE-110"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-110" href="https://issues.apache.org/jira/browse/STONEHENGE-110">STONEHENGE-110</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-110" href="https://issues.apache.org/jira/browse/STONEHENGE-110">DAL assembly name is hardcoded throughout .NET Business Service implementation</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Dec/09 16:37"><time datetime="2009-12-08T16:37:54+0000">08/Dec/09</time></span> </td>
+                                            <td class="updated"> <span title="07/Jan/10 03:38"><time datetime="2010-01-07T03:38:12+0000">07/Jan/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12440527" rel="12440527" data-issuekey="STONEHENGE-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-108" href="https://issues.apache.org/jira/browse/STONEHENGE-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-108" href="https://issues.apache.org/jira/browse/STONEHENGE-108">STONEHENGE-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-108" href="https://issues.apache.org/jira/browse/STONEHENGE-108">Timeout exception in portfolio page</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pcibraro" id="reporter_pcibraro" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pcibraro">Pablo Mariano Cibraro</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Nov/09 18:34"><time datetime="2009-11-12T18:34:14+0000">12/Nov/09</time></span> </td>
+                                            <td class="updated"> <span title="12/Nov/09 18:36"><time datetime="2009-11-12T18:36:11+0000">12/Nov/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12438977" rel="12438977" data-issuekey="STONEHENGE-105" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-105" href="https://issues.apache.org/jira/browse/STONEHENGE-105"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-105" href="https://issues.apache.org/jira/browse/STONEHENGE-105">STONEHENGE-105</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-105" href="https://issues.apache.org/jira/browse/STONEHENGE-105">Remove SAML token encryption from the .Net impl in order to interoperate with WSO2 Identity Server</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Oct/09 06:18"><time datetime="2009-10-24T06:18:16+0000">24/Oct/09</time></span> </td>
+                                            <td class="updated"> <span title="23/Apr/10 12:49"><time datetime="2010-04-23T12:49:38+0000">23/Apr/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12436257" rel="12436257" data-issuekey="STONEHENGE-101" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-101" href="https://issues.apache.org/jira/browse/STONEHENGE-101"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-101" href="https://issues.apache.org/jira/browse/STONEHENGE-101">STONEHENGE-101</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-101" href="https://issues.apache.org/jira/browse/STONEHENGE-101">SERVICE table in MS SQL database allows nulls for SEC column, but DAL does no null reference checks for same</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="reporter_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Sep/09 22:28"><time datetime="2009-09-21T22:28:23+0000">21/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="13/Oct/09 18:25"><time datetime="2009-10-13T18:25:10+0000">13/Oct/09</time></span> </td>
+                                            <td class="duedate">    21/Sep/09
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12433673" rel="12433673" data-issuekey="STONEHENGE-98" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-98" href="https://issues.apache.org/jira/browse/STONEHENGE-98"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-98" href="https://issues.apache.org/jira/browse/STONEHENGE-98">STONEHENGE-98</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-98" href="https://issues.apache.org/jira/browse/STONEHENGE-98">Make the PHP config service inteoperate with .Net config service</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="21/Aug/09 11:06"><time datetime="2009-08-21T11:06:59+0000">21/Aug/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Jan/10 18:41"><time datetime="2010-01-26T18:41:28+0000">26/Jan/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12433672" rel="12433672" data-issuekey="STONEHENGE-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-97" href="https://issues.apache.org/jira/browse/STONEHENGE-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-97" href="https://issues.apache.org/jira/browse/STONEHENGE-97">STONEHENGE-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-97" href="https://issues.apache.org/jira/browse/STONEHENGE-97">Update the config service interface in PHP trader client to utilize the PHP config service</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Aug/09 11:05"><time datetime="2009-08-21T11:05:20+0000">21/Aug/09</time></span> </td>
+                                            <td class="updated"> <span title="01/Sep/09 12:56"><time datetime="2009-09-01T12:56:34+0000">01/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12431759" rel="12431759" data-issuekey="STONEHENGE-95" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-95" href="https://issues.apache.org/jira/browse/STONEHENGE-95"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-95" href="https://issues.apache.org/jira/browse/STONEHENGE-95">STONEHENGE-95</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-95" href="https://issues.apache.org/jira/browse/STONEHENGE-95">SetupActions doesn&#39;t work with SQL 2005 because of the SMO depedency</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Jul/09 03:07"><time datetime="2009-07-30T03:07:55+0000">30/Jul/09</time></span> </td>
+                                            <td class="updated"> <span title="31/Jul/09 02:35"><time datetime="2009-07-31T02:35:28+0000">31/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12431285" rel="12431285" data-issuekey="STONEHENGE-92" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-92" href="https://issues.apache.org/jira/browse/STONEHENGE-92"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-92" href="https://issues.apache.org/jira/browse/STONEHENGE-92">STONEHENGE-92</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-92" href="https://issues.apache.org/jira/browse/STONEHENGE-92">.NET ConfigService not using the URL from the database</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="avantika" id="reporter_avantika" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=avantika">Avantika Agrawal</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Jul/09 19:04"><time datetime="2009-07-23T19:04:42+0000">23/Jul/09</time></span> </td>
+                                            <td class="updated"> <span title="29/Jul/09 21:59"><time datetime="2009-07-29T21:59:31+0000">29/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12430861" rel="12430861" data-issuekey="STONEHENGE-86" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-86" href="https://issues.apache.org/jira/browse/STONEHENGE-86"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-86" href="https://issues.apache.org/jira/browse/STONEHENGE-86">STONEHENGE-86</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-86" href="https://issues.apache.org/jira/browse/STONEHENGE-86">interfaceMode in DOTNET client is doesn&#39;t reload when configuration changes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jul/09 16:26"><time datetime="2009-07-18T16:26:49+0000">18/Jul/09</time></span> </td>
+                                            <td class="updated"> <span title="18/Jul/09 20:32"><time datetime="2009-07-18T20:32:40+0000">18/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12430124" rel="12430124" data-issuekey="STONEHENGE-82" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-82" href="https://issues.apache.org/jira/browse/STONEHENGE-82"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-82" href="https://issues.apache.org/jira/browse/STONEHENGE-82">STONEHENGE-82</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-82" href="https://issues.apache.org/jira/browse/STONEHENGE-82">Update PHP ui to use single image for hover menu and fix widths for the password field</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Jul/09 03:40"><time datetime="2009-07-11T03:40:45+0000">11/Jul/09</time></span> </td>
+                                            <td class="updated"> <span title="18/Jul/09 16:24"><time datetime="2009-07-18T16:24:05+0000">18/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12429991" rel="12429991" data-issuekey="STONEHENGE-79" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-79" href="https://issues.apache.org/jira/browse/STONEHENGE-79"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-79" href="https://issues.apache.org/jira/browse/STONEHENGE-79">STONEHENGE-79</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-79" href="https://issues.apache.org/jira/browse/STONEHENGE-79">DotNet Config Service doesn&#39;t support SQLExpress</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="09/Jul/09 23:19"><time datetime="2009-07-09T23:19:21+0000">09/Jul/09</time></span> </td>
+                                            <td class="updated"> <span title="20/Dec/09 03:43"><time datetime="2009-12-20T03:43:12+0000">20/Dec/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12428984" rel="12428984" data-issuekey="STONEHENGE-76" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-76" href="https://issues.apache.org/jira/browse/STONEHENGE-76"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-76" href="https://issues.apache.org/jira/browse/STONEHENGE-76">STONEHENGE-76</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-76" href="https://issues.apache.org/jira/browse/STONEHENGE-76">SQLHelper.cs in common\StockTraderUtility has the incorrect encoding</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="avantika" id="reporter_avantika" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=avantika">Avantika Agrawal</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jun/09 19:52"><time datetime="2009-06-26T19:52:16+0000">26/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="07/Jul/09 20:48"><time datetime="2009-07-07T20:48:12+0000">07/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12428983" rel="12428983" data-issuekey="STONEHENGE-75" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-75" href="https://issues.apache.org/jira/browse/STONEHENGE-75"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-75" href="https://issues.apache.org/jira/browse/STONEHENGE-75">STONEHENGE-75</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-75" href="https://issues.apache.org/jira/browse/STONEHENGE-75">SQLHelper.cs not diff-able or patch-able</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="avantika" id="reporter_avantika" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=avantika">Avantika Agrawal</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="26/Jun/09 19:50"><time datetime="2009-06-26T19:50:44+0000">26/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Jun/09 19:56"><time datetime="2009-06-26T19:56:45+0000">26/Jun/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12426595" rel="12426595" data-issuekey="STONEHENGE-64" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-64" href="https://issues.apache.org/jira/browse/STONEHENGE-64"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-64" href="https://issues.apache.org/jira/browse/STONEHENGE-64">STONEHENGE-64</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-64" href="https://issues.apache.org/jira/browse/STONEHENGE-64">Building .NET from the BuildScript doesn&#39;t compile the Trade website</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="assignee_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="28/May/09 15:58"><time datetime="2009-05-28T15:58:46+0000">28/May/09</time></span> </td>
+                                            <td class="updated"> <span title="28/May/09 16:47"><time datetime="2009-05-28T16:47:19+0000">28/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12425330" rel="12425330" data-issuekey="STONEHENGE-62" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-62" href="https://issues.apache.org/jira/browse/STONEHENGE-62"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-62" href="https://issues.apache.org/jira/browse/STONEHENGE-62">STONEHENGE-62</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-62" href="https://issues.apache.org/jira/browse/STONEHENGE-62">DOTNET_BS -&gt; PHP_OPSSEC not working in M1 on some configurations</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/May/09 14:00"><time datetime="2009-05-13T14:00:34+0000">13/May/09</time></span> </td>
+                                            <td class="updated"> <span title="08/Jul/09 02:27"><time datetime="2009-07-08T02:27:16+0000">08/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12425130" rel="12425130" data-issuekey="STONEHENGE-61" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-61" href="https://issues.apache.org/jira/browse/STONEHENGE-61"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-61" href="https://issues.apache.org/jira/browse/STONEHENGE-61">STONEHENGE-61</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-61" href="https://issues.apache.org/jira/browse/STONEHENGE-61">Number format on PHP Client Portfolio needs to be rounded to 2 decimal places</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/May/09 19:18"><time datetime="2009-05-11T19:18:07+0000">11/May/09</time></span> </td>
+                                            <td class="updated"> <span title="11/Nov/09 04:35"><time datetime="2009-11-11T04:35:44+0000">11/Nov/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12425075" rel="12425075" data-issuekey="STONEHENGE-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-60" href="https://issues.apache.org/jira/browse/STONEHENGE-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-60" href="https://issues.apache.org/jira/browse/STONEHENGE-60">STONEHENGE-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-60" href="https://issues.apache.org/jira/browse/STONEHENGE-60">MySQL table engine should be InnoDB in order to support transactions, default MyISAM does not support transactions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/May/09 09:33"><time datetime="2009-05-11T09:33:57+0000">11/May/09</time></span> </td>
+                                            <td class="updated"> <span title="11/May/09 09:35"><time datetime="2009-05-11T09:35:19+0000">11/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12425062" rel="12425062" data-issuekey="STONEHENGE-59" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-59" href="https://issues.apache.org/jira/browse/STONEHENGE-59"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-59" href="https://issues.apache.org/jira/browse/STONEHENGE-59">STONEHENGE-59</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-59" href="https://issues.apache.org/jira/browse/STONEHENGE-59">Incorrect creation date when order processor service is down</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/May/09 06:36"><time datetime="2009-05-11T06:36:57+0000">11/May/09</time></span> </td>
+                                            <td class="updated"> <span title="20/Dec/09 03:36"><time datetime="2009-12-20T03:36:44+0000">20/Dec/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424697" rel="12424697" data-issuekey="STONEHENGE-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-56" href="https://issues.apache.org/jira/browse/STONEHENGE-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-56" href="https://issues.apache.org/jira/browse/STONEHENGE-56">STONEHENGE-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-56" href="https://issues.apache.org/jira/browse/STONEHENGE-56">Clicking on a symbol in the &#39;Top Losers&#39; column in Market Summary section doesn&#39;t display the details of that symbol in PHP stocktrader client</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/May/09 12:53"><time datetime="2009-05-06T12:53:11+0000">06/May/09</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 16:30"><time datetime="2009-05-06T16:30:26+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424690" rel="12424690" data-issuekey="STONEHENGE-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-55" href="https://issues.apache.org/jira/browse/STONEHENGE-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-55" href="https://issues.apache.org/jira/browse/STONEHENGE-55">STONEHENGE-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-55" href="https://issues.apache.org/jira/browse/STONEHENGE-55">Trying to buy or sell anything an amount larger than 3 digits throws an error in .Net stocktrader</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/May/09 12:22"><time datetime="2009-05-06T12:22:22+0000">06/May/09</time></span> </td>
+                                            <td class="updated"> <span title="01/Jul/09 02:22"><time datetime="2009-07-01T02:22:25+0000">01/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424678" rel="12424678" data-issuekey="STONEHENGE-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-54" href="https://issues.apache.org/jira/browse/STONEHENGE-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-54" href="https://issues.apache.org/jira/browse/STONEHENGE-54">STONEHENGE-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-54" href="https://issues.apache.org/jira/browse/STONEHENGE-54">Partial selling option is not working properly in .Net Client</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jobya" id="assignee_jobya" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jobya">Joby Abragan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="reporter_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/May/09 08:55"><time datetime="2009-05-06T08:55:06+0000">06/May/09</time></span> </td>
+                                            <td class="updated"> <span title="29/Jul/09 12:47"><time datetime="2009-07-29T12:47:16+0000">29/Jul/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424496" rel="12424496" data-issuekey="STONEHENGE-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-50" href="https://issues.apache.org/jira/browse/STONEHENGE-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-50" href="https://issues.apache.org/jira/browse/STONEHENGE-50">STONEHENGE-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-50" href="https://issues.apache.org/jira/browse/STONEHENGE-50">Convert .mht ,pdf formats into .html </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="reporter_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/May/09 05:02"><time datetime="2009-05-04T05:02:57+0000">04/May/09</time></span> </td>
+                                            <td class="updated"> <span title="30/Sep/09 16:38"><time datetime="2009-09-30T16:38:33+0000">30/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424483" rel="12424483" data-issuekey="STONEHENGE-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-49" href="https://issues.apache.org/jira/browse/STONEHENGE-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-49" href="https://issues.apache.org/jira/browse/STONEHENGE-49">STONEHENGE-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-49" href="https://issues.apache.org/jira/browse/STONEHENGE-49">Make PHP StockTrader work with Linux</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="assignee_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chintana" id="reporter_chintana" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chintana">Chintana Wilamuna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/May/09 14:33"><time datetime="2009-05-03T14:33:42+0000">03/May/09</time></span> </td>
+                                            <td class="updated"> <span title="04/May/09 07:38"><time datetime="2009-05-04T07:38:36+0000">04/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424391" rel="12424391" data-issuekey="STONEHENGE-47" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-47" href="https://issues.apache.org/jira/browse/STONEHENGE-47"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-47" href="https://issues.apache.org/jira/browse/STONEHENGE-47">STONEHENGE-47</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-47" href="https://issues.apache.org/jira/browse/STONEHENGE-47">Multiple copies of OrderProcessorServiceConfigurationSettings exist in dotnet trunk</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="assignee_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/May/09 14:27"><time datetime="2009-05-01T14:27:56+0000">01/May/09</time></span> </td>
+                                            <td class="updated"> <span title="06/May/09 01:56"><time datetime="2009-05-06T01:56:44+0000">06/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424345" rel="12424345" data-issuekey="STONEHENGE-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-46" href="https://issues.apache.org/jira/browse/STONEHENGE-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-46" href="https://issues.apache.org/jira/browse/STONEHENGE-46">STONEHENGE-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-46" href="https://issues.apache.org/jira/browse/STONEHENGE-46">Type-o in the BsClient_PHP_BasicHttpBinding Config</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Apr/09 21:05"><time datetime="2009-04-30T21:05:22+0000">30/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="01/May/09 02:20"><time datetime="2009-05-01T02:20:45+0000">01/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424332" rel="12424332" data-issuekey="STONEHENGE-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-45" href="https://issues.apache.org/jira/browse/STONEHENGE-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-45" href="https://issues.apache.org/jira/browse/STONEHENGE-45">STONEHENGE-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-45" href="https://issues.apache.org/jira/browse/STONEHENGE-45">BuildDotNet.cmd does not correctly build StockTraderWebAppSolution</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="nickh" id="assignee_nickh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nickh">Nicholas A Hauenstein</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="reporter_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Apr/09 18:28"><time datetime="2009-04-30T18:28:58+0000">30/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="12/Nov/09 20:40"><time datetime="2009-11-12T20:40:38+0000">12/Nov/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424272" rel="12424272" data-issuekey="STONEHENGE-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-44" href="https://issues.apache.org/jira/browse/STONEHENGE-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-44" href="https://issues.apache.org/jira/browse/STONEHENGE-44">STONEHENGE-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-44" href="https://issues.apache.org/jira/browse/STONEHENGE-44">PHP_BS -&gt; DOTNET_OPSSEC interop does not work properly</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="assignee_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="reporter_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Apr/09 08:18"><time datetime="2009-04-30T08:18:49+0000">30/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="04/May/09 19:56"><time datetime="2009-05-04T19:56:55+0000">04/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424201" rel="12424201" data-issuekey="STONEHENGE-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-43" href="https://issues.apache.org/jira/browse/STONEHENGE-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-43" href="https://issues.apache.org/jira/browse/STONEHENGE-43">STONEHENGE-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-43" href="https://issues.apache.org/jira/browse/STONEHENGE-43">PostBuild action does not support releasemode</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="assignee_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="reporter_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="29/Apr/09 18:53"><time datetime="2009-04-29T18:53:07+0000">29/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="29/Apr/09 19:57"><time datetime="2009-04-29T19:57:19+0000">29/Apr/09</time></span> </td>
+                                            <td class="duedate">    29/Apr/09
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12424083" rel="12424083" data-issuekey="STONEHENGE-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-41" href="https://issues.apache.org/jira/browse/STONEHENGE-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-41" href="https://issues.apache.org/jira/browse/STONEHENGE-41">STONEHENGE-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-41" href="https://issues.apache.org/jira/browse/STONEHENGE-41">Dotnetbuild.cmd does not work for VS Express</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="assignee_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="reporter_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Apr/09 19:29"><time datetime="2009-04-28T19:29:56+0000">28/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="28/Apr/09 23:07"><time datetime="2009-04-28T23:07:43+0000">28/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423747" rel="12423747" data-issuekey="STONEHENGE-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-38" href="https://issues.apache.org/jira/browse/STONEHENGE-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-38" href="https://issues.apache.org/jira/browse/STONEHENGE-38">STONEHENGE-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-38" href="https://issues.apache.org/jira/browse/STONEHENGE-38">account.php page status window is broken</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="assignee_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Apr/09 21:55"><time datetime="2009-04-24T21:55:37+0000">24/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="27/Apr/09 12:32"><time datetime="2009-04-27T12:32:10+0000">27/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423731" rel="12423731" data-issuekey="STONEHENGE-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-37" href="https://issues.apache.org/jira/browse/STONEHENGE-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-37" href="https://issues.apache.org/jira/browse/STONEHENGE-37">STONEHENGE-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-37" href="https://issues.apache.org/jira/browse/STONEHENGE-37">glossary.php contains mailformed html</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="assignee_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Apr/09 19:42"><time datetime="2009-04-24T19:42:53+0000">24/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="27/Apr/09 12:31"><time datetime="2009-04-27T12:31:48+0000">27/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423726" rel="12423726" data-issuekey="STONEHENGE-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-36" href="https://issues.apache.org/jira/browse/STONEHENGE-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-36" href="https://issues.apache.org/jira/browse/STONEHENGE-36">STONEHENGE-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-36" href="https://issues.apache.org/jira/browse/STONEHENGE-36">GetQuote button on the home.php page doesn&#39;t perform any action</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="assignee_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="24/Apr/09 18:48"><time datetime="2009-04-24T18:48:06+0000">24/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="27/Apr/09 12:31"><time datetime="2009-04-27T12:31:28+0000">27/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423611" rel="12423611" data-issuekey="STONEHENGE-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-34" href="https://issues.apache.org/jira/browse/STONEHENGE-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-34" href="https://issues.apache.org/jira/browse/STONEHENGE-34">STONEHENGE-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-34" href="https://issues.apache.org/jira/browse/STONEHENGE-34">.NET BS doesn&#39;t have any configuration for PHP and WSAS OPS</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Apr/09 18:41"><time datetime="2009-04-23T18:41:27+0000">23/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="01/May/09 03:03"><time datetime="2009-05-01T03:03:59+0000">01/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423581" rel="12423581" data-issuekey="STONEHENGE-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-32" href="https://issues.apache.org/jira/browse/STONEHENGE-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-32" href="https://issues.apache.org/jira/browse/STONEHENGE-32">STONEHENGE-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-32" href="https://issues.apache.org/jira/browse/STONEHENGE-32">Name Clash Erasure Error compiling WSAS</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="assignee_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Apr/09 13:35"><time datetime="2009-04-23T13:35:28+0000">23/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="24/Apr/09 06:56"><time datetime="2009-04-24T06:56:01+0000">24/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423386" rel="12423386" data-issuekey="STONEHENGE-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-27" href="https://issues.apache.org/jira/browse/STONEHENGE-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-27" href="https://issues.apache.org/jira/browse/STONEHENGE-27">STONEHENGE-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-27" href="https://issues.apache.org/jira/browse/STONEHENGE-27">.NET Trade website has no configuration for PHP and WSAS</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Apr/09 16:29"><time datetime="2009-04-21T16:29:27+0000">21/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="23/Apr/09 16:53"><time datetime="2009-04-23T16:53:37+0000">23/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423324" rel="12423324" data-issuekey="STONEHENGE-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-23" href="https://issues.apache.org/jira/browse/STONEHENGE-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-23" href="https://issues.apache.org/jira/browse/STONEHENGE-23">STONEHENGE-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-23" href="https://issues.apache.org/jira/browse/STONEHENGE-23">There is not property available for an Instance Name in WSAS db-properties.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="shankar" id="assignee_shankar" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=shankar">S.Uthaiyashankar</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="21/Apr/09 01:45"><time datetime="2009-04-21T01:45:22+0000">21/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="21/Apr/09 17:26"><time datetime="2009-04-21T17:26:44+0000">21/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12422648" rel="12422648" data-issuekey="STONEHENGE-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-16" href="https://issues.apache.org/jira/browse/STONEHENGE-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-16" href="https://issues.apache.org/jira/browse/STONEHENGE-16">STONEHENGE-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-16" href="https://issues.apache.org/jira/browse/STONEHENGE-16">dotnet tree Missing Apache Licence</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="assignee_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="drewbai" id="reporter_drewbai" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=drewbai">DrewBai</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Apr/09 02:25"><time datetime="2009-04-12T02:25:56+0000">12/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="12/Apr/09 02:35"><time datetime="2009-04-12T02:35:52+0000">12/Apr/09</time></span> </td>
+                                            <td class="duedate">    13/Apr/09
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12422400" rel="12422400" data-issuekey="STONEHENGE-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-12" href="https://issues.apache.org/jira/browse/STONEHENGE-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-12" href="https://issues.apache.org/jira/browse/STONEHENGE-12">STONEHENGE-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-12" href="https://issues.apache.org/jira/browse/STONEHENGE-12">The current code in the .NET trunk fails to create the database</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="scottgolightly" id="reporter_scottgolightly" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=scottgolightly">Scott Golightly</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/09 20:16"><time datetime="2009-04-08T20:16:58+0000">08/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="05/May/09 19:18"><time datetime="2009-05-05T19:18:15+0000">05/May/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12422368" rel="12422368" data-issuekey="STONEHENGE-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="STONEHENGE-11" href="https://issues.apache.org/jira/browse/STONEHENGE-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="STONEHENGE-11" href="https://issues.apache.org/jira/browse/STONEHENGE-11">STONEHENGE-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="STONEHENGE-11" href="https://issues.apache.org/jira/browse/STONEHENGE-11">Remove rouge end comment from dotnet web application pages</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="assignee_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bdewey01" id="reporter_bdewey01" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bdewey01">Ben Dewey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/09 14:23"><time datetime="2009-04-08T14:23:51+0000">08/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="23/Apr/09 16:47"><time datetime="2009-04-23T16:47:00+0000">23/Apr/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,2785 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+HTTPASYNC+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+HTTPASYNC+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/HTTPASYNC" title="Browse HttpComponents HttpAsyncClient project">HttpComponents HttpAsyncClient</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>79</b> of <b>79</b>
+            as at: <b>05/Mar/17 16:56</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13004837" rel="13004837" data-issuekey="HTTPASYNC-114" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-114" href="https://issues.apache.org/jira/browse/HTTPASYNC-114"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-114" href="https://issues.apache.org/jira/browse/HTTPASYNC-114">HTTPASYNC-114</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-114" href="https://issues.apache.org/jira/browse/HTTPASYNC-114">NPE when AuthStates have not manually been entered to HttpClientContext</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tuomas_kiviaho" id="reporter_tuomas_kiviaho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tuomas_kiviaho">Tuomas Kiviaho</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="14/Sep/16 10:33"><time datetime="2016-09-14T10:33:01+0000">14/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="16/Sep/16 07:09"><time datetime="2016-09-16T07:09:33+0000">16/Sep/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13000751" rel="13000751" data-issuekey="HTTPASYNC-112" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-112" href="https://issues.apache.org/jira/browse/HTTPASYNC-112"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-112" href="https://issues.apache.org/jira/browse/HTTPASYNC-112">HTTPASYNC-112</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-112" href="https://issues.apache.org/jira/browse/HTTPASYNC-112">Intermittent ConnectionClosedException/Connection reset by peer with httpasynclient version 4.1.2</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tejasvs" id="reporter_tejasvs" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tejasvs">Venkata Satya Teja Siram</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="28/Aug/16 09:04"><time datetime="2016-08-28T09:04:54+0000">28/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="29/Aug/16 08:26"><time datetime="2016-08-29T08:26:11+0000">29/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12998608" rel="12998608" data-issuekey="HTTPASYNC-111" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-111" href="https://issues.apache.org/jira/browse/HTTPASYNC-111"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-111" href="https://issues.apache.org/jira/browse/HTTPASYNC-111">HTTPASYNC-111</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-111" href="https://issues.apache.org/jira/browse/HTTPASYNC-111">SSL issue using SSLIOSessionStrategy and PoolingNHttpClientConnectionManager</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sudhish1" id="reporter_sudhish1" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sudhish1">sudhish</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Information Provided
+</td>
+                                            <td class="created"> <span title="19/Aug/16 22:20"><time datetime="2016-08-19T22:20:18+0000">19/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="23/Aug/16 14:45"><time datetime="2016-08-23T14:45:15+0000">23/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12997199" rel="12997199" data-issuekey="HTTPASYNC-110" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-110" href="https://issues.apache.org/jira/browse/HTTPASYNC-110"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-110" href="https://issues.apache.org/jira/browse/HTTPASYNC-110">HTTPASYNC-110</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-110" href="https://issues.apache.org/jira/browse/HTTPASYNC-110">Proxy reuses a fully established routed authenticated connection in attempt to CONNECT to target again causing 400 and NPE</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="andreyka" id="reporter_andreyka" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=andreyka">Andrey K</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Aug/16 17:46"><time datetime="2016-08-14T17:46:26+0000">14/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="05/Feb/17 12:27"><time datetime="2017-02-05T12:27:19+0000">05/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12993967" rel="12993967" data-issuekey="HTTPASYNC-109" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-109" href="https://issues.apache.org/jira/browse/HTTPASYNC-109"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-109" href="https://issues.apache.org/jira/browse/HTTPASYNC-109">HTTPASYNC-109</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-109" href="https://issues.apache.org/jira/browse/HTTPASYNC-109">Requests in AbstractNIOConnPool.pending stays forever.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kbarkunov" id="reporter_kbarkunov" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kbarkunov">Kirill Barkunov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="01/Aug/16 13:55"><time datetime="2016-08-01T13:55:16+0000">01/Aug/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Aug/16 13:28"><time datetime="2016-08-12T13:28:41+0000">12/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12952761" rel="12952761" data-issuekey="HTTPASYNC-105" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-105" href="https://issues.apache.org/jira/browse/HTTPASYNC-105"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-105" href="https://issues.apache.org/jira/browse/HTTPASYNC-105">HTTPASYNC-105</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-105" href="https://issues.apache.org/jira/browse/HTTPASYNC-105">socketTimeout is not reset back to default after a request that has specific timeout</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olegk" id="assignee_olegk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olegk">Oleg Kalnichevski</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hvesalai2" id="reporter_hvesalai2" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hvesalai2">Heikki Vesalainen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="23/Mar/16 09:46"><time datetime="2016-03-23T09:46:08+0000">23/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="21/Apr/16 10:47"><time datetime="2016-04-21T10:47:53+0000">21/Apr/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12948378" rel="12948378" data-issuekey="HTTPASYNC-104" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-104" href="https://issues.apache.org/jira/browse/HTTPASYNC-104"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-104" href="https://issues.apache.org/jira/browse/HTTPASYNC-104">HTTPASYNC-104</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-104" href="https://issues.apache.org/jira/browse/HTTPASYNC-104">IlligalStateException when using the same client for mutiple requests.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="deepakmm" id="reporter_deepakmm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=deepakmm">maria deepak marneni</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="09/Mar/16 11:40"><time datetime="2016-03-09T11:40:47+0000">09/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Dec/16 21:04"><time datetime="2016-12-15T21:04:29+0000">15/Dec/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12946492" rel="12946492" data-issuekey="HTTPASYNC-103" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-103" href="https://issues.apache.org/jira/browse/HTTPASYNC-103"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-103" href="https://issues.apache.org/jira/browse/HTTPASYNC-103">HTTPASYNC-103</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-103" href="https://issues.apache.org/jira/browse/HTTPASYNC-103">Connections reuse does not work when using TLS client certs</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fae" id="reporter_fae" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fae">Fae Hutter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="03/Mar/16 09:55"><time datetime="2016-03-03T09:55:10+0000">03/Mar/16</time></span> </td>
+                                            <td class="updated"> <span title="03/Mar/16 11:21"><time datetime="2016-03-03T11:21:29+0000">03/Mar/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12929318" rel="12929318" data-issuekey="HTTPASYNC-101" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-101" href="https://issues.apache.org/jira/browse/HTTPASYNC-101"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-101" href="https://issues.apache.org/jira/browse/HTTPASYNC-101">HTTPASYNC-101</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-101" href="https://issues.apache.org/jira/browse/HTTPASYNC-101">CachingHttpAsyncClient doesn&#39;t create HttpContext</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bchang85" id="reporter_bchang85" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bchang85">Brian Chang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Jan/16 23:18"><time datetime="2016-01-11T23:18:27+0000">11/Jan/16</time></span> </td>
+                                            <td class="updated"> <span title="15/Jan/16 18:07"><time datetime="2016-01-15T18:07:17+0000">15/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12925008" rel="12925008" data-issuekey="HTTPASYNC-98" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-98" href="https://issues.apache.org/jira/browse/HTTPASYNC-98"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-98" href="https://issues.apache.org/jira/browse/HTTPASYNC-98">HTTPASYNC-98</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-98" href="https://issues.apache.org/jira/browse/HTTPASYNC-98">http request  throw SocketTimeoutException in 1 ms</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sunqi" id="reporter_sunqi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sunqi">sunqi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="31/Dec/15 08:02"><time datetime="2015-12-31T08:02:32+0000">31/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="02/Jan/16 14:26"><time datetime="2016-01-02T14:26:28+0000">02/Jan/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12924590" rel="12924590" data-issuekey="HTTPASYNC-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-97" href="https://issues.apache.org/jira/browse/HTTPASYNC-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-97" href="https://issues.apache.org/jira/browse/HTTPASYNC-97">HTTPASYNC-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-97" href="https://issues.apache.org/jira/browse/HTTPASYNC-97">OSGi: current http async not compatible with current http client </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="reporter_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Dec/15 01:00"><time datetime="2015-12-29T01:00:10+0000">29/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="13/Jun/16 13:09"><time datetime="2016-06-13T13:09:25+0000">13/Jun/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12921876" rel="12921876" data-issuekey="HTTPASYNC-96" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-96" href="https://issues.apache.org/jira/browse/HTTPASYNC-96"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-96" href="https://issues.apache.org/jira/browse/HTTPASYNC-96">HTTPASYNC-96</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-96" href="https://issues.apache.org/jira/browse/HTTPASYNC-96">The client performs slowly on Windows with large files</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sgerenski" id="reporter_sgerenski" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sgerenski">Stoimen Gerenski</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="15/Dec/15 05:33"><time datetime="2015-12-15T05:33:00+0000">15/Dec/15</time></span> </td>
+                                            <td class="updated"> <span title="16/Dec/15 15:10"><time datetime="2015-12-16T15:10:28+0000">16/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12909591" rel="12909591" data-issuekey="HTTPASYNC-94" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-94" href="https://issues.apache.org/jira/browse/HTTPASYNC-94"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-94" href="https://issues.apache.org/jira/browse/HTTPASYNC-94">HTTPASYNC-94</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-94" href="https://issues.apache.org/jira/browse/HTTPASYNC-94">LinkedList  memory leak</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sunqi" id="reporter_sunqi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sunqi">sunqi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="02/Nov/15 08:27"><time datetime="2015-11-02T08:27:09+0000">02/Nov/15</time></span> </td>
+                                            <td class="updated"> <span title="04/Nov/15 11:56"><time datetime="2015-11-04T11:56:40+0000">04/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12895844" rel="12895844" data-issuekey="HTTPASYNC-93" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-93" href="https://issues.apache.org/jira/browse/HTTPASYNC-93"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-93" href="https://issues.apache.org/jira/browse/HTTPASYNC-93">HTTPASYNC-93</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-93" href="https://issues.apache.org/jira/browse/HTTPASYNC-93">OSGi version of the httpclientasync misses import</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="flyaruu" id="reporter_flyaruu" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=flyaruu">Frank Lyaruu</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="23/Sep/15 17:01"><time datetime="2015-09-23T17:01:06+0000">23/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="23/Sep/15 19:04"><time datetime="2015-09-23T19:04:57+0000">23/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12857594" rel="12857594" data-issuekey="HTTPASYNC-92" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-92" href="https://issues.apache.org/jira/browse/HTTPASYNC-92"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-92" href="https://issues.apache.org/jira/browse/HTTPASYNC-92">HTTPASYNC-92</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-92" href="https://issues.apache.org/jira/browse/HTTPASYNC-92">Http Async Client OSGi bundle needs to import org.apache.http.ssl</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Aug/15 17:20"><time datetime="2015-08-20T17:20:08+0000">20/Aug/15</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/15 18:51"><time datetime="2015-11-01T18:51:26+0000">01/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12776367" rel="12776367" data-issuekey="HTTPASYNC-90" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-90" href="https://issues.apache.org/jira/browse/HTTPASYNC-90"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-90" href="https://issues.apache.org/jira/browse/HTTPASYNC-90">HTTPASYNC-90</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-90" href="https://issues.apache.org/jira/browse/HTTPASYNC-90">SSLIOSessionStrategy calls the wrong SSLIOSession constructor resulting in a ssl connection without SNI support</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dblack" id="reporter_dblack" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dblack">David</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Feb/15 06:24"><time datetime="2015-02-20T06:24:47+0000">20/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/15 09:17"><time datetime="2015-02-20T09:17:12+0000">20/Feb/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12774720" rel="12774720" data-issuekey="HTTPASYNC-88" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-88" href="https://issues.apache.org/jira/browse/HTTPASYNC-88"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-88" href="https://issues.apache.org/jira/browse/HTTPASYNC-88">HTTPASYNC-88</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-88" href="https://issues.apache.org/jira/browse/HTTPASYNC-88">Race condition caused SocketTimeoutException</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="changgeng" id="reporter_changgeng" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=changgeng">Changgeng Li</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Feb/15 22:26"><time datetime="2015-02-12T22:26:43+0000">12/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/15 11:57"><time datetime="2015-11-09T11:57:38+0000">09/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12761403" rel="12761403" data-issuekey="HTTPASYNC-86" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-86" href="https://issues.apache.org/jira/browse/HTTPASYNC-86"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-86" href="https://issues.apache.org/jira/browse/HTTPASYNC-86">HTTPASYNC-86</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-86" href="https://issues.apache.org/jira/browse/HTTPASYNC-86">Race condition in async client when a keep alive connection is reused in POST request method</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jdillet" id="reporter_jdillet" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdillet">Jose Dillet</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Dec/14 17:21"><time datetime="2014-12-12T17:21:50+0000">12/Dec/14</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/15 11:57"><time datetime="2015-11-09T11:57:38+0000">09/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12757817" rel="12757817" data-issuekey="HTTPASYNC-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-85" href="https://issues.apache.org/jira/browse/HTTPASYNC-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-85" href="https://issues.apache.org/jira/browse/HTTPASYNC-85">HTTPASYNC-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-85" href="https://issues.apache.org/jira/browse/HTTPASYNC-85">ZeroCopyConsumer Hangs on SSL Download</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cwbarber" id="reporter_cwbarber" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cwbarber">Charles Barber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Nov/14 21:33"><time datetime="2014-11-25T21:33:44+0000">25/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/15 11:57"><time datetime="2015-11-09T11:57:39+0000">09/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12752756" rel="12752756" data-issuekey="HTTPASYNC-84" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-84" href="https://issues.apache.org/jira/browse/HTTPASYNC-84"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-84" href="https://issues.apache.org/jira/browse/HTTPASYNC-84">HTTPASYNC-84</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-84" href="https://issues.apache.org/jira/browse/HTTPASYNC-84">httpasyncclient-osgi: Import missing for org.apache.http.conn.util</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sseifert@pro-vision.de" id="reporter_sseifert@pro-vision.de" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sseifert%40pro-vision.de">Stefan Seifert</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Nov/14 16:17"><time datetime="2014-11-04T16:17:43+0000">04/Nov/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Nov/14 09:10"><time datetime="2014-11-07T09:10:17+0000">07/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12751653" rel="12751653" data-issuekey="HTTPASYNC-83" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-83" href="https://issues.apache.org/jira/browse/HTTPASYNC-83"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-83" href="https://issues.apache.org/jira/browse/HTTPASYNC-83">HTTPASYNC-83</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-83" href="https://issues.apache.org/jira/browse/HTTPASYNC-83">request no sent when setConnectionManagerShared is set to true</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sylvere" id="reporter_sylvere" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sylvere">Sylvere Richard</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="30/Oct/14 10:46"><time datetime="2014-10-30T10:46:32+0000">30/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="09/Sep/15 11:53"><time datetime="2015-09-09T11:53:57+0000">09/Sep/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12733928" rel="12733928" data-issuekey="HTTPASYNC-82" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-82" href="https://issues.apache.org/jira/browse/HTTPASYNC-82"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-82" href="https://issues.apache.org/jira/browse/HTTPASYNC-82">HTTPASYNC-82</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-82" href="https://issues.apache.org/jira/browse/HTTPASYNC-82">Periodically async client throws org.apache.http.impl.conn.ConnectionShutdownException</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aoscherov@salesforce.com" id="reporter_aoscherov@salesforce.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aoscherov%40salesforce.com">Alex Oscherov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Aug/14 00:44"><time datetime="2014-08-14T00:44:33+0000">14/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="15/Aug/14 09:41"><time datetime="2014-08-15T09:41:39+0000">15/Aug/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12731742" rel="12731742" data-issuekey="HTTPASYNC-81" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-81" href="https://issues.apache.org/jira/browse/HTTPASYNC-81"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-81" href="https://issues.apache.org/jira/browse/HTTPASYNC-81">HTTPASYNC-81</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-81" href="https://issues.apache.org/jira/browse/HTTPASYNC-81">Callback-Behaviour regarding connection-failures and cancellation during transfer. </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mkull" id="reporter_mkull" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mkull">Markus Kull</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Aug/14 14:16"><time datetime="2014-08-04T14:16:08+0000">04/Aug/14</time></span> </td>
+                                            <td class="updated"> <span title="09/Nov/15 11:57"><time datetime="2015-11-09T11:57:39+0000">09/Nov/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12725721" rel="12725721" data-issuekey="HTTPASYNC-79" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-79" href="https://issues.apache.org/jira/browse/HTTPASYNC-79"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-79" href="https://issues.apache.org/jira/browse/HTTPASYNC-79">HTTPASYNC-79</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-79" href="https://issues.apache.org/jira/browse/HTTPASYNC-79">Connection leak due to race condition on keep-alive boundary</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="poltarzewski" id="reporter_poltarzewski" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=poltarzewski">Przemysław Ołtarzewski</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Jul/14 11:18"><time datetime="2014-07-07T11:18:57+0000">07/Jul/14</time></span> </td>
+                                            <td class="updated"> <span title="11/Aug/14 22:20"><time datetime="2014-08-11T22:20:23+0000">11/Aug/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12724319" rel="12724319" data-issuekey="HTTPASYNC-78" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-78" href="https://issues.apache.org/jira/browse/HTTPASYNC-78"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-78" href="https://issues.apache.org/jira/browse/HTTPASYNC-78">HTTPASYNC-78</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-78" href="https://issues.apache.org/jira/browse/HTTPASYNC-78">AbstractMultiworkerIOReactor.DefaultThreadFactory.COUNT incorrect use of volatile</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jun/14 01:26"><time datetime="2014-06-29T01:26:14+0000">29/Jun/14</time></span> </td>
+                                            <td class="updated"> <span title="29/Jun/14 12:07"><time datetime="2014-06-29T12:07:51+0000">29/Jun/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12717736" rel="12717736" data-issuekey="HTTPASYNC-77" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-77" href="https://issues.apache.org/jira/browse/HTTPASYNC-77"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-77" href="https://issues.apache.org/jira/browse/HTTPASYNC-77">HTTPASYNC-77</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-77" href="https://issues.apache.org/jira/browse/HTTPASYNC-77">Client leaks file descriptors if .execute() not called</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="draperp" id="reporter_draperp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=draperp">Paul Draper</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/May/14 16:32"><time datetime="2014-05-31T16:32:34+0000">31/May/14</time></span> </td>
+                                            <td class="updated"> <span title="31/May/14 23:04"><time datetime="2014-05-31T23:04:45+0000">31/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12707211" rel="12707211" data-issuekey="HTTPASYNC-74" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-74" href="https://issues.apache.org/jira/browse/HTTPASYNC-74"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-74" href="https://issues.apache.org/jira/browse/HTTPASYNC-74">HTTPASYNC-74</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-74" href="https://issues.apache.org/jira/browse/HTTPASYNC-74">IllegalStateException when sharing the connection manager amongst HttpAsyncClient instances</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jdillet" id="reporter_jdillet" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdillet">Jose Dillet</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/14 17:07"><time datetime="2014-04-08T17:07:49+0000">08/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="06/Jan/17 19:16"><time datetime="2017-01-06T19:16:13+0000">06/Jan/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12706458" rel="12706458" data-issuekey="HTTPASYNC-73" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-73" href="https://issues.apache.org/jira/browse/HTTPASYNC-73"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-73" href="https://issues.apache.org/jira/browse/HTTPASYNC-73">HTTPASYNC-73</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-73" href="https://issues.apache.org/jira/browse/HTTPASYNC-73">Request headers are not copied upon redirect</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dart0" id="reporter_dart0" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dart0">Lukas Krecan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Apr/14 16:59"><time datetime="2014-04-03T16:59:28+0000">03/Apr/14</time></span> </td>
+                                            <td class="updated"> <span title="24/Nov/14 12:22"><time datetime="2014-11-24T12:22:50+0000">24/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12701471" rel="12701471" data-issuekey="HTTPASYNC-72" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-72" href="https://issues.apache.org/jira/browse/HTTPASYNC-72"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-72" href="https://issues.apache.org/jira/browse/HTTPASYNC-72">HTTPASYNC-72</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-72" href="https://issues.apache.org/jira/browse/HTTPASYNC-72"> Connecting to certain URLs causes a malformedInputException</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rainerhind" id="reporter_rainerhind" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rainerhind">Rainer Hind</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="14/Mar/14 13:39"><time datetime="2014-03-14T13:39:29+0000">14/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="14/Mar/14 19:42"><time datetime="2014-03-14T19:42:52+0000">14/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12699363" rel="12699363" data-issuekey="HTTPASYNC-70" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-70" href="https://issues.apache.org/jira/browse/HTTPASYNC-70"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-70" href="https://issues.apache.org/jira/browse/HTTPASYNC-70">HTTPASYNC-70</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-70" href="https://issues.apache.org/jira/browse/HTTPASYNC-70">Shuting down the underlying channel [ioctrl.shutdown()] doesn&#39;t mark contentdecoder as completed</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="clajder" id="reporter_clajder" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=clajder">clajder</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Mar/14 08:24"><time datetime="2014-03-07T08:24:10+0000">07/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Mar/14 09:39"><time datetime="2014-03-07T09:39:13+0000">07/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12695483" rel="12695483" data-issuekey="HTTPASYNC-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-69" href="https://issues.apache.org/jira/browse/HTTPASYNC-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-69" href="https://issues.apache.org/jira/browse/HTTPASYNC-69">HTTPASYNC-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-69" href="https://issues.apache.org/jira/browse/HTTPASYNC-69">calling IOControl.shutdown() doesn&#39;t release the underlying connection</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="yoramd" id="reporter_yoramd" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=yoramd">Yoram Dayagi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Feb/14 11:13"><time datetime="2014-02-17T11:13:36+0000">17/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="07/Mar/14 09:39"><time datetime="2014-03-07T09:39:13+0000">07/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12694768" rel="12694768" data-issuekey="HTTPASYNC-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-68" href="https://issues.apache.org/jira/browse/HTTPASYNC-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-68" href="https://issues.apache.org/jira/browse/HTTPASYNC-68">HTTPASYNC-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-68" href="https://issues.apache.org/jira/browse/HTTPASYNC-68">DefaultClientExchangeHandlerImpl.requestConnection() must close current managed connection</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hirthwork" id="reporter_hirthwork" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hirthwork">Dmitry Potapov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Feb/14 16:18"><time datetime="2014-02-12T16:18:55+0000">12/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="13/Feb/14 08:47"><time datetime="2014-02-13T08:47:05+0000">13/Feb/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12688962" rel="12688962" data-issuekey="HTTPASYNC-65" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-65" href="https://issues.apache.org/jira/browse/HTTPASYNC-65"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-65" href="https://issues.apache.org/jira/browse/HTTPASYNC-65">HTTPASYNC-65</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-65" href="https://issues.apache.org/jira/browse/HTTPASYNC-65">HttpAsyncClient does not work in OSGi</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="chris@die-schneider.net" id="reporter_chris@die-schneider.net" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=chris%40die-schneider.net">Christian Schneider</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jan/14 08:37"><time datetime="2014-01-15T08:37:23+0000">15/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="27/Jan/14 09:33"><time datetime="2014-01-27T09:33:26+0000">27/Jan/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12687974" rel="12687974" data-issuekey="HTTPASYNC-64" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-64" href="https://issues.apache.org/jira/browse/HTTPASYNC-64"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-64" href="https://issues.apache.org/jira/browse/HTTPASYNC-64">HTTPASYNC-64</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-64" href="https://issues.apache.org/jira/browse/HTTPASYNC-64">Race condition using CachingHttpAsyncClient</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rbiswas" id="reporter_rbiswas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rbiswas">Rahul </a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Jan/14 00:17"><time datetime="2014-01-09T00:17:46+0000">09/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="20/Feb/14 01:20"><time datetime="2014-02-20T01:20:12+0000">20/Feb/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12687491" rel="12687491" data-issuekey="HTTPASYNC-63" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-63" href="https://issues.apache.org/jira/browse/HTTPASYNC-63"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-63" href="https://issues.apache.org/jira/browse/HTTPASYNC-63">HTTPASYNC-63</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-63" href="https://issues.apache.org/jira/browse/HTTPASYNC-63">ConnectionShutdownException when getting out-of-sequence 401</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jkienzle" id="reporter_jkienzle" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jkienzle">Johannes Kienzle</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jan/14 18:34"><time datetime="2014-01-06T18:34:27+0000">06/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="06/Jan/14 21:08"><time datetime="2014-01-06T21:08:52+0000">06/Jan/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12677054" rel="12677054" data-issuekey="HTTPASYNC-60" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-60" href="https://issues.apache.org/jira/browse/HTTPASYNC-60"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-60" href="https://issues.apache.org/jira/browse/HTTPASYNC-60">HTTPASYNC-60</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-60" href="https://issues.apache.org/jira/browse/HTTPASYNC-60">Incorrect OSGi Symbolic-BundleName for httpasyncclient</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phedny" id="reporter_phedny" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phedny">M. van Cuijk</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Nov/13 13:26"><time datetime="2013-11-01T13:26:04+0000">01/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/13 13:45"><time datetime="2013-11-01T13:45:01+0000">01/Nov/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12674352" rel="12674352" data-issuekey="HTTPASYNC-59" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-59" href="https://issues.apache.org/jira/browse/HTTPASYNC-59"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-59" href="https://issues.apache.org/jira/browse/HTTPASYNC-59">HTTPASYNC-59</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-59" href="https://issues.apache.org/jira/browse/HTTPASYNC-59">Deadlock when creating new connections</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="snazy" id="reporter_snazy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=snazy">Robert Stupp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Oct/13 17:38"><time datetime="2013-10-17T17:38:36+0000">17/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="18/Oct/13 11:58"><time datetime="2013-10-18T11:58:27+0000">18/Oct/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12674342" rel="12674342" data-issuekey="HTTPASYNC-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-57" href="https://issues.apache.org/jira/browse/HTTPASYNC-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-57" href="https://issues.apache.org/jira/browse/HTTPASYNC-57">HTTPASYNC-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-57" href="https://issues.apache.org/jira/browse/HTTPASYNC-57">Request against HTTPS URL using HTTP proxy fails (creates many thousand HTTP proxy connections)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="snazy" id="reporter_snazy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=snazy">Robert Stupp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Oct/13 16:43"><time datetime="2013-10-17T16:43:50+0000">17/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="18/Oct/13 11:09"><time datetime="2013-10-18T11:09:52+0000">18/Oct/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12673248" rel="12673248" data-issuekey="HTTPASYNC-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-56" href="https://issues.apache.org/jira/browse/HTTPASYNC-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-56" href="https://issues.apache.org/jira/browse/HTTPASYNC-56">HTTPASYNC-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-56" href="https://issues.apache.org/jira/browse/HTTPASYNC-56">Deadlock in DefaultClientExchangeHandlerImpl.start()</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hirthwork" id="reporter_hirthwork" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hirthwork">Dmitry Potapov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Oct/13 15:02"><time datetime="2013-10-10T15:02:16+0000">10/Oct/13</time></span> </td>
+                                            <td class="updated"> <span title="17/Oct/13 18:30"><time datetime="2013-10-17T18:30:40+0000">17/Oct/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12669456" rel="12669456" data-issuekey="HTTPASYNC-55" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-55" href="https://issues.apache.org/jira/browse/HTTPASYNC-55"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-55" href="https://issues.apache.org/jira/browse/HTTPASYNC-55">HTTPASYNC-55</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-55" href="https://issues.apache.org/jira/browse/HTTPASYNC-55">Socket timeout set in RequestConfig does not work</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bartex" id="reporter_bartex" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bartex">Piotr Bartosiewicz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Sep/13 13:21"><time datetime="2013-09-19T13:21:10+0000">19/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Jul/14 15:34"><time datetime="2014-07-21T15:34:15+0000">21/Jul/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12668662" rel="12668662" data-issuekey="HTTPASYNC-54" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-54" href="https://issues.apache.org/jira/browse/HTTPASYNC-54"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-54" href="https://issues.apache.org/jira/browse/HTTPASYNC-54">HTTPASYNC-54</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-54" href="https://issues.apache.org/jira/browse/HTTPASYNC-54">AsyncClient.execute hangs (or extremely slow) if Future.get is invoked between requests</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="benjchristensen" id="reporter_benjchristensen" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=benjchristensen">Ben Christensen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="15/Sep/13 04:10"><time datetime="2013-09-15T04:10:36+0000">15/Sep/13</time></span> </td>
+                                            <td class="updated"> <span title="17/Sep/13 01:08"><time datetime="2013-09-17T01:08:51+0000">17/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12666035" rel="12666035" data-issuekey="HTTPASYNC-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-52" href="https://issues.apache.org/jira/browse/HTTPASYNC-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-52" href="https://issues.apache.org/jira/browse/HTTPASYNC-52">HTTPASYNC-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-52" href="https://issues.apache.org/jira/browse/HTTPASYNC-52">CloseableHttpAsyncClient cannot accept the proxy in RequestConfig</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wangdiao" id="reporter_wangdiao" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wangdiao">wangdiao</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Aug/13 23:54"><time datetime="2013-08-28T23:54:05+0000">28/Aug/13</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/13 10:09"><time datetime="2013-09-13T10:09:28+0000">13/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12662153" rel="12662153" data-issuekey="HTTPASYNC-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-51" href="https://issues.apache.org/jira/browse/HTTPASYNC-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-51" href="https://issues.apache.org/jira/browse/HTTPASYNC-51">HTTPASYNC-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-51" href="https://issues.apache.org/jira/browse/HTTPASYNC-51">Http asyc client doesn&#39;t handle correctly large requests in presence of authentication challenge for IIS 7.5</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="aoscherov" id="reporter_aoscherov" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=aoscherov">Alex Oscherov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Aug/13 16:24"><time datetime="2013-08-06T16:24:27+0000">06/Aug/13</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/13 10:09"><time datetime="2013-09-13T10:09:28+0000">13/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12661068" rel="12661068" data-issuekey="HTTPASYNC-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-50" href="https://issues.apache.org/jira/browse/HTTPASYNC-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-50" href="https://issues.apache.org/jira/browse/HTTPASYNC-50">HTTPASYNC-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-50" href="https://issues.apache.org/jira/browse/HTTPASYNC-50">CachingHttpAsyncClient generates incorrect HTTP request line</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rocco.zanni" id="reporter_rocco.zanni" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rocco.zanni">Rocco Zanni</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="01/Aug/13 07:31"><time datetime="2013-08-01T07:31:18+0000">01/Aug/13</time></span> </td>
+                                            <td class="updated"> <span title="06/Aug/13 07:57"><time datetime="2013-08-06T07:57:36+0000">06/Aug/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12652478" rel="12652478" data-issuekey="HTTPASYNC-46" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-46" href="https://issues.apache.org/jira/browse/HTTPASYNC-46"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-46" href="https://issues.apache.org/jira/browse/HTTPASYNC-46">HTTPASYNC-46</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-46" href="https://issues.apache.org/jira/browse/HTTPASYNC-46">httpasyncclient-cache Has No Test Cases</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamesrdf" id="reporter_jamesrdf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamesrdf">James Leigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jun/13 19:49"><time datetime="2013-06-12T19:49:06+0000">12/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/13 10:09"><time datetime="2013-09-13T10:09:29+0000">13/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12652474" rel="12652474" data-issuekey="HTTPASYNC-45" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-45" href="https://issues.apache.org/jira/browse/HTTPASYNC-45"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-45" href="https://issues.apache.org/jira/browse/HTTPASYNC-45">HTTPASYNC-45</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-45" href="https://issues.apache.org/jira/browse/HTTPASYNC-45">CachingHttpAsyncClient Always Returns Backend&#39;s Future</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamesrdf" id="reporter_jamesrdf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamesrdf">James Leigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jun/13 19:41"><time datetime="2013-06-12T19:41:22+0000">12/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/13 10:09"><time datetime="2013-09-13T10:09:29+0000">13/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12652471" rel="12652471" data-issuekey="HTTPASYNC-44" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-44" href="https://issues.apache.org/jira/browse/HTTPASYNC-44"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-44" href="https://issues.apache.org/jira/browse/HTTPASYNC-44">HTTPASYNC-44</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-44" href="https://issues.apache.org/jira/browse/HTTPASYNC-44">CachingHttpAsyncClient Has Gotten Out Of Sync With CachingExec</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jamesrdf" id="reporter_jamesrdf" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jamesrdf">James Leigh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jun/13 19:31"><time datetime="2013-06-12T19:31:33+0000">12/Jun/13</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/13 10:09"><time datetime="2013-09-13T10:09:29+0000">13/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12650303" rel="12650303" data-issuekey="HTTPASYNC-43" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-43" href="https://issues.apache.org/jira/browse/HTTPASYNC-43"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-43" href="https://issues.apache.org/jira/browse/HTTPASYNC-43">HTTPASYNC-43</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-43" href="https://issues.apache.org/jira/browse/HTTPASYNC-43">Broken Links httpcomponents-asyncclient-dev </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="assignee_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ignatalexeyenko" id="reporter_ignatalexeyenko" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ignatalexeyenko">Ignat Alexeyenko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/May/13 10:00"><time datetime="2013-05-31T10:00:56+0000">31/May/13</time></span> </td>
+                                            <td class="updated"> <span title="01/Jun/13 08:09"><time datetime="2013-06-01T08:09:26+0000">01/Jun/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12648580" rel="12648580" data-issuekey="HTTPASYNC-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-42" href="https://issues.apache.org/jira/browse/HTTPASYNC-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-42" href="https://issues.apache.org/jira/browse/HTTPASYNC-42">HTTPASYNC-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-42" href="https://issues.apache.org/jira/browse/HTTPASYNC-42">calling an URL with no path</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thomas-sticky" id="reporter_thomas-sticky" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thomas-sticky">Thomas Boniface</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/May/13 08:51"><time datetime="2013-05-21T08:51:03+0000">21/May/13</time></span> </td>
+                                            <td class="updated"> <span title="22/May/13 14:12"><time datetime="2013-05-22T14:12:28+0000">22/May/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12648220" rel="12648220" data-issuekey="HTTPASYNC-41" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-41" href="https://issues.apache.org/jira/browse/HTTPASYNC-41"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-41" href="https://issues.apache.org/jira/browse/HTTPASYNC-41">HTTPASYNC-41</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-41" href="https://issues.apache.org/jira/browse/HTTPASYNC-41">Possible Multithreading issue (when used with Akka?)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fauxide" id="reporter_fauxide" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fauxide">Joshua Andrews</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="17/May/13 18:00"><time datetime="2013-05-17T18:00:07+0000">17/May/13</time></span> </td>
+                                            <td class="updated"> <span title="28/May/13 08:55"><time datetime="2013-05-28T08:55:40+0000">28/May/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12644547" rel="12644547" data-issuekey="HTTPASYNC-40" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-40" href="https://issues.apache.org/jira/browse/HTTPASYNC-40"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-40" href="https://issues.apache.org/jira/browse/HTTPASYNC-40">HTTPASYNC-40</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-40" href="https://issues.apache.org/jira/browse/HTTPASYNC-40">Cannot suspend input when using AsyncByteConsumer</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bjunglas" id="reporter_bjunglas" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bjunglas">Bodo Junglas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Apr/13 07:43"><time datetime="2013-04-25T07:43:23+0000">25/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/13 10:09"><time datetime="2013-09-13T10:09:28+0000">13/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12642248" rel="12642248" data-issuekey="HTTPASYNC-39" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-39" href="https://issues.apache.org/jira/browse/HTTPASYNC-39"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-39" href="https://issues.apache.org/jira/browse/HTTPASYNC-39">HTTPASYNC-39</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-39" href="https://issues.apache.org/jira/browse/HTTPASYNC-39">SocketTimeoutException occurs too soon</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tinclon" id="reporter_tinclon" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tinclon">Clinton Nielsen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="12/Apr/13 15:03"><time datetime="2013-04-12T15:03:58+0000">12/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Jun/13 08:05"><time datetime="2013-06-21T08:05:43+0000">21/Jun/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12640047" rel="12640047" data-issuekey="HTTPASYNC-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-38" href="https://issues.apache.org/jira/browse/HTTPASYNC-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-38" href="https://issues.apache.org/jira/browse/HTTPASYNC-38">HTTPASYNC-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-38" href="https://issues.apache.org/jira/browse/HTTPASYNC-38">Too many file open in httpclient</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="g.lenin" id="reporter_g.lenin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=g.lenin">LeninGovi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="01/Apr/13 07:01"><time datetime="2013-04-01T07:01:05+0000">01/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="02/Apr/13 09:55"><time datetime="2013-04-02T09:55:43+0000">02/Apr/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12640038" rel="12640038" data-issuekey="HTTPASYNC-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-37" href="https://issues.apache.org/jira/browse/HTTPASYNC-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-37" href="https://issues.apache.org/jira/browse/HTTPASYNC-37">HTTPASYNC-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-37" href="https://issues.apache.org/jira/browse/HTTPASYNC-37">Too many file open in httpclient</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="g.lenin" id="reporter_g.lenin" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=g.lenin">LeninGovi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="01/Apr/13 05:20"><time datetime="2013-04-01T05:20:32+0000">01/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="02/Apr/13 08:42"><time datetime="2013-04-02T08:42:17+0000">02/Apr/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12639346" rel="12639346" data-issuekey="HTTPASYNC-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-36" href="https://issues.apache.org/jira/browse/HTTPASYNC-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-36" href="https://issues.apache.org/jira/browse/HTTPASYNC-36">HTTPASYNC-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-36" href="https://issues.apache.org/jira/browse/HTTPASYNC-36">SocketTimeoutException can result in failed() being called multiple times</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tinclon" id="reporter_tinclon" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tinclon">Clinton Nielsen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="27/Mar/13 15:46"><time datetime="2013-03-27T15:46:31+0000">27/Mar/13</time></span> </td>
+                                            <td class="updated"> <span title="07/Jun/14 09:40"><time datetime="2014-06-07T09:40:48+0000">07/Jun/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12631013" rel="12631013" data-issuekey="HTTPASYNC-35" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-35" href="https://issues.apache.org/jira/browse/HTTPASYNC-35"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-35" href="https://issues.apache.org/jira/browse/HTTPASYNC-35">HTTPASYNC-35</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-35" href="https://issues.apache.org/jira/browse/HTTPASYNC-35">Some requests never make it to the callbacks function</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="herveeichwald" id="reporter_herveeichwald" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=herveeichwald">Herve Eichwald</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="06/Feb/13 06:10"><time datetime="2013-02-06T06:10:48+0000">06/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="11/Feb/13 20:47"><time datetime="2013-02-11T20:47:01+0000">11/Feb/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12628501" rel="12628501" data-issuekey="HTTPASYNC-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-34" href="https://issues.apache.org/jira/browse/HTTPASYNC-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-34" href="https://issues.apache.org/jira/browse/HTTPASYNC-34">HTTPASYNC-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-34" href="https://issues.apache.org/jira/browse/HTTPASYNC-34">For some urls responding in a 302 the httpget request gets stuck</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="nasha" id="reporter_nasha" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=nasha">Ahsan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jan/13 00:49"><time datetime="2013-01-21T00:49:01+0000">21/Jan/13</time></span> </td>
+                                            <td class="updated"> <span title="06/Feb/13 09:16"><time datetime="2013-02-06T09:16:12+0000">06/Feb/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12625189" rel="12625189" data-issuekey="HTTPASYNC-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-32" href="https://issues.apache.org/jira/browse/HTTPASYNC-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-32" href="https://issues.apache.org/jira/browse/HTTPASYNC-32">HTTPASYNC-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-32" href="https://issues.apache.org/jira/browse/HTTPASYNC-32">Weird JMX interaction on Mac OS X</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="vigna" id="reporter_vigna" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=vigna">Sebastiano Vigna</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="24/Dec/12 18:47"><time datetime="2012-12-24T18:47:59+0000">24/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="28/Dec/12 07:14"><time datetime="2012-12-28T07:14:13+0000">28/Dec/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12615791" rel="12615791" data-issuekey="HTTPASYNC-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-30" href="https://issues.apache.org/jira/browse/HTTPASYNC-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-30" href="https://issues.apache.org/jira/browse/HTTPASYNC-30">HTTPASYNC-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-30" href="https://issues.apache.org/jira/browse/HTTPASYNC-30">Connection already open error on some requests</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mgreene@hubspot.com" id="reporter_mgreene@hubspot.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mgreene%40hubspot.com">Mark Greene</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="12/Nov/12 20:48"><time datetime="2012-11-12T20:48:28+0000">12/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="16/May/13 00:47"><time datetime="2013-05-16T00:47:27+0000">16/May/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12610757" rel="12610757" data-issuekey="HTTPASYNC-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-29" href="https://issues.apache.org/jira/browse/HTTPASYNC-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-29" href="https://issues.apache.org/jira/browse/HTTPASYNC-29">HTTPASYNC-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-29" href="https://issues.apache.org/jira/browse/HTTPASYNC-29">Orphan I/O dispatcher threads </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mgreene@hubspot.com" id="reporter_mgreene@hubspot.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mgreene%40hubspot.com">Mark Greene</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="07/Oct/12 16:11"><time datetime="2012-10-07T16:11:20+0000">07/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="08/Oct/12 11:22"><time datetime="2012-10-08T11:22:32+0000">08/Oct/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12609303" rel="12609303" data-issuekey="HTTPASYNC-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-28" href="https://issues.apache.org/jira/browse/HTTPASYNC-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-28" href="https://issues.apache.org/jira/browse/HTTPASYNC-28">HTTPASYNC-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-28" href="https://issues.apache.org/jira/browse/HTTPASYNC-28">PoolEntry&#39;s expiry information is never updated</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Sep/12 21:05"><time datetime="2012-09-26T21:05:08+0000">26/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/12 11:41"><time datetime="2012-09-27T11:41:15+0000">27/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12607134" rel="12607134" data-issuekey="HTTPASYNC-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-26" href="https://issues.apache.org/jira/browse/HTTPASYNC-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-26" href="https://issues.apache.org/jira/browse/HTTPASYNC-26">HTTPASYNC-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-26" href="https://issues.apache.org/jira/browse/HTTPASYNC-26">Fix httpasyncclient-osgi imports</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="dkulp" id="reporter_dkulp" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dkulp">Daniel Kulp</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Sep/12 21:36"><time datetime="2012-09-11T21:36:50+0000">11/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/12 09:57"><time datetime="2012-09-12T09:57:42+0000">12/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12604285" rel="12604285" data-issuekey="HTTPASYNC-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-24" href="https://issues.apache.org/jira/browse/HTTPASYNC-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-24" href="https://issues.apache.org/jira/browse/HTTPASYNC-24">HTTPASYNC-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-24" href="https://issues.apache.org/jira/browse/HTTPASYNC-24">infinite loop in ContentInputStream.close</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kireet" id="reporter_kireet" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kireet">Kireet Reddy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="21/Aug/12 21:44"><time datetime="2012-08-21T21:44:20+0000">21/Aug/12</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/12 21:33"><time datetime="2012-09-12T21:33:16+0000">12/Sep/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12604284" rel="12604284" data-issuekey="HTTPASYNC-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-23" href="https://issues.apache.org/jira/browse/HTTPASYNC-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-23" href="https://issues.apache.org/jira/browse/HTTPASYNC-23">HTTPASYNC-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-23" href="https://issues.apache.org/jira/browse/HTTPASYNC-23">request never completes</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kireet" id="reporter_kireet" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kireet">Kireet Reddy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="21/Aug/12 21:41"><time datetime="2012-08-21T21:41:17+0000">21/Aug/12</time></span> </td>
+                                            <td class="updated"> <span title="30/Aug/12 08:41"><time datetime="2012-08-30T08:41:07+0000">30/Aug/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12597486" rel="12597486" data-issuekey="HTTPASYNC-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-21" href="https://issues.apache.org/jira/browse/HTTPASYNC-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-21" href="https://issues.apache.org/jira/browse/HTTPASYNC-21">HTTPASYNC-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-21" href="https://issues.apache.org/jira/browse/HTTPASYNC-21">Callback not notified when a server crashes in the middle of a request</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fwolff" id="reporter_fwolff" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fwolff">Franck Wolff</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jul/12 16:51"><time datetime="2012-07-04T16:51:48+0000">04/Jul/12</time></span> </td>
+                                            <td class="updated"> <span title="21/Jul/12 13:47"><time datetime="2012-07-21T13:47:12+0000">21/Jul/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12595178" rel="12595178" data-issuekey="HTTPASYNC-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-20" href="https://issues.apache.org/jira/browse/HTTPASYNC-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-20" href="https://issues.apache.org/jira/browse/HTTPASYNC-20">HTTPASYNC-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-20" href="https://issues.apache.org/jira/browse/HTTPASYNC-20">Callbacks not notified on abort()</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mrdon" id="reporter_mrdon" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mrdon">Don Brown</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Jun/12 22:54"><time datetime="2012-06-19T22:54:33+0000">19/Jun/12</time></span> </td>
+                                            <td class="updated"> <span title="02/Aug/12 12:25"><time datetime="2012-08-02T12:25:39+0000">02/Aug/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12552642" rel="12552642" data-issuekey="HTTPASYNC-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-19" href="https://issues.apache.org/jira/browse/HTTPASYNC-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-19" href="https://issues.apache.org/jira/browse/HTTPASYNC-19">HTTPASYNC-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-19" href="https://issues.apache.org/jira/browse/HTTPASYNC-19">Exception in thread when exceeding max routes</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="erik.bystrom" id="reporter_erik.bystrom" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=erik.bystrom">Erik Byström</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Apr/12 12:57"><time datetime="2012-04-25T12:57:56+0000">25/Apr/12</time></span> </td>
+                                            <td class="updated"> <span title="09/May/12 07:41"><time datetime="2012-05-09T07:41:55+0000">09/May/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12551745" rel="12551745" data-issuekey="HTTPASYNC-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-18" href="https://issues.apache.org/jira/browse/HTTPASYNC-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-18" href="https://issues.apache.org/jira/browse/HTTPASYNC-18">HTTPASYNC-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-18" href="https://issues.apache.org/jira/browse/HTTPASYNC-18">Create multiple client object will deadlock</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="zhaoqz" id="reporter_zhaoqz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=zhaoqz">zhaoqz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Apr/12 08:38"><time datetime="2012-04-20T08:38:04+0000">20/Apr/12</time></span> </td>
+                                            <td class="updated"> <span title="22/Apr/12 11:52"><time datetime="2012-04-22T11:52:30+0000">22/Apr/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12550308" rel="12550308" data-issuekey="HTTPASYNC-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-16" href="https://issues.apache.org/jira/browse/HTTPASYNC-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-16" href="https://issues.apache.org/jira/browse/HTTPASYNC-16">HTTPASYNC-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-16" href="https://issues.apache.org/jira/browse/HTTPASYNC-16">DefaultHttpAsyncClient/AbstractHttpAsyncClient shutdown medthod hangs</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="pabx06" id="reporter_pabx06" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=pabx06">LAADHARI saber</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="10/Apr/12 03:17"><time datetime="2012-04-10T03:17:11+0000">10/Apr/12</time></span> </td>
+                                            <td class="updated"> <span title="14/Apr/12 12:54"><time datetime="2012-04-14T12:54:49+0000">14/Apr/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12548331" rel="12548331" data-issuekey="HTTPASYNC-15" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-15" href="https://issues.apache.org/jira/browse/HTTPASYNC-15"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-15" href="https://issues.apache.org/jira/browse/HTTPASYNC-15">HTTPASYNC-15</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-15" href="https://issues.apache.org/jira/browse/HTTPASYNC-15">Async Client Hangs on Closed Conection</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wspeirs" id="reporter_wspeirs" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wspeirs">William R. Speirs</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Mar/12 14:52"><time datetime="2012-03-27T14:52:04+0000">27/Mar/12</time></span> </td>
+                                            <td class="updated"> <span title="30/Mar/12 15:21"><time datetime="2012-03-30T15:21:41+0000">30/Mar/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12543684" rel="12543684" data-issuekey="HTTPASYNC-14" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-14" href="https://issues.apache.org/jira/browse/HTTPASYNC-14"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-14" href="https://issues.apache.org/jira/browse/HTTPASYNC-14">HTTPASYNC-14</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-14" href="https://issues.apache.org/jira/browse/HTTPASYNC-14">DefaultHttpAsyncClient does not follows redirects when remote site closes connection</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tsouza" id="reporter_tsouza" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tsouza">Thiago Souza</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Feb/12 14:13"><time datetime="2012-02-22T14:13:57+0000">22/Feb/12</time></span> </td>
+                                            <td class="updated"> <span title="22/Feb/12 15:29"><time datetime="2012-02-22T15:29:39+0000">22/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12541226" rel="12541226" data-issuekey="HTTPASYNC-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-13" href="https://issues.apache.org/jira/browse/HTTPASYNC-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-13" href="https://issues.apache.org/jira/browse/HTTPASYNC-13">HTTPASYNC-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-13" href="https://issues.apache.org/jira/browse/HTTPASYNC-13">java.io.IOException: FileChannel.size() [13534] &lt; position [130834].  Please grow the file before writing.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ydewit" id="reporter_ydewit" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ydewit">Yuri</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="05/Feb/12 05:41"><time datetime="2012-02-05T05:41:33+0000">05/Feb/12</time></span> </td>
+                                            <td class="updated"> <span title="07/Feb/12 12:20"><time datetime="2012-02-07T12:20:45+0000">07/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12538262" rel="12538262" data-issuekey="HTTPASYNC-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-11" href="https://issues.apache.org/jira/browse/HTTPASYNC-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-11" href="https://issues.apache.org/jira/browse/HTTPASYNC-11">HTTPASYNC-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-11" href="https://issues.apache.org/jira/browse/HTTPASYNC-11">Default Async HTTP Client Fails to get response for an Digest Authenticated HTTP 1.0 style connection</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="phillipwang" id="reporter_phillipwang" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=phillipwang">Phillip Wang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Jan/12 20:18"><time datetime="2012-01-12T20:18:31+0000">12/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="13/Jan/12 21:20"><time datetime="2012-01-13T21:20:31+0000">13/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12533633" rel="12533633" data-issuekey="HTTPASYNC-10" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-10" href="https://issues.apache.org/jira/browse/HTTPASYNC-10"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-10" href="https://issues.apache.org/jira/browse/HTTPASYNC-10">HTTPASYNC-10</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-10" href="https://issues.apache.org/jira/browse/HTTPASYNC-10">SSL handshake fails and no error is reported back to the client</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brum" id="reporter_brum" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brum">Rosen Anastasov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="02/Dec/11 14:40"><time datetime="2011-12-02T14:40:52+0000">02/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/12 18:38"><time datetime="2012-02-08T18:38:31+0000">08/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12531434" rel="12531434" data-issuekey="HTTPASYNC-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-9" href="https://issues.apache.org/jira/browse/HTTPASYNC-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-9" href="https://issues.apache.org/jira/browse/HTTPASYNC-9">HTTPASYNC-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-9" href="https://issues.apache.org/jira/browse/HTTPASYNC-9">SSL issue related to logging</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="brum" id="reporter_brum" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=brum">Rosen Anastasov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Nov/11 09:29"><time datetime="2011-11-15T09:29:33+0000">15/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/12 20:23"><time datetime="2012-02-08T20:23:37+0000">08/Feb/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12522686" rel="12522686" data-issuekey="HTTPASYNC-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-7" href="https://issues.apache.org/jira/browse/HTTPASYNC-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-7" href="https://issues.apache.org/jira/browse/HTTPASYNC-7">HTTPASYNC-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-7" href="https://issues.apache.org/jira/browse/HTTPASYNC-7">Possible race condition in BasicFuture</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rolfk" id="reporter_rolfk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rolfk">Rolf Kalbermatter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="11/Sep/11 19:35"><time datetime="2011-09-11T19:35:12+0000">11/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/11 19:28"><time datetime="2011-09-12T19:28:34+0000">12/Sep/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12521274" rel="12521274" data-issuekey="HTTPASYNC-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-6" href="https://issues.apache.org/jira/browse/HTTPASYNC-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-6" href="https://issues.apache.org/jira/browse/HTTPASYNC-6">HTTPASYNC-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-6" href="https://issues.apache.org/jira/browse/HTTPASYNC-6">I/O reactor (client) terminates abnormally when a connection is prematurely closed probably because of timeout settings. A NullpointerException is thrown when a response is being read and the connection is already closed and set to null</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fushion" id="reporter_fushion" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fushion">Menno van Gangelen</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Sep/11 09:55"><time datetime="2011-09-03T09:55:50+0000">03/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="22/Nov/11 19:57"><time datetime="2011-11-22T19:57:15+0000">22/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12505015" rel="12505015" data-issuekey="HTTPASYNC-3" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-3" href="https://issues.apache.org/jira/browse/HTTPASYNC-3"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-3" href="https://issues.apache.org/jira/browse/HTTPASYNC-3">HTTPASYNC-3</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-3" href="https://issues.apache.org/jira/browse/HTTPASYNC-3">Async SessionPool does not correctly handle expired I/O sessions</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="lokeshhctm" id="reporter_lokeshhctm" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=lokeshhctm">Lokesh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Apr/11 22:21"><time datetime="2011-04-22T22:21:36+0000">22/Apr/11</time></span> </td>
+                                            <td class="updated"> <span title="04/May/11 20:26"><time datetime="2011-05-04T20:26:44+0000">04/May/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12498857" rel="12498857" data-issuekey="HTTPASYNC-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="HTTPASYNC-2" href="https://issues.apache.org/jira/browse/HTTPASYNC-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="HTTPASYNC-2" href="https://issues.apache.org/jira/browse/HTTPASYNC-2">HTTPASYNC-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="HTTPASYNC-2" href="https://issues.apache.org/jira/browse/HTTPASYNC-2">interface HttpAsyncClient does not contain most of the methods</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rolfk" id="reporter_rolfk" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rolfk">Rolf Kalbermatter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Feb/11 10:34"><time datetime="2011-02-17T10:34:13+0000">17/Feb/11</time></span> </td>
+                                            <td class="updated"> <span title="18/Feb/11 21:46"><time datetime="2011-02-18T21:46:37+0000">18/Feb/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

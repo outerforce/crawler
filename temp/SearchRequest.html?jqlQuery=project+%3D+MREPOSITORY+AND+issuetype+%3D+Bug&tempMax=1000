@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MREPOSITORY+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MREPOSITORY+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MREPOSITORY" title="Browse Maven Repository Plugin project">Maven Repository Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>13</b> of <b>13</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12806893" rel="12806893" data-issuekey="MREPOSITORY-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-34" href="https://issues.apache.org/jira/browse/MREPOSITORY-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-34" href="https://issues.apache.org/jira/browse/MREPOSITORY-34">MREPOSITORY-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-34" href="https://issues.apache.org/jira/browse/MREPOSITORY-34">Failure during Release in integration tests</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="assignee_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="khmarbaise" id="reporter_khmarbaise" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=khmarbaise">Karl Heinz Marbaise</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="06/Oct/14 14:59"><time datetime="2014-10-06T14:59:02+0000">06/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="18/Feb/15 15:35"><time datetime="2015-02-18T15:35:17+0000">18/Feb/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806888" rel="12806888" data-issuekey="MREPOSITORY-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-25" href="https://issues.apache.org/jira/browse/MREPOSITORY-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-25" href="https://issues.apache.org/jira/browse/MREPOSITORY-25">MREPOSITORY-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-25" href="https://issues.apache.org/jira/browse/MREPOSITORY-25">bundle-create creates jar making a preceding gpg:sign step invalid</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="awhitford" id="reporter_awhitford" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=awhitford">Anthony Whitford</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="05/Sep/10 03:46"><time datetime="2010-09-05T03:46:28+0000">05/Sep/10</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:48"><time datetime="2014-11-25T14:48:04+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806901" rel="12806901" data-issuekey="MREPOSITORY-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-24" href="https://issues.apache.org/jira/browse/MREPOSITORY-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-24" href="https://issues.apache.org/jira/browse/MREPOSITORY-24">MREPOSITORY-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-24" href="https://issues.apache.org/jira/browse/MREPOSITORY-24">bundle-create mojos emits bogus warning about missing sources/javadocs if main artifact is not a jar</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="reporter_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Jul/10 08:09"><time datetime="2010-07-17T08:09:08+0000">17/Jul/10</time></span> </td>
+                                            <td class="updated"> <span title="17/Jul/10 08:22"><time datetime="2010-07-17T08:22:30+0000">17/Jul/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806889" rel="12806889" data-issuekey="MREPOSITORY-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-23" href="https://issues.apache.org/jira/browse/MREPOSITORY-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-23" href="https://issues.apache.org/jira/browse/MREPOSITORY-23">MREPOSITORY-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-23" href="https://issues.apache.org/jira/browse/MREPOSITORY-23">Wrong error message &quot;[INFO] project.scm.url must be present.&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cbeust" id="reporter_cbeust" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cbeust">Cedric Beust</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Jul/10 14:36"><time datetime="2010-07-13T14:36:22+0000">13/Jul/10</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/10 16:37"><time datetime="2010-07-13T16:37:16+0000">13/Jul/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806883" rel="12806883" data-issuekey="MREPOSITORY-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-22" href="https://issues.apache.org/jira/browse/MREPOSITORY-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-22" href="https://issues.apache.org/jira/browse/MREPOSITORY-22">MREPOSITORY-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-22" href="https://issues.apache.org/jira/browse/MREPOSITORY-22">repository:bundle-create  ignores -f directive (different pom.xml file)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="paul" id="reporter_paul" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=paul">Paul Hammant</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Mar/10 17:47"><time datetime="2010-03-11T17:47:17+0000">11/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/10 17:39"><time datetime="2010-07-13T17:39:31+0000">13/Jul/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806881" rel="12806881" data-issuekey="MREPOSITORY-21" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-21" href="https://issues.apache.org/jira/browse/MREPOSITORY-21"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-21" href="https://issues.apache.org/jira/browse/MREPOSITORY-21">MREPOSITORY-21</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-21" href="https://issues.apache.org/jira/browse/MREPOSITORY-21">&#39;project.scm.url must be present&#39; error message typo - should be &#39;project.scm.connection must be present&#39;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="paul" id="reporter_paul" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=paul">Paul Hammant</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="09/Feb/10 15:17"><time datetime="2010-02-09T15:17:57+0000">09/Feb/10</time></span> </td>
+                                            <td class="updated"> <span title="13/Jul/10 16:37"><time datetime="2010-07-13T16:37:32+0000">13/Jul/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806903" rel="12806903" data-issuekey="MREPOSITORY-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-20" href="https://issues.apache.org/jira/browse/MREPOSITORY-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-20" href="https://issues.apache.org/jira/browse/MREPOSITORY-20">MREPOSITORY-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-20" href="https://issues.apache.org/jira/browse/MREPOSITORY-20">301 permanently moved (not following redirect)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="trent" id="reporter_trent" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=trent">Trenton D. Adams</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="11/Jan/10 19:15"><time datetime="2010-01-11T19:15:47+0000">11/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 01:53"><time datetime="2015-04-06T01:53:59+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806892" rel="12806892" data-issuekey="MREPOSITORY-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-13" href="https://issues.apache.org/jira/browse/MREPOSITORY-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-13" href="https://issues.apache.org/jira/browse/MREPOSITORY-13">MREPOSITORY-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-13" href="https://issues.apache.org/jira/browse/MREPOSITORY-13">NPE</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="passogiau" id="reporter_passogiau" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=passogiau">Aaron Stromas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="18/May/09 18:14"><time datetime="2009-05-18T18:14:11+0000">18/May/09</time></span> </td>
+                                            <td class="updated"> <span title="04/Aug/09 15:58"><time datetime="2009-08-04T15:58:15+0000">04/Aug/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806886" rel="12806886" data-issuekey="MREPOSITORY-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-12" href="https://issues.apache.org/jira/browse/MREPOSITORY-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-12" href="https://issues.apache.org/jira/browse/MREPOSITORY-12">MREPOSITORY-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-12" href="https://issues.apache.org/jira/browse/MREPOSITORY-12">any and all attempts to use locate and download maven-clean-plugin fail</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mgainty@hotmail.com" id="reporter_mgainty@hotmail.com" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mgainty%40hotmail.com">Martin Gainty</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Incomplete
+</td>
+                                            <td class="created"> <span title="03/Dec/07 14:26"><time datetime="2007-12-03T14:26:24+0000">03/Dec/07</time></span> </td>
+                                            <td class="updated"> <span title="17/Jun/08 10:34"><time datetime="2008-06-17T10:34:32+0000">17/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806876" rel="12806876" data-issuekey="MREPOSITORY-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-11" href="https://issues.apache.org/jira/browse/MREPOSITORY-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-11" href="https://issues.apache.org/jira/browse/MREPOSITORY-11">MREPOSITORY-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-11" href="https://issues.apache.org/jira/browse/MREPOSITORY-11">Javadoc not included in the bundle</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="carlos" id="assignee_carlos" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=carlos">Carlos Sanchez</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="henryju" id="reporter_henryju" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=henryju">Julien HENRY</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Nov/07 06:37"><time datetime="2007-11-15T06:37:27+0000">15/Nov/07</time></span> </td>
+                                            <td class="updated"> <span title="02/Apr/10 10:40"><time datetime="2010-04-02T10:40:57+0000">02/Apr/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806899" rel="12806899" data-issuekey="MREPOSITORY-7" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-7" href="https://issues.apache.org/jira/browse/MREPOSITORY-7"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-7" href="https://issues.apache.org/jira/browse/MREPOSITORY-7">MREPOSITORY-7</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-7" href="https://issues.apache.org/jira/browse/MREPOSITORY-7">When given blank repositories cannot attain goal</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="jdcasey" id="assignee_jdcasey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jdcasey">John Casey</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mpurland" id="reporter_mpurland" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mpurland">Matthew Purland</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="13/Jan/07 18:52"><time datetime="2007-01-13T18:52:43+0000">13/Jan/07</time></span> </td>
+                                            <td class="updated"> <span title="04/Aug/09 15:59"><time datetime="2009-08-04T15:59:53+0000">04/Aug/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806879" rel="12806879" data-issuekey="MREPOSITORY-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-6" href="https://issues.apache.org/jira/browse/MREPOSITORY-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-6" href="https://issues.apache.org/jira/browse/MREPOSITORY-6">MREPOSITORY-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-6" href="https://issues.apache.org/jira/browse/MREPOSITORY-6">Don&#39;t check for License.txt file, but verify the licenses element in pom.xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fgiust" id="assignee_fgiust" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fgiust">fabrizio giustina</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fgiust" id="reporter_fgiust" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fgiust">fabrizio giustina</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Jan/07 12:40"><time datetime="2007-01-06T12:40:47+0000">06/Jan/07</time></span> </td>
+                                            <td class="updated"> <span title="06/Jan/07 12:41"><time datetime="2007-01-06T12:41:19+0000">06/Jan/07</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12806880" rel="12806880" data-issuekey="MREPOSITORY-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MREPOSITORY-2" href="https://issues.apache.org/jira/browse/MREPOSITORY-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MREPOSITORY-2" href="https://issues.apache.org/jira/browse/MREPOSITORY-2">MREPOSITORY-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MREPOSITORY-2" href="https://issues.apache.org/jira/browse/MREPOSITORY-2">project.scm.connection should not be required for bundle-create</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fgiust" id="assignee_fgiust" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fgiust">fabrizio giustina</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="wsmoak" id="reporter_wsmoak" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=wsmoak">Wendy Smoak</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="22/Apr/06 13:31"><time datetime="2006-04-22T13:31:35+0000">22/Apr/06</time></span> </td>
+                                            <td class="updated"> <span title="29/Sep/09 11:16"><time datetime="2009-09-29T11:16:04+0000">29/Sep/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

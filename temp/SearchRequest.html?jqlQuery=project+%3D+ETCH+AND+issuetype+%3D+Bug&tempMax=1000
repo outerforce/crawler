@@ -1,0 +1,2657 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+ETCH+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+ETCH+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/ETCH" title="Browse Etch project">Etch</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>75</b> of <b>75</b>
+            as at: <b>05/Mar/17 16:56</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12827311" rel="12827311" data-issuekey="ETCH-296" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-296" href="https://issues.apache.org/jira/browse/ETCH-296"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-296" href="https://issues.apache.org/jira/browse/ETCH-296">ETCH-296</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-296" href="https://issues.apache.org/jira/browse/ETCH-296">PMC RDF needs to use asfext:pmc, not asfext:PMC</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="05/May/15 15:04"><time datetime="2015-05-05T15:04:01+0000">05/May/15</time></span> </td>
+                                            <td class="updated"> <span title="14/May/15 14:25"><time datetime="2015-05-14T14:25:05+0000">14/May/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12702187" rel="12702187" data-issuekey="ETCH-291" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-291" href="https://issues.apache.org/jira/browse/ETCH-291"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-291" href="https://issues.apache.org/jira/browse/ETCH-291">ETCH-291</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-291" href="https://issues.apache.org/jira/browse/ETCH-291">Fix of Compile Warnings</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afrueh" id="reporter_afrueh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afrueh">Aaron Frueh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Mar/14 16:45"><time datetime="2014-03-18T16:45:40+0000">18/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="20/Mar/14 10:44"><time datetime="2014-03-20T10:44:07+0000">20/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12699154" rel="12699154" data-issuekey="ETCH-290" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-290" href="https://issues.apache.org/jira/browse/ETCH-290"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-290" href="https://issues.apache.org/jira/browse/ETCH-290">ETCH-290</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-290" href="https://issues.apache.org/jira/browse/ETCH-290">Deadlock with multiple EtchConnections</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afrueh" id="reporter_afrueh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afrueh">Aaron Frueh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="06/Mar/14 13:46"><time datetime="2014-03-06T13:46:19+0000">06/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="20/Mar/14 09:02"><time datetime="2014-03-20T09:02:52+0000">20/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12695096" rel="12695096" data-issuekey="ETCH-289" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-289" href="https://issues.apache.org/jira/browse/ETCH-289"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-289" href="https://issues.apache.org/jira/browse/ETCH-289">ETCH-289</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-289" href="https://issues.apache.org/jira/browse/ETCH-289">EtchPacketizer::sessionData doesn&#39;t support multiple packets in buf</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="allsea9" id="reporter_allsea9" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=allsea9">Shingyu Kang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="13/Feb/14 22:48"><time datetime="2014-02-13T22:48:00+0000">13/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="20/Mar/14 10:42"><time datetime="2014-03-20T10:42:36+0000">20/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12695094" rel="12695094" data-issuekey="ETCH-288" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-288" href="https://issues.apache.org/jira/browse/ETCH-288"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-288" href="https://issues.apache.org/jira/browse/ETCH-288">ETCH-288</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-288" href="https://issues.apache.org/jira/browse/ETCH-288">Buffer Index is not updated after EtchFlexBuffer::put</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="allsea9" id="reporter_allsea9" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=allsea9">Shingyu Kang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Feb/14 22:39"><time datetime="2014-02-13T22:39:01+0000">13/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="20/Mar/14 10:43"><time datetime="2014-03-20T10:43:33+0000">20/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12695027" rel="12695027" data-issuekey="ETCH-287" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-287" href="https://issues.apache.org/jira/browse/ETCH-287"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-287" href="https://issues.apache.org/jira/browse/ETCH-287">ETCH-287</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-287" href="https://issues.apache.org/jira/browse/ETCH-287">Client hangs in hasResult() or hasException()</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Feb/14 16:04"><time datetime="2014-02-13T16:04:19+0000">13/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="18/Mar/14 14:36"><time datetime="2014-03-18T14:36:13+0000">18/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12691611" rel="12691611" data-issuekey="ETCH-285" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-285" href="https://issues.apache.org/jira/browse/ETCH-285"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-285" href="https://issues.apache.org/jira/browse/ETCH-285">ETCH-285</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-285" href="https://issues.apache.org/jira/browse/ETCH-285">EtchObjectHash and EtchHashNative return type loses precision on 64bit systems</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/Jan/14 11:12"><time datetime="2014-01-28T11:12:19+0000">28/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/14 11:13"><time datetime="2014-01-28T11:13:33+0000">28/Jan/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12691609" rel="12691609" data-issuekey="ETCH-284" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-284" href="https://issues.apache.org/jira/browse/ETCH-284"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-284" href="https://issues.apache.org/jira/browse/ETCH-284">ETCH-284</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-284" href="https://issues.apache.org/jira/browse/ETCH-284">Add new line to and of generated file</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> <span title="28/Jan/14 11:10"><time datetime="2014-01-28T11:10:13+0000">28/Jan/14</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/14 09:00"><time datetime="2014-03-21T09:00:13+0000">21/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12682390" rel="12682390" data-issuekey="ETCH-280" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-280" href="https://issues.apache.org/jira/browse/ETCH-280"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-280" href="https://issues.apache.org/jira/browse/ETCH-280">ETCH-280</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-280" href="https://issues.apache.org/jira/browse/ETCH-280">Update to CAPU 0.13.0</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Dec/13 13:58"><time datetime="2013-12-03T13:58:02+0000">03/Dec/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/14 09:00"><time datetime="2014-03-21T09:00:13+0000">21/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681781" rel="12681781" data-issuekey="ETCH-278" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-278" href="https://issues.apache.org/jira/browse/ETCH-278"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-278" href="https://issues.apache.org/jira/browse/ETCH-278">ETCH-278</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-278" href="https://issues.apache.org/jira/browse/ETCH-278">EtchPacketizer isn&#39;t able to receive multiple Packages in one Buffer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afrueh" id="reporter_afrueh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afrueh">Aaron Frueh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Nov/13 15:13"><time datetime="2013-11-28T15:13:10+0000">28/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="20/Mar/14 10:42"><time datetime="2014-03-20T10:42:03+0000">20/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12681773" rel="12681773" data-issuekey="ETCH-277" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-277" href="https://issues.apache.org/jira/browse/ETCH-277"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-277" href="https://issues.apache.org/jira/browse/ETCH-277">ETCH-277</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-277" href="https://issues.apache.org/jira/browse/ETCH-277">Corrupt inheritance in ::equals and ::getHashCode functions</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afrueh" id="reporter_afrueh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afrueh">Aaron Frueh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Nov/13 14:20"><time datetime="2013-11-28T14:20:10+0000">28/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/14 09:00"><time datetime="2014-03-21T09:00:12+0000">21/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12679939" rel="12679939" data-issuekey="ETCH-276" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-276" href="https://issues.apache.org/jira/browse/ETCH-276"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-276" href="https://issues.apache.org/jira/browse/ETCH-276">ETCH-276</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-276" href="https://issues.apache.org/jira/browse/ETCH-276">Missing Typedef to SmartPointer in EtchNumber</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afrueh" id="reporter_afrueh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afrueh">Aaron Frueh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Nov/13 12:15"><time datetime="2013-11-19T12:15:39+0000">19/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/14 09:00"><time datetime="2014-03-21T09:00:13+0000">21/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12679936" rel="12679936" data-issuekey="ETCH-275" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-275" href="https://issues.apache.org/jira/browse/ETCH-275"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-275" href="https://issues.apache.org/jira/browse/ETCH-275">ETCH-275</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-275" href="https://issues.apache.org/jira/browse/ETCH-275">ValueFactory SRuntimes Mutex not unlocked</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afrueh" id="reporter_afrueh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afrueh">Aaron Frueh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Nov/13 12:13"><time datetime="2013-11-19T12:13:30+0000">19/Nov/13</time></span> </td>
+                                            <td class="updated"> <span title="21/Mar/14 09:00"><time datetime="2014-03-21T09:00:12+0000">21/Mar/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12662791" rel="12662791" data-issuekey="ETCH-274" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-274" href="https://issues.apache.org/jira/browse/ETCH-274"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-274" href="https://issues.apache.org/jira/browse/ETCH-274">ETCH-274</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-274" href="https://issues.apache.org/jira/browse/ETCH-274">Binding-C Linux build is not working on Apache build infrastructure</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Aug/13 06:48"><time datetime="2013-08-09T06:48:56+0000">09/Aug/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:49+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12656277" rel="12656277" data-issuekey="ETCH-273" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-273" href="https://issues.apache.org/jira/browse/ETCH-273"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-273" href="https://issues.apache.org/jira/browse/ETCH-273">ETCH-273</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-273" href="https://issues.apache.org/jira/browse/ETCH-273">Code generation of Main&lt;ServiceName&gt;Client.cpp contains HelloWorld service calls</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Jul/13 15:27"><time datetime="2013-07-04T15:27:07+0000">04/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:45+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12647698" rel="12647698" data-issuekey="ETCH-272" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-272" href="https://issues.apache.org/jira/browse/ETCH-272"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-272" href="https://issues.apache.org/jira/browse/ETCH-272">ETCH-272</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-272" href="https://issues.apache.org/jira/browse/ETCH-272">C++ binding: &#39;Pair&#39; : is not a member of &#39;EtchHashTable&lt;Key,T&gt;&#39;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/May/13 07:23"><time datetime="2013-05-15T07:23:29+0000">15/May/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:47+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12644806" rel="12644806" data-issuekey="ETCH-271" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-271" href="https://issues.apache.org/jira/browse/ETCH-271"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-271" href="https://issues.apache.org/jira/browse/ETCH-271">ETCH-271</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-271" href="https://issues.apache.org/jira/browse/ETCH-271">clone does no deep copy, but destroy destroys deeply</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebastiansetzer" id="reporter_sebastiansetzer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebastiansetzer">Sebastian Setzer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="26/Apr/13 10:10"><time datetime="2013-04-26T10:10:53+0000">26/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Apr/13 10:14"><time datetime="2013-04-26T10:14:35+0000">26/Apr/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12644797" rel="12644797" data-issuekey="ETCH-270" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-270" href="https://issues.apache.org/jira/browse/ETCH-270"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-270" href="https://issues.apache.org/jira/browse/ETCH-270">ETCH-270</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-270" href="https://issues.apache.org/jira/browse/ETCH-270">Capu local directories are not settable in ant build</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Apr/13 09:14"><time datetime="2013-04-26T09:14:31+0000">26/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:56+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12644614" rel="12644614" data-issuekey="ETCH-269" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-269" href="https://issues.apache.org/jira/browse/ETCH-269"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-269" href="https://issues.apache.org/jira/browse/ETCH-269">ETCH-269</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-269" href="https://issues.apache.org/jira/browse/ETCH-269">C-Binding doesn&#39;t work for multi-level class hierarchies</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="joenx77" id="assignee_joenx77" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=joenx77">Giorgio Zoppi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebastiansetzer" id="reporter_sebastiansetzer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebastiansetzer">Sebastian Setzer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Apr/13 14:59"><time datetime="2013-04-25T14:59:01+0000">25/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="08/Aug/13 17:10"><time datetime="2013-08-08T17:10:55+0000">08/Aug/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12643195" rel="12643195" data-issuekey="ETCH-268" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-268" href="https://issues.apache.org/jira/browse/ETCH-268"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-268" href="https://issues.apache.org/jira/browse/ETCH-268">ETCH-268</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-268" href="https://issues.apache.org/jira/browse/ETCH-268">etch_encoding_transcode: Output of wrong status of etch_encoding_get_codepage</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebastiansetzer" id="reporter_sebastiansetzer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebastiansetzer">Sebastian Setzer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Apr/13 12:42"><time datetime="2013-04-18T12:42:54+0000">18/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="18/Apr/13 12:42"><time datetime="2013-04-18T12:42:54+0000">18/Apr/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12639472" rel="12639472" data-issuekey="ETCH-267" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-267" href="https://issues.apache.org/jira/browse/ETCH-267"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-267" href="https://issues.apache.org/jira/browse/ETCH-267">ETCH-267</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-267" href="https://issues.apache.org/jira/browse/ETCH-267">StubBase not sending session events to user implemenation</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Mar/13 22:09"><time datetime="2013-03-27T22:09:38+0000">27/Mar/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:48+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12638788" rel="12638788" data-issuekey="ETCH-266" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-266" href="https://issues.apache.org/jira/browse/ETCH-266"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-266" href="https://issues.apache.org/jira/browse/ETCH-266">ETCH-266</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-266" href="https://issues.apache.org/jira/browse/ETCH-266">Add Unit tests for UdpConnection</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="25/Mar/13 07:36"><time datetime="2013-03-25T07:36:28+0000">25/Mar/13</time></span> </td>
+                                            <td class="updated"> <span title="04/Apr/14 11:52"><time datetime="2014-04-04T11:52:44+0000">04/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12638522" rel="12638522" data-issuekey="ETCH-265" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-265" href="https://issues.apache.org/jira/browse/ETCH-265"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-265" href="https://issues.apache.org/jira/browse/ETCH-265">ETCH-265</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-265" href="https://issues.apache.org/jira/browse/ETCH-265">CSharp binding not compatible with .Net 2.0</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="yannart" id="reporter_yannart" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=yannart">Yann Nicolas</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Mar/13 15:17"><time datetime="2013-03-22T15:17:48+0000">22/Mar/13</time></span> </td>
+                                            <td class="updated"> <span title="04/Apr/14 11:52"><time datetime="2014-04-04T11:52:33+0000">04/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12635143" rel="12635143" data-issuekey="ETCH-262" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-262" href="https://issues.apache.org/jira/browse/ETCH-262"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-262" href="https://issues.apache.org/jira/browse/ETCH-262">ETCH-262</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-262" href="https://issues.apache.org/jira/browse/ETCH-262">Cpp binding tests build error with Visual Studio 11</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Mar/13 15:45"><time datetime="2013-03-04T15:45:19+0000">04/Mar/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:58+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12607024" rel="12607024" data-issuekey="ETCH-246" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-246" href="https://issues.apache.org/jira/browse/ETCH-246"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-246" href="https://issues.apache.org/jira/browse/ETCH-246">ETCH-246</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-246" href="https://issues.apache.org/jira/browse/ETCH-246">Serialization of Multidimensional Arrays</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="joenx77" id="assignee_joenx77" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=joenx77">Giorgio Zoppi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="afrueh" id="reporter_afrueh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=afrueh">Aaron Frueh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Sep/12 09:22"><time datetime="2012-09-11T09:22:31+0000">11/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="04/Apr/14 11:59"><time datetime="2014-04-04T11:59:18+0000">04/Apr/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12540010" rel="12540010" data-issuekey="ETCH-210" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-210" href="https://issues.apache.org/jira/browse/ETCH-210"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-210" href="https://issues.apache.org/jira/browse/ETCH-210">ETCH-210</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-210" href="https://issues.apache.org/jira/browse/ETCH-210">fix URLs in BUILD.txt</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="marco.m" id="reporter_marco.m" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=marco.m">Marco Molteni</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Jan/12 09:04"><time datetime="2012-01-27T09:04:28+0000">27/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:33"><time datetime="2013-09-26T08:33:06+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12539006" rel="12539006" data-issuekey="ETCH-209" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-209" href="https://issues.apache.org/jira/browse/ETCH-209"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-209" href="https://issues.apache.org/jira/browse/ETCH-209">ETCH-209</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-209" href="https://issues.apache.org/jira/browse/ETCH-209">CMake build for 32 bit executables on a 64 bit machine with Ubuntu 11.10 fails</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="reporter_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Jan/12 18:00"><time datetime="2012-01-19T18:00:50+0000">19/Jan/12</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:56+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12533192" rel="12533192" data-issuekey="ETCH-201" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-201" href="https://issues.apache.org/jira/browse/ETCH-201"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-201" href="https://issues.apache.org/jira/browse/ETCH-201">ETCH-201</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-201" href="https://issues.apache.org/jira/browse/ETCH-201">Message Filter Framework not Implemented</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="29/Nov/11 21:02"><time datetime="2011-11-29T21:02:18+0000">29/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="29/Nov/11 21:02"><time datetime="2011-11-29T21:02:18+0000">29/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12533191" rel="12533191" data-issuekey="ETCH-200" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-200" href="https://issues.apache.org/jira/browse/ETCH-200"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-200" href="https://issues.apache.org/jira/browse/ETCH-200">ETCH-200</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-200" href="https://issues.apache.org/jira/browse/ETCH-200">KeepAlive not implemented</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="29/Nov/11 20:59"><time datetime="2011-11-29T20:59:11+0000">29/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="29/Nov/11 20:59"><time datetime="2011-11-29T20:59:11+0000">29/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12530342" rel="12530342" data-issuekey="ETCH-191" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-191" href="https://issues.apache.org/jira/browse/ETCH-191"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-191" href="https://issues.apache.org/jira/browse/ETCH-191">ETCH-191</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-191" href="https://issues.apache.org/jira/browse/ETCH-191">Etch/C compiler does not mangle C/C++ keywords</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="04/Nov/11 16:35"><time datetime="2011-11-04T16:35:13+0000">04/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="04/Nov/11 16:35"><time datetime="2011-11-04T16:35:13+0000">04/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12530341" rel="12530341" data-issuekey="ETCH-190" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-190" href="https://issues.apache.org/jira/browse/ETCH-190"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-190" href="https://issues.apache.org/jira/browse/ETCH-190">ETCH-190</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-190" href="https://issues.apache.org/jira/browse/ETCH-190">Etch/C compiler generates incorrect include directives for mixins</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="04/Nov/11 16:28"><time datetime="2011-11-04T16:28:15+0000">04/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="04/Nov/11 16:28"><time datetime="2011-11-04T16:28:15+0000">04/Nov/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12529954" rel="12529954" data-issuekey="ETCH-189" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-189" href="https://issues.apache.org/jira/browse/ETCH-189"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-189" href="https://issues.apache.org/jira/browse/ETCH-189">ETCH-189</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-189" href="https://issues.apache.org/jira/browse/ETCH-189">CSharp examples have broken builds for 2008/2010 Visual Studio</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sethcall" id="reporter_sethcall" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sethcall">Seth Call</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Nov/11 21:44"><time datetime="2011-11-02T21:44:45+0000">02/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:21+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12526286" rel="12526286" data-issuekey="ETCH-186" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-186" href="https://issues.apache.org/jira/browse/ETCH-186"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-186" href="https://issues.apache.org/jira/browse/ETCH-186">ETCH-186</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-186" href="https://issues.apache.org/jira/browse/ETCH-186">Jenkins hash routines pollute C namespace</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="07/Oct/11 22:32"><time datetime="2011-10-07T22:32:40+0000">07/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="07/Oct/11 22:32"><time datetime="2011-10-07T22:32:40+0000">07/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12524887" rel="12524887" data-issuekey="ETCH-179" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-179" href="https://issues.apache.org/jira/browse/ETCH-179"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-179" href="https://issues.apache.org/jira/browse/ETCH-179">ETCH-179</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-179" href="https://issues.apache.org/jira/browse/ETCH-179">Memory leak on skipped keys during decode</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Sep/11 16:02"><time datetime="2011-09-27T16:02:45+0000">27/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/11 16:03"><time datetime="2011-09-27T16:03:23+0000">27/Sep/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12524884" rel="12524884" data-issuekey="ETCH-178" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-178" href="https://issues.apache.org/jira/browse/ETCH-178"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-178" href="https://issues.apache.org/jira/browse/ETCH-178">ETCH-178</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-178" href="https://issues.apache.org/jira/browse/ETCH-178">Reliance on APR Iconv unnecessary</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Sep/11 15:58"><time datetime="2011-09-27T15:58:26+0000">27/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/11 15:58"><time datetime="2011-09-27T15:58:26+0000">27/Sep/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12524877" rel="12524877" data-issuekey="ETCH-177" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-177" href="https://issues.apache.org/jira/browse/ETCH-177"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-177" href="https://issues.apache.org/jira/browse/ETCH-177">ETCH-177</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-177" href="https://issues.apache.org/jira/browse/ETCH-177">Incorrect multibyte character encoding/handling</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="27/Sep/11 15:18"><time datetime="2011-09-27T15:18:10+0000">27/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="27/Sep/11 15:18"><time datetime="2011-09-27T15:18:10+0000">27/Sep/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12523785" rel="12523785" data-issuekey="ETCH-176" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-176" href="https://issues.apache.org/jira/browse/ETCH-176"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-176" href="https://issues.apache.org/jira/browse/ETCH-176">ETCH-176</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-176" href="https://issues.apache.org/jira/browse/ETCH-176">Memory allocated on each service call not released until </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="20/Sep/11 21:02"><time datetime="2011-09-20T21:02:35+0000">20/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="08/Aug/13 14:21"><time datetime="2013-08-08T14:21:00+0000">08/Aug/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12522814" rel="12522814" data-issuekey="ETCH-172" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-172" href="https://issues.apache.org/jira/browse/ETCH-172"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-172" href="https://issues.apache.org/jira/browse/ETCH-172">ETCH-172</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-172" href="https://issues.apache.org/jira/browse/ETCH-172">64-bit platforms not supported in C binding</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tmarsh" id="reporter_tmarsh" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tmarsh">Thomas Marsh</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Sep/11 21:41"><time datetime="2011-09-12T21:41:22+0000">12/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="04/Oct/11 21:46"><time datetime="2011-10-04T21:46:22+0000">04/Oct/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12522479" rel="12522479" data-issuekey="ETCH-171" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-171" href="https://issues.apache.org/jira/browse/ETCH-171"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-171" href="https://issues.apache.org/jira/browse/ETCH-171">ETCH-171</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-171" href="https://issues.apache.org/jira/browse/ETCH-171">Update Etch Binding to new Go Version</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="assignee_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="reporter_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Sep/11 21:11"><time datetime="2011-09-09T21:11:56+0000">09/Sep/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:23+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12519541" rel="12519541" data-issuekey="ETCH-169" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-169" href="https://issues.apache.org/jira/browse/ETCH-169"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-169" href="https://issues.apache.org/jira/browse/ETCH-169">ETCH-169</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-169" href="https://issues.apache.org/jira/browse/ETCH-169">Website must display disclaimer text and link to incubator</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Aug/11 16:37"><time datetime="2011-08-21T16:37:43+0000">21/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:25+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12519226" rel="12519226" data-issuekey="ETCH-167" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-167" href="https://issues.apache.org/jira/browse/ETCH-167"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-167" href="https://issues.apache.org/jira/browse/ETCH-167">ETCH-167</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-167" href="https://issues.apache.org/jira/browse/ETCH-167">@ToString directive applied to exception</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="miksovic" id="reporter_miksovic" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=miksovic">Michal Miksovic</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="18/Aug/11 02:04"><time datetime="2011-08-18T02:04:56+0000">18/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="18/Aug/11 02:04"><time datetime="2011-08-18T02:04:56+0000">18/Aug/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12518544" rel="12518544" data-issuekey="ETCH-166" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-166" href="https://issues.apache.org/jira/browse/ETCH-166"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-166" href="https://issues.apache.org/jira/browse/ETCH-166">ETCH-166</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-166" href="https://issues.apache.org/jira/browse/ETCH-166">UTF-8 encoding crashes</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="miksovic" id="reporter_miksovic" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=miksovic">Michal Miksovic</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="11/Aug/11 00:40"><time datetime="2011-08-11T00:40:41+0000">11/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="17/Aug/11 20:48"><time datetime="2011-08-17T20:48:19+0000">17/Aug/11</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12518537" rel="12518537" data-issuekey="ETCH-165" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-165" href="https://issues.apache.org/jira/browse/ETCH-165"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-165" href="https://issues.apache.org/jira/browse/ETCH-165">ETCH-165</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-165" href="https://issues.apache.org/jira/browse/ETCH-165">*.etch extension</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="miksovic" id="reporter_miksovic" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=miksovic">Michal Miksovic</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Aug/11 23:52"><time datetime="2011-08-10T23:52:18+0000">10/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:23+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12516867" rel="12516867" data-issuekey="ETCH-164" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-164" href="https://issues.apache.org/jira/browse/ETCH-164"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-164" href="https://issues.apache.org/jira/browse/ETCH-164">ETCH-164</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-164" href="https://issues.apache.org/jira/browse/ETCH-164">Cmake home path is not set in antsetup.bat for Windows</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="reporter_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Aug/11 06:49"><time datetime="2011-08-02T06:49:32+0000">02/Aug/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:26+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12510331" rel="12510331" data-issuekey="ETCH-161" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-161" href="https://issues.apache.org/jira/browse/ETCH-161"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-161" href="https://issues.apache.org/jira/browse/ETCH-161">ETCH-161</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-161" href="https://issues.apache.org/jira/browse/ETCH-161">Naming conflicts in Etch binding-c runtime message module; add prefix etch_message</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="reporter_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Jun/11 16:30"><time datetime="2011-06-14T16:30:44+0000">14/Jun/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:26+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12507218" rel="12507218" data-issuekey="ETCH-160" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-160" href="https://issues.apache.org/jira/browse/ETCH-160"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-160" href="https://issues.apache.org/jira/browse/ETCH-160">ETCH-160</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-160" href="https://issues.apache.org/jira/browse/ETCH-160">Some of csharp tests are failing with .Net 4.0 and Nunit 2.5.9.10348</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="reporter_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/May/11 13:24"><time datetime="2011-05-14T13:24:51+0000">14/May/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:22+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12504544" rel="12504544" data-issuekey="ETCH-156" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-156" href="https://issues.apache.org/jira/browse/ETCH-156"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-156" href="https://issues.apache.org/jira/browse/ETCH-156">ETCH-156</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-156" href="https://issues.apache.org/jira/browse/ETCH-156">C-Binding: client side crash when calling stop_wait while socket is being shut down from server side</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="assignee_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="reporter_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Apr/11 13:28"><time datetime="2011-04-18T13:28:06+0000">18/Apr/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:23+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12499762" rel="12499762" data-issuekey="ETCH-155" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-155" href="https://issues.apache.org/jira/browse/ETCH-155"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-155" href="https://issues.apache.org/jira/browse/ETCH-155">ETCH-155</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-155" href="https://issues.apache.org/jira/browse/ETCH-155">Sockets do not shutdown correctly on Linux</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="assignee_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="reporter_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Feb/11 21:21"><time datetime="2011-02-25T21:21:00+0000">25/Feb/11</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:24+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12491525" rel="12491525" data-issuekey="ETCH-119" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-119" href="https://issues.apache.org/jira/browse/ETCH-119"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-119" href="https://issues.apache.org/jira/browse/ETCH-119">ETCH-119</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-119" href="https://issues.apache.org/jira/browse/ETCH-119">Bugfix TCP backlog parameter</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="reporter_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Nov/10 10:47"><time datetime="2010-11-29T10:47:09+0000">29/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:20+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12479972" rel="12479972" data-issuekey="ETCH-117" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-117" href="https://issues.apache.org/jira/browse/ETCH-117"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-117" href="https://issues.apache.org/jira/browse/ETCH-117">ETCH-117</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-117" href="https://issues.apache.org/jira/browse/ETCH-117">Race condition while connection goes down</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="reporter_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Nov/10 16:07"><time datetime="2010-11-15T16:07:08+0000">15/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:21+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12479971" rel="12479971" data-issuekey="ETCH-116" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-116" href="https://issues.apache.org/jira/browse/ETCH-116"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-116" href="https://issues.apache.org/jira/browse/ETCH-116">ETCH-116</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-116" href="https://issues.apache.org/jira/browse/ETCH-116">Change \scripts\antsetup.bat so external ENV variables are also handled</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="reporter_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Nov/10 16:03"><time datetime="2010-11-15T16:03:31+0000">15/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:17+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12479491" rel="12479491" data-issuekey="ETCH-114" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-114" href="https://issues.apache.org/jira/browse/ETCH-114"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-114" href="https://issues.apache.org/jira/browse/ETCH-114">ETCH-114</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-114" href="https://issues.apache.org/jira/browse/ETCH-114">Bug fix plain_mailbox_manager; do cleanup all registered mailboxes if connection goes down</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="reporter_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Nov/10 11:53"><time datetime="2010-11-09T11:53:15+0000">09/Nov/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:22+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12478312" rel="12478312" data-issuekey="ETCH-109" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-109" href="https://issues.apache.org/jira/browse/ETCH-109"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-109" href="https://issues.apache.org/jira/browse/ETCH-109">ETCH-109</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-109" href="https://issues.apache.org/jira/browse/ETCH-109">C Binding: Mixins not fully functional</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="fitzner" id="assignee_fitzner" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=fitzner">Michael Fitzner</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="reporter_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Oct/10 08:29"><time datetime="2010-10-26T08:29:43+0000">26/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:20+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12477322" rel="12477322" data-issuekey="ETCH-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-108" href="https://issues.apache.org/jira/browse/ETCH-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-108" href="https://issues.apache.org/jira/browse/ETCH-108">ETCH-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-108" href="https://issues.apache.org/jira/browse/ETCH-108">C Binding: Race condition for simultaneous connection loss and runtime cleanup</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="assignee_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="reporter_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Oct/10 07:17"><time datetime="2010-10-14T07:17:54+0000">14/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:21+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12477321" rel="12477321" data-issuekey="ETCH-107" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-107" href="https://issues.apache.org/jira/browse/ETCH-107"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-107" href="https://issues.apache.org/jira/browse/ETCH-107">ETCH-107</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-107" href="https://issues.apache.org/jira/browse/ETCH-107">C binding Compiler: different genereted port numbers </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="assignee_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="reporter_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Oct/10 07:15"><time datetime="2010-10-14T07:15:22+0000">14/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:22+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12477319" rel="12477319" data-issuekey="ETCH-106" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-106" href="https://issues.apache.org/jira/browse/ETCH-106"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-106" href="https://issues.apache.org/jira/browse/ETCH-106">ETCH-106</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-106" href="https://issues.apache.org/jira/browse/ETCH-106">C Binding: double-free bug for structs containing structs containing strings</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="assignee_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="reporter_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Oct/10 07:14"><time datetime="2010-10-14T07:14:19+0000">14/Oct/10</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:20+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12458941" rel="12458941" data-issuekey="ETCH-80" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-80" href="https://issues.apache.org/jira/browse/ETCH-80"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-80" href="https://issues.apache.org/jira/browse/ETCH-80">ETCH-80</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-80" href="https://issues.apache.org/jira/browse/ETCH-80">Windows 7 / .NET 3.5 SP1 runtime setsockopt error</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="grandyho" id="assignee_grandyho" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=grandyho">Holger Grandy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jking" id="reporter_jking" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jking">James E. King, III</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Mar/10 13:55"><time datetime="2010-03-12T13:55:05+0000">12/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="15/Sep/10 09:52"><time datetime="2010-09-15T09:52:26+0000">15/Sep/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12427590" rel="12427590" data-issuekey="ETCH-77" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-77" href="https://issues.apache.org/jira/browse/ETCH-77"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-77" href="https://issues.apache.org/jira/browse/ETCH-77">ETCH-77</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-77" href="https://issues.apache.org/jira/browse/ETCH-77">Incompatibility in the READMEs for the bundled examples</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="manoj_ganesan" id="assignee_manoj_ganesan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manoj_ganesan">Manoj Ganesan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manoj_ganesan" id="reporter_manoj_ganesan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manoj_ganesan">Manoj Ganesan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Jun/09 19:59"><time datetime="2009-06-10T19:59:32+0000">10/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="15/Jun/09 16:44"><time datetime="2009-06-15T16:44:51+0000">15/Jun/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12427586" rel="12427586" data-issuekey="ETCH-76" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-76" href="https://issues.apache.org/jira/browse/ETCH-76"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-76" href="https://issues.apache.org/jira/browse/ETCH-76">ETCH-76</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-76" href="https://issues.apache.org/jira/browse/ETCH-76">Build problems if Etch source is downloaded to a path with spaces</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="manoj_ganesan" id="assignee_manoj_ganesan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manoj_ganesan">Manoj Ganesan</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="manoj_ganesan" id="reporter_manoj_ganesan" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=manoj_ganesan">Manoj Ganesan</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="10/Jun/09 19:09"><time datetime="2009-06-10T19:09:01+0000">10/Jun/09</time></span> </td>
+                                            <td class="updated"> <span title="15/Jun/09 16:44"><time datetime="2009-06-15T16:44:51+0000">15/Jun/09</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12426713" rel="12426713" data-issuekey="ETCH-75" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-75" href="https://issues.apache.org/jira/browse/ETCH-75"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-75" href="https://issues.apache.org/jira/browse/ETCH-75">ETCH-75</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-75" href="https://issues.apache.org/jira/browse/ETCH-75">Wrong character encoding in script &quot;/bin/etch&quot;</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jherkel" id="reporter_jherkel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jherkel">Jakub Herkel</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="29/May/09 21:45"><time datetime="2009-05-29T21:45:28+0000">29/May/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:33"><time datetime="2013-09-26T08:33:08+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12423789" rel="12423789" data-issuekey="ETCH-69" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-69" href="https://issues.apache.org/jira/browse/ETCH-69"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-69" href="https://issues.apache.org/jira/browse/ETCH-69">ETCH-69</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-69" href="https://issues.apache.org/jira/browse/ETCH-69">Compiler throws URISyntaxException if there are spaces in the classpath</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bsmith94" id="reporter_bsmith94" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bsmith94">Brian Smith</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Apr/09 23:36"><time datetime="2009-04-25T23:36:33+0000">25/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:56+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12414044" rel="12414044" data-issuekey="ETCH-57" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-57" href="https://issues.apache.org/jira/browse/ETCH-57"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-57" href="https://issues.apache.org/jira/browse/ETCH-57">ETCH-57</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-57" href="https://issues.apache.org/jira/browse/ETCH-57">Sometimes closing a TlsConnection normally will result in an IOException with Socket is closed.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Feb/09 21:38"><time datetime="2009-02-04T21:38:47+0000">04/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:48+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12414037" rel="12414037" data-issuekey="ETCH-56" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-56" href="https://issues.apache.org/jira/browse/ETCH-56"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-56" href="https://issues.apache.org/jira/browse/ETCH-56">ETCH-56</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-56" href="https://issues.apache.org/jira/browse/ETCH-56">UnwantedMessage.ToString method attempts to format using the java style formatting instead of csharp style</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="04/Feb/09 21:09"><time datetime="2009-02-04T21:09:18+0000">04/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:51+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12413295" rel="12413295" data-issuekey="ETCH-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-31" href="https://issues.apache.org/jira/browse/ETCH-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-31" href="https://issues.apache.org/jira/browse/ETCH-31">ETCH-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-31" href="https://issues.apache.org/jira/browse/ETCH-31">MySessionListener in TcpTransportFactory does not override toString() method to show something useful about the transport stack</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jan/09 18:03"><time datetime="2009-01-26T18:03:26+0000">26/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:33"><time datetime="2013-09-26T08:33:07+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12412948" rel="12412948" data-issuekey="ETCH-28" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-28" href="https://issues.apache.org/jira/browse/ETCH-28"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-28" href="https://issues.apache.org/jira/browse/ETCH-28">ETCH-28</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-28" href="https://issues.apache.org/jira/browse/ETCH-28">Examples do not build due to outdated ant files.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rebarraz" id="reporter_rebarraz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rebarraz">Rene Barraza</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="21/Jan/09 22:27"><time datetime="2009-01-21T22:27:46+0000">21/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:50+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    23/Jan/09
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12412868" rel="12412868" data-issuekey="ETCH-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-27" href="https://issues.apache.org/jira/browse/ETCH-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-27" href="https://issues.apache.org/jira/browse/ETCH-27">ETCH-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-27" href="https://issues.apache.org/jira/browse/ETCH-27">mixins cause trouble when two or more mixed in files define a type with the same name.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Jan/09 22:16"><time datetime="2009-01-20T22:16:52+0000">20/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:53+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12412443" rel="12412443" data-issuekey="ETCH-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-26" href="https://issues.apache.org/jira/browse/ETCH-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-26" href="https://issues.apache.org/jira/browse/ETCH-26">ETCH-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-26" href="https://issues.apache.org/jira/browse/ETCH-26">C# Binding: some unexpected exceptions are thrown if .Net Framework Language Pack is installed</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="martin.veith" id="assignee_martin.veith" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=martin.veith">Martin Veith</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tohzono" id="reporter_tohzono" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tohzono">Tohru OHZONO</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Jan/09 07:43"><time datetime="2009-01-15T07:43:59+0000">15/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="03/Jan/12 12:41"><time datetime="2012-01-03T12:41:23+0000">03/Jan/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12412383" rel="12412383" data-issuekey="ETCH-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-25" href="https://issues.apache.org/jira/browse/ETCH-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-25" href="https://issues.apache.org/jira/browse/ETCH-25">ETCH-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-25" href="https://issues.apache.org/jira/browse/ETCH-25">DefaultDeliveryService ends call with mb.CloseDelivery() and it should end it with mb.CloseRead()</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Jan/09 15:27"><time datetime="2009-01-14T15:27:43+0000">14/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:50+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12410209" rel="12410209" data-issuekey="ETCH-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-24" href="https://issues.apache.org/jira/browse/ETCH-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-24" href="https://issues.apache.org/jira/browse/ETCH-24">ETCH-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-24" href="https://issues.apache.org/jira/browse/ETCH-24">The message direction is always &quot;server&quot; for the result_method messages in the java-binding valuefactory</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="weiwa" id="reporter_weiwa" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=weiwa">Wei Wang</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Dec/08 17:41"><time datetime="2008-12-08T17:41:57+0000">08/Dec/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:55+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12409574" rel="12409574" data-issuekey="ETCH-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-23" href="https://issues.apache.org/jira/browse/ETCH-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-23" href="https://issues.apache.org/jira/browse/ETCH-23">ETCH-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-23" href="https://issues.apache.org/jira/browse/ETCH-23">FreePool has synchronization issues with quick back to back calls to Run</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="01/Dec/08 19:51"><time datetime="2008-12-01T19:51:24+0000">01/Dec/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:50+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12408917" rel="12408917" data-issuekey="ETCH-18" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-18" href="https://issues.apache.org/jira/browse/ETCH-18"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-18" href="https://issues.apache.org/jira/browse/ETCH-18">ETCH-18</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-18" href="https://issues.apache.org/jira/browse/ETCH-18">KeepAlive throws exception while trying to shutdown connection</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Nov/08 16:22"><time datetime="2008-11-20T16:22:31+0000">20/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:46+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12408652" rel="12408652" data-issuekey="ETCH-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-12" href="https://issues.apache.org/jira/browse/ETCH-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-12" href="https://issues.apache.org/jira/browse/ETCH-12">ETCH-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-12" href="https://issues.apache.org/jira/browse/ETCH-12">an exception return value from a message is indistinguishable from a thrown exception</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="17/Nov/08 15:53"><time datetime="2008-11-17T15:53:40+0000">17/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="17/Nov/08 15:53"><time datetime="2008-11-17T15:53:40+0000">17/Nov/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12408651" rel="12408651" data-issuekey="ETCH-11" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-11" href="https://issues.apache.org/jira/browse/ETCH-11"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-11" href="https://issues.apache.org/jira/browse/ETCH-11">ETCH-11</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-11" href="https://issues.apache.org/jira/browse/ETCH-11">AlarmManager deadlocks during shutdown()</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Nov/08 15:46"><time datetime="2008-11-17T15:46:51+0000">17/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:53+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12408643" rel="12408643" data-issuekey="ETCH-8" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-8" href="https://issues.apache.org/jira/browse/ETCH-8"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-8" href="https://issues.apache.org/jira/browse/ETCH-8">ETCH-8</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-8" href="https://issues.apache.org/jira/browse/ETCH-8">canceling mailbox notification registration throws exception if not registered</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Nov/08 14:02"><time datetime="2008-11-17T14:02:25+0000">17/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:52+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12408641" rel="12408641" data-issuekey="ETCH-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="ETCH-6" href="https://issues.apache.org/jira/browse/ETCH-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="ETCH-6" href="https://issues.apache.org/jira/browse/ETCH-6">ETCH-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="ETCH-6" href="https://issues.apache.org/jira/browse/ETCH-6">if free pool exceeds maximum number of threads the exception thrown will kill the connection</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="assignee_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sccomer" id="reporter_sccomer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sccomer">scott comer</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Nov/08 13:50"><time datetime="2008-11-17T13:50:38+0000">17/Nov/08</time></span> </td>
+                                            <td class="updated"> <span title="26/Sep/13 08:31"><time datetime="2013-09-26T08:31:55+0000">26/Sep/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

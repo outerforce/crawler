@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MDOAP+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MDOAP+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MDOAP" title="Browse Maven DOAP Plugin project">Maven DOAP Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>14</b> of <b>14</b>
+            as at: <b>05/Mar/17 16:58</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12800595" rel="12800595" data-issuekey="MDOAP-42" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-42" href="https://issues.apache.org/jira/browse/MDOAP-42"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-42" href="https://issues.apache.org/jira/browse/MDOAP-42">MDOAP-42</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-42" href="https://issues.apache.org/jira/browse/MDOAP-42">Updated plexus-interpolation for thread safety issues</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="krosenvold" id="assignee_krosenvold" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=krosenvold">Kristian Rosenvold</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="krosenvold" id="reporter_krosenvold" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=krosenvold">Kristian Rosenvold</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Oct/14 00:47"><time datetime="2014-10-18T00:47:19+0000">18/Oct/14</time></span> </td>
+                                            <td class="updated"> <span title="18/Oct/14 00:48"><time datetime="2014-10-18T00:48:34+0000">18/Oct/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800598" rel="12800598" data-issuekey="MDOAP-38" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-38" href="https://issues.apache.org/jira/browse/MDOAP-38"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-38" href="https://issues.apache.org/jira/browse/MDOAP-38">MDOAP-38</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-38" href="https://issues.apache.org/jira/browse/MDOAP-38">&lt;shortdesc&gt; too long value provide better error message</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="olamy" id="assignee_olamy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=olamy">Olivier Lamy (*$^¨%`£)</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="simao" id="reporter_simao" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simao">Simone Tripodi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Jan/13 06:10"><time datetime="2013-01-08T06:10:48+0000">08/Jan/13</time></span> </td>
+                                            <td class="updated"> <span title="08/Jan/13 17:16"><time datetime="2013-01-08T17:16:52+0000">08/Jan/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800570" rel="12800570" data-issuekey="MDOAP-36" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-36" href="https://issues.apache.org/jira/browse/MDOAP-36"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-36" href="https://issues.apache.org/jira/browse/MDOAP-36">MDOAP-36</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-36" href="https://issues.apache.org/jira/browse/MDOAP-36">DoapUtil.EMAIL_REGEX too strict (hyphens and underscores in domain components not accepted)</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sewe" id="reporter_sewe" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sewe">Andreas Sewe</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="23/Feb/11 16:18"><time datetime="2011-02-23T16:18:45+0000">23/Feb/11</time></span> </td>
+                                            <td class="updated"> <span title="25/Nov/14 14:49"><time datetime="2014-11-25T14:49:23+0000">25/Nov/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800571" rel="12800571" data-issuekey="MDOAP-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-31" href="https://issues.apache.org/jira/browse/MDOAP-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-31" href="https://issues.apache.org/jira/browse/MDOAP-31">MDOAP-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-31" href="https://issues.apache.org/jira/browse/MDOAP-31">Generated DOAP Mailing lists are too stricts</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="reporter_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Dec/10 16:14"><time datetime="2010-12-12T16:14:07+0000">12/Dec/10</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/10 16:19"><time datetime="2010-12-12T16:19:06+0000">12/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800596" rel="12800596" data-issuekey="MDOAP-27" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-27" href="https://issues.apache.org/jira/browse/MDOAP-27"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-27" href="https://issues.apache.org/jira/browse/MDOAP-27">MDOAP-27</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-27" href="https://issues.apache.org/jira/browse/MDOAP-27">Generated files aren&#39;t useable with Jena</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cmahnke" id="reporter_cmahnke" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cmahnke">Christian Mahnke</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Sep/10 04:44"><time datetime="2010-09-17T04:44:05+0000">17/Sep/10</time></span> </td>
+                                            <td class="updated"> <span title="10/Dec/10 04:34"><time datetime="2010-12-10T04:34:45+0000">10/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800599" rel="12800599" data-issuekey="MDOAP-26" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-26" href="https://issues.apache.org/jira/browse/MDOAP-26"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-26" href="https://issues.apache.org/jira/browse/MDOAP-26">MDOAP-26</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-26" href="https://issues.apache.org/jira/browse/MDOAP-26">minimal pom IT is failing with Maven 3</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="assignee_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="reporter_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="15/Aug/10 04:29"><time datetime="2010-08-15T04:29:54+0000">15/Aug/10</time></span> </td>
+                                            <td class="updated"> <span title="15/Aug/10 05:12"><time datetime="2010-08-15T05:12:40+0000">15/Aug/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800600" rel="12800600" data-issuekey="MDOAP-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-25" href="https://issues.apache.org/jira/browse/MDOAP-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-25" href="https://issues.apache.org/jira/browse/MDOAP-25">MDOAP-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-25" href="https://issues.apache.org/jira/browse/MDOAP-25">foaf:Organization usage doesn&#39;t comply with DoaP/FoaF specs.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tpfliss" id="reporter_tpfliss" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tpfliss">Tim Fliss</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Sep/09 16:17"><time datetime="2009-09-29T16:17:21+0000">29/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="10/Dec/10 06:22"><time datetime="2010-12-10T06:22:06+0000">10/Dec/10</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800603" rel="12800603" data-issuekey="MDOAP-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-24" href="https://issues.apache.org/jira/browse/MDOAP-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-24" href="https://issues.apache.org/jira/browse/MDOAP-24">MDOAP-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-24" href="https://issues.apache.org/jira/browse/MDOAP-24">programing-language, os and name properties should be an RDF literals, not a RDF resources.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="tpfliss" id="reporter_tpfliss" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=tpfliss">Tim Fliss</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Sep/09 14:33"><time datetime="2009-09-29T14:33:08+0000">29/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:02+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800594" rel="12800594" data-issuekey="MDOAP-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-23" href="https://issues.apache.org/jira/browse/MDOAP-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-23" href="https://issues.apache.org/jira/browse/MDOAP-23">MDOAP-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-23" href="https://issues.apache.org/jira/browse/MDOAP-23">Plugin assumes that both &lt;connection&gt; and &lt;developerConnection&gt; are always specified</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebhoss" id="reporter_sebhoss" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebhoss">Sebastian Hoß</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Sep/09 02:33"><time datetime="2009-09-25T02:33:08+0000">25/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:17+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800591" rel="12800591" data-issuekey="MDOAP-22" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-22" href="https://issues.apache.org/jira/browse/MDOAP-22"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-22" href="https://issues.apache.org/jira/browse/MDOAP-22">MDOAP-22</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-22" href="https://issues.apache.org/jira/browse/MDOAP-22">Documentation regarding site-integration hrefs wrong file</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="bentmann" id="assignee_bentmann" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bentmann">Benjamin Bentmann</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebhoss" id="reporter_sebhoss" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebhoss">Sebastian Hoß</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="25/Sep/09 02:26"><time datetime="2009-09-25T02:26:32+0000">25/Sep/09</time></span> </td>
+                                            <td class="updated"> <span title="05/Apr/15 14:44"><time datetime="2015-04-05T14:44:15+0000">05/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800602" rel="12800602" data-issuekey="MDOAP-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-13" href="https://issues.apache.org/jira/browse/MDOAP-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-13" href="https://issues.apache.org/jira/browse/MDOAP-13">MDOAP-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-13" href="https://issues.apache.org/jira/browse/MDOAP-13">&#39;Examples&#39; section on &#39;Introduction&#39; page contains a broken link.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jonathan.ramsey" id="reporter_jonathan.ramsey" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jonathan.ramsey">Jonathan Ramsey</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jul/08 08:25"><time datetime="2008-07-18T08:25:41+0000">18/Jul/08</time></span> </td>
+                                            <td class="updated"> <span title="06/Apr/15 00:47"><time datetime="2015-04-06T00:47:21+0000">06/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800586" rel="12800586" data-issuekey="MDOAP-6" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-6" href="https://issues.apache.org/jira/browse/MDOAP-6"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-6" href="https://issues.apache.org/jira/browse/MDOAP-6">MDOAP-6</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-6" href="https://issues.apache.org/jira/browse/MDOAP-6">Support more repositories</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="assignee_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="siveton" id="reporter_siveton" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=siveton">Siveton Vincent</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Jun/08 16:56"><time datetime="2008-06-18T16:56:32+0000">18/Jun/08</time></span> </td>
+                                            <td class="updated"> <span title="19/Jun/08 06:43"><time datetime="2008-06-19T06:43:44+0000">19/Jun/08</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800597" rel="12800597" data-issuekey="MDOAP-5" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-5" href="https://issues.apache.org/jira/browse/MDOAP-5"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-5" href="https://issues.apache.org/jira/browse/MDOAP-5">MDOAP-5</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-5" href="https://issues.apache.org/jira/browse/MDOAP-5">doap plugin not in central, but listed on the &quot;plugins by category&quot; page</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jandockx" id="reporter_jandockx" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jandockx">Jan Dockx</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Nov/06 04:14"><time datetime="2006-11-29T04:14:46+0000">29/Nov/06</time></span> </td>
+                                            <td class="updated"> <span title="27/Dec/06 07:01"><time datetime="2006-12-27T07:01:17+0000">27/Dec/06</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12800585" rel="12800585" data-issuekey="MDOAP-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MDOAP-2" href="https://issues.apache.org/jira/browse/MDOAP-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MDOAP-2" href="https://issues.apache.org/jira/browse/MDOAP-2">MDOAP-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MDOAP-2" href="https://issues.apache.org/jira/browse/MDOAP-2">link to maven page on JIRA MDOAP broken</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="dennisl@apache.org" id="assignee_dennisl@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=dennisl%40apache.org">Dennis Lundberg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rainer" id="reporter_rainer" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rainer">Rainer Wasserfuhr</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Aug/06 15:22"><time datetime="2006-08-08T15:22:11+0000">08/Aug/06</time></span> </td>
+                                            <td class="updated"> <span title="08/Apr/15 08:02"><time datetime="2015-04-08T08:02:32+0000">08/Apr/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

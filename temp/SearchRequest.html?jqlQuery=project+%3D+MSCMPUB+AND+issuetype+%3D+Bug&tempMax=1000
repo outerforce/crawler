@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MSCMPUB+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+MSCMPUB+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/MSCMPUB" title="Browse Maven SCM Publish Plugin project">Maven SCM Publish Plugin</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>8</b> of <b>8</b>
+            as at: <b>05/Mar/17 16:59</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13043117" rel="13043117" data-issuekey="MSCMPUB-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-30" href="https://issues.apache.org/jira/browse/MSCMPUB-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-30" href="https://issues.apache.org/jira/browse/MSCMPUB-30">MSCMPUB-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-30" href="https://issues.apache.org/jira/browse/MSCMPUB-30">scm-publish:publish-scm changes files unnecessarily</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="14/Feb/17 23:30"><time datetime="2017-02-14T23:30:18+0000">14/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="14/Feb/17 23:30"><time datetime="2017-02-14T23:30:18+0000">14/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow13043115" rel="13043115" data-issuekey="MSCMPUB-29" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-29" href="https://issues.apache.org/jira/browse/MSCMPUB-29"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-29" href="https://issues.apache.org/jira/browse/MSCMPUB-29">MSCMPUB-29</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-29" href="https://issues.apache.org/jira/browse/MSCMPUB-29">Website still points to jira.codehaus.org</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="gboue" id="assignee_gboue" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=gboue">Guillaume Boué</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="sebb@apache.org" id="reporter_sebb@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=sebb%40apache.org">Sebb</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Feb/17 23:27"><time datetime="2017-02-14T23:27:30+0000">14/Feb/17</time></span> </td>
+                                            <td class="updated"> <span title="25/Feb/17 14:53"><time datetime="2017-02-25T14:53:18+0000">25/Feb/17</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12895497" rel="12895497" data-issuekey="MSCMPUB-20" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-20" href="https://issues.apache.org/jira/browse/MSCMPUB-20"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-20" href="https://issues.apache.org/jira/browse/MSCMPUB-20">MSCMPUB-20</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-20" href="https://issues.apache.org/jira/browse/MSCMPUB-20">Can build too-long command lines on MacOSX and fail</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="reporter_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="22/Sep/15 15:47"><time datetime="2015-09-22T15:47:36+0000">22/Sep/15</time></span> </td>
+                                            <td class="updated"> <span title="27/Dec/15 13:27"><time datetime="2015-12-27T13:27:00+0000">27/Dec/15</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12807922" rel="12807922" data-issuekey="MSCMPUB-19" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-19" href="https://issues.apache.org/jira/browse/MSCMPUB-19"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-19" href="https://issues.apache.org/jira/browse/MSCMPUB-19">MSCMPUB-19</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-19" href="https://issues.apache.org/jira/browse/MSCMPUB-19">Plugin fails to publish to SCMs whose working copies don&#39;t have any kind of private storage</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="assignee_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="rkorpachyov" id="reporter_rkorpachyov" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=rkorpachyov">Roman Korpachyov</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Feb/15 10:24"><time datetime="2015-02-17T10:24:35+0000">17/Feb/15</time></span> </td>
+                                            <td class="updated"> <span title="09/Aug/16 11:38"><time datetime="2016-08-09T11:38:20+0000">09/Aug/16</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12807915" rel="12807915" data-issuekey="MSCMPUB-13" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-13" href="https://issues.apache.org/jira/browse/MSCMPUB-13"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-13" href="https://issues.apache.org/jira/browse/MSCMPUB-13">MSCMPUB-13</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-13" href="https://issues.apache.org/jira/browse/MSCMPUB-13">automaticRemotePathCreation does not create parent directories</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mikoch" id="reporter_mikoch" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mikoch">Michael Koch</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="13/Mar/14 09:28"><time datetime="2014-03-13T09:28:38+0000">13/Mar/14</time></span> </td>
+                                            <td class="updated"> <span title="04/May/14 04:02"><time datetime="2014-05-04T04:02:48+0000">04/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12807912" rel="12807912" data-issuekey="MSCMPUB-12" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-12" href="https://issues.apache.org/jira/browse/MSCMPUB-12"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-12" href="https://issues.apache.org/jira/browse/MSCMPUB-12">MSCMPUB-12</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-12" href="https://issues.apache.org/jira/browse/MSCMPUB-12">scmBranch ignored when tryUpdate is specified</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="hboutemy" id="assignee_hboutemy" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=hboutemy">Hervé Boutemy</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="duns" id="reporter_duns" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=duns">Mark Donszelmann</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Feb/14 03:39"><time datetime="2014-02-12T03:39:24+0000">12/Feb/14</time></span> </td>
+                                            <td class="updated"> <span title="04/May/14 03:43"><time datetime="2014-05-04T03:43:34+0000">04/May/14</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12807927" rel="12807927" data-issuekey="MSCMPUB-9" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-9" href="https://issues.apache.org/jira/browse/MSCMPUB-9"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-9" href="https://issues.apache.org/jira/browse/MSCMPUB-9">MSCMPUB-9</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-9" href="https://issues.apache.org/jira/browse/MSCMPUB-9">Missing checkout / stage directory problem </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bmargulies" id="reporter_bmargulies" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bmargulies">Benson Margulies</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="27/Feb/13 13:29"><time datetime="2013-02-27T13:29:21+0000">27/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="28/Feb/13 13:05"><time datetime="2013-02-28T13:05:17+0000">28/Feb/13</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12807914" rel="12807914" data-issuekey="MSCMPUB-2" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="MSCMPUB-2" href="https://issues.apache.org/jira/browse/MSCMPUB-2"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="MSCMPUB-2" href="https://issues.apache.org/jira/browse/MSCMPUB-2">MSCMPUB-2</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="MSCMPUB-2" href="https://issues.apache.org/jira/browse/MSCMPUB-2">publish-scm can fail with many files on windows.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="mihobson" id="assignee_mihobson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mihobson">Mark Hobson</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mihobson" id="reporter_mihobson" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mihobson">Mark Hobson</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="09/Oct/12 16:59"><time datetime="2012-10-09T16:59:55+0000">09/Oct/12</time></span> </td>
+                                            <td class="updated"> <span title="01/Nov/12 15:53"><time datetime="2012-11-01T15:53:26+0000">01/Nov/12</time></span> </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>

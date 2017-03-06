@@ -1,0 +1,1621 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASF JIRA</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    
+    <link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/d41d8cd98f00b204e9800998ecf8427e-CDN/en_UK-6etnyn/6346/226/5.6.7-jira-1/_/download/batch/com.atlassian.auiplugin:aui-experimental-labels/com.atlassian.auiplugin:aui-experimental-labels.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://issues.apache.org/jira/s/9cfdf10e8fc047a44b08ed031e1f0ed1-CDN/en_UK-6etnyn/6346/226/1.0/_/download/batch/jira.webresources:global-static/jira.webresources:global-static.css" media="all">
+<script type="text/javascript" src="https://issues.apache.org/jira/s/94db0efd5543181d59d1d6b7ee0bea5f-CDN/en_UK-6etnyn/6346/226/163/_/download/superbatch/js/batch.js?locale=en-UK" ></script>
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-printable">
+<header id="previous-view">
+    <nav class="aui-toolbar">
+        <div class="toolbar-split toolbar-split-right">
+            <ul class="toolbar-group">
+                <li class="toolbar-item">
+                    <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+COCOON3+AND+issuetype+%3D+Bug" class="toolbar-trigger">Back to previous view</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div id="printable-content">
+<div class="result-header">
+    <h3><a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+COCOON3+AND+issuetype+%3D+Bug">ASF JIRA</a></h3>
+                        
+                    
+                    
+                    
+                    
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldpid">Project:</label><span id="fieldpid" class="fieldValue">
+    
+                <a href="https://issues.apache.org/jira/browse/COCOON3" title="Browse Cocoon 3 project">Cocoon 3</a>                    </span></div>
+
+                                        <div class="searcherValue">
+    
+            <label class="fieldLabel" for="fieldtype">Type:</label><span id="fieldtype" class="fieldValue">
+    
+
+                        Bug            
+    </span></div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="searcherValue">
+            <label class="fieldLabel">Sorted by:</label>
+                            Key descending
+                    </div>
+                    <div class="results-count">
+            <b>1</b>&ndash;<b>44</b> of <b>44</b>
+            as at: <b>05/Mar/17 16:55</b>
+        </div>
+    </div>  
+
+
+
+                                        <table id="issuetable"  >
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            T
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            P
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow13004286" rel="13004286" data-issuekey="COCOON3-138" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-138" href="https://issues.apache.org/jira/browse/COCOON3-138"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-138" href="https://issues.apache.org/jira/browse/COCOON3-138">COCOON3-138</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-138" href="https://issues.apache.org/jira/browse/COCOON3-138">Cannot build with JDK 1.8</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="reporter_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Sep/16 12:11"><time datetime="2016-09-12T12:11:45+0000">12/Sep/16</time></span> </td>
+                                            <td class="updated"> <span title="12/Sep/16 12:12"><time datetime="2016-09-12T12:12:01+0000">12/Sep/16</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12655980" rel="12655980" data-issuekey="COCOON3-127" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-127" href="https://issues.apache.org/jira/browse/COCOON3-127"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-127" href="https://issues.apache.org/jira/browse/COCOON3-127">COCOON3-127</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-127" href="https://issues.apache.org/jira/browse/COCOON3-127">Buggy 3.0.0-alpha-3 Maven archetypes</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="reporter_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Jul/13 07:33"><time datetime="2013-07-03T07:33:56+0000">03/Jul/13</time></span> </td>
+                                            <td class="updated"> <span title="04/Aug/14 05:31"><time datetime="2014-08-04T05:31:55+0000">04/Aug/14</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12649774" rel="12649774" data-issuekey="COCOON3-124" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-124" href="https://issues.apache.org/jira/browse/COCOON3-124"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-124" href="https://issues.apache.org/jira/browse/COCOON3-124">COCOON3-124</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-124" href="https://issues.apache.org/jira/browse/COCOON3-124">Spring Configurator does not pick running mode as system property.</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mansour" id="reporter_mansour" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mansour">Mansour Al Akeel</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="28/May/13 20:01"><time datetime="2013-05-28T20:01:08+0000">28/May/13</time></span> </td>
+                                            <td class="updated"> <span title="29/May/13 07:41"><time datetime="2013-05-29T07:41:37+0000">29/May/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12640523" rel="12640523" data-issuekey="COCOON3-123" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-123" href="https://issues.apache.org/jira/browse/COCOON3-123"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-123" href="https://issues.apache.org/jira/browse/COCOON3-123">COCOON3-123</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-123" href="https://issues.apache.org/jira/browse/COCOON3-123">schema validation error with namespaces provoke a double declaration of &lt;?xml</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thorsten" id="reporter_thorsten" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thorsten">Thorsten Scherler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="03/Apr/13 14:26"><time datetime="2013-04-03T14:26:29+0000">03/Apr/13</time></span> </td>
+                                            <td class="updated"> <span title="03/Apr/13 14:26"><time datetime="2013-04-03T14:26:29+0000">03/Apr/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12633239" rel="12633239" data-issuekey="COCOON3-121" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-121" href="https://issues.apache.org/jira/browse/COCOON3-121"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-121" href="https://issues.apache.org/jira/browse/COCOON3-121">COCOON3-121</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-121" href="https://issues.apache.org/jira/browse/COCOON3-121">Create a generic generator that creates a root elemement and wraps the destination stream into it</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="thorsten" id="assignee_thorsten" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thorsten">Thorsten Scherler</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thorsten" id="reporter_thorsten" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thorsten">Thorsten Scherler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="20/Feb/13 18:04"><time datetime="2013-02-20T18:04:04+0000">20/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="26/Feb/13 12:19"><time datetime="2013-02-26T12:19:06+0000">26/Feb/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12632842" rel="12632842" data-issuekey="COCOON3-120" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-120" href="https://issues.apache.org/jira/browse/COCOON3-120"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-120" href="https://issues.apache.org/jira/browse/COCOON3-120">COCOON3-120</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-120" href="https://issues.apache.org/jira/browse/COCOON3-120">NekoGenerator is loosing encoding </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thorsten" id="reporter_thorsten" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thorsten">Thorsten Scherler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="18/Feb/13 13:36"><time datetime="2013-02-18T13:36:46+0000">18/Feb/13</time></span> </td>
+                                            <td class="updated"> <span title="19/Feb/13 13:20"><time datetime="2013-02-19T13:20:01+0000">19/Feb/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12624611" rel="12624611" data-issuekey="COCOON3-116" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-116" href="https://issues.apache.org/jira/browse/COCOON3-116"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-116" href="https://issues.apache.org/jira/browse/COCOON3-116">COCOON3-116</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-116" href="https://issues.apache.org/jira/browse/COCOON3-116">Archetype block fix for copy resources</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="antonio moreno" id="reporter_antonio moreno" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=antonio+moreno">Antonio M. Mérida</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="19/Dec/12 11:29"><time datetime="2012-12-19T11:29:24+0000">19/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/13 13:58"><time datetime="2013-01-19T13:58:12+0000">19/Jan/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12623025" rel="12623025" data-issuekey="COCOON3-115" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-115" href="https://issues.apache.org/jira/browse/COCOON3-115"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-115" href="https://issues.apache.org/jira/browse/COCOON3-115">COCOON3-115</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-115" href="https://issues.apache.org/jira/browse/COCOON3-115">Adding Saxon-HE 9.4 as dependency [cocoon-sax] broke unit tests</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="assignee_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="reporter_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Dec/12 18:15"><time datetime="2012-12-08T18:15:38+0000">08/Dec/12</time></span> </td>
+                                            <td class="updated"> <span title="08/Dec/12 20:26"><time datetime="2012-12-08T20:26:10+0000">08/Dec/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12617962" rel="12617962" data-issuekey="COCOON3-114" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-114" href="https://issues.apache.org/jira/browse/COCOON3-114"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-114" href="https://issues.apache.org/jira/browse/COCOON3-114">COCOON3-114</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-114" href="https://issues.apache.org/jira/browse/COCOON3-114">The next year and previous year is incorrect of CalendarGenerator in the cocoon-optional module</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="assignee_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="zhiqiang,he" id="reporter_zhiqiang,he" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=zhiqiang%2Che">ZhiQiang,He</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="28/Nov/12 11:24"><time datetime="2012-11-28T11:24:42+0000">28/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="28/Nov/12 14:13"><time datetime="2012-11-28T14:13:58+0000">28/Nov/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12617825" rel="12617825" data-issuekey="COCOON3-113" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-113" href="https://issues.apache.org/jira/browse/COCOON3-113"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-113" href="https://issues.apache.org/jira/browse/COCOON3-113">COCOON3-113</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-113" href="https://issues.apache.org/jira/browse/COCOON3-113">Error invocations get cached</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="reporter_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Nov/12 17:04"><time datetime="2012-11-27T17:04:18+0000">27/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="27/Nov/12 20:14"><time datetime="2012-11-27T20:14:00+0000">27/Nov/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12616090" rel="12616090" data-issuekey="COCOON3-111" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-111" href="https://issues.apache.org/jira/browse/COCOON3-111"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-111" href="https://issues.apache.org/jira/browse/COCOON3-111">COCOON3-111</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-111" href="https://issues.apache.org/jira/browse/COCOON3-111">SiteMap node parameters are not evaluated against a LanguageInterpreter</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="assignee_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="reporter_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/Nov/12 17:45"><time datetime="2012-11-14T17:45:38+0000">14/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="14/Nov/12 18:14"><time datetime="2012-11-14T18:14:15+0000">14/Nov/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12615910" rel="12615910" data-issuekey="COCOON3-110" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-110" href="https://issues.apache.org/jira/browse/COCOON3-110"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-110" href="https://issues.apache.org/jira/browse/COCOON3-110">COCOON3-110</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-110" href="https://issues.apache.org/jira/browse/COCOON3-110">baseUrl isalways overwritten by AbstractSitemapNode</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="assignee_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="reporter_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Nov/12 15:53"><time datetime="2012-11-13T15:53:08+0000">13/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="13/Nov/12 16:07"><time datetime="2012-11-13T16:07:45+0000">13/Nov/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12615290" rel="12615290" data-issuekey="COCOON3-108" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-108" href="https://issues.apache.org/jira/browse/COCOON3-108"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-108" href="https://issues.apache.org/jira/browse/COCOON3-108">COCOON3-108</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-108" href="https://issues.apache.org/jira/browse/COCOON3-108">Can not import/include style sheet</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="mansour" id="reporter_mansour" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=mansour">Mansour Al Akeel</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="08/Nov/12 04:48"><time datetime="2012-11-08T04:48:17+0000">08/Nov/12</time></span> </td>
+                                            <td class="updated"> <span title="10/Nov/12 11:41"><time datetime="2012-11-10T11:41:32+0000">10/Nov/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12609191" rel="12609191" data-issuekey="COCOON3-107" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-107" href="https://issues.apache.org/jira/browse/COCOON3-107"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-107" href="https://issues.apache.org/jira/browse/COCOON3-107">COCOON3-107</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-107" href="https://issues.apache.org/jira/browse/COCOON3-107">With latest cocoon-block-deployment and cocoon-service-impl SNAPSHOTs, integration tests fail</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="reporter_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> <span title="26/Sep/12 08:08"><time datetime="2012-09-26T08:08:33+0000">26/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="03/Dec/12 11:19"><time datetime="2012-12-03T11:19:43+0000">03/Dec/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12607515" rel="12607515" data-issuekey="COCOON3-105" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-105" href="https://issues.apache.org/jira/browse/COCOON3-105"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-105" href="https://issues.apache.org/jira/browse/COCOON3-105">COCOON3-105</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-105" href="https://issues.apache.org/jira/browse/COCOON3-105">webapp fails if on the same servlet container is a c2.2.1 or other c3 webapp running </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thorsten" id="reporter_thorsten" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thorsten">Thorsten Scherler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/blocker.png" height="16" width="16" border="0" align="absmiddle" alt="Blocker" title="Blocker - Blocks development and/or testing work, production could not run">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Sep/12 20:49"><time datetime="2012-09-13T20:49:38+0000">13/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="13/Dec/12 14:43"><time datetime="2012-12-13T14:43:06+0000">13/Dec/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12607488" rel="12607488" data-issuekey="COCOON3-104" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-104" href="https://issues.apache.org/jira/browse/COCOON3-104"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-104" href="https://issues.apache.org/jira/browse/COCOON3-104">COCOON3-104</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-104" href="https://issues.apache.org/jira/browse/COCOON3-104">org.apache.cocoon.archetype-webapp creating a new seed fails due to missing logback conf</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thorsten" id="reporter_thorsten" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thorsten">Thorsten Scherler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="13/Sep/12 17:40"><time datetime="2012-09-13T17:40:07+0000">13/Sep/12</time></span> </td>
+                                            <td class="updated"> <span title="13/Sep/12 18:27"><time datetime="2012-09-13T18:27:43+0000">13/Sep/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12605338" rel="12605338" data-issuekey="COCOON3-103" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-103" href="https://issues.apache.org/jira/browse/COCOON3-103"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-103" href="https://issues.apache.org/jira/browse/COCOON3-103">COCOON3-103</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-103" href="https://issues.apache.org/jira/browse/COCOON3-103">Cannot pass &lt;map:parameter&gt;&#39;s to components inside of a &lt;map:select&gt; </a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jos.snellings@upperware.biz" id="reporter_jos.snellings@upperware.biz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jos.snellings%40upperware.biz">Jos Snellings</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="29/Aug/12 06:01"><time datetime="2012-08-29T06:01:42+0000">29/Aug/12</time></span> </td>
+                                            <td class="updated"> <span title="25/Sep/12 12:30"><time datetime="2012-09-25T12:30:36+0000">25/Sep/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12550758" rel="12550758" data-issuekey="COCOON3-98" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-98" href="https://issues.apache.org/jira/browse/COCOON3-98"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-98" href="https://issues.apache.org/jira/browse/COCOON3-98">COCOON3-98</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-98" href="https://issues.apache.org/jira/browse/COCOON3-98">RegexpLinkRewriterTransformer doesn&#39;t guarantees rules order</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jpuerto" id="reporter_jpuerto" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jpuerto">Javier Puerto</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="12/Apr/12 23:29"><time datetime="2012-04-12T23:29:16+0000">12/Apr/12</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/13 13:51"><time datetime="2013-01-19T13:51:44+0000">19/Jan/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12549391" rel="12549391" data-issuekey="COCOON3-97" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-97" href="https://issues.apache.org/jira/browse/COCOON3-97"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-97" href="https://issues.apache.org/jira/browse/COCOON3-97">COCOON3-97</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-97" href="https://issues.apache.org/jira/browse/COCOON3-97">Wrong status response code for sitemap errors</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jpuerto" id="reporter_jpuerto" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jpuerto">Javier Puerto</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Apr/12 20:18"><time datetime="2012-04-03T20:18:05+0000">03/Apr/12</time></span> </td>
+                                            <td class="updated"> <span title="04/Apr/12 15:41"><time datetime="2012-04-04T15:41:26+0000">04/Apr/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12548941" rel="12548941" data-issuekey="COCOON3-95" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-95" href="https://issues.apache.org/jira/browse/COCOON3-95"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-95" href="https://issues.apache.org/jira/browse/COCOON3-95">COCOON3-95</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-95" href="https://issues.apache.org/jira/browse/COCOON3-95">Sitemap file not validated against schema</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jpuerto" id="reporter_jpuerto" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jpuerto">Javier Puerto</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Mar/12 10:40"><time datetime="2012-03-31T10:40:18+0000">31/Mar/12</time></span> </td>
+                                            <td class="updated"> <span title="04/Apr/12 06:43"><time datetime="2012-04-04T06:43:19+0000">04/Apr/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12546520" rel="12546520" data-issuekey="COCOON3-93" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-93" href="https://issues.apache.org/jira/browse/COCOON3-93"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-93" href="https://issues.apache.org/jira/browse/COCOON3-93">COCOON3-93</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-93" href="https://issues.apache.org/jira/browse/COCOON3-93">Concurrency issues with ComponentProvider</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jpuerto" id="reporter_jpuerto" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jpuerto">Javier Puerto</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="15/Mar/12 01:31"><time datetime="2012-03-15T01:31:35+0000">15/Mar/12</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/13 13:51"><time datetime="2013-01-19T13:51:38+0000">19/Jan/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12536321" rel="12536321" data-issuekey="COCOON3-85" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-85" href="https://issues.apache.org/jira/browse/COCOON3-85"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-85" href="https://issues.apache.org/jira/browse/COCOON3-85">COCOON3-85</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-85" href="https://issues.apache.org/jira/browse/COCOON3-85">cocoon-spring-configurator doesn&#39;t work with latest (&gt; 1.6.6) AspectJ&#39;s static optimizer</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="igorzep" id="reporter_igorzep" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=igorzep">Igor Malinin</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="23/Dec/11 22:30"><time datetime="2011-12-23T22:30:36+0000">23/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/13 13:53"><time datetime="2013-01-19T13:53:50+0000">19/Jan/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12534768" rel="12534768" data-issuekey="COCOON3-83" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-83" href="https://issues.apache.org/jira/browse/COCOON3-83"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-83" href="https://issues.apache.org/jira/browse/COCOON3-83">COCOON3-83</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-83" href="https://issues.apache.org/jira/browse/COCOON3-83">Encoding bug in XMLGenerator (SAX version) when passing a String to the constructor</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="albertdevs" id="reporter_albertdevs" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=albertdevs">Bert Jacobs</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Dec/11 11:26"><time datetime="2011-12-12T11:26:00+0000">12/Dec/11</time></span> </td>
+                                            <td class="updated"> <span title="12/Dec/11 13:13"><time datetime="2011-12-12T13:13:27+0000">12/Dec/11</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12532603" rel="12532603" data-issuekey="COCOON3-81" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-81" href="https://issues.apache.org/jira/browse/COCOON3-81"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-81" href="https://issues.apache.org/jira/browse/COCOON3-81">COCOON3-81</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-81" href="https://issues.apache.org/jira/browse/COCOON3-81">cocoon webapp fails to build under Java 7 </a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="thorsten" id="reporter_thorsten" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=thorsten">Thorsten Scherler</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> <span title="24/Nov/11 11:07"><time datetime="2011-11-24T11:07:35+0000">24/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="28/Jan/13 07:50"><time datetime="2013-01-28T07:50:01+0000">28/Jan/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12531204" rel="12531204" data-issuekey="COCOON3-80" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-80" href="https://issues.apache.org/jira/browse/COCOON3-80"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-80" href="https://issues.apache.org/jira/browse/COCOON3-80">COCOON3-80</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-80" href="https://issues.apache.org/jira/browse/COCOON3-80">Typo in package name in cocoon-rest-optional (cocooon)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="kkolinko" id="reporter_kkolinko" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=kkolinko">Konstantin Kolinko</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="12/Nov/11 01:02"><time datetime="2011-11-12T01:02:49+0000">12/Nov/11</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/13 14:02"><time datetime="2013-01-19T14:02:01+0000">19/Jan/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12529476" rel="12529476" data-issuekey="COCOON3-79" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-79" href="https://issues.apache.org/jira/browse/COCOON3-79"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-79" href="https://issues.apache.org/jira/browse/COCOON3-79">COCOON3-79</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-79" href="https://issues.apache.org/jira/browse/COCOON3-79">Sitemap parameters are always cast to String</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="assignee_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ilgrosso" id="reporter_ilgrosso" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ilgrosso">Francesco Chicchiriccò</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="31/Oct/11 13:03"><time datetime="2011-10-31T13:03:05+0000">31/Oct/11</time></span> </td>
+                                            <td class="updated"> <span title="28/Dec/11 05:13"><time datetime="2011-12-28T05:13:22+0000">28/Dec/11</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12513115" rel="12513115" data-issuekey="COCOON3-68" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-68" href="https://issues.apache.org/jira/browse/COCOON3-68"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-68" href="https://issues.apache.org/jira/browse/COCOON3-68">COCOON3-68</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-68" href="https://issues.apache.org/jira/browse/COCOON3-68">calling setup on the pipeline overrides any parameters set on the individual pipeline component</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="robbypelssers" id="reporter_robbypelssers" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=robbypelssers">Robby Pelssers</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not A Problem
+</td>
+                                            <td class="created"> <span title="07/Jul/11 09:55"><time datetime="2011-07-07T09:55:43+0000">07/Jul/11</time></span> </td>
+                                            <td class="updated"> <span title="07/Jul/11 13:14"><time datetime="2011-07-07T13:14:49+0000">07/Jul/11</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12471796" rel="12471796" data-issuekey="COCOON3-58" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-58" href="https://issues.apache.org/jira/browse/COCOON3-58"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-58" href="https://issues.apache.org/jira/browse/COCOON3-58">COCOON3-58</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-58" href="https://issues.apache.org/jira/browse/COCOON3-58">The org.apache.cocoon.optional.pipeline.components.sax.jaxb.JAXBGenerator is incomplete</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="simone.tripodi" id="assignee_simone.tripodi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simone.tripodi">Simone Tripodi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="simone.tripodi" id="reporter_simone.tripodi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simone.tripodi">Simone Tripodi</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="17/Aug/10 12:06"><time datetime="2010-08-17T12:06:33+0000">17/Aug/10</time></span> </td>
+                                            <td class="updated"> <span title="23/Apr/11 14:51"><time datetime="2011-04-23T14:51:32+0000">23/Apr/11</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12458374" rel="12458374" data-issuekey="COCOON3-53" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-53" href="https://issues.apache.org/jira/browse/COCOON3-53"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-53" href="https://issues.apache.org/jira/browse/COCOON3-53">COCOON3-53</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-53" href="https://issues.apache.org/jira/browse/COCOON3-53">Cocoon 3: XMLSerializer caches all</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="jos.snellings@upperware.biz" id="reporter_jos.snellings@upperware.biz" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=jos.snellings%40upperware.biz">Jos Snellings</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="07/Mar/10 07:52"><time datetime="2010-03-07T07:52:17+0000">07/Mar/10</time></span> </td>
+                                            <td class="updated"> <span title="09/Mar/10 13:27"><time datetime="2010-03-09T13:27:35+0000">09/Mar/10</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12455087" rel="12455087" data-issuekey="COCOON3-52" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-52" href="https://issues.apache.org/jira/browse/COCOON3-52"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-52" href="https://issues.apache.org/jira/browse/COCOON3-52">COCOON3-52</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-52" href="https://issues.apache.org/jira/browse/COCOON3-52">XMLSerializer setup method resets output method to xml</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="simone.tripodi" id="assignee_simone.tripodi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simone.tripodi">Simone Tripodi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ceyates" id="reporter_ceyates" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ceyates">Charles Yates</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="02/Feb/10 17:44"><time datetime="2010-02-02T17:44:35+0000">02/Feb/10</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/10 20:39"><time datetime="2010-02-08T20:39:16+0000">08/Feb/10</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12447035" rel="12447035" data-issuekey="COCOON3-51" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-51" href="https://issues.apache.org/jira/browse/COCOON3-51"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-51" href="https://issues.apache.org/jira/browse/COCOON3-51">COCOON3-51</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-51" href="https://issues.apache.org/jira/browse/COCOON3-51">XIncludeTransformer sends extra startDocument and endDocument events</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="simone.tripodi" id="assignee_simone.tripodi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simone.tripodi">Simone Tripodi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ceyates" id="reporter_ceyates" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ceyates">Charles Yates</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jan/10 18:55"><time datetime="2010-01-29T18:55:13+0000">29/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="08/Feb/10 20:27"><time datetime="2010-02-08T20:27:18+0000">08/Feb/10</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12447031" rel="12447031" data-issuekey="COCOON3-50" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-50" href="https://issues.apache.org/jira/browse/COCOON3-50"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-50" href="https://issues.apache.org/jira/browse/COCOON3-50">COCOON3-50</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-50" href="https://issues.apache.org/jira/browse/COCOON3-50">SAXException related to endPrefixMapping in XIncludeTransformer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="simone.tripodi" id="assignee_simone.tripodi" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=simone.tripodi">Simone Tripodi</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ceyates" id="reporter_ceyates" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ceyates">Charles Yates</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jan/10 18:39"><time datetime="2010-01-29T18:39:16+0000">29/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="30/Jan/10 14:08"><time datetime="2010-01-30T14:08:32+0000">30/Jan/10</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12447028" rel="12447028" data-issuekey="COCOON3-49" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-49" href="https://issues.apache.org/jira/browse/COCOON3-49"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-49" href="https://issues.apache.org/jira/browse/COCOON3-49">COCOON3-49</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-49" href="https://issues.apache.org/jira/browse/COCOON3-49">Four pom.xml files contain duplicate dependencies or deprecated properties.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="assignee_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="ceyates" id="reporter_ceyates" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=ceyates">Charles Yates</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="29/Jan/10 17:35"><time datetime="2010-01-29T17:35:53+0000">29/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="09/Mar/10 09:20"><time datetime="2010-03-09T09:20:32+0000">09/Mar/10</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12444784" rel="12444784" data-issuekey="COCOON3-48" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-48" href="https://issues.apache.org/jira/browse/COCOON3-48"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-48" href="https://issues.apache.org/jira/browse/COCOON3-48">COCOON3-48</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-48" href="https://issues.apache.org/jira/browse/COCOON3-48">Relative access of deeply nested matcher parameters doesn&#39;t work</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="reporter_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="06/Jan/10 12:06"><time datetime="2010-01-06T12:06:47+0000">06/Jan/10</time></span> </td>
+                                            <td class="updated"> <span title="19/Jan/13 13:54"><time datetime="2013-01-19T13:54:47+0000">19/Jan/13</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12425457" rel="12425457" data-issuekey="COCOON3-37" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-37" href="https://issues.apache.org/jira/browse/COCOON3-37"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-37" href="https://issues.apache.org/jira/browse/COCOON3-37">COCOON3-37</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-37" href="https://issues.apache.org/jira/browse/COCOON3-37">cocoon-sample-servlet-service.xml references local file</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="assignee_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="cleiter" id="reporter_cleiter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=cleiter">Christoph Leiter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="14/May/09 13:09"><time datetime="2009-05-14T13:09:55+0000">14/May/09</time></span> </td>
+                                            <td class="updated"> <span title="19/May/09 20:44"><time datetime="2009-05-19T20:44:41+0000">19/May/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12423909" rel="12423909" data-issuekey="COCOON3-34" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-34" href="https://issues.apache.org/jira/browse/COCOON3-34"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-34" href="https://issues.apache.org/jira/browse/COCOON3-34">COCOON3-34</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-34" href="https://issues.apache.org/jira/browse/COCOON3-34">Attaching an aspect to &quot;org.apache.cocoon.sitemap.node.Sitemap&quot; leads to a ClassCastException</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="assignee_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="apinter" id="reporter_apinter" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=apinter">Andreas Pinter</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="27/Apr/09 16:53"><time datetime="2009-04-27T16:53:15+0000">27/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="14/May/09 22:31"><time datetime="2009-05-14T22:31:19+0000">14/May/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12422379" rel="12422379" data-issuekey="COCOON3-32" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-32" href="https://issues.apache.org/jira/browse/COCOON3-32"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-32" href="https://issues.apache.org/jira/browse/COCOON3-32">COCOON3-32</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-32" href="https://issues.apache.org/jira/browse/COCOON3-32">Spring AOP doesn&#39;t work with REST controller beans</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="assignee_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="reporter_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="08/Apr/09 16:06"><time datetime="2009-04-08T16:06:10+0000">08/Apr/09</time></span> </td>
+                                            <td class="updated"> <span title="15/Apr/09 10:35"><time datetime="2009-04-15T10:35:26+0000">15/Apr/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12414626" rel="12414626" data-issuekey="COCOON3-31" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-31" href="https://issues.apache.org/jira/browse/COCOON3-31"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-31" href="https://issues.apache.org/jira/browse/COCOON3-31">COCOON3-31</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-31" href="https://issues.apache.org/jira/browse/COCOON3-31">Typo in &quot;request-paramters&quot; tag name in RequestParametersGenerator.java</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="steven.dolg" id="assignee_steven.dolg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=steven.dolg">Steven Dolg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="bkr" id="reporter_bkr" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=bkr">Bjoern Kriews</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/trivial.png" height="16" width="16" border="0" align="absmiddle" alt="Trivial" title="Trivial - Cosmetic problem like misspelt words or misaligned text.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="11/Feb/09 23:56"><time datetime="2009-02-11T23:56:14+0000">11/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="12/Feb/09 09:38"><time datetime="2009-02-12T09:38:03+0000">12/Feb/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12414493" rel="12414493" data-issuekey="COCOON3-30" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-30" href="https://issues.apache.org/jira/browse/COCOON3-30"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-30" href="https://issues.apache.org/jira/browse/COCOON3-30">COCOON3-30</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-30" href="https://issues.apache.org/jira/browse/COCOON3-30">The current implementation of the ParameterCacheKey actually breaks the caching</a>
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="steven.dolg" id="reporter_steven.dolg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=steven.dolg">Steven Dolg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/critical.png" height="16" width="16" border="0" align="absmiddle" alt="Critical" title="Critical - Crashes, loss of data, severe memory leak.">
+    </td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> <span title="10/Feb/09 14:38"><time datetime="2009-02-10T14:38:27+0000">10/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="01/Jun/12 21:16"><time datetime="2012-06-01T21:16:39+0000">01/Jun/12</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12413853" rel="12413853" data-issuekey="COCOON3-25" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-25" href="https://issues.apache.org/jira/browse/COCOON3-25"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-25" href="https://issues.apache.org/jira/browse/COCOON3-25">COCOON3-25</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-25" href="https://issues.apache.org/jira/browse/COCOON3-25">AbstractXMLPipe does the same as XMLConsumerAdapter.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="assignee_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="reporter_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Feb/09 06:50"><time datetime="2009-02-03T06:50:32+0000">03/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="03/Feb/09 06:52"><time datetime="2009-02-03T06:52:47+0000">03/Feb/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12413850" rel="12413850" data-issuekey="COCOON3-24" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-24" href="https://issues.apache.org/jira/browse/COCOON3-24"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-24" href="https://issues.apache.org/jira/browse/COCOON3-24">COCOON3-24</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-24" href="https://issues.apache.org/jira/browse/COCOON3-24">Cleanup PipelineComponent#finish()</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="assignee_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="reinhard@apache.org" id="reporter_reinhard@apache.org" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=reinhard%40apache.org">Reinhard Poetz</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="03/Feb/09 06:23"><time datetime="2009-02-03T06:23:37+0000">03/Feb/09</time></span> </td>
+                                            <td class="updated"> <span title="03/Feb/09 06:56"><time datetime="2009-02-03T06:56:46+0000">03/Feb/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12413625" rel="12413625" data-issuekey="COCOON3-23" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-23" href="https://issues.apache.org/jira/browse/COCOON3-23"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-23" href="https://issues.apache.org/jira/browse/COCOON3-23">COCOON3-23</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-23" href="https://issues.apache.org/jira/browse/COCOON3-23">StackOverflowError on CachingPipeline.setup(OutputStream)</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="steven.dolg" id="assignee_steven.dolg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=steven.dolg">Steven Dolg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="alexanderdaniel" id="reporter_alexanderdaniel" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=alexanderdaniel">Alexander Daniel</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="30/Jan/09 14:46"><time datetime="2009-01-30T14:46:12+0000">30/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="30/Jan/09 20:16"><time datetime="2009-01-30T20:16:51+0000">30/Jan/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12413326" rel="12413326" data-issuekey="COCOON3-17" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-17" href="https://issues.apache.org/jira/browse/COCOON3-17"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-17" href="https://issues.apache.org/jira/browse/COCOON3-17">COCOON3-17</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-17" href="https://issues.apache.org/jira/browse/COCOON3-17">Introduce the marker interface StAXPipelineComponent for the generified Pipeline interface.</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="steven.dolg" id="assignee_steven.dolg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=steven.dolg">Steven Dolg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="steven.dolg" id="reporter_steven.dolg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=steven.dolg">Steven Dolg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/minor.png" height="16" width="16" border="0" align="absmiddle" alt="Minor" title="Minor - Minor loss of function, or other problem where easy workaround is present.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> <span title="26/Jan/09 23:23"><time datetime="2009-01-26T23:23:11+0000">26/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="07/Feb/09 12:28"><time datetime="2009-02-07T12:28:59+0000">07/Feb/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+
+
+                <tr id="issuerow12413321" rel="12413321" data-issuekey="COCOON3-16" class="issuerow">
+                                            <td class="issuetype">    <a class="issue-link" data-issue-key="COCOON3-16" href="https://issues.apache.org/jira/browse/COCOON3-16"> <img src="https://issues.apache.org/jira/images/icons/issuetypes/bug.png" height="16" width="16" border="0" align="absmiddle" alt="Bug" title="Bug - A problem which impairs or prevents the functions of the product."></a></td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="COCOON3-16" href="https://issues.apache.org/jira/browse/COCOON3-16">COCOON3-16</a>
+</td>
+                                            <td class="summary"><p>
+                <a class="issue-link" data-issue-key="COCOON3-16" href="https://issues.apache.org/jira/browse/COCOON3-16">Fix the class hierarchy of org.apache.cocoon.pipeline.component.Consumer</a>
+    </p>
+</td>
+                                            <td class="assignee">            <span class="tinylink">        <a class="user-hover" rel="steven.dolg" id="assignee_steven.dolg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=steven.dolg">Steven Dolg</a></span>
+    </td>
+                                            <td class="reporter">            <span class="tinylink">        <a class="user-hover" rel="steven.dolg" id="reporter_steven.dolg" href="https://issues.apache.org/jira/secure/ViewProfile.jspa?name=steven.dolg">Steven Dolg</a></span>
+    </td>
+                                            <td class="priority">            <img src="https://issues.apache.org/jira/images/icons/priorities/major.png" height="16" width="16" border="0" align="absmiddle" alt="Major" title="Major - Major loss of function.">
+    </td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> <span title="26/Jan/09 21:29"><time datetime="2009-01-26T21:29:51+0000">26/Jan/09</time></span> </td>
+                                            <td class="updated"> <span title="10/Feb/09 14:33"><time datetime="2009-02-10T14:33:40+0000">10/Feb/09</time></span> </td>
+                                            <td class="duedate"></td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            </div>
+<script>
+    // Prevent click events from doing stuff in this view
+    AJS.$(function(){
+        AJS.$('#printable-content *').unbind('click').click(function(e){ e.preventDefault() }).removeAttr('onclick');
+    });
+</script>
+</body>
+</html>
