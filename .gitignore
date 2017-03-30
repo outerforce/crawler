@@ -1,7 +1,6 @@
-/mysql-connector-python*
 .idea/*
 temp/
 *.txt
 mysql*
 MySQL*
-*.py
+src/*
