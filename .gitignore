@@ -2,3 +2,6 @@
 .idea/*
 temp/
 *.txt
+mysql*
+MySQL*
+*.py

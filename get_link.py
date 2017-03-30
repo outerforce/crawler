@@ -20,8 +20,7 @@ import os
 from subprocess import call
 import re
 
-##def parse(self, response):
-file = open("/home/irene/crawler/project_list.txt", "r")
+file = open("/home/irene/crawler/java_list.txt", "r")
 L = []
 for line in file:
     L.append(line.strip().upper())
@@ -29,10 +28,10 @@ url = []
 #print(L)
 for i in L:
     url.append("https://issues.apache.org/jira/sr/jira.issueviews:searchrequest-printable/temp/SearchRequest.html?"
-               "jqlQuery=project+%3D+"+str(i)+"+AND+issuetype+%3D+Bug&tempMax=1000")
+               "jqlQuery=project+%3D+"+str(i)+"+AND+issuetype+%3D+Bug+AND+status+%3D+Resolved&tempMax=1000")
     #print(url)
 print(len(url))
-outF = open("op1.txt", "w")
+outF = open("opjava.txt", "w")
 url = map(lambda x: x + "\n", url)
 outF.writelines(url)
 outF.close()
