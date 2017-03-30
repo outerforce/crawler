@@ -1,6 +1,9 @@
 .idea/*
 temp/
 *.txt
-mysql*
-MySQL*
 src/*
+egg.csv
+/output.txt
+/project_list.txt
+/op1.txt
+/link.txt
