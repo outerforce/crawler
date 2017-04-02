@@ -1,6 +1,7 @@
 .idea/*
 temp/
 *.txt
-src/*
-egg.csv
-txt/*
+txt/
+detail_data/
+target/
+
