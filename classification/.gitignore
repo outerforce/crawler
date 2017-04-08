@@ -3,4 +3,5 @@
 *.iml
 .idea/
 crawler.iml
+classification/*
 

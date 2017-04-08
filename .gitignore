@@ -5,3 +5,8 @@ txt/
 detail_data/
 target/
 
+data/
+full.csv
+spark-warehouse/
+text.csv
+total.csv
