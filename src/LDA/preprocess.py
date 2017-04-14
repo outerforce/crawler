@@ -15,12 +15,10 @@ import numpy as np  # a conventional alias
 import logging
 import codecs
 
-english_punctuations = [',', '.', ':', ';', '?', '(', ')', '[', ']', '&', '!', '*', '@', '#', '$', '%', '\'', '`', '/',
-                        '"', '=', '-']
 count = 0
 List = []
 
-with open('/home/irene/crawler/total.csv', newline='', encoding='utf-8') as f:
+with open('/home/irene/crawler/data/total.csv', newline='', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     documentInfo = []
     for row in reader:
