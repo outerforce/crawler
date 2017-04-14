@@ -1,9 +1,5 @@
 .idea/*
-*.txt
 txt/
 detail_data/
-data/
-full.csv
 summary/
-assignment6/
 detail_file/
