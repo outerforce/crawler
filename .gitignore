@@ -1,12 +1,9 @@
 .idea/*
-temp/
 *.txt
 txt/
 detail_data/
-target/
-
 data/
 full.csv
-spark-warehouse/
-text.csv
-total.csv
+summary/
+assignment6/
+detail_file/
