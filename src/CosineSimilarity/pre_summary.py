@@ -38,21 +38,15 @@ component = ["path", "config", "version", "compatib", "set", "linux", "window", 
              "mapreduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib", "framework",
              "network", "communicat", "socket", "online"]
 
-functional = ["parameter", "except", "logic", "hashcode", "hashmap", "map", "algorithm", "state", "thread", "hang",
-              "crash", "functionality", "block", "concurrency", "parallel", "conflict", "signature", "argument",
-              "compile", "log", "compute", "sync", "permi", "unexcep", "button", "deni", "invalid", "value", "input",
-              "test", "operat", "interrupt", "runtime", "filter", "restart", "optim", "user", "rollback", "exe",
-              "cookie", "break"]
 
-security = ["forbid", "submission", "session", "deadlock", "miss", "password", "license", "security", "access"]
+
+
 function = ["parameter", "except", "logic", "hashcode", "hashmap", "map", "algorithm", "state", "thread", "hang",
             "crash", "functionality", "block", "concurrency", "parallel", "conflict", "signature", "argument",
             "compile", "log", "compute", "sync", "permi", "unexcep", "button", "deni", "invalid", "value", "input",
             "test", "operat", "interrupt", "runtime", "filter", "restart", "optim", "user", "rollback", "exe", "cookie",
             "break", "forbid", "submission", "session", "deadlock", "miss", "password", "license", "security", "access"]
-datasource = ["dataformat", "schema", "file", "docs", "reference", "attribute", "table", "column", "field",
-              "corruption", "metadata", "index", "document", "metric", "disk", "format", "data", "source", "info",
-              "meta", "dir"]
+datasource = []
 
 # rootcause = ["semantic", "memory", "fault", "control", "flow", "variable", "typo", "case", "sensitivity", "leak",
 #              "nullpointer", "overflow", "initializ", "compile", "resource", "heap", "cache", "footprint", "chunk",
@@ -64,23 +58,18 @@ rootcause = ["semantic", "fault", "control", "flow", "variable", "typo", "case",
              "heap", "cache", "footprint", "chunk", "beyond", "boundar", "allocat", "record", "queue", "stack", "stuck",
              "memory", "location", "dynamic"]
 
-semantic = ["semantic", "fault", "control", "flow", "variable", "typo", "case", "sensitivity", "type", "empty",
-            "string", "int", "constant",
-            "illegal", "number", "incorrect"]
-memory = ["leak", "loop", "bucket", "nullpointer", "overflow", "initializ", "compile", "resource",
-          "heap", "cache", "footprint", "chunk", "beyond", "boundary", "allocat", "record", "queue", "stack", "stuck",
-          "memory", "location", "dynamic"]
+
+
 
 component = ["path", "config", "version", "compatib", "set", "linux", "window", "system", "environment", "install", "handl", "interface", "status", "ajax", "condition", "web", "package", "tool", "component", "function", "api", "java", "zookeeper", "kafka", "gui", "wizard", "scala", "jar", "schema", "application", "yarn", "hbase", "eclipse", "server", "broken", "service", "secondary", "namenode", "protocol", "packet", "bind", "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request", "spark", "hadoop", "mapreduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib", "framework", "network", "communicat", "socket", "online"]
 
 
-environment = ["path", "config", "version", "compatib", "setting", "linux", "window", "system", "environment", "install"]
 
-api = ["handl", "interface", "status", "ajax", "condition", "web", "package", "tool", "component", "function", "api","java","zookeeper", "kafka", "gui", "wizard", "scala", "jar","application", "yarn", "hbase", "eclipse"]
 
-network = ["server", "broken", "service", "secondary", "namenode", "protocol", "packet", "online", "bind", "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request", "network", "communicat", "socket"]
 
-framework = ["spark", "hadoop", "mapreduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib","framework"]
+
+
+
 path = "/home/irene/crawler/add.csv"
 
 
