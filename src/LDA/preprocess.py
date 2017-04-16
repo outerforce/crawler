@@ -17,7 +17,6 @@ import codecs
 
 count = 0
 List = []
-
 with open('/home/irene/crawler/data/total.csv', newline='', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
     documentInfo = []

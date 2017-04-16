@@ -30,10 +30,10 @@ from bs4 import BeautifulSoup
 import codecs
 import os
 
-list = glob.glob("/home/irene/crawler/detail_data/issues/*")
+list = glob.glob("/home/irene/crawler/detail_file/issues/*")
 result = []
 count = 0
-with open('description.csv', 'w', newline='') as csvfile:
+with open('short_desc.csv', 'w', newline='') as csvfile:
     for i in list:
         base = os.path.basename(i)
         # x = os.path.splitext(base)
@@ -46,6 +46,7 @@ with open('description.csv', 'w', newline='') as csvfile:
         # str = re.sub(r"\([^()]*\)|\[[^\[\]]*\]", "", issueKey)
         # issue = issueKey.strip('[]').strip(']')
         try:
+            #get the description
             desc1 = document.find("td", id="descriptionArea").find_all('p')
             num = len(desc1)
             print(num)
@@ -57,15 +58,27 @@ with open('description.csv', 'w', newline='') as csvfile:
                     str = str+temp
             else:
                 str = desc1[0].get_text()
-            #print(desc1)
-            #.find_all("p")[0].get_text().strip()
-            # if len(desc1) > 1000:
-            #     desc1 = desc1[:1000]
-            #desc2 = re.sub(r'(^[ \t]+|[ \t]+(?=:))', '', str, flags=re.M)
+
             desc = re.sub('[^A-Za-z]+', ' ', str)
-            #desc = re.sub(r'\s+', ' ', desc2).replace("|", "").replace("\"","").replace("'","").replace("/"," ").replace("-","").replace(".","")
+            if len(desc) > 2000:
+                desc = desc[:2000]
+            print(desc)
+            # get the comment
+            comments = document.find_all("tr", id=lambda value: value and value.startswith("comment-body"))
+            comm = ""
+            if len(comm) > 1:
+                for i in range(len(comm) - 1):
+                    temp1 = comments[i].get_text()
+                    comm = comm + temp1
+            else:
+                comm = comments[0].get_text()
+            comment = re.sub('[^A-Za-z]+', ' ', comm)
+            if len(comment) > 2000:
+                comment = comment[:2000]
+            print(comment)
         except Exception:
             desc = "null"
+            comment = "null"
         # print(issueKey, desc)
         # table = document.find_all("table", {"class": "grid"})[0]
         # priority = table.find_all("tr")[0].find_all("td")[3].contents[0].strip()
@@ -85,7 +98,7 @@ with open('description.csv', 'w', newline='') as csvfile:
         #print(issueKey,desc)
         print("1")
         spamwriter = csv.writer(csvfile, delimiter=' ', quotechar='"', quoting=csv.QUOTE_ALL)
-        spamwriter.writerow([issueKey, desc])
+        spamwriter.writerow([issueKey, desc, comment])
         # time.sleep(10)
         # spamwriter.writerow(['Spam', 'Lovely Spam', 'Wonderful Spam'])
 print(count)

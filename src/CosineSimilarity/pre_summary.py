@@ -70,6 +70,17 @@ semantic = ["semantic", "fault", "control", "flow", "variable", "typo", "case", 
 memory = ["leak", "loop", "bucket", "nullpointer", "overflow", "initializ", "compile", "resource",
           "heap", "cache", "footprint", "chunk", "beyond", "boundary", "allocat", "record", "queue", "stack", "stuck",
           "memory", "location", "dynamic"]
+
+component = ["path", "config", "version", "compatib", "set", "linux", "window", "system", "environment", "install", "handl", "interface", "status", "ajax", "condition", "web", "package", "tool", "component", "function", "api", "java", "zookeeper", "kafka", "gui", "wizard", "scala", "jar", "schema", "application", "yarn", "hbase", "eclipse", "server", "broken", "service", "secondary", "namenode", "protocol", "packet", "bind", "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request", "spark", "hadoop", "mapreduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib", "framework", "network", "communicat", "socket", "online"]
+
+
+environment = ["path", "config", "version", "compatib", "setting", "linux", "window", "system", "environment", "install"]
+
+api = ["handl", "interface", "status", "ajax", "condition", "web", "package", "tool", "component", "function", "api","java","zookeeper", "kafka", "gui", "wizard", "scala", "jar","application", "yarn", "hbase", "eclipse"]
+
+network = ["server", "broken", "service", "secondary", "namenode", "protocol", "packet", "online", "bind", "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request", "network", "communicat", "socket"]
+
+framework = ["spark", "hadoop", "mapreduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib","framework"]
 path = "/home/irene/crawler/add.csv"
 
 
