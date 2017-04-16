@@ -1,5 +1,7 @@
 .idea/*
-txt/
+txt/bugzila.txt
+txt/rest.txt
+txt/topic.txt
 detail_data/
 summary/
 detail_file/

@@ -1,0 +1,37 @@
+
+
+
+environment = ["path", "classpath", "config", "propert", "compatib", "xml", "setting", "requirement", "context", "linux", "window", "system", "environment", "install"]
+
+
+api = ["handl", "interface", "status", "condition", "tool", "component", "function", "api","plugin", "version", "zookeeper", "kafka", "gui", "wizard", "scala", "jar","application", "yarn", "hbase", "eclipse", "ajax", "java", "jdk", "tomcat", "maven", "spark", "hadoop", "update", "upgrade"]
+
+
+network = ["server", "broken", "service", "secondary", "protocol", "packet", "online", "bind", "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request", "network", "communicat", "socket"]
+
+
+framework = ["spark", "hadoop", "map", "reduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib", "framework", "zebra", "server", "proxy", "svn", "lucene", "score"]
+
+--------------------------------------------------------------------------
+
+
+functional = ["parameter", "except", "logic", "hashcode", "hashmap", "map",  "algorithm", "state",  "hang", "crash", "function", "block",  "conflict", "signature", "log", "compute", "permi", "unexcep", "deni", "invalid", "operat", "interrupt", "runtime", "filter", "restart", "optim", "rollback", "exe", "cookie", "break" , "incorrect", "work", "doesn", "no", "longer", "merge", "join"]
+
+
+security = ["forbid", "submission", "session", "deadlock", "miss", "password", "license", "security", "access", "login", "service", "authenti" ]
+
+----------------------------------------------------------------------------
+
+
+data = ["data", "format","schema", "file", "reference", "attribute", "table", "column", "field", "corruption", "metadata", "index", "document", "metric", "disk", "source", "info", "meta", "dir", "segment", "doc", "template"]
+
+
+----------------------------------------------------------------------------
+
+semantic = ["semantic", "fault", "control", "flow", "variable", "typo", "case", "sensiti", "type", "empty", "float", "string", "int", "constant", "argument", "illegal", "number", "incorrect", "exception", "empty", "misspell", "wrong", "output", "dialog", "invalid", "test", "method", "compile", "failure", "logic", "button", "label", "input", "value", "interupt"]
+
+
+memory = ["leak", "loop", "bucket", "nullpointer", "overflow", "initializ", "resource", "heap", "cache", "footprint", "chunk", "beyond", "boundary", "allocat", "record", "queue", "stack", "stuck", "memory", "location", "dynamic"]
+
+
+concurrency = ["concurrency", "parallel","thread","multi","lock", "synchron"]

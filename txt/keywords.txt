@@ -1,0 +1,20 @@
+
+
+# topic1 component =>Environment,API,Network,framework
+###1.path,config,fail,version, compatibility,Setting,version,linux, window, system, environment,install
+###2.Handling,class,interface,status,AJAX,condition,web
+###3.Server,broken,service,binding,client,timeout,resource,page,HTTP,event,connection,port,request, Network,communication,content,usage,lost
+###4.spark,hadoop,mapreduce,maven, dependency,integration,parsing,version,JDK,SQL,database
+
+# topic2 functional=> parameter, exception, logic,hashcode,hashmap,map,algorithm
+# State,thread,hangs,crash,hang,functionality,block,concurrency, parallel,Failed,conflict, signature
+# argument,compile
+
+# topic3 data source=>dataformat schema,
+#  files,Docs,references,Metadata,attribute,tables,column,field,Corruption,metadata,index
+
+# topic4 root cause=>semantic, memory,
+# 1.fault, control, flow, variable,Typo, case sensitivity
+# 2.memory, leak, NullPointer, Overflow, Uninitialized, compile, failure,resource,heap,cache,footprint
+# chunk, allocate, record，queue
+
