@@ -16,59 +16,9 @@ import logging
 import numpy as np
 import codecs
 
-english_punctuations = [',', '.', ':', ';', '?', '(', ')', '[', ']', '&', '!', '*', '@', '#', '$', '%', '\'', '`', '/',
-                        '"', '=', '-', 'used', 'C', 'ca', 'n\\\'t']
 count = 0
+
 otherlist = []
-# component = ["path", "config", "fail", "version", "compatib", "set", "linux", "window", "system", "environment",
-#              "install", "handl", "interface", "status", "ajax", "condition", "web", "server", "broken", "service",
-#              "bind", "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request",
-#              "network", "communicat", "content", "usage", "lost", "spark", "hadoop", "mapreduce", "maven",
-#              "dependency", "integrat", "pars", "jdk", "sql", "database", "socket", "security", "release", "package",
-#              "tool",
-#              "component", "function", "api", "lib", "zookeeper", "kafka", "gui", "secondary", "namenode", "access",
-#              "application",
-#              "yarn", "hbase"]
-
-component = ["path", "config", "version", "compatib", "set", "linux", "window", "system", "environment", "install",
-             "handl", "interface", "status", "ajax", "condition", "web", "package", "tool", "component", "function",
-             "api", "java", "zookeeper", "kafka", "gui", "wizard", "scala", "jar", "schema", "application", "yarn",
-             "hbase", "eclipse", "server", "broken", "service", "secondary", "namenode", "protocol", "packet", "bind",
-             "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request", "spark", "hadoop",
-             "mapreduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib", "framework",
-             "network", "communicat", "socket", "online"]
-
-
-
-
-function = ["parameter", "except", "logic", "hashcode", "hashmap", "map", "algorithm", "state", "thread", "hang",
-            "crash", "functionality", "block", "concurrency", "parallel", "conflict", "signature", "argument",
-            "compile", "log", "compute", "sync", "permi", "unexcep", "button", "deni", "invalid", "value", "input",
-            "test", "operat", "interrupt", "runtime", "filter", "restart", "optim", "user", "rollback", "exe", "cookie",
-            "break", "forbid", "submission", "session", "deadlock", "miss", "password", "license", "security", "access"]
-datasource = []
-
-# rootcause = ["semantic", "memory", "fault", "control", "flow", "variable", "typo", "case", "sensitivity", "leak",
-#              "nullpointer", "overflow", "initializ", "compile", "resource", "heap", "cache", "footprint", "chunk",
-#              "allocat", "record", "queue", "loop", "stuck", "type", "bucket"]
-rootcause = ["semantic", "fault", "control", "flow", "variable", "typo", "case", "sensitivity", "type", "empty",
-             "string", "int", "constant",
-             "illegal", "number", "incorrect", "leak", "loop", "bucket", "nullpointer", "overflow", "initializ",
-             "compile", "resource",
-             "heap", "cache", "footprint", "chunk", "beyond", "boundar", "allocat", "record", "queue", "stack", "stuck",
-             "memory", "location", "dynamic"]
-
-
-
-
-component = ["path", "config", "version", "compatib", "set", "linux", "window", "system", "environment", "install", "handl", "interface", "status", "ajax", "condition", "web", "package", "tool", "component", "function", "api", "java", "zookeeper", "kafka", "gui", "wizard", "scala", "jar", "schema", "application", "yarn", "hbase", "eclipse", "server", "broken", "service", "secondary", "namenode", "protocol", "packet", "bind", "client", "timeout", "resource", "page", "http", "event", "connect", "port", "request", "spark", "hadoop", "mapreduce", "maven", "dependency", "integrat", "pars", "jdk", "sql", "database", "lib", "framework", "network", "communicat", "socket", "online"]
-
-
-
-
-
-
-
 
 path = "/home/irene/crawler/add.csv"
 
