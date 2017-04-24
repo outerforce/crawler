@@ -53,26 +53,6 @@ with open('summary.csv', 'w', newline='') as csvfile:
             created = tabletitle[j].find("td", "created").find('time').contents[0]
             updated = tabletitle[j].find("td", "updated").find('time').contents[0]
             print(proj, summary, created, updated)
-            # newpage = request.urlopen(link)
-            # newsoup = BeautifulSoup(newpage, "lxml")
-            # desc = newsoup.find("td",id="descriptionArea").get_text().strip()
-            # print(desc)
-            # table = newsoup.find_all("table", {"class": "grid"})[0]
-            # priority = table.find_all("tr")[0].find_all("td")[3].contents[0].strip()
-            # print(priority)
-            # comments = newsoup.find_all("tr", id=lambda value: value and value.startswith("comment-body"))
-            # c_num = len(comments)
-            # out_str = ''
-            # for c in range(len(comments)):
-            #     #" ".join(sentence.split())
-            #     str = " ".join(comments[c].get_text().strip().split())
-            #     out_str += str
-            # if len(out_str)>10000:
-            #     out_str = out_str[:10000]
-            # print(out_str)
-            # versions = newsoup.find("table","tableBorder").find_all("tr")[4].find_all("td")[2].contents[0]
-            # tabletitle = soup.find_all("table", "tableBorder")
-            # with open('egg.csv', 'w', newline='') as csvfile:
             spamwriter = csv.writer(csvfile, delimiter=' ', quotechar='"', quoting=csv.QUOTE_ALL)
             spamwriter.writerow([proj, issueKey, summary])
             # time.sleep(10)

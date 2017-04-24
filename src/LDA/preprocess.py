@@ -26,7 +26,7 @@ with open('/home/irene/crawler/data/total.csv', newline='', encoding='utf-8') as
         desc = row[3]
         document = (summary + " " + desc).lower()
         count += 1
-        #print(issueKey,document)
+        # print(issueKey,document)
         print(count)
         tokens = nltk.word_tokenize(document)
         english_stopwords = stopwords.words('english')
@@ -34,7 +34,7 @@ with open('/home/irene/crawler/data/total.csv', newline='', encoding='utf-8') as
         # remove symbols and stopwords
         for word in tokens:
             if (not word in english_stopwords):
-                if len(word)>1:
+                if len(word) > 1:
                     a.append(word)
         lancaster = nltk.LancasterStemmer()
         lwords = [lancaster.stem(t) for t in a]
@@ -44,31 +44,31 @@ with open('/home/irene/crawler/data/total.csv', newline='', encoding='utf-8') as
         documentInfo.append(lwords)
     # stemming process
     print(count)
-    #print(List)
-    #counts = Counter(List)
-    #print(counts)
+    # print(List)
+    # counts = Counter(List)
+    # print(counts)
     print(documentInfo)
     train_set = documentInfo
 
-# construct training corpus
+    # construct training corpus
     dictionary = Dictionary(train_set)
-    corpus = [ dictionary.doc2bow(text) for text in train_set]
+    corpus = [dictionary.doc2bow(text) for text in train_set]
     print(corpus)
     print(dictionary)
-# train lda model
+    # train lda model
     lda = LdaModel(corpus=corpus, id2word=dictionary, num_topics=30)
     print(lda)
     print(lda.print_topics(5))
 
 
-#
-# def lda_test(train_set):
-#     # train corpus
-#     dictionary = Dictionary(train_set)
-#     corpus = [dictionary.doc2bow(text) for text in train_set]
-#     print(corpus)
-#     print(dictionary)
-#     # lda model training
-#     lda = LdaModel(corpus=corpus, id2word=dictionary, num_topics=50)
-#     print(lda)
-#     return (lda.print_topics(50))
+    #
+    # def lda_test(train_set):
+    #     # train corpus
+    #     dictionary = Dictionary(train_set)
+    #     corpus = [dictionary.doc2bow(text) for text in train_set]
+    #     print(corpus)
+    #     print(dictionary)
+    #     # lda model training
+    #     lda = LdaModel(corpus=corpus, id2word=dictionary, num_topics=50)
+    #     print(lda)
+    #     return (lda.print_topics(50))

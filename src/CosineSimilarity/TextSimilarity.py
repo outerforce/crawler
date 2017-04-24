@@ -22,6 +22,9 @@ import logging
 import numpy as np
 import codecs
 
+
+
+
 count = 0
 
 otherlist = []
@@ -35,10 +38,11 @@ keyword = "/home/irene/crawler/txt/train.csv"
 def get_keyword(path):
     List = []
     with open(path, newline='\n', encoding='utf-8') as f:
-        reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_ALL)
+        reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_NONE)
         for line in reader:
             List.append(line)
             # print(len(List))
+    #print(List)
     return List
 
 
@@ -72,6 +76,7 @@ def get_topicvector(topic, tokens):
     for i in topic:
         for k in range(len(tokens)):
             if tokens[k].find(i) != -1:
+                print(tokens[k])
                 count = count + 1
                 resultList.append(1)
                 isToken = True
@@ -105,6 +110,7 @@ def createCaseArray(type):
 def getCos_topic(tokens):
     List = get_keyword(keyword)
     component = List[0] + List[1] + List[2] + List[3]
+    print(component)
     function = List[4] + List[5]
     data = List[6]
     rootcause = List[7] + List[8] + List[9]
@@ -139,20 +145,24 @@ def getCos_topic(tokens):
     else:
         num4 = 0
     sum = num1 + num2 + num3 + num4
-    num = [num1, num2, num3, num4]
+    minnum = min(num1, num2, num3, num4)
+    #num = [num1, num2, num3, num4]
     if (sum != 0):
-        minnum = min(num)
         print(minnum)
         if (num1 == minnum):
+            #minnum = num2
             type.append("component")
         if (num2 == minnum):
+            #minnum = num3
             type.append("function")
         if (num3 == minnum):
+            #minmun = num4
             type.append("data")
         if (num4 == minnum):
             type.append("rootcause")
     else:
         return ["other"]
+    print(type)
     return type
 
 
