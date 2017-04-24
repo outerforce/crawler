@@ -39,10 +39,6 @@ def get_keyword(path):
         for line in reader:
             List.append(line)
             # print(len(List))
-        component = List[0] + List[1] + List[2] + List[3]
-        function = List[4] + List[5]
-        data = List[6]
-        rootcause = List[7] + List[8] + List[9]
     return List
 
 
@@ -52,15 +48,17 @@ def remove_stopword(text):
     english_stopwords = stopwords.words('english')
     # remove symbols and stopwords
     a = []
+    documentInfo = []
     for word in tokens:
         if (not word in english_stopwords) and (len(word) > 1):
             a.append(word)
-            # stemming process
-            # lancaster = nltk.LancasterStemmer()
-            # lwords = [lancaster.stem(t) for t in a]
-            # for i in lwords:
-            #     documentInfo.append(i)
-            # print(lwords)
+            #stemming process
+            #lancaster = nltk.LancasterStemmer()
+            #lwords = [lancaster.stem(t) for t in a]
+            #for i in lwords:
+             #   List.append(i)
+            #print(lwords)
+            #documentInfo.append(lwords)
     return a
 
 
@@ -82,12 +80,13 @@ def get_topicvector(topic, tokens):
             resultList.append(0)
         else:
             isToken = False
-    print("--------vector" + str(len(resultList)) + "------------")
+    #print("--------vector" + str(len(resultList)) + "------------")
     # print(count)
-    for j in range(len(resultList)):
-        sum += resultList[j]
+    for i in range(len(resultList)):
+        sum += resultList[i]
     if sum == 0:
         return []
+    print(resultList)
     return resultList
 
 
@@ -95,9 +94,10 @@ def get_topicvector(topic, tokens):
 def createCaseArray(type):
     newlist = []
     length = len(type)
-    print("------------orignin----------" + str(length) + "--------------")
+    #print("------------orignin----------" + str(length) + "--------------")
     for i in range(length):
-        newlist.append(1 / length)
+        newlist.append(1/length)
+        #print(newlist)
     return newlist
 
 
@@ -123,6 +123,7 @@ def getCos_topic(tokens):
     minnum = 0
     if t1 != []:
         num1 = cosine_similarity(t1, a1)
+        print(num1)
     else:
         num1 = 0
     if t2 != []:
@@ -142,13 +143,13 @@ def getCos_topic(tokens):
     if (sum != 0):
         minnum = min(num)
         print(minnum)
-        if num1 <= minnum:
+        if (num1 == minnum):
             type.append("component")
-        if (num2 <= minnum):
+        if (num2 == minnum):
             type.append("function")
-        if (num3 <= minnum):
+        if (num3 == minnum):
             type.append("data")
-        if (num4 <= minnum):
+        if (num4 == minnum):
             type.append("rootcause")
     else:
         return ["other"]
@@ -183,7 +184,7 @@ def get_Costype(tokens):
     print("-------------" + "type similarity -----------------------------")
 
     if t0 != []:
-        num1 = cosine_similarity(t0, b1)
+        num1 = cosine_similarity(t0, b0)
         print(num1)
     else:
         num1 = 0
@@ -227,7 +228,7 @@ def get_Costype(tokens):
     sum = num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 + num10
     num = [num1, num2, num3, num4, num5, num6, num7, num8, num9]
     if (sum != 0):
-        minnum = int(min(num))
+        minnum = min(num)
         print(min)
         if (num1 == minnum):
             type.append("environment")
@@ -291,7 +292,7 @@ def getcsv1(path):
         return dic
 
 def get_topicResult():
-    d1 = getcsv1(summary)
+    d1 = getcsv1(total)
     m = [0, 0, 0, 0, 0]
     for key in d1:
         # list of tokens in a document
@@ -322,7 +323,7 @@ def get_cateResult():
         # list of tokens in a document
         # result = []
         value = d2[key]
-        type = getCos_topic(value)
+        type = get_Costype(value)
         for i in range(len(type)):
             if type[i] is "environment":
                 d2[key].append('environment')
@@ -362,8 +363,8 @@ def get_cateResult():
 
 
 def main():
-    #get_topicResult()
-    get_cateResult()
+    get_topicResult()
+    #get_cateResult()
 
 
 if __name__ == '__main__':
