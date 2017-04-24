@@ -35,14 +35,49 @@ keyword = "/home/irene/crawler/txt/train.csv"
 
 
 # read keyword as a list of bag of words
-def get_keyword(path):
-    List = []
-    with open(path, newline='\n', encoding='utf-8') as f:
-        reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_NONE)
-        for line in reader:
-            List.append(line)
+def get_keyword():
+    List = {}
+    # with open(path, newline='\n', encoding='utf-8') as f
+    #     reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_NONE)
+    #     for line in reader:
+    #         List.append(line)
             # print(len(List))
     #print(List)
+    List[0] = ["path", "classpath", "config", "propert", "compatib", "xml", "setting", "requirement", "context", "linux",
+             "window", "system", "environment", "install"]
+    List[1] = ["handl", "interface", "status", "condit", "tool", "component", "func", "api", "plugin", "version",
+             "zookeeper", "kafka", "gui", "wizard", "scala", "jar", "application", "yarn", "hbase", "eclipse", "ajax",
+             "java", "jdk", "tomcat", "maven", "spark", "hadoop", "update", "upgrade"]
+
+    List[2] = ["server", "broken", "service", "secondary", "protocol", "packet", "online", "bind", "client", "timeout",
+             "resource", "page", "http", "event", "connect", "port", "request", "network", "communicat", "socket"]
+
+    List[3] = ["spark", "hadoop", "map", "reduce", "maven", "dependency", "integrat", "pars", "jdk", "sql",
+             "database", "lib", "framework", "zebra", "server", "proxy", "svn", "lucene", "score"]
+
+    List[4] = ["parameter", "except", "logic", "hashcode", "hashmap", "map", "algorithm", "state", "hang", "crash",
+             "function", "block", "conflict", "signature", "log", "compute", "permi", "unexcep", "deni", "invalid",
+             "operat", "interrupt", "runtime", "filter", "restart", "optim", "rollback", "exe", "cookie", "break",
+             "incorrect", "work", "doesn", "no", "longer", "merge", "join"]
+
+    List[5] = ["forbid", "submi", "session", "deadlock", "miss", "password", "license", "security", "access",
+             "login", "service", "authenti"]
+
+    List[6]= ["format", "schema", "reference", "attribute", "table", "column", "field", "corruption",
+             "metadata", "index", "document", "metric", "disk", "direct", "segment", "doc", "meta", "file","haha"
+             "template"]
+
+    List[7] = ["semant", "fault", "control", "flow", "vari", "typo", "case", "sensiti", "type", "empty", "float",
+             "string", "int", "constant", "argument", "illegal", "number", "incorrect", "exception", "empty",
+             "misspell", "wrong", "output", "dialog", "invalid", "test", "method", "compile", "failure", "logic",
+             "button", "label", "input", "value", "interupt"]
+
+    List[8] = ["leak", "loop", "bucket", "nullpointer", "overflow", "initializ", "resource", "heap", "cache",
+             "footprint", "chunk", "beyond", "boundary", "allocat", "record", "queue", "stack", "stuck", "memory",
+             "locat", "dynamic"]
+
+    List[9] = ["concur", "parallel", "thread", "multi", "lock", "synch"]
+
     return List
 
 
@@ -108,7 +143,7 @@ def createCaseArray(type):
 
 # array1 is list of tokens in document
 def getCos_topic(tokens):
-    List = get_keyword(keyword)
+    List = get_keyword()
     component = List[0] + List[1] + List[2] + List[3]
     print(component)
     function = List[4] + List[5]
@@ -167,7 +202,7 @@ def getCos_topic(tokens):
 
 
 def get_Costype(tokens):
-    List = get_keyword(keyword)
+    List = get_keyword()
     type = []
     t0 = get_topicvector(List[0], tokens)
     t1 = get_topicvector(List[1], tokens)
@@ -302,7 +337,7 @@ def getcsv1(path):
         return dic
 
 def get_topicResult():
-    d1 = getcsv1(total)
+    d1 = getcsv2(total)
     m = [0, 0, 0, 0, 0]
     for key in d1:
         # list of tokens in a document
@@ -373,8 +408,8 @@ def get_cateResult():
 
 
 def main():
-    get_topicResult()
-    #get_cateResult()
+    #get_topicResult()
+    get_cateResult()
 
 
 if __name__ == '__main__':
